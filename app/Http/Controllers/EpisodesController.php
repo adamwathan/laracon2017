@@ -27,32 +27,6 @@ class EpisodesController extends Controller
         ]);
     }
 
-    public function create($id)
-    {
-        $podcast = Auth::user()->podcasts()->findOrFail($id);
-
-        return view('episodes.create', ['podcast' => $podcast]);
-    }
-
-    public function store($id)
-    {
-        $podcast = Auth::user()->podcasts()->findOrFail($id);
-
-        request()->validate([
-            'title' => ['required', 'max:150'],
-            'description' => ['max:500'],
-            'download_url' => ['required', 'url'],
-        ]);
-
-        $episode = $podcast->episodes()->create(request([
-            'title',
-            'description',
-            'download_url',
-        ]));
-
-        return redirect("/episodes/{$episode->id}");
-    }
-
     public function edit($id)
     {
         $episode = Episode::with('podcast')->findOrFail($id);

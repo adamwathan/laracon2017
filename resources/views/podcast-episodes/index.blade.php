@@ -33,7 +33,11 @@
                         </div>
                     </div>
                     <div class="mb-4">
-                        <subscribe-button :data-podcast="{{ $podcast }}"></subscribe-button>
+                        <subscribe-button
+                            subscribe-url="{{ action('PodcastsController@subscribe', $podcast) }}"
+                            unsubscribe-url="{{ action('PodcastsController@unsubscribe', $podcast) }}"
+                            :data-subscribed="{{ json_encode(Auth::user()->subscribesTo($podcast)) }}"
+                        ></subscribe-button>
                     </div>
                     <p class="text-dark-soft">{{ $podcast->description }}</p>
                 </div>
