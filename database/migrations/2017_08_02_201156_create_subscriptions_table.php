@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Schema;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 
-class CreatePodcastUserTable extends Migration
+class CreateSubscriptionsTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,10 +13,10 @@ class CreatePodcastUserTable extends Migration
      */
     public function up()
     {
-        Schema::create('podcast_user', function (Blueprint $table) {
+        Schema::create('subscriptions', function (Blueprint $table) {
             $table->increments('id');
-            $table->unsignedInteger('user_id');
-            $table->unsignedInteger('podcast_id');
+            $table->increments('user_id');
+            $table->increments('podcast_id');
             $table->timestamps();
         });
     }
@@ -28,6 +28,6 @@ class CreatePodcastUserTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('podcast_user');
+        Schema::dropIfExists('subscriptions');
     }
 }
