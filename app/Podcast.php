@@ -78,7 +78,7 @@ class Podcast extends Model
                 'unpublish' => url("/podcasts/{$this->id}/unpublish"),
                 'subscribe' => url("/podcasts/{$this->id}/subscribe"),
                 'unsubscribe' => url("/podcasts/{$this->id}/unsubscribe"),
-                'update_cover_image' => url("/podcasts/{$this->id}/update-cover-image"),
+                'update_cover_image' => url("/podcasts/{$this->id}/cover-image"),
             ],
         ]);
     }

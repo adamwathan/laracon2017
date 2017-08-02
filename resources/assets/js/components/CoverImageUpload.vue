@@ -1,6 +1,7 @@
 <template>
     <form :action="action" method="POST" enctype="multipart/form-data">
         <input type="hidden" name="_token" :value="csrfToken">
+        <input type="hidden" name="_method" value="PUT">
         <div class="row pull-x-4">
             <div class="col-4 px-4">
                 <img :src="previewSrc" class="img-fit">
