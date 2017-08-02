@@ -88,22 +88,4 @@ class PodcastsController extends Controller
 
         return redirect("/podcasts");
     }
-
-    public function publish($id)
-    {
-        $podcast = Auth::user()->podcasts()->findOrFail($id);
-
-        $podcast->publish();
-
-        return response('', 204);
-    }
-
-    public function unpublish($id)
-    {
-        $podcast = Auth::user()->podcasts()->findOrFail($id);
-
-        $podcast->unpublish();
-
-        return response('', 204);
-    }
 }

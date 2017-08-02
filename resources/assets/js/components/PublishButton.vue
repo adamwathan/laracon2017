@@ -28,10 +28,10 @@ export default {
         publish() {
             this.working = true
 
-            axios.post(this.podcast.links.publish)
+            axios.post('/published-podcasts', { podcast_id: this.podcast.id })
                 .takeAtLeast(300)
                 .then(response => {
-                    this.podcast.published = true
+                    this.podcast = response.data
                     this.working = false
                     this.hovering = false
                 })
@@ -39,10 +39,10 @@ export default {
         unpublish() {
             this.working = true
 
-            axios.post(this.podcast.links.unpublish)
+            axios.delete(`/published-podcasts/${this.podcast.id}`)
                 .takeAtLeast(300)
                 .then(response => {
-                    this.podcast.published = false
+                    this.podcast = response.data
                     this.working = false
                     this.hovering = false
                 })
