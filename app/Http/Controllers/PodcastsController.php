@@ -89,17 +89,6 @@ class PodcastsController extends Controller
         return redirect("/podcasts");
     }
 
-    public function listEpisodes($id)
-    {
-        $podcast = Podcast::with('episodes')->findOrFail($id);
-
-        abort_unless($podcast->isVisibleTo(Auth::user()), 404);
-
-        return view('podcasts.list-episodes', [
-            'podcast' => $podcast,
-        ]);
-    }
-
     public function updateCoverImage($id)
     {
         $podcast = Auth::user()->podcasts()->findOrFail($id);

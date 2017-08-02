@@ -22,7 +22,6 @@ Route::get('/podcasts/{id}',                        'PodcastsController@show');
 Route::get('/podcasts/{id}/edit',                   'PodcastsController@edit');
 Route::patch('/podcasts/{id}',                      'PodcastsController@update');
 Route::delete('/podcasts/{id}',                     'PodcastsController@destroy');
-Route::get('/podcasts/{id}/episodes',               'PodcastsController@listEpisodes');
 Route::post('/podcasts/{id}/update-cover-image',    'PodcastsController@updateCoverImage');
 Route::post('/podcasts/{id}/subscribe',             'PodcastsController@subscribe');
 Route::post('/podcasts/{id}/unsubscribe',           'PodcastsController@unsubscribe');
@@ -31,7 +30,9 @@ Route::post('/podcasts/{id}/unpublish',             'PodcastsController@unpublis
 
 Route::get('/episodes',                             'EpisodesController@index');
 Route::get('/episodes/{id}',                        'EpisodesController@show');
-Route::get('/podcasts/{id}/episodes/new',           'EpisodesController@create');
-Route::post('/podcasts/{id}/episodes',              'EpisodesController@store');
 Route::get('/episodes/{id}/edit',                   'EpisodesController@edit');
 Route::patch('/episodes/{id}',                      'EpisodesController@update');
+
+Route::get('/podcasts/{id}/episodes',               'PodcastEpisodesController@index');
+Route::post('/podcasts/{id}/episodes',              'PodcastEpisodesController@store');
+Route::get('/podcasts/{id}/episodes/new',           'PodcastEpisodesController@create');
