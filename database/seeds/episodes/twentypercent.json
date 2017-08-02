@@ -1,0 +1,186 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Twenty Percent Time",
+  "home_page_url": "http://twentypercent.fm",
+  "feed_url": "http://twentypercent.fm/json",
+  "description": "Two developers from [Tighten](https://tighten.co/) discuss one programming topic every Friday in less than 20 minutes.",
+  "_fireside": {
+    "subtitle": "Two developers from Tighten discuss one programming topic every Friday in less than 20 minutes.",
+    "pubdate": "2017-07-21T15:00:00.000-04:00",
+    "explicit": false,
+    "owner": "Daniel Coulbourne & Caleb Porzio",
+    "image": "https://images.fireside.fm/podcasts/images/4/42453754-706f-44e5-9d11-e7cfbbd3e20c/cover.jpg"
+  },
+  "items": [
+    {
+      "id": "088aaf71-32ad-4d21-94fa-752343ab95f1",
+      "title": "Single Table Inheriance",
+      "url": "http://twentypercent.fm/sti",
+      "content_text": "LARACON NEXT WEEK! We do recent PRs and Single Table Inheritance.Links:Add @auth blade component by m1guelpf · Pull Request #20087 · laravel/frameworkAdd blade directive @guest by LKDevelopment · Pull Request #20114 · laravel/framework[5.5] Let Str::is handles many patterns by lucasmichot · Pull Request #20108 · laravel/framework",
+      "content_html": "<p>LARACON NEXT WEEK! We do recent PRs and Single Table Inheritance.</p><p>Links:</p><ul><li><a title=\"Add @auth blade component by m1guelpf · Pull Request #20087 · laravel/framework\" rel=\"nofollow\" href=\"https://github.com/laravel/framework/pull/20087\">Add @auth blade component by m1guelpf · Pull Request #20087 · laravel/framework</a></li><li><a title=\"Add blade directive @guest by LKDevelopment · Pull Request #20114 · laravel/framework\" rel=\"nofollow\" href=\"https://github.com/laravel/framework/pull/20114\">Add blade directive @guest by LKDevelopment · Pull Request #20114 · laravel/framework</a></li><li><a title=\"[5.5] Let Str::is handles many patterns by lucasmichot · Pull Request #20108 · laravel/framework\" rel=\"nofollow\" href=\"https://github.com/laravel/framework/pull/20108\">[5.5] Let Str::is handles many patterns by lucasmichot · Pull Request #20108 · laravel/framework</a></li></ul>",
+      "summary": "LARACON NEXT WEEK! We do recent PRs and Single Table Inheritance.",
+      "date_published": "2017-07-21T15:00:00.000-04:00",
+      "attachments": [
+        {
+          "url": "https://aphid.fireside.fm/d/1437767933/42453754-706f-44e5-9d11-e7cfbbd3e20c/088aaf71-32ad-4d21-94fa-752343ab95f1.mp3",
+          "mime_type": "audio/mpeg",
+          "size_in_bytes": 51341067,
+          "duration_in_seconds": 2132
+        }
+      ]
+    },
+    {
+      "id": "58842489-86a0-4b45-8004-a064c224d03a",
+      "title": "(Not) Customizing Laravel",
+      "url": "http://twentypercent.fm/me",
+      "content_text": "Links:[5.5] Add missing empty statements. by lucasmichot · Pull Request #19975 · laravel/framework[5.5] Add Collection::wrap method by thecrypticace · Pull Request #20055 · laravel/framework[5.5] Add unwrap to collection by sileence · Pull Request #20068 · laravel/framework[5.5] Use listensFor instead of hears for event listener self-registration by BrandonShar · Pull Request #19962 · laravel/frameworkSelf-registering event listeners by adamwathan · Pull Request #19917 · laravel/frameworkAdd the the str_before extra helper, it's the inverse of str_after by afsardo · Pull Request #19940 · laravel/framework",
+      "content_html": "<p>Links:</p><ul><li><a title=\"[5.5] Add missing empty statements. by lucasmichot · Pull Request #19975 · laravel/framework\" rel=\"nofollow\" href=\"https://github.com/laravel/framework/pull/19975\">[5.5] Add missing empty statements. by lucasmichot · Pull Request #19975 · laravel/framework</a></li><li><a title=\"[5.5] Add Collection::wrap method by thecrypticace · Pull Request #20055 · laravel/framework\" rel=\"nofollow\" href=\"https://github.com/laravel/framework/pull/20055\">[5.5] Add Collection::wrap method by thecrypticace · Pull Request #20055 · laravel/framework</a></li><li><a title=\"[5.5] Add unwrap to collection by sileence · Pull Request #20068 · laravel/framework\" rel=\"nofollow\" href=\"https://github.com/laravel/framework/pull/20068\">[5.5] Add unwrap to collection by sileence · Pull Request #20068 · laravel/framework</a></li><li><a title=\"[5.5] Use listensFor instead of hears for event listener self-registration by BrandonShar · Pull Request #19962 · laravel/framework\" rel=\"nofollow\" href=\"https://github.com/laravel/framework/pull/19962\">[5.5] Use listensFor instead of hears for event listener self-registration by BrandonShar · Pull Request #19962 · laravel/framework</a></li><li><a title=\"Self-registering event listeners by adamwathan · Pull Request #19917 · laravel/framework\" rel=\"nofollow\" href=\"https://github.com/laravel/framework/pull/19917\">Self-registering event listeners by adamwathan · Pull Request #19917 · laravel/framework</a></li><li><a title=\"Add the the str_before extra helper, it&#39;s the inverse of str_after by afsardo · Pull Request #19940 · laravel/framework\" rel=\"nofollow\" href=\"https://github.com/laravel/framework/pull/19940\">Add the the str_before extra helper, it&#39;s the inverse of str_after by afsardo · Pull Request #19940 · laravel/framework</a></li></ul>",
+      "summary": "We discuss recent PRs, our tolerance for laravel customization, and a cool new helper function!",
+      "date_published": "2017-07-14T16:00:00.000-04:00",
+      "attachments": [
+        {
+          "url": "https://aphid.fireside.fm/d/1437767933/42453754-706f-44e5-9d11-e7cfbbd3e20c/58842489-86a0-4b45-8004-a064c224d03a.mp3",
+          "mime_type": "audio/mpeg",
+          "size_in_bytes": 49914215,
+          "duration_in_seconds": 2073
+        }
+      ]
+    },
+    {
+      "id": "e896086a-696a-45f6-81c6-ca59adc72db5",
+      "title": "Images",
+      "url": "http://twentypercent.fm/images",
+      "content_text": "Images. Where do you put them? What are they called? Thumbnails? Big ones? Ahh?!?!Links:[5.5] Allow macros to be registered using classes (in addition to closures) by sebastiaanluca · Pull Request #19782 · laravel/framework[5.5] Add Route::view() helper by brayniverse · Pull Request #19835 · laravel/framework[5.4] Make Arr::random($array, 1) return an array of one item by vlakoff · Pull Request #19826 · laravel/framework[5.5] Add Route::redirect() method by brayniverse · Pull Request #19794 · laravel/framework[5.5] [Concept] PSR-11 compliant container by deleugpn · Pull Request #19822 · laravel/frameworkWatch Ryan Singer - Design: Case Study from Laracon US!54: Jonathan Reinink - Forms: The Worst Part of Web Dev | Full Stack Radio",
+      "content_html": "<p>Images. Where do you put them? What are they called? Thumbnails? Big ones? Ahh?!?!</p><p>Links:</p><ul><li><a title=\"[5.5] Allow macros to be registered using classes (in addition to closures) by sebastiaanluca · Pull Request #19782 · laravel/framework\" rel=\"nofollow\" href=\"https://github.com/laravel/framework/pull/19782\">[5.5] Allow macros to be registered using classes (in addition to closures) by sebastiaanluca · Pull Request #19782 · laravel/framework</a></li><li><a title=\"[5.5] Add Route::view() helper by brayniverse · Pull Request #19835 · laravel/framework\" rel=\"nofollow\" href=\"https://github.com/laravel/framework/pull/19835\">[5.5] Add Route::view() helper by brayniverse · Pull Request #19835 · laravel/framework</a></li><li><a title=\"[5.4] Make Arr::random($array, 1) return an array of one item by vlakoff · Pull Request #19826 · laravel/framework\" rel=\"nofollow\" href=\"https://github.com/laravel/framework/pull/19826\">[5.4] Make Arr::random($array, 1) return an array of one item by vlakoff · Pull Request #19826 · laravel/framework</a></li><li><a title=\"[5.5] Add Route::redirect() method by brayniverse · Pull Request #19794 · laravel/framework\" rel=\"nofollow\" href=\"https://github.com/laravel/framework/pull/19794\">[5.5] Add Route::redirect() method by brayniverse · Pull Request #19794 · laravel/framework</a></li><li><a title=\"[5.5] [Concept] PSR-11 compliant container by deleugpn · Pull Request #19822 · laravel/framework\" rel=\"nofollow\" href=\"https://github.com/laravel/framework/pull/19822\">[5.5] [Concept] PSR-11 compliant container by deleugpn · Pull Request #19822 · laravel/framework</a></li><li><a title=\"Watch Ryan Singer - Design: Case Study from Laracon US!\" rel=\"nofollow\" href=\"https://streamacon.com/video/laracon-us-2016/ryan-singer-design-case-study\">Watch Ryan Singer - Design: Case Study from Laracon US!</a></li><li><a title=\"54: Jonathan Reinink - Forms: The Worst Part of Web Dev | Full Stack Radio\" rel=\"nofollow\" href=\"http://www.fullstackradio.com/54\">54: Jonathan Reinink - Forms: The Worst Part of Web Dev | Full Stack Radio</a></li></ul>",
+      "summary": "Images. Where do you put them? What are they called? Thumbnails? Big ones? Ahh?!?!",
+      "date_published": "2017-06-30T13:00:00.000-04:00",
+      "attachments": [
+        {
+          "url": "https://aphid.fireside.fm/d/1437767933/42453754-706f-44e5-9d11-e7cfbbd3e20c/e896086a-696a-45f6-81c6-ca59adc72db5.mp3",
+          "mime_type": "audio/mp3",
+          "size_in_bytes": 47596826,
+          "duration_in_seconds": 1976
+        }
+      ]
+    },
+    {
+      "id": "165df5b4-5919-4f2d-8a42-01d35ecc8a34",
+      "title": "Resources (bonus outro with North Meets South)",
+      "url": "http://twentypercent.fm/resources",
+      "content_text": "We talk about resources.\nAt the end we have a little clip of our guest appearance on North Meets South (http://www.northmeetssouth.audio/) with Michael Dyrynda and Jacob Bennett.",
+      "content_html": "<p>We talk about resources.<br>\nAt the end we have a little clip of our guest appearance on North Meets South (<a href=\"http://www.northmeetssouth.audio/\" rel=\"nofollow\">http://www.northmeetssouth.audio/</a>) with Michael Dyrynda and Jacob Bennett.</p>",
+      "summary": "We talk about resources.\r\nAt the end we have a little clip of our guest appearance on North Meets South (http://www.northmeetssouth.audio/) with Michael Dyrynda and Jacob Bennett.",
+      "date_published": "2017-06-23T15:00:00.000-04:00",
+      "attachments": [
+        {
+          "url": "https://aphid.fireside.fm/d/1437767933/42453754-706f-44e5-9d11-e7cfbbd3e20c/165df5b4-5919-4f2d-8a42-01d35ecc8a34.mp3",
+          "mime_type": "audio/mp3",
+          "size_in_bytes": 54694056,
+          "duration_in_seconds": 2272
+        }
+      ]
+    },
+    {
+      "id": "8a1f53dc-6b8e-4024-8b43-cc106dc8a73f",
+      "title": "Naming Things",
+      "url": "http://twentypercent.fm/naming-things",
+      "content_text": "This week we talk about the only thing in programming, Naming Things. Caleb wants to write a Bob the Builder book.",
+      "content_html": "<p>This week we talk about the only thing in programming, Naming Things. Caleb wants to write a Bob the Builder book.</p>",
+      "summary": "This week we talk about the only thing in programming, Naming Things. Caleb wants to write a Bob the Builder book.",
+      "date_published": "2017-06-09T17:00:00.000-04:00",
+      "attachments": [
+        {
+          "url": "https://aphid.fireside.fm/d/1437767933/42453754-706f-44e5-9d11-e7cfbbd3e20c/8a1f53dc-6b8e-4024-8b43-cc106dc8a73f.mp3",
+          "mime_type": "audio/mp3",
+          "size_in_bytes": 40071152,
+          "duration_in_seconds": 1662
+        }
+      ]
+    },
+    {
+      "id": "3c86370f-c264-490a-aae6-9224d4914921",
+      "title": "Routes",
+      "url": "http://twentypercent.fm/routes",
+      "content_text": "We talk about the routes file, Route:resource(), conditional redirects, and talk about some PRs.",
+      "content_html": "<p>We talk about the routes file, Route:resource(), conditional redirects, and talk about some PRs.</p>",
+      "summary": "We talk about the routes file, Route:resource(), conditional redirects, and talk about some PRs.",
+      "date_published": "2017-06-02T11:15:00.000-04:00",
+      "attachments": [
+        {
+          "url": "https://aphid.fireside.fm/d/1437767933/42453754-706f-44e5-9d11-e7cfbbd3e20c/3c86370f-c264-490a-aae6-9224d4914921.mp3",
+          "mime_type": "audio/mpeg",
+          "size_in_bytes": 40641140,
+          "duration_in_seconds": 1686
+        }
+      ]
+    },
+    {
+      "id": "f4ee5375-04a6-465a-a4e9-6f82cb8dd968",
+      "title": "Model Traits",
+      "url": "http://twentypercent.fm/model-traits",
+      "content_text": "We talk about feature traits in Eloquent Models.\nCaleb wants a utopian world where all models are just a list of traits.\nDaniel is very reasonable.",
+      "content_html": "<p>We talk about feature traits in Eloquent Models.<br>\nCaleb wants a utopian world where all models are just a list of traits.<br>\nDaniel is very reasonable.</p>",
+      "summary": "We talk about feature traits in Eloquent Models.\r\nCaleb wants a utopian world where all models are just a list of traits.\r\nDaniel is very reasonable.",
+      "date_published": "2017-05-19T09:45:00.000-04:00",
+      "attachments": [
+        {
+          "url": "https://aphid.fireside.fm/d/1437767933/42453754-706f-44e5-9d11-e7cfbbd3e20c/f4ee5375-04a6-465a-a4e9-6f82cb8dd968.mp3",
+          "mime_type": "audio/mp3",
+          "size_in_bytes": 21441314,
+          "duration_in_seconds": 1330
+        }
+      ]
+    },
+    {
+      "id": "2157e1bb-04ff-4452-adfd-e6a9dfffa369",
+      "title": "Model Factories",
+      "url": "http://twentypercent.fm/model-factories",
+      "content_text": "We talk about our favorite topic.Links:Model Factory \"lazy\" method (github PR)Set a model factory attribute to a factory instance (github PR)artisan make:factory coming to Laravel 5.5 (github commit)",
+      "content_html": "<p>We talk about our favorite topic.</p><p>Links:</p><ul><li><a title=\"Model Factory \"lazy\" method (github PR)\" rel=\"nofollow\" href=\"https://github.com/laravel/framework/pull/18823\">Model Factory \"lazy\" method (github PR)</a></li><li><a title=\"Set a model factory attribute to a factory instance (github PR)\" rel=\"nofollow\" href=\"https://github.com/laravel/framework/pull/18879\">Set a model factory attribute to a factory instance (github PR)</a></li><li><a title=\"artisan make:factory coming to Laravel 5.5 (github commit)\" rel=\"nofollow\" href=\"https://github.com/laravel/framework/commit/a6ffd8bfa896844fee4b4c83cc6aed9d0c33fd9d\">artisan make:factory coming to Laravel 5.5 (github commit)</a></li></ul>",
+      "summary": "We talk about our favorite topic.",
+      "date_published": "2017-05-12T16:00:00.000-04:00",
+      "attachments": [
+        {
+          "url": "https://aphid.fireside.fm/d/1437767933/42453754-706f-44e5-9d11-e7cfbbd3e20c/2157e1bb-04ff-4452-adfd-e6a9dfffa369.mp3",
+          "mime_type": "audio/mp3",
+          "size_in_bytes": 24151562,
+          "duration_in_seconds": 1499
+        }
+      ]
+    },
+    {
+      "id": "b26b5aa8-ac5d-460d-a5cf-79b7826fb3b3",
+      "title": "Eloquent Contexts",
+      "url": "http://twentypercent.fm/eloquent-contexts",
+      "content_text": "We talk today about the differences between Model, Collection, and Query Builder contexts in Laravel's Eloquent ORM.\n\n\nGithub -&gt;get() thread\nGithub -&gt;make() PR\nLinks:\"-&gt;get()\" method Github thread\"make\" method Github PR",
+      "content_html": "<p>We talk today about the differences between <code>Model</code>, <code>Collection</code>, and Query <code>Builder</code> contexts in Laravel&#39;s Eloquent ORM.</p>\n\n<ul>\n<li><a href=\"https://github.com/laravel/internals/issues/563\" rel=\"nofollow\">Github <code>-&gt;get()</code> thread</a></li>\n<li><a href=\"https://github.com/laravel/framework/pull/19015\" rel=\"nofollow\">Github <code>-&gt;make()</code> PR</a></li>\n</ul><p>Links:</p><ul><li><a title=\"\"-&gt;get()\" method Github thread\" rel=\"nofollow\" href=\"https://github.com/laravel/internals/issues/563\">\"-&gt;get()\" method Github thread</a></li><li><a title=\"\"make\" method Github PR\" rel=\"nofollow\" href=\"https://github.com/laravel/framework/pull/19015\">\"make\" method Github PR</a></li></ul>",
+      "summary": "We talk today about the differences between Model, Collection, and Query Builder contexts in Laravel's Eloquent ORM.",
+      "date_published": "2017-05-04T15:00:00.000-04:00",
+      "attachments": [
+        {
+          "url": "https://aphid.fireside.fm/d/1437767933/42453754-706f-44e5-9d11-e7cfbbd3e20c/b26b5aa8-ac5d-460d-a5cf-79b7826fb3b3.mp3",
+          "mime_type": "audio/mp3",
+          "size_in_bytes": 20445694,
+          "duration_in_seconds": 1267
+        }
+      ]
+    },
+    {
+      "id": "16910f24-a8f5-4dc2-9dea-8279edca8735",
+      "title": "Macros",
+      "url": "http://twentypercent.fm/macros",
+      "content_text": "We discuss Laravel Macros, and wander off into talking about setting up Laravel relationships before saving.\n\nCaleb's post about macros is here: https://blog.tighten.co/the-magic-of-laravel-macros",
+      "content_html": "<p>We discuss Laravel Macros, and wander off into talking about setting up Laravel relationships before saving.</p>\n\n<p>Caleb&#39;s post about macros is here: <a href=\"https://blog.tighten.co/the-magic-of-laravel-macros\" rel=\"nofollow\">https://blog.tighten.co/the-magic-of-laravel-macros</a></p>",
+      "summary": "We discuss Laravel Macros, and wander off into talking about setting up Laravel relationships before saving.\r\n\r\nCaleb's post about macros is here: https://blog.tighten.co/the-magic-of-laravel-macros",
+      "date_published": "2017-04-28T17:00:00.000-04:00",
+      "attachments": [
+        {
+          "url": "https://aphid.fireside.fm/d/1437767933/42453754-706f-44e5-9d11-e7cfbbd3e20c/16910f24-a8f5-4dc2-9dea-8279edca8735.mp3",
+          "mime_type": "audio/mp3",
+          "size_in_bytes": 16969650,
+          "duration_in_seconds": 1050
+        }
+      ]
+    }
+  ]
+}

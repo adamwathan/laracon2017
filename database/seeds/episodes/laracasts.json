@@ -1,0 +1,1183 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "The Laracasts Snippet",
+  "home_page_url": "http://laracasts.audio",
+  "feed_url": "https://rss.simplecast.com/podcasts/1486/rss",
+  "description": "The Laracasts snippet, each episode, offers a single thought on some aspect of web development. Nothing more, nothing less. Hosted by Jeffrey Way.",
+  "author": {
+    "url": "http://laracasts.audio",
+    "name": "Jeffrey Way"
+  },
+  "items": [
+    {
+      "id": "de04ee47-68f7-49fb-9c2d-1e21e2e94699",
+      "title": "The Interview Question I Would Ask",
+      "url": "http://laracasts.simplecast.fm/66",
+      "content_text": "Developers have come to dread interviews. What sort of silly, gotcha question that has nothing to do with building web apps whatsoever will I have to stress about this time? If I were hiring a new coder, I'd asking them an almost laughably simple question...\n",
+      "content_html": "<p>Developers have come to dread interviews. What sort of silly, gotcha question that has nothing to do with building web apps whatsoever will I have to stress about this time? If I were hiring a new coder, I'd asking them an almost laughably simple question: \"Is it okay to send an email from a controller? Explain why.\"</p>\n\n<p>It's such a basic question, yet I guarantee the answer you are given will speak volumes about the type of developer you're interviewing.</p>\n",
+      "summary": "Developers have come to dread interviews. What sort of silly, gotcha question that has nothing to do with building web apps whatsoever will I have to stress about this time? If I were hiring a new coder, I'd asking them an almost laughably simple question...\n",
+      "date_published": "2017-07-12 16:36:00 -0400",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/76681.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 6241777,
+        "duration_in_seconds": 389
+      }
+    },
+    {
+      "id": "0fd6f34b-7fd7-4d9b-bf98-a29d58fc430b",
+      "title": "You Are Your Code",
+      "url": "http://laracasts.simplecast.fm/65",
+      "content_text": "In the development world, you'll frequently hear the phrase \"you are not your code.\" At its core, this is very good advice, however, too often it is used as an excuse to publicly belittle your peers.\n",
+      "content_html": "<p>In the development world, you'll frequently hear the phrase \"you are not your code.\" At its core, this is very good advice, however, too often it is used as an excuse to publicly belittle your peers.</p>\n",
+      "summary": "In the development world, you'll frequently hear the phrase \"you are not your code.\" At its core, this is very good advice, however, too often it is used as an excuse to publicly belittle your peers.\n",
+      "date_published": "2017-06-28 08:00:00 -0400",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/74178.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 12736819,
+        "duration_in_seconds": 795
+      }
+    },
+    {
+      "id": "09a173d3-8cdd-4662-aa8f-b3a40ccc9a06",
+      "title": "Your Twitter Bio Says More Than You Think",
+      "url": "http://laracasts.simplecast.fm/64",
+      "content_text": "I noticed something this morning: the developers I most frequently disagree with on Twitter place code acronyms in their bio. SOLID, DDD, etc. On the flip side, the coders I most respect nearly 100% of the time never do. How come? Let's talk about what this might indicate about the type of developer you are.\n",
+      "content_html": "<p>I noticed something this morning: the developers I most frequently disagree with on Twitter place code acronyms in their bio. SOLID, DDD, etc. On the flip side, the coders I most respect nearly 100% of the time never do. How come? Let's talk about what this might indicate about the type of developer you are.</p>\n",
+      "summary": "I noticed something this morning: the developers I most frequently disagree with on Twitter place code acronyms in their bio. SOLID, DDD, etc. On the flip side, the coders I most respect nearly 100% of the time never do. How come? Let's talk about what this might indicate about the type of developer you are.\n",
+      "date_published": "2017-06-23 11:01:00 -0400",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/73683.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 7201843,
+        "duration_in_seconds": 449
+      }
+    },
+    {
+      "id": "c8335fe3-f58e-414d-9116-7d5f3b0255a6",
+      "title": "Let's Talk About Visual Debt and Typehints",
+      "url": "http://laracasts.simplecast.fm/63",
+      "content_text": "I recently published a short video on what I refer to as \"visual debt.\" Shortly after, the critical tweets began to roll in. How dare you propose that all of these keywords and types and interfaces add noise, they declared. Well, let's talk about it...\n",
+      "content_html": "<p>I recently published a <a href=\"https://laracasts.com/series/php-bits/episodes/1\">short video</a> on what I refer to as \"visual debt.\" Shortly after, the critical tweets began to roll in. \"How dare you propose that all of these keywords and types and interfaces add noise,\" they declared. Well, let's talk about it...</p>\n",
+      "summary": "I recently published a short video on what I refer to as \"visual debt.\" Shortly after, the critical tweets began to roll in. How dare you propose that all of these keywords and types and interfaces add noise, they declared. Well, let's talk about it...\n",
+      "date_published": "2017-05-22 13:04:00 -0400",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/70285.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 15208278,
+        "duration_in_seconds": 949
+      }
+    },
+    {
+      "id": "4ed83575-214e-4cc1-9b27-2e6474376f98",
+      "title": "Should This Class Be Responsible For That Thing",
+      "url": "http://laracasts.simplecast.fm/62",
+      "content_text": "The Single Responsibility is both simple and complex to comprehend at the exact same time. In fact, many people find it to be so vague to the point of being worthless. Let's talk about that in this episode, while reviewing how I personally interpret the advice for my own projects.\n",
+      "content_html": "<p>The Single Responsibility is both simple and complex to comprehend at the exact same time. In fact, many people find it to be so vague to the point of being worthless. Let's talk about that in this episode, while reviewing how I personally interpret the advice for my own projects.</p>\n",
+      "summary": "The Single Responsibility is both simple and complex to comprehend at the exact same time. In fact, many people find it to be so vague to the point of being worthless. Let's talk about that in this episode, while reviewing how I personally interpret the advice for my own projects.\n",
+      "date_published": "2017-05-01 17:24:00 -0400",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/68444.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 6469585,
+        "duration_in_seconds": 403
+      }
+    },
+    {
+      "id": "4f18ce92-e454-4c11-9f7d-08a963377a6f",
+      "title": "The Quest to Upgrade and Update",
+      "url": "http://laracasts.simplecast.fm/61",
+      "content_text": "Moving to a new server while upgrading to the latest version of a framework is always a scary thing. Even the smallest change can send you down a two hour rabbit hole, as you search for a solution. In this episode, I discuss my basic process, as well as the tools I prefer.\n",
+      "content_html": "<p>Moving to a new server while upgrading to the latest version of a framework is always a scary thing. Even the smallest change can send you down a two hour rabbit hole, as you search for a solution. In this episode, I discuss my basic process, as well as the tools I prefer.</p>\n",
+      "summary": "Moving to a new server while upgrading to the latest version of a framework is always a scary thing. Even the smallest change can send you down a two hour rabbit hole, as you search for a solution. In this episode, I discuss my basic process, as well as the tools I prefer.\n",
+      "date_published": "2017-04-13 13:25:00 -0400",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/66198.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 8859714,
+        "duration_in_seconds": 632
+      }
+    },
+    {
+      "id": "9d0d7b53-d1de-4a3b-9413-37117ddac309",
+      "title": "How to Plan a Conference Talk Like Zack Morris",
+      "url": "http://laracasts.simplecast.fm/60",
+      "content_text": "Today, we're discussing my personal workflow, when planning a new conference talk. Unfortunately, it's never quite as simple as opening your presentation app of choice, and typing away. Any typical conference talk likely took months to prepare.\n",
+      "content_html": "<p>Today, we're discussing my personal workflow, when planning a new conference talk. Unfortunately, it's never quite as simple as opening your presentation app of choice, and typing away. Any typical conference talk likely took months to prepare.</p>\n",
+      "summary": "Today, we're discussing my personal workflow, when planning a new conference talk. Unfortunately, it's never quite as simple as opening your presentation app of choice, and typing away. Any typical conference talk likely took months to prepare.\n",
+      "date_published": "2017-02-28 18:53:00 -0500",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/61403.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 10091205,
+        "duration_in_seconds": 629
+      }
+    },
+    {
+      "id": "3437a3f1-3fd7-44bd-aff6-c9df6b8bcd23",
+      "title": "Stop Shaming Tools",
+      "url": "http://laracasts.simplecast.fm/59",
+      "content_text": "\"Don't use tools,\" they say. \"It won't exist in a few years, but these design patterns will.\" Of course, the argument is that, if you dedicate any time at all to embracing libraries and frameworks that actually allow you to get the job done, you're somehow, as a result, doing yourself a huge disservice.\n",
+      "content_html": "<p>\"Don't use tools,\" they say. \"It won't exist in a few years, but these design patterns will.\" Of course, the argument is that, if you dedicate any time at all to embracing libraries and frameworks that actually allow you to get the job done, you're somehow, as a result, doing yourself a huge disservice.</p>\n",
+      "summary": "\"Don't use tools,\" they say. \"It won't exist in a few years, but these design patterns will.\" Of course, the argument is that, if you dedicate any time at all to embracing libraries and frameworks that actually allow you to get the job done, you're somehow, as a result, doing yourself a huge disservice.\n",
+      "date_published": "2017-02-22 13:26:00 -0500",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/60983.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 10122490,
+        "duration_in_seconds": 631
+      }
+    },
+    {
+      "id": "242103af-8493-431f-ab93-307fd14cfbd6",
+      "title": "The Height of Arrogance and Vanity",
+      "url": "http://laracasts.simplecast.fm/58",
+      "content_text": "In the last six months, it has been made very clear to me that, for better or worse, we're all parrots. Whether tech, or politics, or religion, or programming, this can't be denied. How do we fix this?\n",
+      "content_html": "<p>In the last six months, it has been made very clear to me that, for better or worse, we're all parrots. Whether tech, or politics, or religion, or programming, this can't be denied. How do we fix this?</p>\n",
+      "summary": "In the last six months, it has been made very clear to me that, for better or worse, we're all parrots. Whether tech, or politics, or religion, or programming, this can't be denied. How do we fix this?\n",
+      "date_published": "2017-02-17 12:51:00 -0500",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/60686.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 10091175,
+        "duration_in_seconds": 629
+      }
+    },
+    {
+      "id": "2c680a37-6830-4d6a-a111-72ac5a48c2f1",
+      "title": "So You're Going to be a Dad?",
+      "url": "http://laracasts.simplecast.fm/57",
+      "content_text": "Let's take a break from code this week, and talk about the person behind the code. When I found out my wife was pregnant last year, a million different thoughts and concerns went through my head all at once. Having your first child is like nothing you've ever experienced before. If you have one on the way, here's what to expect...from a male's point of view.\n",
+      "content_html": "<p>Let's take a break from code this week, and talk about the person behind the code. When I found out my wife was pregnant last year, a million different thoughts and concerns went through my head all at once. Having your first child is like nothing you've ever experienced before. If you have one on the way, here's what to expect...from a male's point of view.</p>\n",
+      "summary": "Let's take a break from code this week, and talk about the person behind the code. When I found out my wife was pregnant last year, a million different thoughts and concerns went through my head all at once. Having your first child is like nothing you've ever experienced before. If you have one on the way, here's what to expect...from a male's point of view.\n",
+      "date_published": "2017-02-08 17:22:00 -0500",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/59912.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 21286638,
+        "duration_in_seconds": 1329
+      }
+    },
+    {
+      "id": "eee82ae4-ae1b-4702-ae5d-fe869248b245",
+      "title": "What They Say, Versus What They Do",
+      "url": "http://laracasts.simplecast.fm/56",
+      "content_text": "Over the years, I've come to realize that, what folks advertise and say they do, often bears no resemblance to what they actually do. Consider the broke financial advisor, or the event sourcing evangelist who sticks to basic CRUD and Active Record for their own projects, or  the TDD expert who secretly doesn't TDD. The truth is that folks advertise what they're excited by. And, too often, what excites us is what's new and undiscovered.\n",
+      "content_html": "<p>Over the years, I've come to realize that, what folks advertise and say they do, often bears no resemblance to what they actually do. Consider the broke financial advisor, or the event sourcing evangelist who sticks to basic CRUD and Active Record for their own projects, or  the TDD expert who secretly doesn't TDD. The truth is that folks advertise what they're excited by. And, too often, what excites us is what's new and undiscovered.</p>\n",
+      "summary": "Over the years, I've come to realize that, what folks advertise and say they do, often bears no resemblance to what they actually do. Consider the broke financial advisor, or the event sourcing evangelist who sticks to basic CRUD and Active Record for their own projects, or  the TDD expert who secretly doesn't TDD. The truth is that folks advertise what they're excited by. And, too often, what excites us is what's new and undiscovered.\n",
+      "date_published": "2017-01-18 11:49:00 -0500",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/58006.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 17195223,
+        "duration_in_seconds": 1073
+      }
+    },
+    {
+      "id": "2d6b1fdd-80a7-4a7a-b21e-1b76bb5d26ec",
+      "title": "Unique to the PHP Community",
+      "url": "http://laracasts.simplecast.fm/55",
+      "content_text": "Over the years, I've been party of many programming communities. And in all that time, I've found one thing that is entirely unique to the PHP world...\n",
+      "content_html": "<p>Over the years, I've been party of many programming communities. And in all that time, I've found one thing that is entirely unique to the PHP world...</p>\n",
+      "summary": "Over the years, I've been party of many programming communities. And in all that time, I've found one thing that is entirely unique to the PHP world...\n",
+      "date_published": "2017-01-11 16:37:00 -0500",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/57462.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 6789290,
+        "duration_in_seconds": 423
+      }
+    },
+    {
+      "id": "937406c4-45f3-4793-8cd1-1aa14697eb93",
+      "title": "Go Go Go",
+      "url": "http://laracasts.simplecast.fm/54",
+      "content_text": "At all times on social media, we are surrounded by folks at the top of their game. With so much genius and success circling us like hawks, sometimes it can get you down. Even worse, around this time of year, there's so much talk about \"crushing it\" and \"10x'ing\" it.\n",
+      "content_html": "<p>At all times on social media, we are surrounded by folks at the top of their game. With so much genius and success circling us like hawks, sometimes it can get you down. Even worse, around this time of year, there's so much talk about \"crushing it\" and \"10x'ing\" it.</p>\n",
+      "summary": "At all times on social media, we are surrounded by folks at the top of their game. With so much genius and success circling us like hawks, sometimes it can get you down. Even worse, around this time of year, there's so much talk about \"crushing it\" and \"10x'ing\" it.\n",
+      "date_published": "2017-01-06 11:40:00 -0500",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/56812.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 7012860,
+        "duration_in_seconds": 437
+      }
+    },
+    {
+      "id": "b05f49ac-d8cb-42c7-9bd9-a3531bfeeec3",
+      "title": "Where The Gold Mine Is",
+      "url": "http://laracasts.simplecast.fm/53",
+      "content_text": "When it comes to open source code, how exactly should you decide what to build? Will anyone even care or want to use it? Who knows! But, maybe, a secret gold mine will reveal itself, once you ask a simple question.\n",
+      "content_html": "<p>When it comes to open source code, how exactly should you decide what to build? Will anyone even care or want to use it? Who knows! But, maybe, a secret gold mine will reveal itself, once you ask a simple question.</p>\n",
+      "summary": "When it comes to open source code, how exactly should you decide what to build? Will anyone even care or want to use it? Who knows! But, maybe, a secret gold mine will reveal itself, once you ask a simple question.\n",
+      "date_published": "2016-12-23 10:52:00 -0500",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/55802.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 9376029,
+        "duration_in_seconds": 585
+      }
+    },
+    {
+      "id": "0c299dc4-d7f1-4575-9ee4-5f00d225789c",
+      "title": "Laracasts Question Block #3",
+      "url": "http://laracasts.simplecast.fm/52",
+      "content_text": "It's that time again. I have six new community questions to answer, ranging from the most stressful thing about running Laracasts, to new content in 2017, to a developer's Christmas list.\n",
+      "content_html": "<p>It's that time again. I have six new community questions to answer, ranging from the most stressful thing about running Laracasts, to new content in 2017, to a developer's Christmas list.</p>\n",
+      "summary": "It's that time again. I have six new community questions to answer, ranging from the most stressful thing about running Laracasts, to new content in 2017, to a developer's Christmas list.\n",
+      "date_published": "2016-12-08 11:08:00 -0500",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/54743.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 15693072,
+        "duration_in_seconds": 980
+      }
+    },
+    {
+      "id": "ed8cea7f-8a45-45a5-b0ea-e52b6ce1af2f",
+      "title": "Marketing Pet Peeves",
+      "url": "http://laracasts.simplecast.fm/51",
+      "content_text": "I have no clue what I'm talking about, so listen to me discuss my marketing pet peeves.\n",
+      "content_html": "<p>I have no clue what I'm talking about, so listen to me discuss my marketing pet peeves.</p>\n",
+      "summary": "I have no clue what I'm talking about, so listen to me discuss my marketing pet peeves.\n",
+      "date_published": "2016-11-30 14:29:00 -0500",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/54090.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 17671679,
+        "duration_in_seconds": 1103
+      }
+    },
+    {
+      "id": "c105e322-b19b-4566-8d05-50f2092051e5",
+      "title": "Simple Laravel Performance Wins You Can Implement Right Now",
+      "url": "http://laracasts.simplecast.fm/50",
+      "content_text": "In this episode, we're focused entirely on simple performance tips that anyone can implement right now. Every kilobyte counts,  so try to implement at least a few of these, if you aren't already!\n",
+      "content_html": "<p>In this episode, we're focused entirely on simple performance tips that anyone can implement right now. Every kilobyte counts,  so try to implement at least a few of these, if you aren't already!</p>\n\n<p><strong>Show Links</strong></p>\n\n<ul>\n<li><a href=\"https://www.cloudflare.com/\">https://www.cloudflare.com/</a></li>\n<li><a href=\"https://imageoptim.com/mac\">https://imageoptim.com/mac</a></li>\n<li><a href=\"https://pngmini.com/\">https://pngmini.com/</a></li>\n<li><a href=\"https://github.com/turbolinks/turbolinks\">https://github.com/turbolinks/turbolinks</a></li>\n</ul>\n\n",
+      "summary": "In this episode, we're focused entirely on simple performance tips that anyone can implement right now. Every kilobyte counts,  so try to implement at least a few of these, if you aren't already!\n",
+      "date_published": "2016-11-21 13:46:00 -0500",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/53439.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 17649601,
+        "duration_in_seconds": 1102
+      }
+    },
+    {
+      "id": "4a543f9b-dfc3-4fea-9bff-969fe9990d20",
+      "title": "The Laracasts Refresh Launch Day Podcast",
+      "url": "http://laracasts.simplecast.fm/49",
+      "content_text": "Today, we're exclusively discussing the new Laracasts refresh. I talk about what I've learned in the 3-month process, interesting techniques - both front-end and back-end - that I leveraged, as well as why I spent more time simplifying, rather than complicating.\n",
+      "content_html": "<p>Today, we're exclusively discussing the new Laracasts refresh. I talk about what I've learned in the 3-month process, interesting techniques - both front-end and back-end - that I leveraged, as well as why I spent more time simplifying, rather than complicating.</p>\n",
+      "summary": "Today, we're exclusively discussing the new Laracasts refresh. I talk about what I've learned in the 3-month process, interesting techniques - both front-end and back-end - that I leveraged, as well as why I spent more time simplifying, rather than complicating.\n",
+      "date_published": "2016-11-15 10:00:00 -0500",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/52976.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 20599941,
+        "duration_in_seconds": 1286
+      }
+    },
+    {
+      "id": "6cb31106-f04b-4761-8643-2da47a18293b",
+      "title": "Redundant",
+      "url": "http://laracasts.simplecast.fm/48",
+      "content_text": "In this episode, we'll discuss a basic, but incredibly useful technique that I use to write more expressive code.\n",
+      "content_html": "<p>In this episode, we'll discuss a basic, but incredibly useful technique that I use to write more expressive code.</p>\n",
+      "summary": "In this episode, we'll discuss a basic, but incredibly useful technique that I use to write more expressive code.\n",
+      "date_published": "2016-11-07 15:57:00 -0500",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/52540.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 5397032,
+        "duration_in_seconds": 336
+      }
+    },
+    {
+      "id": "e4a8df31-7f51-4dd7-bc0d-868e6e723231",
+      "title": "Turbolinks, the Laracasts Refresh, and My Annoying Bank",
+      "url": "http://laracasts.simplecast.fm/47",
+      "content_text": "We're all over the place today. If you're walking the dog or on your way home, tune in as I discuss everything from Turbolinks, to my annoying, broken bank. I also provide a few updates on the Laracasts refresh that I've been working on for the last few months.\n",
+      "content_html": "<p>We're all over the place today. If you're walking the dog or on your way home, tune in as I discuss everything from Turbolinks, to my annoying, broken bank. I also provide a few updates on the Laracasts refresh that I've been working on for the last few months.</p>\n",
+      "summary": "We're all over the place today. If you're walking the dog or on your way home, tune in as I discuss everything from Turbolinks, to my annoying, broken bank. I also provide a few updates on the Laracasts refresh that I've been working on for the last few months.\n",
+      "date_published": "2016-11-01 12:39:00 -0400",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/52017.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 16970409,
+        "duration_in_seconds": 1059
+      }
+    },
+    {
+      "id": "63d61c49-8300-4857-af01-5f470f010ce9",
+      "title": "Get Carried Away",
+      "url": "http://laracasts.simplecast.fm/46",
+      "content_text": "My favorite sorts of people are the ones who allow themselves to get carried away over simple things. It's contagious. I dare you to listen to an incredibly passionate fan, of any possible thing, and not be pulled in and inspired by their excitement. Society refers to this as nerd culture, which I find a bit dismissive and critical. If \"nerdy\" translates to \"someone who can't help but get excited,\" then count me in.\n",
+      "content_html": "<p>My favorite sorts of people are the ones who allow themselves to get carried away over simple things. It's contagious. I dare you to listen to an incredibly passionate fan, of any possible thing, and not be pulled in and inspired by their excitement. Society refers to this as nerd culture, which I find a bit dismissive and critical. If \"nerdy\" translates to \"someone who can't help but get excited,\" then count me in.</p>\n",
+      "summary": "My favorite sorts of people are the ones who allow themselves to get carried away over simple things. It's contagious. I dare you to listen to an incredibly passionate fan, of any possible thing, and not be pulled in and inspired by their excitement. Society refers to this as nerd culture, which I find a bit dismissive and critical. If \"nerdy\" translates to \"someone who can't help but get excited,\" then count me in.\n",
+      "date_published": "2016-10-21 17:49:00 -0400",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/50258.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 6896265,
+        "duration_in_seconds": 430
+      }
+    },
+    {
+      "id": "19cad98c-8696-467b-acf8-b3679435b006",
+      "title": "Beware the Mob",
+      "url": "http://laracasts.simplecast.fm/45",
+      "content_text": "We're all aware of the notorious Twitter mob. Don't you dare go against agreed upon opinions, or you will be sliced to pieces. We've seen the wake of these viral slander campaigns countless times over the years - all the way up to the creator of JavaScript, himself. Why are we okay with this again? And are we creating an environment that encourages any person with differing views to remain silent, out of fear of losing their job?\n",
+      "content_html": "<p>We're all aware of the notorious Twitter mob. Don't you dare go against agreed upon opinions, or you will be sliced to pieces. We've seen the wake of these viral slander campaigns countless times over the years - all the way up to the creator of JavaScript, himself. Why are we okay with this again? And are we creating an environment that encourages any person with differing views to remain silent, out of fear of losing their job?</p>\n",
+      "summary": "We're all aware of the notorious Twitter mob. Don't you dare go against agreed upon opinions, or you will be sliced to pieces. We've seen the wake of these viral slander campaigns countless times over the years - all the way up to the creator of JavaScript, himself. Why are we okay with this again? And are we creating an environment that encourages any person with differing views to remain silent, out of fear of losing their job?\n",
+      "date_published": "2016-10-11 00:45:00 -0400",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/49602.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 11013159,
+        "duration_in_seconds": 687
+      }
+    },
+    {
+      "id": "4c5d94fb-2b2d-4bbf-b406-72ff83cca372",
+      "title": "Energy",
+      "url": "http://laracasts.simplecast.fm/44",
+      "content_text": "Lately, I've been making more of an effort to focus on my energy levels, and how to maximize them.  If your energy levels aren't where they should be, then any desire you might have had to finish up that side project goes out the window. This is paramount to our financial and happiness goals, so why isn't it at the top of our priority list?\n",
+      "content_html": "<p>Lately, I've been making more of an effort to focus on my energy levels, and how to maximize them.  If your energy levels aren't where they should be, then any desire you might have had to finish up that side project goes out the window. This is paramount to our financial and happiness goals, so why isn't it at the top of our priority list?</p>\n",
+      "summary": "Lately, I've been making more of an effort to focus on my energy levels, and how to maximize them.  If your energy levels aren't where they should be, then any desire you might have had to finish up that side project goes out the window. This is paramount to our financial and happiness goals, so why isn't it at the top of our priority list?\n",
+      "date_published": "2016-10-04 11:21:00 -0400",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/49134.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 6218315,
+        "duration_in_seconds": 387
+      }
+    },
+    {
+      "id": "2880e610-185a-47d4-9b2c-bd6c4c92588b",
+      "title": "Write it Down",
+      "url": "http://laracasts.simplecast.fm/43",
+      "content_text": "Lately, I've been forcing myself to journal tiny dev realizations I have, as I work on various projects. How often have you hit a roadblock, switched to Stack Overflow, found a fix....only to completely forget it six months later, when you encounter the same problem again?\n",
+      "content_html": "<p>Lately, I've been forcing myself to journal tiny dev realizations I have, as I work on various projects. How often have you hit a roadblock, switched to Stack Overflow, found a fix....only to completely forget it six months later, when you encounter the same problem again?</p>\n",
+      "summary": "Lately, I've been forcing myself to journal tiny dev realizations I have, as I work on various projects. How often have you hit a roadblock, switched to Stack Overflow, found a fix....only to completely forget it six months later, when you encounter the same problem again?\n",
+      "date_published": "2016-09-27 14:23:00 -0400",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/48635.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 9151985,
+        "duration_in_seconds": 571
+      }
+    },
+    {
+      "id": "cac854fb-fd2a-4802-b1b5-53c73cfdf919",
+      "title": "A Bit Closer Than Yesterday",
+      "url": "http://laracasts.simplecast.fm/42",
+      "content_text": "When you have a full-time job, it's far too easy to ignore that side project or business that you've had your eye on. Think about it: most projects never come to completion. How come? And, more importantly, what little steps can we take to ensure that we don't fall into that same trap.\n",
+      "content_html": "<p>When you have a full-time job, it's far too easy to ignore that side project or business that you've had your eye on. Think about it: most projects never come to completion. How come? And, more importantly, what little steps can we take to ensure that we don't fall into that same trap.</p>\n",
+      "summary": "When you have a full-time job, it's far too easy to ignore that side project or business that you've had your eye on. Think about it: most projects never come to completion. How come? And, more importantly, what little steps can we take to ensure that we don't fall into that same trap.\n",
+      "date_published": "2016-09-12 12:32:00 -0400",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/47171.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 6955219,
+        "duration_in_seconds": 433
+      }
+    },
+    {
+      "id": "cd91c4e7-09e5-4601-9797-c16ea9ab95ec",
+      "title": "False Alarms",
+      "url": "http://laracasts.simplecast.fm/41",
+      "content_text": "A few nights ago, I was fast asleep when, all of the sudden, the building's fire alarm went off. It definitely woke me up, but I didn't respond in the way you might think. My instinct was to ignore it entirely. How come? And why is this also often true for the tests you write?\n",
+      "content_html": "<p>A few nights ago, I was fast asleep when, all of the sudden, the building's fire alarm went off. It definitely woke me up, but I didn't respond in the way you might think. My instinct was to ignore it entirely. How come? And why is this also often true for the tests you write?</p>\n",
+      "summary": "A few nights ago, I was fast asleep when, all of the sudden, the building's fire alarm went off. It definitely woke me up, but I didn't respond in the way you might think. My instinct was to ignore it entirely. How come? And why is this also often true for the tests you write?\n",
+      "date_published": "2016-09-06 14:37:00 -0400",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/46315.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 5192238,
+        "duration_in_seconds": 323
+      }
+    },
+    {
+      "id": "d5bd822f-0556-4eae-b4c9-eb5d9c36ebcd",
+      "title": "As Little As Possible",
+      "url": "http://laracasts.simplecast.fm/40",
+      "content_text": "Whether in life or software development, I think a good approach is to push for as little as possible. The fewer lines of code you must write, or the fewer items in your bathroom cabinet,  the better.\n",
+      "content_html": "<p>Whether in life or software development, I think a good approach is to push for as little as possible. The fewer lines of code you must write, or the fewer items in your bathroom cabinet,  the better.</p>\n",
+      "summary": "Whether in life or software development, I think a good approach is to push for as little as possible. The fewer lines of code you must write, or the fewer items in your bathroom cabinet,  the better.\n",
+      "date_published": "2016-09-01 13:58:00 -0400",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/46012.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 11184040,
+        "duration_in_seconds": 698
+      }
+    },
+    {
+      "id": "a0497f01-8c1c-4d87-8df3-bc14339ba1bc",
+      "title": "The Beauty of CSS is BS",
+      "url": "http://laracasts.simplecast.fm/39",
+      "content_text": "A decade ago, I was taught that the beauty of CSS is its ability to completely alter the presentation of a website without touching your HTML. Yeah... \"you never have to touch your HTML again.\" Sounds great, right? Too bad it's BS.\n",
+      "content_html": "<p>A decade ago, I was taught that the beauty of CSS is its ability to completely alter the presentation of a website without touching your HTML. Yeah... \"you never have to touch your HTML again.\" Sounds great, right? Too bad it's BS.</p>\n",
+      "summary": "A decade ago, I was taught that the beauty of CSS is its ability to completely alter the presentation of a website without touching your HTML. Yeah... \"you never have to touch your HTML again.\" Sounds great, right? Too bad it's BS.\n",
+      "date_published": "2016-08-25 14:08:00 -0400",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/45365.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 11588288,
+        "duration_in_seconds": 722
+      }
+    },
+    {
+      "id": "10c03185-6568-4951-bd7d-1420bfc7cafa",
+      "title": "You Are Who You Say You Are",
+      "url": "http://laracasts.simplecast.fm/38",
+      "content_text": "\"Fake it 'til you make it\" is a great idea, just as long as you back it up behind the scenes with actual work toward the thing to which you're faking.\n",
+      "content_html": "<p>\"Fake it 'til you make it\" is a great idea, just as long as you back it up behind the scenes with actual work toward the thing to which you're faking.</p>\n",
+      "summary": "\"Fake it 'til you make it\" is a great idea, just as long as you back it up behind the scenes with actual work toward the thing to which you're faking.\n",
+      "date_published": "2016-08-18 10:53:00 -0400",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/44871.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 7607651,
+        "duration_in_seconds": 473
+      }
+    },
+    {
+      "id": "30f4ab1e-2ec3-4c57-a75d-39d82f2f959c",
+      "title": "Throw it All Out",
+      "url": "http://laracasts.simplecast.fm/37",
+      "content_text": "Sometimes, the appropriate and responsible thing is to throw it all out and start again. Now, of course, not everyone has this luxury. Business requirements and deadlines often make these sorts of things impossible. However, is this true for your own business, or your own open source projects? Sometimes, that muddy code or CSS you wrote three years ago is begging to be deleted. How much better could you write it, knowing what you know now?\n",
+      "content_html": "<p>Sometimes, the appropriate and responsible thing is to throw it all out and start again. Now, of course, not everyone has this luxury. Business requirements and deadlines often make these sorts of things impossible. However, is this true for your own business, or your own open source projects? Sometimes, that muddy code or CSS you wrote three years ago is begging to be deleted. How much better could you write it, knowing what you know now?</p>\n",
+      "summary": "Sometimes, the appropriate and responsible thing is to throw it all out and start again. Now, of course, not everyone has this luxury. Business requirements and deadlines often make these sorts of things impossible. However, is this true for your own business, or your own open source projects? Sometimes, that muddy code or CSS you wrote three years ago is begging to be deleted. How much better could you write it, knowing what you know now?\n",
+      "date_published": "2016-08-10 15:20:00 -0400",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/44356.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 7135335,
+        "duration_in_seconds": 444
+      }
+    },
+    {
+      "id": "47017a5d-3d4d-454b-9fd4-f9b8fc23d02f",
+      "title": "Developer Arrogance",
+      "url": "http://laracasts.simplecast.fm/36",
+      "content_text": "Recently, I've been updating a book I wrote a number of years ago. Over and over again, I found myself hitting the delete key. References to bad practices and SRP were laced throughout every chapter. How could I have been so arrogant?\n",
+      "content_html": "<p>Recently, I've been updating a book I wrote a number of years ago. Over and over again, I found myself hitting the delete key. References to bad practices and SRP were laced throughout every chapter. How could I have been so arrogant?</p>\n",
+      "summary": "Recently, I've been updating a book I wrote a number of years ago. Over and over again, I found myself hitting the delete key. References to bad practices and SRP were laced throughout every chapter. How could I have been so arrogant?\n",
+      "date_published": "2016-08-02 13:52:00 -0400",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/43718.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 6370475,
+        "duration_in_seconds": 396
+      }
+    },
+    {
+      "id": "56d99e29-1ec5-4072-ba25-daba372b3f66",
+      "title": "Shut Up and do the Work",
+      "url": "http://laracasts.simplecast.fm/35",
+      "content_text": "Today, we're discussing the importance of building little projects for yourself. Whether it's a podcast, or book, or web app, pick something and force yourself to see it through to completion. Along the way, I'll tell you about my completely rewritten book, and why I'm so excited to share it this time around.\n",
+      "content_html": "<p>Today, we're discussing the importance of building little projects for yourself. Whether it's a podcast, or book, or web app, pick something and force yourself to see it through to completion. Along the way, I'll tell you about my completely rewritten book, and why I'm so excited to share it this time around.</p>\n",
+      "summary": "Today, we're discussing the importance of building little projects for yourself. Whether it's a podcast, or book, or web app, pick something and force yourself to see it through to completion. Along the way, I'll tell you about my completely rewritten book, and why I'm so excited to share it this time around.\n",
+      "date_published": "2016-07-25 17:33:00 -0400",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/43216.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 8704785,
+        "duration_in_seconds": 542
+      }
+    },
+    {
+      "id": "79166ed5-4b1c-4e64-9e25-f3131002b914",
+      "title": "Just a Detail",
+      "url": "http://laracasts.simplecast.fm/34",
+      "content_text": "Last week, we talked about development trends - and how they sometimes have a tendency to make developers feel as if they're falling behind. \"These are the new trends of 2016! Get to the mall, stat!\" Today, let's continue the discussion a bit more. Will this new trending architecture bring you closer to launching the project of yours that's been sitting at 90% complete for a year now? Maybe...but maybe not.\n",
+      "content_html": "<p>Last week, we talked about development trends - and how they sometimes have a tendency to make developers feel as if they're falling behind. \"These are the new trends of 2016! Get to the mall, stat!\" Today, let's continue the discussion a bit more. Will this new trending architecture bring you closer to launching the project of yours that's been sitting at 90% complete for a year now? Maybe...but maybe not.</p>\n",
+      "summary": "Last week, we talked about development trends - and how they sometimes have a tendency to make developers feel as if they're falling behind. \"These are the new trends of 2016! Get to the mall, stat!\" Today, let's continue the discussion a bit more. Will this new trending architecture bring you closer to launching the project of yours that's been sitting at 90% complete for a year now? Maybe...but maybe not.\n",
+      "date_published": "2016-07-18 13:21:00 -0400",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/42571.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 7694558,
+        "duration_in_seconds": 479
+      }
+    },
+    {
+      "id": "22d22b10-b47a-459f-8dc2-2cae9de315c1",
+      "title": "Victims of Our Curiosity",
+      "url": "http://laracasts.simplecast.fm/33",
+      "content_text": "If you think about it, every single year, certain development trends take the community by storm. Whether repositories, or service classes, or the command bus, this is undeniably true. Let's talk about it.\n",
+      "content_html": "<p>If you think about it, every single year, certain development trends take the community by storm. Whether repositories, or service classes, or the command bus, this is undeniably true. Let's talk about it.</p>\n",
+      "summary": "If you think about it, every single year, certain development trends take the community by storm. Whether repositories, or service classes, or the command bus, this is undeniably true. Let's talk about it.\n",
+      "date_published": "2016-07-13 13:47:00 -0400",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/42335.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 12483138,
+        "duration_in_seconds": 778
+      }
+    },
+    {
+      "id": "a1f32da5-387f-452f-8e99-d63b53e72146",
+      "title": "Forever Plans, Vue, and Expansion",
+      "url": "http://laracasts.simplecast.fm/32",
+      "content_text": "Let's do another Q&amp;A episode today. I'll answer the following community questions.\n\n\nWhy won't Laracasts expand to cover more technologies and languages?\nWhat are your top three favorite podcasts?\nAre Forever Plans smart business?\nWhat's one piece of advice that you'd offer entrepreneurs starting their first business?\nWill there be a Laracasts series on what's new in Laravel 5.3?\nVue or jQuery?\n\n\n",
+      "content_html": "<p>Let's do another Q&amp;A episode today. I'll answer the following community questions.</p>\n\n<ol>\n<li>Why won't Laracasts expand to cover more technologies and languages?</li>\n<li>What are your top three favorite podcasts?</li>\n<li>Are Forever Plans smart business?</li>\n<li>What's one piece of advice that you'd offer entrepreneurs starting their first business?</li>\n<li>Will there be a Laracasts series on what's new in Laravel 5.3?</li>\n<li>Vue or jQuery?</li>\n</ol>\n\n",
+      "summary": "Let's do another Q&A episode today. I'll answer the following community questions.\n\n\nWhy won't Laracasts expand to cover more technologies and languages?\nWhat are your top three favorite podcasts?\nAre Forever Plans smart business?\nWhat's one piece of advice that you'd offer entrepreneurs starting their first business?\nWill there be a Laracasts series on what's new in Laravel 5.3?\nVue or jQuery?\n\n\n",
+      "date_published": "2016-07-06 17:15:00 -0400",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/41484.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 10829662,
+        "duration_in_seconds": 674
+      }
+    },
+    {
+      "id": "eb206468-57f8-4830-9425-775e8ececa84",
+      "title": "Two Hours, Two Times",
+      "url": "http://laracasts.simplecast.fm/31",
+      "content_text": "We have enough data to show that the typical 9-5 work day schedule is entirely arbitrary. The reality is that humans simply aren't good at holding their attention for such long spans of time. So - with a two-week-old baby in my house, I've begun re-thinking my work schedule. Is it possible that we can get the same amount of output from two hours of work, two times a day?\n",
+      "content_html": "<p>We have enough data to show that the typical 9-5 work day schedule is entirely arbitrary. The reality is that humans simply aren't good at holding their attention for such long spans of time. So - with a two-week-old baby in my house, I've begun re-thinking my work schedule. Is it possible that we can get the same amount of output from two hours of work, two times a day?</p>\n",
+      "summary": "We have enough data to show that the typical 9-5 work day schedule is entirely arbitrary. The reality is that humans simply aren't good at holding their attention for such long spans of time. So - with a two-week-old baby in my house, I've begun re-thinking my work schedule. Is it possible that we can get the same amount of output from two hours of work, two times a day?\n",
+      "date_published": "2016-06-28 15:28:00 -0400",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/40936.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 8948448,
+        "duration_in_seconds": 557
+      }
+    },
+    {
+      "id": "20767154-ce73-4127-9ede-ec7d34678510",
+      "title": "You Will Figure It Out. Every Time.",
+      "url": "http://laracasts.simplecast.fm/30",
+      "content_text": "If I were to pick my most favorite aspect of programming, it's this: no matter how difficult or confusing a bug/feature/refactor may be,  if you stick with it long enough, you will figure it out. Every single time.\n",
+      "content_html": "<p>If I were to pick my most favorite aspect of programming, it's this: no matter how difficult or confusing a bug/feature/refactor may be,  if you stick with it long enough, you will figure it out. Every single time.</p>\n",
+      "summary": "If I were to pick my most favorite aspect of programming, it's this: no matter how difficult or confusing a bug/feature/refactor may be,  if you stick with it long enough, you will figure it out. Every single time.\n",
+      "date_published": "2016-06-22 14:41:00 -0400",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/40577.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 5985159,
+        "duration_in_seconds": 372
+      }
+    },
+    {
+      "id": "c9cc2759-b64e-4f41-86a2-e0e86f2e1b44",
+      "title": "30 Days",
+      "url": "http://laracasts.simplecast.fm/29",
+      "content_text": "I'm a big fan of the tv show, \"30 Days.\" I even apply it, at a lower level, to things in my own life. Whether it's contributing to open source every day for a month, or working out six days a week for a month, I've done a bunch of them.\n",
+      "content_html": "<p>I'm a big fan of the tv show, \"30 Days.\" I even apply it, at a lower level, to things in my own life. Whether it's contributing to open source every day for a month, or working out six days a week for a month, I've done a bunch of them.</p>\n",
+      "summary": "I'm a big fan of the tv show, \"30 Days.\" I even apply it, at a lower level, to things in my own life. Whether it's contributing to open source every day for a month, or working out six days a week for a month, I've done a bunch of them.\n",
+      "date_published": "2016-06-13 06:00:00 -0400",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/39137.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 4767578,
+        "duration_in_seconds": 296
+      }
+    },
+    {
+      "id": "3d971526-27b5-439b-9512-0ec346385baf",
+      "title": "Choose Your Tribe Wisely",
+      "url": "http://laracasts.simplecast.fm/27",
+      "content_text": "Whether we like it or not, humans have a tendency to insert themselves into small communities or factions. In the coding world, it's certainly no different. And that's specifically why it's so important that we think long and hard about which tribes we choose for ourselves. That single choice can have huge ramifications, when it comes to how we approach and think about code.\n",
+      "content_html": "<p>Whether we like it or not, humans have a tendency to insert themselves into small communities or factions. In the coding world, it's certainly no different. And that's specifically why it's so important that we think long and hard about which tribes we choose for ourselves. That single choice can have huge ramifications, when it comes to how we approach and think about code.</p>\n",
+      "summary": "Whether we like it or not, humans have a tendency to insert themselves into small communities or factions. In the coding world, it's certainly no different. And that's specifically why it's so important that we think long and hard about which tribes we choose for ourselves. That single choice can have huge ramifications, when it comes to how we approach and think about code.\n",
+      "date_published": "2016-06-06 13:14:00 -0400",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/39037.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 6170701,
+        "duration_in_seconds": 383
+      }
+    },
+    {
+      "id": "e96957f0-11f7-448f-b460-c5708742bcc0",
+      "title": "Permission to Forget",
+      "url": "http://laracasts.simplecast.fm/26",
+      "content_text": "I use task apps religiously for, mostly, two specific reasons: I want permission to forget about it, and I believe the process of checking off items gets you in the habit of being productive for the day. Listen to me ramble, if you'd like to hear more.\n",
+      "content_html": "<p>I use task apps religiously for, mostly, two specific reasons: I want permission to forget about it, and I believe the process of checking off items gets you in the habit of being productive for the day. Listen to me ramble, if you'd like to hear more.</p>\n",
+      "summary": "I use task apps religiously for, mostly, two specific reasons: I want permission to forget about it, and I believe the process of checking off items gets you in the habit of being productive for the day. Listen to me ramble, if you'd like to hear more.\n",
+      "date_published": "2016-05-30 12:21:00 -0400",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/38579.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 6341638,
+        "duration_in_seconds": 394
+      }
+    },
+    {
+      "id": "82a286f7-b338-47bc-bf91-944d7b666e99",
+      "title": "Let's Talk About Introversion",
+      "url": "http://laracasts.simplecast.fm/25",
+      "content_text": "We forget that there was a time when the terms \"introvert\" and \"extrovert\" didn't mean anything to the common person. Naturally, the internet has shined a huge spotlight on these personality types, but, yeah, a decade or so ago, things were a bit different. Some of us thought we simply awkward, detached individuals.\n",
+      "content_html": "<p>We forget that there was a time when the terms \"introvert\" and \"extrovert\" didn't mean anything to the common person. Naturally, the internet has shined a huge spotlight on these personality types, but, yeah, a decade or so ago, things were a bit different. Some of us thought we simply awkward, detached individuals.</p>\n",
+      "summary": "We forget that there was a time when the terms \"introvert\" and \"extrovert\" didn't mean anything to the common person. Naturally, the internet has shined a huge spotlight on these personality types, but, yeah, a decade or so ago, things were a bit different. Some of us thought we simply awkward, detached individuals.\n",
+      "date_published": "2016-05-24 17:02:00 -0400",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/38314.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 4440776,
+        "duration_in_seconds": 275
+      }
+    },
+    {
+      "id": "bd6a5f6b-351b-4222-bbdc-4215d62422f8",
+      "title": "About Frameworks Being Dead...",
+      "url": "http://laracasts.simplecast.fm/24",
+      "content_text": "Every six months or so, it pops up again: \"Frameworks are dead.\" But...is that the case? What does that really mean? Let's chat.\n",
+      "content_html": "<p>Every six months or so, it pops up again: \"Frameworks are dead.\" But...is that the case? What does that really mean? Let's chat.</p>\n",
+      "summary": "Every six months or so, it pops up again: \"Frameworks are dead.\" But...is that the case? What does that really mean? Let's chat.\n",
+      "date_published": "2016-05-16 14:18:00 -0400",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/37725.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 6494207,
+        "duration_in_seconds": 404
+      }
+    },
+    {
+      "id": "3e17d417-32ca-450b-8a0e-75e7be44a038",
+      "title": "The Alien",
+      "url": "http://laracasts.simplecast.fm/23",
+      "content_text": "This week's episode takes a detour, as we talk discuss the alien living inside my wife's belly.\n",
+      "content_html": "<p>This week's episode takes a detour, as we talk discuss the alien living inside my wife's belly.</p>\n",
+      "summary": "This week's episode takes a detour, as we talk discuss the alien living inside my wife's belly.\n",
+      "date_published": "2016-05-02 12:50:00 -0400",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/36889.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 5786976,
+        "duration_in_seconds": 359
+      }
+    },
+    {
+      "id": "50370b0a-a1a6-4c35-8595-f2f9b63977d7",
+      "title": "It All Goes Back to a Single Assumption...That Could Be Wrong",
+      "url": "http://laracasts.simplecast.fm/22",
+      "content_text": "The vocal consensus in the PHP community  seems to be that, unless a class is perfectly unit-testable in isolation, it's inherently poor code - and in need of refactoring. But are we sure this is true? Let's talk about it.\n",
+      "content_html": "<p>The vocal consensus in the PHP community  seems to be that, unless a class is perfectly unit-testable in isolation, it's inherently poor code - and in need of refactoring. But are we sure this is true? Let's talk about it.</p>\n",
+      "summary": "The vocal consensus in the PHP community  seems to be that, unless a class is perfectly unit-testable in isolation, it's inherently poor code - and in need of refactoring. But are we sure this is true? Let's talk about it.\n",
+      "date_published": "2016-04-20 14:37:00 -0400",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/36014.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 5426754,
+        "duration_in_seconds": 337
+      }
+    },
+    {
+      "id": "e1051e0d-805b-4e37-b955-ad040b64e239",
+      "title": "8 Marketing Tips for Developers That Cost Nothing",
+      "url": "http://laracasts.simplecast.fm/21",
+      "content_text": "If you're a developer launching your first product, it sometimes easy to forget that it's now exclusively your job to tell the world. Luckily, you don't have to reach into your pocket and spend thousands of dollars to get the word out; there are free - and more effective - alternatives.\n",
+      "content_html": "<p>If you're a developer launching your first product, it sometimes easy to forget that it's now exclusively your job to tell the world. Luckily, you don't have to reach into your pocket and spend thousands of dollars to get the word out; there are free - and more effective - alternatives.</p>\n",
+      "summary": "If you're a developer launching your first product, it sometimes easy to forget that it's now exclusively your job to tell the world. Luckily, you don't have to reach into your pocket and spend thousands of dollars to get the word out; there are free - and more effective - alternatives.\n",
+      "date_published": "2016-04-12 15:21:00 -0400",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/35125.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 12860037,
+        "duration_in_seconds": 916
+      }
+    },
+    {
+      "id": "f2e892ac-fdcd-4f21-97fd-b17ff06e1de8",
+      "title": "You Have To Be Meticulous",
+      "url": "http://laracasts.simplecast.fm/20",
+      "content_text": "In the early days of my coding career, I had a tendency to spike things out. Go fast, toy around, get it to work, and then hit deploy...all while quietly saying to myself, \"I'll go back and clean this up later.\" But I rarely actually did...\n",
+      "content_html": "<p>In the early days of my coding career, I had a tendency to spike things out. Go fast, toy around, get it to work, and then hit deploy...all while quietly saying to myself, \"I'll go back and clean this up later.\" But I rarely actually did...</p>\n",
+      "summary": "In the early days of my coding career, I had a tendency to spike things out. Go fast, toy around, get it to work, and then hit deploy...all while quietly saying to myself, \"I'll go back and clean this up later.\" But I rarely actually did...\n",
+      "date_published": "2016-04-04 12:54:00 -0400",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/34587.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 4710771,
+        "duration_in_seconds": 292
+      }
+    },
+    {
+      "id": "9bdd649f-a66f-45e3-94ba-82bc223b7f8c",
+      "title": "Does Your Class Name Really Need That Suffix?",
+      "url": "http://laracasts.simplecast.fm/19",
+      "content_text": "What do \"PostRepository\", \"TooManyMembersException\" and \"StaticallyTriggeredHydratorFactoryInterface\" all have in common? The suffix! Are you sure that you really need to tack on the name of the pattern to each class?\n",
+      "content_html": "<p>What do \"PostRepository\", \"TooManyMembersException\" and \"StaticallyTriggeredHydratorFactoryInterface\" all have in common? The suffix! Are you sure that you really need to tack on the name of the pattern to each class?</p>\n",
+      "summary": "What do \"PostRepository\", \"TooManyMembersException\" and \"StaticallyTriggeredHydratorFactoryInterface\" all have in common? The suffix! Are you sure that you really need to tack on the name of the pattern to each class?\n",
+      "date_published": "2016-03-21 16:05:00 -0400",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/32768.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 5958398,
+        "duration_in_seconds": 370
+      }
+    },
+    {
+      "id": "4d65cb5b-0c45-43a8-98b1-2a41f6a1d633",
+      "title": "The Unfortunate Reality of Continuous Learning",
+      "url": "http://laracasts.simplecast.fm/18",
+      "content_text": "Here's the thing about code-focused workshops, magazines and commercial blogs: they may not always have your best interests at heart. Let me explain...\n",
+      "content_html": "<p>Here's the thing about code-focused workshops, magazines and commercial blogs: they may not always have your best interests at heart. Let me explain...</p>\n",
+      "summary": "Here's the thing about code-focused workshops, magazines and commercial blogs: they may not always have your best interests at heart. Let me explain...\n",
+      "date_published": "2016-03-10 15:25:00 -0500",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/29156.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 5818815,
+        "duration_in_seconds": 361
+      }
+    },
+    {
+      "id": "75d7f564-8327-44a1-a0bf-0a767ce4a125",
+      "title": "Pass the Salt, Please",
+      "url": "http://laracasts.simplecast.fm/17",
+      "content_text": "The topic of discussion for this episode is a pet peeve of mine: treating developers like children. \"Bobby, you're likely to cut yourself, so, no, you may not use sharp knives.\" Is that really the type of community we wish to foster? I hope not.\n",
+      "content_html": "<p>The topic of discussion for this episode is a pet peeve of mine: treating developers like children. \"Bobby, you're likely to cut yourself, so, no, you may not use sharp knives.\" Is that really the type of community we wish to foster? I hope not.</p>\n\n<p>DHH was talking about these issues a half-decade ago. <a href=\"https://vimeo.com/17420638#t=34m55s\">Give it a listen</a>.</p>\n",
+      "summary": "The topic of discussion for this episode is a pet peeve of mine: treating developers like children. \"Bobby, you're likely to cut yourself, so, no, you may not use sharp knives.\" Is that really the type of community we wish to foster? I hope not.\n",
+      "date_published": "2016-02-29 14:42:00 -0500",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/27912.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 5025067,
+        "duration_in_seconds": 312
+      }
+    },
+    {
+      "id": "16121b00-5d9c-46b9-b0fd-48bff9121695",
+      "title": "The Q&A Episode",
+      "url": "http://laracasts.simplecast.fm/16",
+      "content_text": "I keep a list of frequently asked questions, related to Laracasts and being a programmer in general. In this episode, we'll breeze through a long list; everything from Jim Henson, to DHH, to facades!\n",
+      "content_html": "<p>I keep a list of frequently asked questions, related to Laracasts and being a programmer in general. In this episode, we'll breeze through a long list; everything from Jim Henson, to DHH, to facades!</p>\n\n<ol>\n<li>What music do you (Jeffrey) listen to when coding?</li>\n<li>Why not branch out and teach more subjects on Laracasts?</li>\n<li>Should I be using Laravel facades?</li>\n<li>Should I test every single class?</li>\n<li>Sublime, PHPStorm, or Vim?</li>\n<li>Why do developers disagree so much on best practices? Doesn't that defeat the purpose of a best practice??</li>\n<li>Do you have any advice for first-time conference speakers?</li>\n<li>What do you do if you can't grok a particular coding concept?</li>\n<li>How do you refactor code, if you have no idea where to start?</li>\n<li>What theme do you use?</li>\n<li>Who are your personal, coding, and education heroes?</li>\n</ol>\n\n",
+      "summary": "I keep a list of frequently asked questions, related to Laracasts and being a programmer in general. In this episode, we'll breeze through a long list; everything from Jim Henson, to DHH, to facades!\n",
+      "date_published": "2016-02-22 16:14:00 -0500",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/27484.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 18624339,
+        "duration_in_seconds": 1328
+      }
+    },
+    {
+      "id": "ef470c43-0306-4692-93fa-0bf2f7100f99",
+      "title": "10 Business Tips When Launching Your First App",
+      "url": "http://laracasts.simplecast.fm/15",
+      "content_text": "So you're a developer planning to launch your first SaaS or subscription site? The business side of things get really complicated... really fast, right? In this episode, I rattle off ten tips and notes to be aware of, as you prepare for launch.\n",
+      "content_html": "<p>So you're a developer planning to launch your first SaaS or subscription site? The business side of things get really complicated... really fast, right? In this episode, I rattle off ten tips and notes to be aware of, as you prepare for launch. We're less focused on code-specifics, and more the realities of starting and running a business.</p>\n\n<ol>\n<li>Your naivety is your greatest weapon.</li>\n<li>As soon as you make enough revenue to consider going full-time, get a good accountant fast.</li>\n<li>Many business books are irrelevant for this type of business. Be skeptical of their advice.</li>\n<li>Don't fake it. You're not CEO of a one-person business.</li>\n<li>Automate as much as possible. If you're doing it manually over and over, that needs to be fixed ASAP.</li>\n<li>The guilt is the hardest part.</li>\n<li>Eventually, you must schedule office hours, and adhere to them.</li>\n<li>When handling customer support requests and social media, be a human being, not a corporation.</li>\n<li>Think small - and then iterate.</li>\n<li>Decide the life you want to optimize for.</li>\n</ol>\n\n",
+      "summary": "So you're a developer planning to launch your first SaaS or subscription site? The business side of things get really complicated... really fast, right? In this episode, I rattle off ten tips and notes to be aware of, as you prepare for launch.\n",
+      "date_published": "2016-02-16 12:27:00 -0500",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/26792.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 14013887,
+        "duration_in_seconds": 998
+      }
+    },
+    {
+      "id": "54864c4b-5e3d-4484-885e-0d917459edbe",
+      "title": "Russian-Doll Caching in Laravel",
+      "url": "http://laracasts.simplecast.fm/14",
+      "content_text": "One of the things I've been tinkering with these last few days is a mechanism for performing Russian-Doll caching in Laravel. In addition to determining if I can even make it work, I've been pondering whether this truly has a place in your future projects, or if there simply isn't enough value to warrant its usage. Who knows - let's talk about it.\n",
+      "content_html": "<p>One of the things I've been tinkering with these last few days is a mechanism for performing Russian-Doll caching in Laravel. In addition to determining if I can even make it work, I've been pondering whether this truly has a place in your future projects, or if there simply isn't enough value to warrant its usage. Who knows - let's talk about it.</p>\n\n<p>Here is the series of videos mentioned in the podcast: <a href=\"https://laracasts.com/series/russian-doll-caching-in-laravel\">https://laracasts.com/series/russian-doll-caching-in-laravel</a></p>\n",
+      "summary": "One of the things I've been tinkering with these last few days is a mechanism for performing Russian-Doll caching in Laravel. In addition to determining if I can even make it work, I've been pondering whether this truly has a place in your future projects, or if there simply isn't enough value to warrant its usage. Who knows - let's talk about it.\n",
+      "date_published": "2016-02-09 12:48:00 -0500",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/26089.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 5937759,
+        "duration_in_seconds": 421
+      }
+    },
+    {
+      "id": "c2a4b146-0206-4a6d-b131-69f65fa96916",
+      "title": "Should College Be Mandatory?",
+      "url": "http://laracasts.simplecast.fm/13",
+      "content_text": "An interesting question popped up recently. Should college be mandatory for your children? We all bring our own pasts and experiences to the table, when a question like that pops up. Here's what I think...\n",
+      "content_html": "<p>An interesting question popped up recently. Should college be mandatory for your children? We all bring our own pasts and experiences to the table, when a question like that pops up. Here's what I think...</p>\n",
+      "summary": "An interesting question popped up recently. Should college be mandatory for your children? We all bring our own pasts and experiences to the table, when a question like that pops up. Here's what I think...\n",
+      "date_published": "2016-02-03 16:52:00 -0500",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/25790.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 5180356,
+        "duration_in_seconds": 367
+      }
+    },
+    {
+      "id": "39f89625-b96c-41a1-a1b8-8ac360f5bf47",
+      "title": "Unlearning Programming",
+      "url": "http://laracasts.simplecast.fm/12",
+      "content_text": "Remember, back in high school, when your English teacher prescribed countless rules and techniques for writing well? Remember how we all quietly applied these rules? Why not? Who are we to disagree at that age? However, fast forward a half-decade or so, and you start to realize that so many of these \"rules\" are simply...gibberish. Does that remind you of any other industry?\n",
+      "content_html": "<p>Remember, back in high school, when your English teacher prescribed countless rules and techniques for writing well? Remember how we all quietly applied these rules? Why not? Who are we to disagree at that age? However, fast forward a half-decade or so, and you start to realize that so many of these \"rules\" are simply...gibberish. Does that remind you of any other industry?</p>\n",
+      "summary": "Remember, back in high school, when your English teacher prescribed countless rules and techniques for writing well? Remember how we all quietly applied these rules? Why not? Who are we to disagree at that age? However, fast forward a half-decade or so, and you start to realize that so many of these \"rules\" are simply...gibberish. Does that remind you of any other industry?\n",
+      "date_published": "2016-01-25 15:12:00 -0500",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/24789.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 9001939,
+        "duration_in_seconds": 560
+      }
+    },
+    {
+      "id": "7c15f923-5e6a-4624-a029-906020bdf2bb",
+      "title": "Prepare for Terrible People",
+      "url": "http://laracasts.simplecast.fm/11",
+      "content_text": "Even a site as innocent and helpful as Laracasts has had its fair share of malicious users. It's a simple fact of the business. Are you lucky enough to have built a relatively popular product? Excellent! Now, get ready for the attacks.\n",
+      "content_html": "<p>Even a site as innocent and helpful as Laracasts has had its fair share of malicious users. It's a simple fact of the business. Are you lucky enough to have built a relatively popular product? Excellent! Now, get ready for the attacks.</p>\n",
+      "summary": "Even a site as innocent and helpful as Laracasts has had its fair share of malicious users. It's a simple fact of the business. Are you lucky enough to have built a relatively popular product? Excellent! Now, get ready for the attacks.\n",
+      "date_published": "2016-01-18 16:40:00 -0500",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/24491.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 7474309,
+        "duration_in_seconds": 465
+      }
+    },
+    {
+      "id": "f3220511-ba5b-49ae-9c46-9ad85eaf704b",
+      "title": "The 100% Goal is Wrong",
+      "url": "http://laracasts.simplecast.fm/10",
+      "content_text": "Particularly when building open source tools, I think it's important to remember that the 100% goal is wrong. Or, in other words, when you repeatedly make compromises to make everyone happy, it might just turn out that you've made no one happy.\n",
+      "content_html": "<p>Particularly when building open source tools, I think it's important to remember that the 100% goal is wrong. Or, in other words, when you repeatedly make compromises to make everyone happy, it might just turn out that you've made no one happy.</p>\n",
+      "summary": "Particularly when building open source tools, I think it's important to remember that the 100% goal is wrong. Or, in other words, when you repeatedly make compromises to make everyone happy, it might just turn out that you've made no one happy.\n",
+      "date_published": "2016-01-11 12:24:00 -0500",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/24258.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 6530561,
+        "duration_in_seconds": 406
+      }
+    },
+    {
+      "id": "bc540b41-ca54-40d9-8e80-6b7580882473",
+      "title": "Prioritize, Incentivize, Optimize",
+      "url": "http://laracasts.simplecast.fm/9",
+      "content_text": "Rather than big New Year's Resolutions, I prefer to make three simple lists. Prioritize the things you love to do, incentivize the things you need to do, and optimize the things you hate to do. It's cheesy as hell, but stay with me...\n",
+      "content_html": "<p>Rather than big New Year's Resolutions, I prefer to make three simple lists. Prioritize the things you love to do, incentivize the things you need to do, and optimize the things you hate to do. It's cheesy as hell, but stay with me...</p>\n",
+      "summary": "Rather than big New Year's Resolutions, I prefer to make three simple lists. Prioritize the things you love to do, incentivize the things you need to do, and optimize the things you hate to do. It's cheesy as hell, but stay with me...\n",
+      "date_published": "2016-01-05 16:06:00 -0500",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/24049.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 8263422,
+        "duration_in_seconds": 514
+      }
+    },
+    {
+      "id": "1317b29c-3ba4-4533-8754-a3d91f9e8e4e",
+      "title": "Taking it Too Far is a Rite of Passage",
+      "url": "http://laracasts.simplecast.fm/8",
+      "content_text": "There's no two ways about it: taking things too far is simply a rite of passage. Whether it's developers over-evangelizing microservices and command-oriented architecture, or guitar players forcing newly learned modes into their solos, we all take it too far...before finally pulling back.\n",
+      "content_html": "<p>There's no two ways about it: taking things too far is simply a rite of passage. Whether it's developers over-evangelizing microservices and command-oriented architecture, or guitar players forcing newly learned modes into their solos, we all take it too far...before finally pulling back.</p>\n",
+      "summary": "There's no two ways about it: taking things too far is simply a rite of passage. Whether it's developers over-evangelizing microservices and command-oriented architecture, or guitar players forcing newly learned modes into their solos, we all take it too far...before finally pulling back.\n",
+      "date_published": "2015-12-28 11:34:00 -0500",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/23745.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 8628314,
+        "duration_in_seconds": 537
+      }
+    },
+    {
+      "id": "53292173-04f6-457c-bd2b-3c941989dd4d",
+      "title": "Blame Amy Schumer",
+      "url": "http://laracasts.simplecast.fm/7",
+      "content_text": "So my wife and I recently took a trip into Nashville to see Amy Schumer perform. And wouldn't you know it: the moment we arrived, Bugsnag began sending me error reports. No laptop, and two hours from home. ...Crap.\n",
+      "content_html": "<p>So my wife and I recently took a trip into Nashville to see Amy Schumer perform. And wouldn't you know it: the moment we arrived, Bugsnag began sending me error reports. No laptop, and two hours from home. ...Crap.</p>\n",
+      "summary": "So my wife and I recently took a trip into Nashville to see Amy Schumer perform. And wouldn't you know it: the moment we arrived, Bugsnag began sending me error reports. No laptop, and two hours from home. ...Crap.\n",
+      "date_published": "2015-12-17 17:39:00 -0500",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/23169.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 5203514,
+        "duration_in_seconds": 323
+      }
+    },
+    {
+      "id": "9a59bdba-874d-433c-b947-0b5483fb7ee6",
+      "title": "90% of Devs Don't Test Their Code. Why?",
+      "url": "http://laracasts.simplecast.fm/6",
+      "content_text": "90% of developers don't test their code. Made up percentages aside, I think you'll find that this is fairly accurate, when you gather the entire development community. How come? With so much evangelism across the board, what's the reason behind this hesitation?\n",
+      "content_html": "<p>90% of developers don't test their code. Made up percentages aside, I think you'll find that this is fairly accurate, when you gather the entire development community. How come? With so much evangelism across the board, what's the reason behind this hesitation?</p>\n",
+      "summary": "90% of developers don't test their code. Made up percentages aside, I think you'll find that this is fairly accurate, when you gather the entire development community. How come? With so much evangelism across the board, what's the reason behind this hesitation?\n",
+      "date_published": "2015-12-11 13:52:00 -0500",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/22317.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 9377716,
+        "duration_in_seconds": 778
+      }
+    },
+    {
+      "id": "f6bf6bb1-5f2e-4e41-8e69-ed2409bd42e6",
+      "title": "Mint-Chocolate Burnout",
+      "url": "http://laracasts.simplecast.fm/5",
+      "content_text": "If we're being frank, in the last month, I've felt somewhat burned out. As developers, it happens to us all at some point or another. Let's talk about that for a bit.\n",
+      "content_html": "<p>If we're being frank, in the last month, I've felt somewhat burned out. As developers, it happens to us all at some point or another. Let's talk about that for a bit.</p>\n",
+      "summary": "If we're being frank, in the last month, I've felt somewhat burned out. As developers, it happens to us all at some point or another. Let's talk about that for a bit.\n",
+      "date_published": "2015-12-04 15:58:00 -0500",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/21823.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 5922938,
+        "duration_in_seconds": 491
+      }
+    },
+    {
+      "id": "28a84713-2a20-4e95-8712-bb1a9188d807",
+      "title": "Technical Debt vs. Mental Debt",
+      "url": "http://laracasts.simplecast.fm/4",
+      "content_text": "The concept of mental debt is something that developers never talk about. We're obsessed with pointing out technical debt, but isn't there value in worrying about our limited mental energy? There's only so much complexity we can take in.\n",
+      "content_html": "<p>The concept of mental debt is something that developers never talk about. We're obsessed with pointing out technical debt, but isn't there value in worrying about our limited mental energy? There's only so much complexity we can take in.</p>\n",
+      "summary": "The concept of mental debt is something that developers never talk about. We're obsessed with pointing out technical debt, but isn't there value in worrying about our limited mental energy? There's only so much complexity we can take in.\n",
+      "date_published": "2015-11-27 10:31:00 -0500",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/21291.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 6109777,
+        "duration_in_seconds": 506
+      }
+    },
+    {
+      "id": "c4294807-3b3e-4ff2-9213-f585518f8471",
+      "title": "Go Out On Your Own",
+      "url": "http://laracasts.simplecast.fm/3",
+      "content_text": "Making the transition from employee to business owner is, to be frank, scary as hell. If you're not careful, you'll freeze. The \"what ifs\" will quickly assume command, and you'll once again fall back to the safe path. But, if you can fight it, there just might be something better on the other side.\n",
+      "content_html": "<p>Making the transition from employee to business owner is, to be frank, scary as hell. If you're not careful, you'll freeze. The \"what ifs\" will quickly assume command, and you'll once again fall back to the safe path. But, if you can fight it, there just might be something better on the other side.</p>\n",
+      "summary": "Making the transition from employee to business owner is, to be frank, scary as hell. If you're not careful, you'll freeze. The \"what ifs\" will quickly assume command, and you'll once again fall back to the safe path. But, if you can fight it, there just might be something better on the other side.\n",
+      "date_published": "2015-11-23 10:44:00 -0500",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/21156.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 7041430,
+        "duration_in_seconds": 584
+      }
+    },
+    {
+      "id": "3a945c7b-5e85-4f61-9cd9-492cb1db9d42",
+      "title": "In Over My Head",
+      "url": "http://laracasts.simplecast.fm/2",
+      "content_text": "I'd love to tell you about the most dangerous app I've ever built. To say I was in over my head...is the understatement of the century.\n",
+      "content_html": "<p>I'd love to tell you about the most dangerous app I've ever built. To say I was in over my head...is the understatement of the century.</p>\n",
+      "summary": "I'd love to tell you about the most dangerous app I've ever built. To say I was in over my head...is the understatement of the century.\n",
+      "date_published": "2015-11-17 18:25:00 -0500",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/20336.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 3266033,
+        "duration_in_seconds": 269
+      }
+    },
+    {
+      "id": "92706ec5-81c7-49f7-94cf-b80a417d8842",
+      "title": "Nobody Knows What the Hell They're Doing",
+      "url": "http://laracasts.simplecast.fm/1",
+      "content_text": "After over a decade of working in this industry, I've come to one undeniable truth: nobody knows what the hell they're doing. Let me explain...\n",
+      "content_html": "<p>After over a decade of working in this industry, I've come to one undeniable truth: nobody knows what the hell they're doing. Let me explain...</p>\n",
+      "summary": "After over a decade of working in this industry, I've come to one undeniable truth: nobody knows what the hell they're doing. Let me explain...\n",
+      "date_published": "2015-11-16 16:25:00 -0500",
+      "author": {
+        "name": "Jeffrey Way"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/20273.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 3649334,
+        "duration_in_seconds": 301
+      }
+    }
+  ]
+}

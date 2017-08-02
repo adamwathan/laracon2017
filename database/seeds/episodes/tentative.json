@@ -1,0 +1,733 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Tentative",
+  "home_page_url": "http://tentative.fm",
+  "feed_url": "https://rss.simplecast.com/podcasts/1088/rss",
+  "description": "Tentative is a podcast about digital product design. Hosted by thoughtbot Chief Design Officer Kyle Fiedler & Reda Lemeden.",
+  "author": {
+    "url": "http://tentative.fm",
+    "name": "thoughtbot"
+  },
+  "items": [
+    {
+      "id": "70e2ff60-6ba2-407e-989b-c4f1a0948850",
+      "title": "40: CoolGraphics.com",
+      "url": "http://tentative.fm/40",
+      "content_text": "Kyle &amp; Reda discuss search engines, documentation searches, reminisce about Photoshop Slices in Dreamweaver, and question Reda's Google-Fu.\n",
+      "content_html": "<p>Kyle &amp; Reda discuss search engines, documentation searches, reminisce about Photoshop Slices in Dreamweaver, and question Reda's Google-Fu.</p>\n\n<ul>\n<li><a href=\"https://duckduckgo.com/\">DuckDuckGo</a></li>\n<li><a href=\"https://kapeli.com/dash\">Dash Documentation</a></li>\n<li><a href=\"http://www.adobe.com/products/dreamweaver.html\">Dreamweaver</a></li>\n<li><a href=\"https://www.papercall.io/krw-2017\">Keep Ruby Weird Call For Proposals</a></li>\n<li><a href=\"https://www.psd2html.com/\">PSD2HTML</a></li>\n</ul>\n\n",
+      "summary": "Kyle & Reda discuss search engines, documentation searches, reminisce about Photoshop Slices in Dreamweaver, and question Reda's Google-Fu.\n",
+      "date_published": "2017-06-30 00:01:00 -0400",
+      "author": {
+        "name": "thoughtbot"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/74756.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 31630109,
+        "duration_in_seconds": 1973
+      }
+    },
+    {
+      "id": "731ccf04-7dde-4007-9e8d-16cf07e100ae",
+      "title": "39: Too Much Fiddling",
+      "url": "http://tentative.fm/39",
+      "content_text": "Kyle &amp; Dawn discuss end-of-project planning / organization, jobs vs user stories, and the merits of Austin TX.\n",
+      "content_html": "<p>Kyle &amp; Dawn discuss end-of-project planning / organization, jobs vs user stories, and the merits of Austin TX.</p>\n\n<ul>\n<li><a href=\"https://thoughtbot.com/\">thoughtbot Home Page</a></li>\n<li><a href=\"https://chrome.google.com/webstore/detail/parentchild-management-fo/flnpbgmiploomjgagfbcjlikpiehclld\">Parent/Child Management for Trello</a></li>\n<li><a href=\"https://robots.thoughtbot.com/converting-to-jobs-stories\">Converting to Jobs Stories</a></li>\n</ul>\n\n",
+      "summary": "Kyle & Dawn discuss end-of-project planning / organization, jobs vs user stories, and the merits of Austin TX.\n",
+      "date_published": "2017-06-09 00:01:00 -0400",
+      "author": {
+        "name": "thoughtbot"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/72460.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 27232419,
+        "duration_in_seconds": 1698
+      }
+    },
+    {
+      "id": "bfbd4b66-b99d-4a1d-a7b0-5b4e06979964",
+      "title": "38: Grid Locked",
+      "url": "http://tentative.fm/38",
+      "content_text": "Brenda joins Reda to discuss CSS Grid Layout, the reasons they don't use grid frameworks as much anymore, iPad design, and the pros/cons of client vs product work.\n",
+      "content_html": "<p>Brenda joins Reda to discuss CSS Grid Layout, the reasons they don't use grid frameworks as much anymore, iPad design, and the pros/cons of client vs product work.</p>\n\n<ul>\n<li><a href=\"https://www.meetup.com/CSS-Layout-Club/\">CSS Layout Club</a></li>\n<li><a href=\"https://www.w3.org/Style/CSS/members.en.html\">CSS Working Group</a></li>\n<li><a href=\"http://jensimmons.com/post/feb-27-2017/learn-css-grid\">\"Learn CSS Grid\"</a>- Jen Simmons</li>\n<li><a href=\"http://neat.bourbon.io/\">Neat</a></li>\n</ul>\n\n",
+      "summary": "Brenda joins Reda to discuss CSS Grid Layout, the reasons they don't use grid frameworks as much anymore, iPad design, and the pros/cons of client vs product work.\n",
+      "date_published": "2017-05-26 00:01:00 -0400",
+      "author": {
+        "name": "thoughtbot"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/70542.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 25898711,
+        "duration_in_seconds": 1615
+      }
+    },
+    {
+      "id": "0201406e-ff63-49aa-90b6-1c4ff834afcf",
+      "title": "37: That Sounds Very Obvious Coming Out of My Mouth",
+      "url": "http://tentative.fm/37",
+      "content_text": "Dawn and Kyle talk about Dawn’s recent experience running usability tests, and what learned from running them. Kyle discusses how he's using Jobs-to-be-done theory to build a marketing landing page. Finally, how they approach which resolution screen to design for first.\n",
+      "content_html": "<p>Dawn and Kyle talk about Dawn’s recent experience running usability tests, and what learned from running them. Kyle discusses how he's using Jobs-to-be-done theory to build a marketing landing page. Finally, how they approach which resolution screen to design for first.</p>\n",
+      "summary": "Dawn and Kyle talk about Dawn’s recent experience running usability tests, and what learned from running them. Kyle discusses how he's using Jobs-to-be-done theory to build a marketing landing page. Finally, how they approach which resolution screen to design for first.\n",
+      "date_published": "2017-04-28 00:01:00 -0400",
+      "author": {
+        "name": "thoughtbot"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/68241.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 23485415,
+        "duration_in_seconds": 1464
+      }
+    },
+    {
+      "id": "7efcfe04-95ef-4e10-af6d-16b12b2a151b",
+      "title": "36: Floating in Space",
+      "url": "http://tentative.fm/36",
+      "content_text": "Reda and Jack talk about design from the perspective of a developer, why CSS sucks for layout, retro game making, and App Store things.\n",
+      "content_html": "<p>Reda and Jack talk about design from the perspective of a developer, why CSS sucks for layout, retro game making, and App Store things.</p>\n\n<ul>\n<li><a href=\"https://twitter.com/jacknutting\">Jack’s Twitter</a></li>\n<li><a href=\"https://discussions.apple.com/message/28469852#28469852\">Safari default CSS</a></li>\n<li><a href=\"https://css-tricks.com/snippets/css/complete-guide-grid/\">CSS Grid module</a></li>\n<li><a href=\"https://css-tricks.com/snippets/css/a-guide-to-flexbox/\">CSS Flexbox</a></li>\n<li><a href=\"http://buildphase.fm\">Build Phase</a></li>\n<li><a href=\"http://www.rebisoft.com/software/scribattle.html\">Scribattle</a></li>\n<li><a href=\"http://www.rebisoft.com/software/flippybit.html\">FlippyBit</a></li>\n<li><a href=\"https://techcrunch.com/2016/11/15/apples-big-app-store-purge-is-now-underway/\">App Store purge</a></li>\n</ul>\n\n",
+      "summary": "Reda and Jack talk about design from the perspective of a developer, why CSS sucks for layout, retro game making, and App Store things.\n",
+      "date_published": "2017-04-07 00:01:00 -0400",
+      "author": {
+        "name": "thoughtbot"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/65447.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 33940664,
+        "duration_in_seconds": 2118
+      }
+    },
+    {
+      "id": "4c1b4ab0-5490-4712-b7a3-e7112f86d7da",
+      "title": "35: Design Debt",
+      "url": "http://tentative.fm/35",
+      "content_text": "We talk about the dichotomy of perfection in design, versus shipping something that is 'good enough'. Reda discusses how he is keeping track of the places in the app that he wants to improve while trying to hit deadlines.  Also, recent experience jumping on print design and branding projects, and the different tools used when tackling them.\n",
+      "content_html": "<p>We talk about the dichotomy of perfection in design, versus shipping something that is 'good enough'. Reda discusses how he is keeping track of the places in the app that he wants to improve while trying to hit deadlines.  Also, recent experience jumping on print design and branding projects, and the different tools used when tackling them.</p>\n",
+      "summary": "We talk about the dichotomy of perfection in design, versus shipping something that is 'good enough'. Reda discusses how he is keeping track of the places in the app that he wants to improve while trying to hit deadlines.  Also, recent experience jumping on print design and branding projects, and the different tools used when tackling them.\n",
+      "date_published": "2017-03-24 00:01:00 -0400",
+      "author": {
+        "name": "thoughtbot"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/64001.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 26879662,
+        "duration_in_seconds": 1676
+      }
+    },
+    {
+      "id": "4cc42dac-7633-49e0-ac07-0831652f5116",
+      "title": "34: Big Human Aspect",
+      "url": "http://tentative.fm/34",
+      "content_text": "We discuss whether it is better to have a bunch of work waiting for you or none when getting back from a vacation, what it’s like being the only designer on a project, documenting design, and trends / style specifically for iOS (and how it relates to the web).\n",
+      "content_html": "<p>We discuss whether it is better to have a bunch of work waiting for you or none when getting back from a vacation, what it’s like being the only designer on a project, documenting design, and trends / style specifically for iOS (and how it relates to the web).</p>\n\n<ul>\n<li><a href=\"https://ottoneu.fangraphs.com/\">Ottoneu Fantasy Baseball</a></li>\n<li><a href=\"http://www.bear-writer.com/\">Bear Notes App</a></li>\n</ul>\n\n",
+      "summary": "We discuss whether it is better to have a bunch of work waiting for you or none when getting back from a vacation, what it’s like being the only designer on a project, documenting design, and trends / style specifically for iOS (and how it relates to the web).\n",
+      "date_published": "2017-03-10 00:01:00 -0500",
+      "author": {
+        "name": "thoughtbot"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/62207.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 29329738,
+        "duration_in_seconds": 1829
+      }
+    },
+    {
+      "id": "f48e56f8-e72c-403f-92a3-be3593509893",
+      "title": "33: Design Speak",
+      "url": "http://tentative.fm/33",
+      "content_text": "Kyle is joined by Jaclyn Perrone to talk about designing with seed data, and how to make a new interface not look empty. They discuss using jobs-to-be-done to influence a product through interviews and job statements, as well as how they approach designing with users in mind, and the value of real users' reactions when testing interfaces.\n",
+      "content_html": "<p>Kyle is joined by Jaclyn Perrone to talk about designing with seed data, and how to make a new interface not look empty. They discuss using jobs-to-be-done to influence a product through interviews and job statements, as well as how they approach designing with users in mind, and the value of real users' reactions when testing interfaces.</p>\n\n<ul>\n<li><a href=\"http://jobstobedone.org/\">Jobs-to-be-done</a></li>\n<li><a href=\"https://thoughtbot.com/product-design-sprint\">Design sprints</a></li>\n<li><a href=\"https://medium.com/@alanklement\">Alan Klement</a></li>\n<li><a href=\"http://tentative.fm/6\">Design sprint episode with Reda</a></li>\n<li><a href=\"http://tentative.fm/32\">Remote design sprint episode with Dawn</a></li>\n<li><a href=\"http://www.jaclynperrone.com/\">Jaclyn Perrone</a></li>\n</ul>\n\n",
+      "summary": "Kyle is joined by Jaclyn Perrone to talk about designing with seed data, and how to make a new interface not look empty. They discuss using jobs-to-be-done to influence a product through interviews and job statements, as well as how they approach designing with users in mind, and the value of real users' reactions when testing interfaces.\n",
+      "date_published": "2017-02-24 00:01:00 -0500",
+      "author": {
+        "name": "thoughtbot"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/61070.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 29588037,
+        "duration_in_seconds": 1845
+      }
+    },
+    {
+      "id": "79559cb5-2b5b-41ec-9560-5220efee7e92",
+      "title": "32: Sprinting Remotely",
+      "url": "http://tentative.fm/32",
+      "content_text": "Kyle is joined by Dawn Delatte to discuss the different tools and methodology employed in tackling a remote design sprint. They cover some of the success and failures of a recent sprint and how they split up work afterwards.\n\nDawn talks about diving into JavaScript which leads to a discussion on how they learn new technology and design techniques. Kyle is back on a rails app and is enjoying planning out the product.\n",
+      "content_html": "<p>Kyle is joined by Dawn Delatte to discuss the different tools and methodology employed in tackling a remote design sprint. They cover some of the success and failures of a recent sprint and how they split up work afterwards.</p>\n\n<p>Dawn talks about diving into JavaScript which leads to a discussion on how they learn new technology and design techniques. Kyle is back on a rails app and is enjoying planning out the product.</p>\n\n<ul>\n<li><a href=\"https://trello.com/b/lMmuSlkP/public-design-sprint-template\">Trello Board For Design Sprints</a></li>\n<li><a href=\"https://trello.com/\">Trello App</a></li>\n<li><a href=\"https://realtimeboard.com/\">Realtimeboard - Whiteboard App</a></li>\n<li><a href=\"https://fullstory.com\">Fullstory</a></li>\n<li><a href=\"https://abookapart.com/products/javascript-for-web-designers\"><em>JavaScript For Web Designers</em></a></li>\n<li><a href=\"https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27#.kef4rb3ik\">Jobs Stories</a></li>\n<li><a href=\"https://www.sketchapp.com\">Sketch</a></li>\n<li><a href=\"https://invision.com\">Invision</a></li>\n<li><a href=\"https://www.youtube.com/embed/gPbQYmkyqaE?list=PLZ5cJQifm-SCey1KN42n6e1n5a7TFdyto\">Lulu Miller Tedx Talk</a></li>\n<li><a href=\"https://twitter.com/kylefiedler/status/825072187744862208\">Kyle Recording Under a Coat</a></li>\n<li><a href=\"https://twitter.com/@dawndig\">Dawn on Twitter</a></li>\n<li><a href=\"https://t.co/IbBDzkc2BW\">Dawn's Website</a></li>\n</ul>\n\n",
+      "summary": "Kyle is joined by Dawn Delatte to discuss the different tools and methodology employed in tackling a remote design sprint. They cover some of the success and failures of a recent sprint and how they split up work afterwards.\n\nDawn talks about diving into JavaScript which leads to a discussion on how they learn new technology and design techniques. Kyle is back on a rails app and is enjoying planning out the product.\n",
+      "date_published": "2017-02-10 00:01:00 -0500",
+      "author": {
+        "name": "thoughtbot"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/59682.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 22913647,
+        "duration_in_seconds": 1428
+      }
+    },
+    {
+      "id": "211ccdae-d2c7-45ac-98fd-6676c1aed689",
+      "title": "31: A Whiff of a Story",
+      "url": "http://tentative.fm/31",
+      "content_text": "They're back! Reda and Kyle team up for a new season of Tentative. In this episode we discuss the thought process, tools, and execution plan for goals and resolutions in the new year. Plus, books for Reda to read over the coming year, and the importance of reading not only as a designer but also as a person.\n",
+      "content_html": "<p>They're back! Reda and Kyle team up for a new season of Tentative. In this episode we discuss the thought process, tools, and execution plan for goals and resolutions in the new year. Plus, books for Reda to read over the coming year, and the importance of reading not only as a designer but also as a person.</p>\n\n<ul>\n<li><a href=\"https://the-pastry-box-project.net/jina-bolton/2015-december-28\">Gina Bolton’s V2MOM</a></li>\n<li><a href=\"http://gettingthingsdone.com\"><em>Getting Things Done</em></a></li>\n<li><a href=\"http://joshuafoer.com/moonwalking-with-einstein/\"><em>Moonwalking with Einstein</em></a></li>\n<li><a href=\"http://amzn.to/2jeZA6D\">Kindle</a></li>\n<li><a href=\"http://amzn.to/2jpR5bY\"><em>Competing Against Luck</em></a>- Clayton Christiansen</li>\n<li><a href=\"http://www.whencoffeeandkalecompete.com\"><em>Kale and Coffee Compete</em></a>- Alan Klement</li>\n<li><a href=\"https://abookapart.com/products/making-sense-of-color-management/\"><em>Making Sense of Color Management</em></a>- Craig Hockenberry</li>\n<li><a href=\"http://www.creativityincbook.com\"><em>Creativity Inc</em>.</a></li>\n<li><a href=\"http://amzn.to/2jeZTym\"><em>Thinking Fast and Slow</em></a></li>\n</ul>\n\n",
+      "summary": "They're back! Reda and Kyle team up for a new season of Tentative. In this episode we discuss the thought process, tools, and execution plan for goals and resolutions in the new year. Plus, books for Reda to read over the coming year, and the importance of reading not only as a designer but also as a person.\n",
+      "date_published": "2017-01-26 00:01:00 -0500",
+      "author": {
+        "name": "thoughtbot"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/58559.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 26033294,
+        "duration_in_seconds": 1623
+      }
+    },
+    {
+      "id": "fa1e29bd-1c9a-461a-b66b-54542575fbba",
+      "title": "30: 50 Shades of Blue",
+      "url": "http://tentative.fm/30",
+      "content_text": "Using Instagram’s redesign as an example, we discuss the new wave of apps that are starting a trend of black and white UI. This leads to a debate on having concrete style trends, and why it doesn’t always make sense to follow them (but why it might make sense for Instagram).\n",
+      "content_html": "<p>Using Instagram’s redesign as an example, we discuss the new wave of apps that are starting a trend of black and white UI. This leads to a debate on having concrete style trends, and why it doesn’t always make sense to follow them (but why it might make sense for Instagram).</p>\n\n<ul>\n<li><a href=\"http://tentative.fm/8\">Episode about burnout</a></li>\n<li><a href=\"https://twitter.com/kaishin/status/757540279960399872\">Reda’s tweet</a></li>\n<li><a href=\"https://techcrunch.com/2016/05/11/instagrams-big-redesign-goes-live-with-a-colorful-new-icon-black-and-white-app-and-more/\">Instagram redesign</a></li>\n<li><a href=\"http://buildphase.fm/101\">Reda’s Build Phase Episode</a></li>\n<li><a href=\"http://lailaandbrenda.fm/\">Laila &amp; Brenda Show</a></li>\n</ul>\n\n",
+      "summary": "Using Instagram’s redesign as an example, we discuss the new wave of apps that are starting a trend of black and white UI. This leads to a debate on having concrete style trends, and why it doesn’t always make sense to follow them (but why it might make sense for Instagram).\n",
+      "date_published": "2016-08-19 00:01:00 -0400",
+      "author": {
+        "name": "thoughtbot"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/44690.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 37715727,
+        "duration_in_seconds": 2355
+      }
+    },
+    {
+      "id": "7b26d732-a320-4e2a-a8d7-7ba22b6fefab",
+      "title": "29: A Midsummer Night's Podcast",
+      "url": "http://tentative.fm/29",
+      "content_text": "Reda and Kyle talk about how Kyle is tackling a branding project for a fantasy sports app. They then dig into how both are planning for upcoming design sprints, and the methodology behind their different approaches.\n",
+      "content_html": "<p>Reda and Kyle talk about how Kyle is tackling a branding project for a fantasy sports app. They then dig into how both are planning for upcoming design sprints, and the methodology behind their different approaches.</p>\n\n<ul>\n<li><a href=\"https://dribbble.com/shots/410694-S-updated\">Stattleship Logo Dribbble</a></li>\n<li><a href=\"https://thoughtbot.com/product-design-sprint/guide\">thoughtbot design sprint guide</a></li>\n<li><a href=\"https://robots.thoughtbot.com/whats-new-in-wwdc-16-designer-edition\">Reda’s WWDC post</a></li>\n<li><a href=\"https://twitter.com/HiResPod/status/745232706942935040\">HiRes with Kyle</a></li>\n</ul>\n\n",
+      "summary": "Reda and Kyle talk about how Kyle is tackling a branding project for a fantasy sports app. They then dig into how both are planning for upcoming design sprints, and the methodology behind their different approaches.\n",
+      "date_published": "2016-07-15 00:01:00 -0400",
+      "author": {
+        "name": "thoughtbot"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/42350.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 34070286,
+        "duration_in_seconds": 2128
+      }
+    },
+    {
+      "id": "7a959633-92af-41e8-8b51-e75829757051",
+      "title": "28: A Big Blob of Happiness",
+      "url": "http://tentative.fm/28",
+      "content_text": "This episode Reda and Kyle talk about WWDC. They review new features for both iOS and the Apple Watch before discussing Apple's public attitude towards design, and speculate about the process Apple follows building software.\n",
+      "content_html": "<p>This episode Reda and Kyle talk about WWDC. They review new features for both iOS and the Apple Watch before discussing Apple's public attitude towards design, and speculate about the process Apple follows building software.</p>\n\n<ul>\n<li><a href=\"https://developer.apple.com/wwdc\">WWDC</a></li>\n<li><a href=\"http://www.apple.com/ios/ios10-preview/\">iOS</a></li>\n<li><a href=\"http://www.apple.com/watchos-preview/\">watchOS</a></li>\n<li><a href=\"http://www.apple.com/macos/sierra-preview/\">macOS</a></li>\n<li><a href=\"http://www.apple.com/apple-events/june-2016/\">WWDC Keynote</a></li>\n<li><a href=\"https://robots.thoughtbot.com/whats-new-in-wwdc-16-designer-edition\">Reda's WWDC blog post</a></li>\n<li><a href=\"http://www.apple.com/swift/playgrounds/\">Swift Playgrounds</a></li>\n</ul>\n\n",
+      "summary": "This episode Reda and Kyle talk about WWDC. They review new features for both iOS and the Apple Watch before discussing Apple's public attitude towards design, and speculate about the process Apple follows building software.\n",
+      "date_published": "2016-06-24 13:57:00 -0400",
+      "author": {
+        "name": "thoughtbot"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/40683.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 28691152,
+        "duration_in_seconds": 1791
+      }
+    },
+    {
+      "id": "cdde9e34-0c81-494b-852a-425bfa17b0cd",
+      "title": "27: Rollercoaster of Feelings",
+      "url": "http://tentative.fm/27",
+      "content_text": "This episode Reda and Kyle start off by talking about podcasting competition and Reda's childhood psychology.  Then they talk about how both are tackling SVG and walk away with different feelings about it. Reda wraps up by bashing HAML while Kyle tries to defend its pros.\n",
+      "content_html": "<p>This episode Reda and Kyle start off by talking about podcasting competition and Reda's childhood psychology.  Then they talk about how both are tackling SVG and walk away with different feelings about it. Reda wraps up by bashing HAML while Kyle tries to defend its pros.</p>\n\n<ul>\n<li><a href=\"http://buildphase.fm\">Build Phase</a></li>\n<li><a href=\"https://en.m.wikipedia.org/wiki/Massimo_Vignelli\">Massimo Vinelli</a></li>\n<li><a href=\"http://tentative.fm/10\">SVG episode</a></li>\n<li><a href=\"http://giphy.com/gifs/tv-show-deal-with-it-buffy-the-vampire-slayer-Pju03EvbkJgv6\">Deal with it</a></li>\n<li><a href=\"http://giphy.com/gifs/will-ferrell-anchorman-glass-case-of-emotion-hjB0wCLycqKbK\">Glass case of emotion</a></li>\n<li><a href=\"https://developer.mozilla.org/en-US/docs/Web/SVG/SVG_animation_with_SMIL\">SMIL</a></li>\n<li><a href=\"http://gapplin.wolfrosch.com\">Gapplin</a></li>\n<li><a href=\"https://robots.thoughtbot.com/markoff-free-markdown-previewer\">Markoff</a></li>\n<li><a href=\"https://robots.thoughtbot.com/announcing-sassquatch\">Sassquatch</a></li>\n<li><a href=\"http://haml.info\">HAML</a></li>\n<li><a href=\"http://sass-lang.com\">Sass</a></li>\n<li><a href=\"http://coffeescript.org\">Coffeescript</a></li>\n</ul>\n\n",
+      "summary": "This episode Reda and Kyle start off by talking about podcasting competition and Reda's childhood psychology.  Then they talk about how both are tackling SVG and walk away with different feelings about it. Reda wraps up by bashing HAML while Kyle tries to defend its pros.\n",
+      "date_published": "2016-06-10 08:18:00 -0400",
+      "author": {
+        "name": "thoughtbot"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/39332.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 26405333,
+        "duration_in_seconds": 1649
+      }
+    },
+    {
+      "id": "6a6373c0-8869-4e27-91d7-946cfe68edf0",
+      "title": "26: Vector of a Tack",
+      "url": "http://tentative.fm/26",
+      "content_text": "This week Reda and Kyle talk about content and typography, how both apply to the web, and why they try to use real content as much as possible. Also, the problems that they run into when designing forms and the trade offs between usability and style.\n",
+      "content_html": "<p>This week Reda and Kyle talk about content and typography, how both apply to the web, and why they try to use real content as much as possible. Also, the problems that they run into when designing forms and the trade offs between usability and style.</p>\n\n<ul>\n<li><a href=\"http://brutalistwebsites.com\">Brutalist websites</a></li>\n<li><a href=\"https://developer.apple.com/wwdc/\">WWDC</a></li>\n</ul>\n\n",
+      "summary": "This week Reda and Kyle talk about content and typography, how both apply to the web, and why they try to use real content as much as possible. Also, the problems that they run into when designing forms and the trade offs between usability and style.\n",
+      "date_published": "2016-05-27 00:01:00 -0400",
+      "author": {
+        "name": "thoughtbot"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/38468.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 39960168,
+        "duration_in_seconds": 2496
+      }
+    },
+    {
+      "id": "900bae1f-64d2-4deb-8a46-44bd4d6e2146",
+      "title": "25: Everything's a Nail",
+      "url": "http://tentative.fm/25",
+      "content_text": "Reda and Kyle talk about the new thoughtbot.com. Kyle explains some of the reasons why they redesigned instead of iterating over the existing design. They talk about parts of their process and how tools like code and graphical editors fit in. They discuss the balance between shipping and getting pixel perfection. They wrap up talking about how they balance multiple projects and multiple tasks.\n",
+      "content_html": "<p>Reda and Kyle talk about the new thoughtbot.com. Kyle explains some of the reasons why they redesigned instead of iterating over the existing design. They talk about parts of their process and how tools like code and graphical editors fit in. They discuss the balance between shipping and getting pixel perfection. They wrap up talking about how they balance multiple projects and multiple tasks.</p>\n\n<ul>\n<li><a href=\"https://thoughtbot.com\">thoughtbot.com</a></li>\n<li><a href=\"https://web.archive.org/web/20160220101808/https://thoughtbot.com/\">Last iteration of thoughtbot.com on wayback machine</a></li>\n<li><a href=\"https://robots.thoughtbot.com/how-we-use-trello-for-product-development\">How we use trello</a></li>\n<li><a href=\"https://github.com/thoughtbot/design-sprint\">Design sprint repo</a></li>\n<li><a href=\"http://thoughtbot.github.io/design-sprint-guide/\">Design sprint guide</a></li>\n<li><a href=\"http://redpen.io/\">Redpen</a></li>\n<li><a href=\"http://www.sketchapp.com\">Sketch</a></li>\n<li><a href=\"http://kromatic.thoughtbot.com\">Kromatic</a></li>\n<li><a href=\"http://trello.com/\">Trello</a></li>\n<li><a href=\"http://omnigroup.com/omnifocus\">Omnifocus</a></li>\n<li><a href=\"http://tentative.fm/14\">Tools episode</a></li>\n</ul>\n\n",
+      "summary": "Reda and Kyle talk about the new thoughtbot.com. Kyle explains some of the reasons why they redesigned instead of iterating over the existing design. They talk about parts of their process and how tools like code and graphical editors fit in. They discuss the balance between shipping and getting pixel perfection. They wrap up talking about how they balance multiple projects and multiple tasks.\n",
+      "date_published": "2016-05-13 00:01:00 -0400",
+      "author": {
+        "name": "thoughtbot"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/37589.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 36282127,
+        "duration_in_seconds": 2266
+      }
+    },
+    {
+      "id": "30b09370-f59d-4ac2-864a-304614bc1ed4",
+      "title": "24: Hunky Dory All the Time",
+      "url": "http://tentative.fm/24",
+      "content_text": "On this episode Reda and Kyle rehash their conversation about Should designers code. They talk about teams and how design should fit in. They discuss design and design thinking at a high level in the company and design leadership in our community.\n",
+      "content_html": "<p>On this episode Reda and Kyle rehash their conversation about Should designers code. They talk about teams and how design should fit in. They discuss design and design thinking at a high level in the company and design leadership in our community.</p>\n\n<ul>\n<li><a href=\"http://tentative.fm/9\">Should designers code episode</a></li>\n<li><a href=\"https://medium.com/@joulee\">Julie Zhuo Medium</a></li>\n<li><a href=\"https://medium.com/@gt\">Geoff Teehan Medium</a></li>\n<li><a href=\"https://medium.com/@jlax\">John Lax Medium</a></li>\n<li><a href=\"http://blog.capwatkins.com/\">Cap Watkins Blog</a></li>\n</ul>\n\n",
+      "summary": "On this episode Reda and Kyle rehash their conversation about Should designers code. They talk about teams and how design should fit in. They discuss design and design thinking at a high level in the company and design leadership in our community.\n",
+      "date_published": "2016-04-22 15:21:00 -0400",
+      "author": {
+        "name": "thoughtbot"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/36175.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 37354192,
+        "duration_in_seconds": 2333
+      }
+    },
+    {
+      "id": "13d6b743-af16-4ff7-9c5e-6cfc14e20222",
+      "title": "23: Darkish-Gray Patterns",
+      "url": "http://tentative.fm/23",
+      "content_text": "Cheerful Reda and Kyle talk about ethics in their work. Discussion hovers around dark patterns in design. They talk about dark patterns with cable companies, airlines, and domain registrars. And how dark patterns can effect the long term sustainability of the business. Kyle talks about the technology he's been using on parental leave and his purchase of an Apple Watch.\n",
+      "content_html": "<p>Cheerful Reda and Kyle talk about ethics in their work. Discussion hovers around dark patterns in design. They talk about dark patterns with cable companies, airlines, and domain registrars. And how dark patterns can effect the long term sustainability of the business. Kyle talks about the technology he's been using on parental leave and his purchase of an Apple Watch.</p>\n\n<ul>\n<li><a href=\"http://starwars.wikia.com/wiki/Dark_side_of_the_Force\">The Dark Side</a></li>\n<li><a href=\"http://apple.watch\">Apple Watch</a></li>\n<li><a href=\"http://darkpatterns.org/\">Darkpatterns.org</a></li>\n</ul>\n\n",
+      "summary": "Cheerful Reda and Kyle talk about ethics in their work. Discussion hovers around dark patterns in design. They talk about dark patterns with cable companies, airlines, and domain registrars. And how dark patterns can effect the long term sustainability of the business. Kyle talks about the technology he's been using on parental leave and his purchase of an Apple Watch.\n",
+      "date_published": "2016-04-04 00:01:00 -0400",
+      "author": {
+        "name": "thoughtbot"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/34518.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 40940700,
+        "duration_in_seconds": 2557
+      }
+    },
+    {
+      "id": "97cd8d16-252f-43bb-a6c6-db8091ee1ca3",
+      "title": "22: Best of Both Words",
+      "url": "http://tentative.fm/22",
+      "content_text": "Reda and Kyle talk about writing as a designer. What their process is for writing, what the process is like writing for thoughtbot, and how they differentiate posts on thoughtbot’s blog and their personal blog. Plus Reda goes on a rant against Medium.\n",
+      "content_html": "<p>Reda and Kyle talk about writing as a designer. What their process is for writing, what the process is like writing for thoughtbot, and how they differentiate posts on thoughtbot’s blog and their personal blog. Plus Reda goes on a rant against Medium.</p>\n\n<ul>\n<li><a href=\"https://robots.thoughtbot.com/\">Giant Robots</a></li>\n<li>Reda’s iOS posts\n\n<ul>\n<li><a href=\"https://robots.thoughtbot.com/building-ios-interfaces-custom-button\">Building iOS Interfaces: A Custom Button</a></li>\n<li><a href=\"https://robots.thoughtbot.com/building-ios-interfaces-views\">Building iOS Interfaces: Views</a></li>\n<li><a href=\"https://robots.thoughtbot.com/building-ios-interfaces-swift-primer\">Building iOS Interfaces: A Primer</a></li>\n</ul>\n</li>\n<li><a href=\"https://unredacted.redalemeden.com/\">Reda’s blog</a></li>\n<li><a href=\"https://www.smashingmagazine.com/2012/08/towards-retina-web/\">Reda’s Smashing Magazine Retina Article</a></li>\n<li><a href=\"https://robots.thoughtbot.com/blurred-lines\">Blurred lines</a></li>\n<li><a href=\"http://kylefiedler.com/writing/\">Kyle’s personal blog</a></li>\n<li><a href=\"http://kylefiedler.com/2016/03/01/six-years.html\">Six years</a></li>\n<li><a href=\"https://medium.com/\">Medium</a></li>\n<li><a href=\"https://www.designernews.co/\">Designer news</a></li>\n<li><a href=\"https://evernote.com/\">Evernote</a></li>\n<li><a href=\"http://www.sublimetext.com/\">Sublime Text</a></li>\n<li><a href=\"https://robots.thoughtbot.com/markoff-free-markdown-previewer\">Markoff: A Free Markdown Previewer for OS X</a></li>\n</ul>\n\n",
+      "summary": "Reda and Kyle talk about writing as a designer. What their process is for writing, what the process is like writing for thoughtbot, and how they differentiate posts on thoughtbot’s blog and their personal blog. Plus Reda goes on a rant against Medium.\n",
+      "date_published": "2016-03-18 09:00:00 -0400",
+      "author": {
+        "name": "thoughtbot"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/32571.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 38980471,
+        "duration_in_seconds": 2434
+      }
+    },
+    {
+      "id": "869651ad-28b8-4557-91be-4b1f792ac5ac",
+      "title": "21: Snapchat For Design Feedback",
+      "url": "http://tentative.fm/21",
+      "content_text": "This week Reda and Kyle talk about tools for collaborative design feedback. They talk about how they’ve used tools at thoughtbot and what are the pros and cons of each of the tools. They also talk about how they use these tools to get feedback from other designers in different thoughtbot offices for more varied design feedback.\n",
+      "content_html": "<p>This week Reda and Kyle talk about tools for collaborative design feedback. They talk about how they’ve used tools at thoughtbot and what are the pros and cons of each of the tools. They also talk about how they use these tools to get feedback from other designers in different thoughtbot offices for more varied design feedback.</p>\n\n<ul>\n<li><a href=\"http://redpen.io\">Red Pen</a></li>\n<li><a href=\"http://www.invisionapp.com/\">Invision</a></li>\n<li><a href=\"https://relay.io/\">Relay.io</a></li>\n<li><a href=\"http://hunie.co/\">Hunie</a></li>\n<li><a href=\"https://houndci.com/\">Hound</a></li>\n<li><a href=\"https://wake.io/\">Wake</a></li>\n<li><a href=\"http://www.buzzfeed.com/benrosen/how-to-snapchat-like-the-teens#.txJ7PBZP0\">Buzzfeed: Snapchat Like The Teens</a></li>\n<li><a href=\"https://thoughtbot.com/documents/thoughtbot-mutual-nda.pdf\">NDA</a></li>\n</ul>\n\n",
+      "summary": "This week Reda and Kyle talk about tools for collaborative design feedback. They talk about how they’ve used tools at thoughtbot and what are the pros and cons of each of the tools. They also talk about how they use these tools to get feedback from other designers in different thoughtbot offices for more varied design feedback.\n",
+      "date_published": "2016-02-26 11:00:00 -0500",
+      "author": {
+        "name": "thoughtbot"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/27750.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 29885261,
+        "duration_in_seconds": 1866
+      }
+    },
+    {
+      "id": "333679e2-0c7b-4d4d-b308-5a2dc710e3ed",
+      "title": "20: Minimal Viable Design",
+      "url": "http://tentative.fm/20",
+      "content_text": "In this episode Red-A and Kyle talk about product design and development at thoughtbot. They go over how they use tools like Trello and Slack to communicate with their teams and their clients and how design fits into that process. They talk about how they validate design decisions and argue about the proper pronunciation of GIF.\n",
+      "content_html": "<p>In this episode Red-A and Kyle talk about product design and development at thoughtbot. They go over how they use tools like Trello and Slack to communicate with their teams and their clients and how design fits into that process. They talk about how they validate design decisions and argue about the proper pronunciation of GIF.</p>\n\n<ul>\n<li><a href=\"http://playbook.thoughtbot.com/\">Playbook</a></li>\n<li><a href=\"http://www.gv.com/sprint/\">Design sprint</a></li>\n<li><a href=\"http://tentative.fm/6\">Design sprint tentative episode</a></li>\n<li><a href=\"https://robots.thoughtbot.com/how-we-use-trello-for-product-development\">How we use Trello</a></li>\n<li><a href=\"https://medium.com/the-job-to-be-done/replacing-the-user-story-with-the-job-story-af7cdee10c27#.j3q05vc55\">Replacing The User Story With The Job Story</a></li>\n<li><a href=\"https://robots.thoughtbot.com/converting-to-jobs-stories\">Converting To Jobs Stories</a></li>\n<li><a href=\"https://github.com/thoughtbot/high_voltage\">High voltage</a></li>\n<li><a href=\"https://robots.thoughtbot.com/test-driven-product-design\">Test-Driven Product Design</a></li>\n</ul>\n\n",
+      "summary": "In this episode Red-A and Kyle talk about product design and development at thoughtbot. They go over how they use tools like Trello and Slack to communicate with their teams and their clients and how design fits into that process. They talk about how they validate design decisions and argue about the proper pronunciation of GIF.\n",
+      "date_published": "2016-02-12 00:01:00 -0500",
+      "author": {
+        "name": "thoughtbot"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/26187.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 33841245,
+        "duration_in_seconds": 2113
+      }
+    },
+    {
+      "id": "4aca9055-fe48-49e8-9944-1d20f78fbd7f",
+      "title": "19: Death to GUIs",
+      "url": "http://tentative.fm/19",
+      "content_text": "During this episode, Reda and Kyle talk about conversational user interfaces. They talk about popular implementations of conversational UIs, how they use these tools and what effect it has on the future of graphical user interface.\n",
+      "content_html": "<p>During this episode, Reda and Kyle talk about conversational user interfaces. They talk about popular implementations of conversational UIs, how they use these tools and what effect it has on the future of graphical user interface.</p>\n",
+      "summary": "During this episode, Reda and Kyle talk about conversational user interfaces. They talk about popular implementations of conversational UIs, how they use these tools and what effect it has on the future of graphical user interface.\n",
+      "date_published": "2016-01-22 10:22:00 -0500",
+      "author": {
+        "name": "thoughtbot"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/24610.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 43054319,
+        "duration_in_seconds": 2689
+      }
+    },
+    {
+      "id": "6af51ae6-f772-4920-b513-eb80841b4477",
+      "title": "18: It's Not Satisfying Unless You Blow Into the Cartridge ",
+      "url": "http://tentative.fm/18",
+      "content_text": "In this episode Reda and Kyle talk about the homogenization in web design. How styles have evolved in the past and how they see style trends in graphic design evolving in the future. They discuss the issues and problems facing archiving application design. What they use Dribbble for and what kind of a tool it is now.\n",
+      "content_html": "<p>In this episode Reda and Kyle talk about the homogenization in web design. How styles have evolved in the pas and how they see style trends in graphic design evolving in the future. They discuss the issues and problems facing archiving application design. What they use Dribbble for and what kind of a tool it is now.</p>\n\n<ul>\n<li><a href=\"https://medium.com/intercom-inside/the-dribbblisation-of-design-406422ccb026#.c56jrstyw\">The Dribbblisation of Design</a></li>\n<li><a href=\"https://twitter.com/timcaynes/status/554593526034731008\">Agency Landing Pages</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/History_of_graphic_design\">History of trends in graphic design</a></li>\n<li><a href=\"http://www.bigspaceship.com/\">Big Spaceship</a></li>\n<li><a href=\"http://www.sitepoint.com/scrolljacking-accessibility/\">Scrolljacking</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Braun_(company\">Braun</a>)</li>\n<li><a href=\"https://en.wikipedia.org/wiki/Dieter_Rams\">Dieter Rams</a></li>\n<li><a href=\"https://dribbble.com/\">Dribbble</a></li>\n<li><a href=\"http://gallery.wacom.com/gallery/31904389/Behance-for-Apple-TV\">Apple TV Behance App</a></li>\n</ul>\n\n",
+      "summary": "In this episode Reda and Kyle talk about the homogenization in web design. How styles have evolved in the past and how they see style trends in graphic design evolving in the future. They discuss the issues and problems facing archiving application design. What they use Dribbble for and what kind of a tool it is now.\n",
+      "date_published": "2016-01-08 00:01:00 -0500",
+      "author": {
+        "name": "thoughtbot"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/24082.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 43169676,
+        "duration_in_seconds": 2696
+      }
+    },
+    {
+      "id": "f15b88ad-19b0-43de-a13a-9aea5664d4ca",
+      "title": "17: Let's Talk About CSS Baby (Lets Talk About You and Me)",
+      "url": "http://tentative.fm/17",
+      "content_text": "During this episode, Reda and Kyle talk about their qualms with CSS. They talk about CSS naming conventions, how they tackle layout and the wonderful world of flexbox. Kyle tries to educate Reda on some early 90’s pop music and fails.\n",
+      "content_html": "<p>During this episode, Reda and Kyle talk about their qualms with CSS. They talk about CSS naming conventions, how they tackle layout and the wonderful world of flexbox. Kyle tries to educate Reda on some early 90’s pop music and fails.</p>\n\n<ul>\n<li><a href=\"https://www.youtube.com/watch?v=ydrtF45-y-g\">Let’s talk about sex baby</a></li>\n<li><a href=\"https://en.bem.info/\">BEM</a></li>\n<li><a href=\"https://css-tricks.com/snippets/css/a-guide-to-flexbox/\">Flexbox</a></li>\n<li><a href=\"http://neat.bourbon.io/\">Neat</a></li>\n<li><a href=\"http://oocss.org/\">OOCSS</a></li>\n<li><a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_variables\">CSS Variables</a></li>\n</ul>\n\n",
+      "summary": "During this episode, Reda and Kyle talk about their qualms with CSS. They talk about CSS naming conventions, how they tackle layout and the wonderful world of flexbox. Kyle tries to educate Reda on some early 90’s pop music and fails.\n",
+      "date_published": "2015-12-24 00:01:00 -0500",
+      "author": {
+        "name": "thoughtbot"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/23545.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 31094837,
+        "duration_in_seconds": 2589
+      }
+    },
+    {
+      "id": "cc60752f-04f0-4a72-be7a-9fd9f902f94e",
+      "title": "16: Master of IE ",
+      "url": "http://tentative.fm/16",
+      "content_text": "In this episode Reda and Kyle talk about browser testing. They discuss how they approach testing each browser and operating system and devices. They talk about the differences in type rendering, browser user interface, and layout. Reda talks about how he approaches a simple fluid layout, Kyle talks about his most recent project and some layout challenges and they talk about using CSS for layout.\n",
+      "content_html": "<p>In this episode Reda and Kyle talk about browser testing. They discuss how they approach testing each browser and operating system and devices. They talk about the differences in type rendering, browser user interface, and layout. Reda talks about how he approaches a simple fluid layout, Kyle talks about his most recent project and some layout challenges and they talk about using CSS for layout.</p>\n\n<ul>\n<li><a href=\"https://www.browserstack.com/\">Browserstack</a></li>\n<li><a href=\"https://robots.thoughtbot.com/getting-my-ie-vm-on\">IE blog post</a></li>\n<li><a href=\"https://github.com/xdissent/ievms\">IE Setup</a></li>\n<li><a href=\"http://tentative.fm/4\">Feedback episode</a></li>\n</ul>\n\n",
+      "summary": "In this episode Reda and Kyle talk about browser testing. They discuss how they approach testing each browser and operating system and devices. They talk about the differences in type rendering, browser user interface, and layout. Reda talks about how he approaches a simple fluid layout, Kyle talks about his most recent project and some layout challenges and they talk about using CSS for layout.\n",
+      "date_published": "2015-12-04 00:01:00 -0500",
+      "author": {
+        "name": "thoughtbot"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/21517.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 32430530,
+        "duration_in_seconds": 2700
+      }
+    },
+    {
+      "id": "f7524473-6d05-42d8-a40c-5d0228ea1d86",
+      "title": "15: X is bad for Y",
+      "url": "http://tentative.fm/15",
+      "content_text": "In this episode Reda and Kyle discuss iteration and design process. They talk about the differences between how a junior designer takes on a project and how a senior designer takes on a project. Kyle talks about how jobs to be done fits into his design process. They also go on a few tangents of tracking personal data and posting articles on medium.\n",
+      "content_html": "<p>In this episode Reda and Kyle discuss iteration and design process. They talk about the differences between how a junior designer takes on a project and how a senior designer takes on a project. Kyle talks about how jobs to be done fits into his design process. They also go on a few tangents of tracking personal data and posting articles on medium.</p>\n\n<ul>\n<li><a href=\"https://medium.com/the-year-of-the-looking-glass/junior-designers-vs-senior-designers-fbe483d3b51e\">Julie Zhuo on Junior Designers vs. Senior Designers</a></li>\n<li><a href=\"https://github.com/thoughtbot/design-sprint\">Design sprints</a></li>\n<li><a href=\"http://jtbd.org\">Jobs to be done</a></li>\n<li><a href=\"http://invision.com\">Invision</a></li>\n<li><a href=\"https://marvelapp.com/\">Marvel</a></li>\n<li><a href=\"https://robots.thoughtbot.com/blurred-lines\">Blurred lines</a></li>\n<li><a href=\"https://medium.com/\">Medium</a></li>\n</ul>\n\n",
+      "summary": "In this episode Reda and Kyle discuss iteration and design process. They talk about the differences between how a junior designer takes on a project and how a senior designer takes on a project. Kyle talks about how jobs to be done fits into his design process. They also go on a few tangents of tracking personal data and posting articles on medium.\n",
+      "date_published": "2015-11-13 00:01:00 -0500",
+      "author": {
+        "name": "thoughtbot"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/20034.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 30717342,
+        "duration_in_seconds": 2557
+      }
+    },
+    {
+      "id": "b601fcab-a3b4-4cf4-bdd0-fae95fde5473",
+      "title": "14: Photoskop and Other Tools",
+      "url": "http://tentative.fm/14",
+      "content_text": "This week Reda and Kyle talk about the tools that they use during their design process. They touch on everything from graphical editors, color pickers and task list applications.\n",
+      "content_html": "<p>This week Reda and Kyle talk about the tools that they use during their design process. They touch on everything from graphical editors, color pickers and task list applications.</p>\n\n<ul>\n<li><a href=\"http://tentative.fm/3\">Text Editor Episode</a></li>\n<li><a href=\"http://www.photoshop.com/\">Photoshop</a></li>\n<li><a href=\"https://www.adobe.com/products/illustrator.html\">Illustrator</a></li>\n<li><a href=\"http://www.sketchapp.com/\">Sketch</a></li>\n<li><a href=\"https://support.google.com/chrome/answer/95416?hl=en\">Chrome preference for change</a></li>\n<li><a href=\"https://affinity.serif.com/en-us/designer/\">Affinity designer</a></li>\n<li><a href=\"http://tentative.fm/10\">Brenda’s SVG Episode</a></li>\n<li><a href=\"https://github.com/svg/svgo\">SVGo</a></li>\n<li><a href=\"https://itunes.apple.com/us/app/sip/id507257563?mt=12\">Sip</a></li>\n<li><a href=\"http://www.pixa-app.com/\">Pixa</a></li>\n<li><a href=\"http://www.colourlovers.com/\">Colour lovers</a></li>\n<li><a href=\"https://color.adobe.com/create/color-wheel/\">Kuler</a></li>\n<li><a href=\"https://imageoptim.com/\">ImageOptim</a></li>\n<li><a href=\"https://typekit.com/\">Typekit</a></li>\n<li><a href=\"https://www.google.com/fonts#\">Google Fonts</a></li>\n<li><a href=\"http://www.sublimetext.com/\">Sublime Text</a></li>\n<li><a href=\"https://kapeli.com/dash\">Dash</a></li>\n<li><a href=\"http://smilesoftware.com/TextExpander/index.html\">Text Expander</a></li>\n<li><a href=\"https://www.apple.com/osx/\">El Capitan</a></li>\n<li><a href=\"https://evernote.com/\">Evernote</a></li>\n<li><a href=\"http://simplenote.com/\">Simplenote</a></li>\n<li><a href=\"https://keep.google.com\">Google Keep</a></li>\n<li><a href=\"http://www.barebones.com/products/Yojimbo/\">Yojimbo</a></li>\n<li><a href=\"https://www.omnigroup.com/applications/omnifocus/\">Omnifocus</a></li>\n<li><a href=\"http://culturedcode.com/things/\">Things</a></li>\n<li><a href=\"https://www.wunderlist.com/\">Wunderlist</a></li>\n<li><a href=\"http://realmacsoftware.com/clear/\">Clear</a></li>\n<li><a href=\"https://www.google.com/inbox/\">Google Inbox</a></li>\n<li><a href=\"http://www.mailboxapp.com/\">Mailbox</a></li>\n</ul>\n\n",
+      "summary": "This week Reda and Kyle talk about the tools that they use during their design process. They touch on everything from graphical editors, color pickers and task list applications.\n",
+      "date_published": "2015-10-23 00:01:00 -0400",
+      "author": {
+        "name": "thoughtbot"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/19208.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 32946423,
+        "duration_in_seconds": 2743
+      }
+    },
+    {
+      "id": "80dcd9e7-0e00-471a-b0e6-74d62198232f",
+      "title": "13: Designing For Human Emotion",
+      "url": "http://tentative.fm/13",
+      "content_text": "This week Reda and Kyle talk about empathy in design and keeping in mind a users state of mind while designing. They give examples when when humor and playfulness are good to add into user experience and some cases when it isn't.\n",
+      "content_html": "<p>This week Reda and Kyle talk about empathy in design and keeping in mind a users state of mind while designing. They give examples when when humor and playfulness are good to add into user experience and some cases when it isn't.</p>\n\n<ul>\n<li><a href=\"https://twitter.com/kaishin/status/644665771566723076\">Reda's tweet about Slack changelog</a></li>\n<li><a href=\"http://thenextweb.com/creativity/2015/02/14/genius-timehops-valentines-day-warning-screen/\">Timehop on Valentine's Day</a></li>\n<li><a href=\"http://meyerweb.com/eric/thoughts/2014/12/24/inadvertent-algorithmic-cruelty/\">Eric Meyer year on Facebook</a></li>\n<li><a href=\"http://thewebahead.net/91\">Eric Meyer on Designing for Crisis</a></li>\n<li><a href=\"http://www.buzzfeed.com/mikehayes/new-york-city-childrens-hospital-gets-a-pirate-themed-x-ray#.xk0NO86m8q\">Children's pirate-themed scanner</a> (In NYC not Philly!)</li>\n<li><a href=\"http://blog.mailchimp.com/party-pooper-mode-how-to-hide-mailchimp/\">Mailchimp party pooper mode</a></li>\n<li><a href=\"https://signalvnoise.com/posts/3104-behind-the-scenes-reinventing-our-default-profile-pictures\">Basecamp default profile photos</a></li>\n</ul>\n\n",
+      "summary": "This week Reda and Kyle talk about empathy in design and keeping in mind a users state of mind while designing. They give examples when when humor and playfulness are good to add into user experience and some cases when it isn't.\n",
+      "date_published": "2015-09-18 00:01:00 -0400",
+      "author": {
+        "name": "thoughtbot"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/17934.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 26461055,
+        "duration_in_seconds": 2203
+      }
+    },
+    {
+      "id": "fa95ec1a-5fdd-49a9-94de-c7582addbcd6",
+      "title": "12: How Many Questions Do You Ask?",
+      "url": "http://tentative.fm/12",
+      "content_text": "This episode Reda and Kyle talk about the thoughtbot hiring process for designers. They talk about what they look for in designers, what they look for in a portfolio, and details about each step in the hiring process.\n",
+      "content_html": "<p>This episode Reda and Kyle talk about the thoughtbot hiring process for designers. They talk about what they look for in designers, what they look for in a portfolio, and details about each step in the hiring process.</p>\n\n<ul>\n<li><a href=\"https://robots.thoughtbot.com/blurred-lines\">Blurred lines</a></li>\n<li><a href=\"http://workplaceinsight.net/organic-design-used-reflect-way-people-move-around-building/\">Organically designing the pathways around buildings</a></li>\n<li><a href=\"http://tentative.fm/4\">The Feedback Episode</a></li>\n<li><a href=\"https://playbook.thoughtbot.com/#hiring\">Playbook hiring</a></li>\n</ul>\n\n",
+      "summary": "This episode Reda and Kyle talk about the thoughtbot hiring process for designers. They talk about what they look for in designers, what they look for in a portfolio, and details about each step in the hiring process.\n",
+      "date_published": "2015-09-04 00:01:00 -0400",
+      "author": {
+        "name": "thoughtbot"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/17033.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 30321744,
+        "duration_in_seconds": 2524
+      }
+    },
+    {
+      "id": "6223dc27-39ea-49d4-8009-c249b98d854f",
+      "title": "11: Your Favicon is Ugly",
+      "url": "http://tentative.fm/11",
+      "content_text": "Reda and Kyle follow up on SVGs, talk about differences between Chrome and new Safari's pinned tabs. They discuss some of the ways of allowing users control over design and themes of the app they are designing. Lastly they talk about how they design with real content or as close to as real as possible. BONUS: Kyle sings a line of Aerosmith.\n",
+      "content_html": "<p>Reda and Kyle follow up on SVGs, talk about differences between Chrome and new Safari's pinned tabs. They discuss some of the ways of allowing users control over design and themes of the app they are designing. Lastly they talk about how they design with real content or as close to as real as possible. BONUS: Kyle sings a line of Aerosmith.</p>\n\n<ul>\n<li><a href=\"https://trello.com/inspiration\">Trello inspiration</a></li>\n<li><a href=\"https://www.apple.com/osx/elcapitan-preview/#safari\">Safaris new features</a></li>\n<li><a href=\"https://vimium.github.io/\">Vimium</a></li>\n<li><a href=\"http://d2vsv59rk8iloc.galaxant.com/000/197/078/desktop-1434650572.jpg\">MySpace default theme</a></li>\n<li><a href=\"https://developer.apple.com/videos/wwdc/2015/?id=227\">WWDC Session introducing NSPersonNameComponentsFormatter</a></li>\n<li><a href=\"https://github.com/preciousforever/sketch-data-populator\">Sketch Data Populator</a></li>\n<li><a href=\"https://github.com/florianpnn/sketch-data-parser\">Sketch Data Parser</a></li>\n<li><a href=\"http://internet-explorer-for-mac.en.softonic.com/mac\">IE Mac 5.5</a></li>\n</ul>\n\n",
+      "summary": "Reda and Kyle follow up on SVGs, talk about differences between Chrome and new Safari's pinned tabs. They discuss some of the ways of allowing users control over design and themes of the app they are designing. Lastly they talk about how they design with real content or as close to as real as possible. BONUS: Kyle sings a line of Aerosmith.\n",
+      "date_published": "2015-08-28 00:01:00 -0400",
+      "author": {
+        "name": "thoughtbot"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/16217.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 33736680,
+        "duration_in_seconds": 2809
+      }
+    },
+    {
+      "id": "8bc9692f-10f1-4442-b095-9ce14b18b9c6",
+      "title": "10: Doing Things the Hard Way (Brenda Storer)",
+      "url": "http://tentative.fm/10",
+      "content_text": "In this episode, Brenda Storer stands in for the vacationing Reda. Brenda and Kyle talk about Brenda's recent talk on SVG's. The in's and out's of her process of learning about them and talking about them. They also talk about giving talks.\n\nThis episode of Tentative is sponsored by Code School. Entertaining online learning for existing and aspiring developers. Leave a review on our iTunes page to be entered to win a free month of Code School.\n",
+      "content_html": "<p>In this episode, Brenda Storer stands in for the vacationing Reda. Brenda and Kyle talk about Brenda's recent talk on SVG's. The in's and out's of her process of learning about them and talking about them. They also talk about giving talks.</p>\n\n<p>This episode of The Bike Shed is sponsored by:</p>\n\n<ul>\n<li><a href=\"http://www.codeschool.com/thebikeshed/?utm_source=test&amp;utm_medium=podcast&amp;utm_content=homepage&amp;utm_campaign=the%20bike%20shed\">Code School</a>: Entertaining online learning for existing and aspiring developers. Leave a review on our <a href=\"https://itunes.apple.com/us/podcast/the-bike-shed/id935763119?mt=2\">iTunes page</a> to be entered to win a free month of Code School.</li>\n</ul>\n\n\n<p>Links and Show Notes</p>\n\n<ul>\n<li><a href=\"http://brendastorer.com/presentations/2015-10-CSSDevConf-SVGs/index.html\">Slides from the talk</a></li>\n<li><a href=\"http://codepen.io/brendamarienyc\">Brenda's codepen account</a> with a bunch of simple examples of SVGs to play with</li>\n<li><a href=\"https://github.com/svg/svgo\">SVGO</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=hI9roqOKKO8&amp;list=PL37ZVnwpeshH_e3YNmABDup81_1I7rCnC&amp;index=2\">Sara Soueidan's 2014 CSSConf talk</a></li>\n<li><a href=\"http://tutorials.jenkov.com/svg/index.html\">Jacob Jenkov's SVG Book</a> online</li>\n<li><a href=\"https://css-tricks.com/svg-symbol-good-choice-icons/\">Chris Coyier's technique</a> for using symbols as icons in svgs</li>\n<li><a href=\"http://jakearchibald.com/2013/animated-line-drawing-svg/\">Jake Archibald's article</a> on animating a stroke</li>\n<li><a href=\"https://useiconic.com/\">Iconic Icon Responsive Icons</a></li>\n<li><a href=\"http://manhattanjs.com\">ManhattanJS</a> website with animated clouds</li>\n<li><a href=\"https://twitter.com/brendamarienyc\">Brenda on Twitter</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Brenda Storer stands in for the vacationing Reda. Brenda and Kyle talk about Brenda's recent talk on SVG's. The in's and out's of her process of learning about them and talking about them. They also talk about giving talks.\n\nThis episode of Tentative is sponsored by Code School. Entertaining online learning for existing and aspiring developers. Leave a review on our iTunes page to be entered to win a free month of Code School.\n",
+      "date_published": "2015-07-31 00:01:00 -0400",
+      "author": {
+        "name": "thoughtbot"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/14752.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 31147422,
+        "duration_in_seconds": 2593
+      }
+    },
+    {
+      "id": "cb1b9434-6a06-47be-9f9f-74b17a3cdca0",
+      "title": "9: Should Designers Code?",
+      "url": "http://tentative.fm/9",
+      "content_text": "In this episode, Kyle and Reda tackle the 'should designers code' debate. They talk about the differences between designing vs implementing, what to look for in a good designer and if developers should know how to design.\n\nThis episode of Tentative is sponsored by Code School. Entertaining online learning for existing and aspiring developers. Leave a review on our iTunes page to be entered to win a free month of Code School.\n",
+      "content_html": "<p>In this episode, Kyle and Reda tackle the 'should designers code' debate. They talk about the differences between designing vs implementing, what to look for in a good designer and if developers should know how to design.</p>\n\n<p>This episode of Tentative is sponsored by:</p>\n\n<ul>\n<li><a href=\"http://www.codeschool.com/tentative/?utm_source=test&amp;utm_medium=podcast&amp;utm_content=homepage&amp;utm_campaign=tentative\">Code School</a>: Entertaining online learning for existing and aspiring developers. Leave a review on our <a href=\"https://itunes.apple.com/us/podcast/tentative/id978483997?mt=2\">iTunes page</a> to be entered to win a free month of Code School.</li>\n</ul>\n\n\n<p>Links &amp; Show Notes</p>\n\n<ul>\n<li><a href=\"https://soundcloud.com/between-screens/kyle-fiedler-feedback-project-retrospectives-mentors-product-managers-clients\">Between Screens with Kyle</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Kyle and Reda tackle the 'should designers code' debate. They talk about the differences between designing vs implementing, what to look for in a good designer and if developers should know how to design.\n\nThis episode of Tentative is sponsored by Code School. Entertaining online learning for existing and aspiring developers. Leave a review on our iTunes page to be entered to win a free month of Code School.\n",
+      "date_published": "2015-07-17 00:01:00 -0400",
+      "author": {
+        "name": "thoughtbot"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/14211.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 25981131,
+        "duration_in_seconds": 2163
+      }
+    },
+    {
+      "id": "7ebac820-cfc9-467d-a365-ba610c6e480a",
+      "title": "8: Padding Rocks & Kerning Waves",
+      "url": "http://tentative.fm/8",
+      "content_text": "In this episode, Kyle and Reda talk about vacation as a designer,  some of the signs that they are burning out and how they deal with burnout.\n\nThis episode of Tentative is sponsored by Code School. Entertaining online learning for existing and aspiring developers. Leave a review on our iTunes page to be entered to win a free month of Code School.\n",
+      "content_html": "<p>In this episode, Kyle and Reda talk about vacation as a designer,  some of the signs that they are burning out and how they deal with burnout.</p>\n\n<p>This episode of Tentative is sponsored by:</p>\n\n<ul>\n<li><a href=\"http://www.codeschool.com/tentative/?utm_source=test&amp;utm_medium=podcast&amp;utm_content=homepage&amp;utm_campaign=tentative\">Code School</a>: Entertaining online learning for existing and aspiring developers. Leave a review on our <a href=\"https://itunes.apple.com/us/podcast/tentative/id978483997?mt=2\">iTunes page</a> to be entered to win a free month of Code School.</li>\n</ul>\n\n\n<p>Links &amp; Show Notes</p>\n\n<ul>\n<li><a href=\"https://soundcloud.com/between-screens/kyle-fiedler-good-designer-saying-no-design-questions-apprentices-onboarding\">Between Screens Podcast with Kyle</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Kyle and Reda talk about vacation as a designer,  some of the signs that they are burning out and how they deal with burnout.\n\nThis episode of Tentative is sponsored by Code School. Entertaining online learning for existing and aspiring developers. Leave a review on our iTunes page to be entered to win a free month of Code School.\n",
+      "date_published": "2015-07-03 00:01:00 -0400",
+      "author": {
+        "name": "thoughtbot"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/13733.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 29408606,
+        "duration_in_seconds": 2448
+      }
+    },
+    {
+      "id": "b2df34dd-939e-4ae3-a072-247ea2ddb6e6",
+      "title": "7: Hamburgers Are an Abomination ",
+      "url": "http://tentative.fm/7",
+      "content_text": "In this episode, Kyle talks about his current project, Reda talks a lot about accessibility and how he designs for it, and Kyle trolls Reda into a rant about the Hamburger icon.\n",
+      "content_html": "<p>In this episode, Kyle talks about his current project, Reda talks a lot about accessibility and how he designs for it, and Kyle trolls Reda into a rant about the Hamburger icon.</p>\n\n<ul>\n<li><a href=\"http://www.globalaccessibilityawarenessday.org/\">World Accessibility Day</a></li>\n<li><a href=\"http://colororacle.org/\">Color Oracle</a> is free Mac app to help you view your designs through the eyes of someone with color Blindness</li>\n<li><a href=\"http://xscopeapp.com/\">Xscope</a> has a bunch of utilities one of which can view colors from different types of color blindness.</li>\n<li><a href=\"http://www.lukew.com/ff/entry.asp?1945\">Obvious always wins by Luke W</a></li>\n<li>Not mentioned but we recommend watching <a href=\"https://www.youtube.com/playlist?list=PL8tzorAO7s0iVxEEWu4W4L9Y_5HVUk-FI\">Web Accessibility Wilderness Guide</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Kyle talks about his current project, Reda talks a lot about accessibility and how he designs for it, and Kyle trolls Reda into a rant about the Hamburger icon.\n",
+      "date_published": "2015-06-19 00:01:00 -0400",
+      "author": {
+        "name": "thoughtbot"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/13153.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 35199326,
+        "duration_in_seconds": 2931
+      }
+    },
+    {
+      "id": "75482b2c-dddb-4f3f-ad66-8673cbb583b5",
+      "title": "6: Peeling Potatoes With Scissors",
+      "url": "http://tentative.fm/6",
+      "content_text": "In this episode, Kyle &amp; Reda finally talk about design sprints, they discuss the process at thoughtbot, argue about prototyping and how they pick the right tool for the right job.\n",
+      "content_html": "<p>In this episode, Kyle &amp; Reda finally talk about design sprints, they discuss the process at thoughtbot, argue about prototyping and how they pick the right tool for the right job.</p>\n\n<ul>\n<li><a href=\"http://www.invisionapp.com/\">Invision</a></li>\n<li><a href=\"https://marvelapp.com/\">Marvel</a></li>\n<li><a href=\"https://github.com/thoughtbot/design-sprint\">thoughtbot Design Sprint Repo</a></li>\n<li><a href=\"http://www.gv.com/sprint/\">Google Ventures design sprint</a></li>\n<li><a href=\"http://gamestorming.com/\">Gamestorming</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Kyle & Reda finally talk about design sprints, they discuss the process at thoughtbot, argue about prototyping and how they pick the right tool for the right job.\n",
+      "date_published": "2015-06-11 00:01:00 -0400",
+      "author": {
+        "name": "thoughtbot"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/12990.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 31553050,
+        "duration_in_seconds": 2627
+      }
+    },
+    {
+      "id": "fe5a9c34-6b78-44cb-92ff-260134a77210",
+      "title": "5: It's Pronounced Al-u-minney-um",
+      "url": "http://tentative.fm/5",
+      "content_text": "In this episode, Kyle &amp; Reda follow up about product focus, then move on to talk about designer job titles and experimentation in UI design.\n",
+      "content_html": "<p>In this episode, Kyle &amp; Reda follow up about product focus, then move on to talk about designer job titles and experimentation in UI design.</p>\n\n<ul>\n<li><a href=\"http://jobstobedone.org/\">JTBD</a></li>\n<li><a href=\"http://www.cupertino.org/index.aspx?page=1107\">New apple building</a></li>\n<li><a href=\"http://dictionary.reference.com/browse/product\">Definition of Product</a></li>\n<li><a href=\"http://playroto.to/\">Rototo</a></li>\n<li><a href=\"http://littlebigdetails.com/\">Little Big Details</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Kyle & Reda follow up about product focus, then move on to talk about designer job titles and experimentation in UI design.\n",
+      "date_published": "2015-05-22 00:01:00 -0400",
+      "author": {
+        "name": "thoughtbot"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/12478.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 29343795,
+        "duration_in_seconds": 2443
+      }
+    },
+    {
+      "id": "7a6872a9-2d86-45c3-b386-b75eb584efdf",
+      "title": "4: Leggo' My Ego",
+      "url": "http://tentative.fm/4",
+      "content_text": "In this episode, Kyle &amp; Reda talk about giving design feedback to peers, and receiving feedback from clients and users.\n",
+      "content_html": "<p>In this episode, Kyle &amp; Reda talk about giving design feedback to peers, and receiving feedback from clients and users.</p>\n\n<ul>\n<li><a href=\"http://unredacted.redalemeden.com/page-3/\">On Design Feedback</a></li>\n<li><a href=\"http://sassquatch.thoughtbot.com/\">Sassquatch</a>- <em>Use coupon code TENTATIVE for 25% off!</em></li>\n</ul>\n\n",
+      "summary": "In this episode, Kyle & Reda talk about giving design feedback to peers, and receiving feedback from clients and users.\n",
+      "date_published": "2015-05-08 00:01:00 -0400",
+      "author": {
+        "name": "thoughtbot"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/11281.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 33313676,
+        "duration_in_seconds": 2774
+      }
+    },
+    {
+      "id": "4d6b3817-d2d1-45d8-89b4-acb24b429c3d",
+      "title": "3: A Fridge with Key Bindings",
+      "url": "http://tentative.fm/3",
+      "content_text": "In this episode, Kyle &amp; Reda talks about text editors, Sassquatch, and Sass.\n",
+      "content_html": "<p>In this episode, Kyle &amp; Reda talks about text editors, Sassquatch, and Sass.</p>\n\n<ul>\n<li><a href=\"https://code.google.com/p/macvim/\">Macvim</a></li>\n<li><a href=\"http://www.sublimetext.com/3\">Sublime 3</a></li>\n<li><a href=\"http://sassquatch.thoughtbot.com/\">Sassquatch</a>- <em>Use coupon code TENTATIVE for 25% off!</em></li>\n</ul>\n\n",
+      "summary": "In this episode, Kyle & Reda talks about text editors, Sassquatch, and Sass.\n",
+      "date_published": "2015-04-27 17:28:00 -0400",
+      "author": {
+        "name": "thoughtbot"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/11041.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 25153259,
+        "duration_in_seconds": 2094
+      }
+    },
+    {
+      "id": "a6460d8f-20f1-4b19-8b56-afc485cfacd4",
+      "title": "2: Game-changing UX",
+      "url": "http://tentative.fm/2",
+      "content_text": "In this episode, Reda &amp; Kyle—mostly Reda—talk about game design versus app design, juggling between projects, and creativity.\n",
+      "content_html": "<p>In this episode, Reda &amp; Kyle—mostly Reda—talk about game design versus app design, juggling between projects, and creativity.</p>\n\n<ul>\n<li><a href=\"http://playroto.to/\">Rototo</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Reda & Kyle—mostly Reda—talk about game design versus app design, juggling between projects, and creativity.\n",
+      "date_published": "2015-04-10 00:01:00 -0400",
+      "author": {
+        "name": "thoughtbot"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/10028.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 22043078,
+        "duration_in_seconds": 1834
+      }
+    },
+    {
+      "id": "ea24d8c5-8895-48a0-8f9b-2c759e883518",
+      "title": "1: Don't Say UX",
+      "url": "http://tentative.fm/1",
+      "content_text": "In our inaugural episode, Reda &amp; Kyle discuss the latest browser announcements, React Native, and buzzword pet-peeves.\n",
+      "content_html": "<p>In our inaugural episode, Reda &amp; Kyle discuss the latest browser announcements, React Native, and buzzword pet-peeves.</p>\n\n<ul>\n<li><a href=\"http://www.theverge.com/2015/1/21/7863331/microsoft-project-spartan-new-web-browser\">Microsoft Announces \"Project Spartan\"</a></li>\n<li><a href=\"https://vivaldi.com/\">Vivaldi</a></li>\n<li><a href=\"https://code.facebook.com/videos/786462671439502/react-js-conf-2015-keynote-introducing-react-native-/\">React.js Conf 2015 Keynote</a>- Introducing React Native</li>\n</ul>\n\n",
+      "summary": "In our inaugural episode, Reda & Kyle discuss the latest browser announcements, React Native, and buzzword pet-peeves.\n",
+      "date_published": "2015-03-19 15:00:00 -0400",
+      "author": {
+        "name": "thoughtbot"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/9380.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 26418798,
+        "duration_in_seconds": 2199
+      }
+    }
+  ]
+}

@@ -1,0 +1,1237 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Full Stack Radio",
+  "home_page_url": "http://fullstackradio.com",
+  "feed_url": "https://rss.simplecast.com/podcasts/279/rss",
+  "description": "A podcast for developers interested in building great software products. Every episode, Adam Wathan is joined by a guest to talk about everything from product design and user experience to unit testing and system administration.",
+  "author": {
+    "url": "http://fullstackradio.com",
+    "name": "Adam Wathan"
+  },
+  "items": [
+    {
+      "id": "8daecda0-71e5-4be2-966c-8796e8b18d89",
+      "title": "68: Building Interfaces with Utility-First CSS",
+      "url": "http://www.fullstackradio.com/68",
+      "content_text": "In this episode, Adam welcomes back Jonathan Reinink to talk about implementing designs with a utility-first approach to CSS.\n\nThey talk about the problems this approach has solved for them, the surprising workflow benefits, and some tips and tricks for using this approach well.\n",
+      "content_html": "<p>In this episode, Adam welcomes back <a href=\"https://twitter.com/reinink\">Jonathan Reinink</a> to talk about implementing designs with a utility-first approach to CSS.</p>\n\n<p>They talk about the problems this approach has solved for them, the surprising workflow benefits, and some tips and tricks for using this approach well.</p>\n\n<p>Sponsors:</p>\n\n<ul>\n<li><a href=\"https://rollbar.com/fullstackradio\">Rollbar</a>, sign up at <a href=\"https://rollbar.com/fullstackradio\">https://rollbar.com/fullstackradio</a> to try their Bootstrap Plan free for 90 days</li>\n<li><a href=\"http://codeship.com/\">Codeship</a></li>\n</ul>\n\n\n<p>Links:</p>\n\n<ul>\n<li><a href=\"http://getbem.com/\">BEM</a>, the Block Element Modifier CSS methodology</li>\n<li><a href=\"http://nicolasgallagher.com/about-html-semantics-front-end-architecture/\">About HTML semantics and front-end architecture</a>, a blog post by Nicolas Gallagher that heavily inspired the way Adam writes CSS</li>\n<li><a href=\"https://www.youtube.com/watch?v=6EyPqf1Xh2U&amp;t=8s\">Implementing Designs with Utility-Focused CSS</a>, a recorded live stream where you can watch Adam implement a design using his work-in-progress CSS framework</li>\n<li><a href=\"http://buildwithbeard.com/\">Beard</a>, David Hemphill's utility framework</li>\n<li><a href=\"http://tachyons.io/\">Tachyons</a>, a popular utility framework</li>\n<li><a href=\"https://fractures.space/docs\">fractures</a> utility framework</li>\n<li><a href=\"http://turretcss.com/\">turrettcss</a> utility framework</li>\n</ul>\n\n",
+      "summary": "In this episode, Adam welcomes back Jonathan Reinink to talk about implementing designs with a utility-first approach to CSS.\n\nThey talk about the problems this approach has solved for them, the surprising workflow benefits, and some tips and tricks for using this approach well.\n",
+      "date_published": "2017-07-19 01:00:00 -0400",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/77398.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 61893377,
+        "duration_in_seconds": 3863
+      }
+    },
+    {
+      "id": "67ed1216-a9e5-40b3-aa17-652106681a3a",
+      "title": "67: Launch Takeways, Interface Breakthroughs, and First Round Armbars",
+      "url": "http://www.fullstackradio.com/67",
+      "content_text": "In this episode, David shares some lessons learned from the PushSilver Infinite launch: what went well, what could've been improved, and what he would double down on next time.\n\nAdam talks about some of the UI design challenges he and Steve have been trying to solve, and shares some of the creative solutions they came up with.\n",
+      "content_html": "<p>In this episode, David shares some lessons learned from the PushSilver Infinite launch: what went well, what could've been improved, and what he would double down on next time.</p>\n\n<p>Adam talks about some of the UI design challenges he and Steve have been trying to solve, and shares some of the creative solutions they came up with.</p>\n\n<p>Sponsors:</p>\n\n<ul>\n<li><a href=\"https://www.hired.com/fullstackradio\">Hired</a>, sign up at <a href=\"https://www.hired.com/fullstackradio\">https://www.hired.com/fullstackradio</a> to double your signing bonus to $2000 if you get a job through Hired</li>\n<li><a href=\"https://rollbar.com/fullstackradio\">Rollbar</a>, sign up at <a href=\"https://rollbar.com/fullstackradio\">https://rollbar.com/fullstackradio</a> to try their Bootstrap Plan free for 90 days</li>\n</ul>\n\n\n<p>Links:</p>\n\n<ul>\n<li><a href=\"https://pushsilver.com/\">PushSilver</a>, David's invoicing app</li>\n<li><a href=\"https://www.facebook.com/davidhemphill/videos/vb.504000177/10154480805835178/?type=2&amp;theater\">David's fight video</a></li>\n<li><a href=\"https://pushsilver.com/fullstackradio\">PushSilver discount</a>, just for Full Stack Radio listeners</li>\n<li><a href=\"http://interviewed.io/persons/laura-roeder\">Interviews with Laura Roeder</a>, the founder of MeetEdgar</li>\n<li><a href=\"https://kitetail.co/\">KiteTail</a>, Adam's checkout platform</li>\n<li><a href=\"https://gist.github.com/adamwathan/ad0e5fe6c78f8239cf809b8153e7c274\">Building KiteTail #6</a>, newsletter update with lots of UI design details</li>\n<li><a href=\"https://www.bidsketch.com/\">BidSketch</a>, proposal software tool with the \"see a sample\" email capture call-to-action</li>\n</ul>\n\n",
+      "summary": "In this episode, David shares some lessons learned from the PushSilver Infinite launch: what went well, what could've been improved, and what he would double down on next time.\n\nAdam talks about some of the UI design challenges he and Steve have been trying to solve, and shares some of the creative solutions they came up with.\n",
+      "date_published": "2017-06-21 10:41:00 -0400",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/73511.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 51349630,
+        "duration_in_seconds": 3191
+      }
+    },
+    {
+      "id": "d787f487-85d5-4204-8efb-7867aec83f4f",
+      "title": "66: Pre-Launch Engineering and Testing an HTTP Client",
+      "url": "http://www.fullstackradio.com/66",
+      "content_text": "In this episode, David talks about getting ready for the launch of PushSilver Infinite, and the unexpected engineering effort needed to make the most of a marketing initiative.\n\nAdam gives an update on gracefully handling errors in the KiteTail checkout process, launching Zttp as an open-source package, and how he used Lumen to power the Zttp integration test suite.\n",
+      "content_html": "<p>In this episode, David talks about getting ready for the launch of <a href=\"https://pushsilver.com/infinite\">PushSilver Infinite</a>, and the unexpected engineering effort needed to make the most of a marketing initiative.</p>\n\n<p>Adam gives an update on gracefully handling errors in the KiteTail checkout process, launching Zttp as an open-source package, and how he used Lumen to power the Zttp integration test suite.</p>\n\n<p>Sponsors:</p>\n\n<ul>\n<li><a href=\"https://rollbar.com/fullstackradio\">Rollbar</a>, sign up at <a href=\"https://rollbar.com/fullstackradio\">https://rollbar.com/fullstackradio</a> to try their Bootstrap Plan free for 90 days</li>\n<li><a href=\"https://www.hired.com/fullstackradio\">Hired</a>, sign up at <a href=\"https://www.hired.com/fullstackradio\">https://www.hired.com/fullstackradio</a> to double your signing bonus to $2000 if you get a job through Hired</li>\n</ul>\n\n\n<p>Links:</p>\n\n<ul>\n<li><a href=\"https://pushsilver.com/infinite\">PushSilver Infinite</a> pre-launch page</li>\n<li><a href=\"http://blog.profitwell.com/double-your-trial-to-paid-conversion-rate-with-onboarding\">\"How to Double Your Trial-to-Paid Conversion Rate with Onboarding\"</a>, Rob Walling's talk at SaaSFest 2016</li>\n<li><a href=\"https://github.com/kitetail/zttp\">Zttp</a> on GitHub</li>\n<li><a href=\"https://lumen.laravel.com/\">Lumen</a>, the Laravel microframework</li>\n<li>The <a href=\"https://github.com/kitetail/zttp/blob/master/tests/server/public/index.php\">Lumen server</a> behind Zttp's test suite</li>\n<li><a href=\"https://www.youtube.com/watch?v=XaTUS8acrbc\">\"Test-Driving Webhook Failures\"</a>, the live stream where Adam and David worked through the HTTP testing approach that inspired the Zttp test suite</li>\n<li><a href=\"https://convertkit.com/conference/\">Craft and Commerce</a>, the ConvertKit conference Adam is attending this month</li>\n<li><a href=\"https://building.kitetail.co/\">\"Building KiteTail\"</a></li>\n</ul>\n\n",
+      "summary": "In this episode, David talks about getting ready for the launch of PushSilver Infinite, and the unexpected engineering effort needed to make the most of a marketing initiative.\n\nAdam gives an update on gracefully handling errors in the KiteTail checkout process, launching Zttp as an open-source package, and how he used Lumen to power the Zttp integration test suite.\n",
+      "date_published": "2017-06-08 19:45:00 -0400",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/72477.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 55480643,
+        "duration_in_seconds": 3462
+      }
+    },
+    {
+      "id": "946bd36a-2e23-417b-b61b-d928f44f13c7",
+      "title": "65: New PushSilver Pricing and Co-Founding KiteTail",
+      "url": "http://www.fullstackradio.com/65",
+      "content_text": "In this episode, David shares the details behind the pricing changes he's decided on for PushSilver and talks about some of the new features and marketing strategies he's working on for the upcoming launch.\n\nAdam shares the details behind his decision to bring on a co-founder for KiteTail, talks the collaboration process when working on an app with somebody else, and give an update on where he's at with getting KiteTail integrated into the Test-Driven Laravel course app.\n",
+      "content_html": "<p>In this episode, David shares the details behind the pricing changes he's decided on for PushSilver and talks about some of the new features and marketing strategies he's working on for the upcoming launch.</p>\n\n<p>Adam shares the details behind his decision to bring on a co-founder for KiteTail, talks the collaboration process when working on an app with somebody else, and give an update on where he's at with getting KiteTail integrated into the Test-Driven Laravel course app.</p>\n\n<p>Sponsors:</p>\n\n<ul>\n<li><a href=\"https://www.hired.com/fullstackradio\">Hired</a>, sign up at <a href=\"https://www.hired.com/fullstackradio\">https://www.hired.com/fullstackradio</a> to double your signing bonus to $2000 if you get a job through Hired</li>\n<li><a href=\"https://rollbar.com/fullstackradio\">Rollbar</a>, sign up at <a href=\"https://rollbar.com/fullstackradio\">https://rollbar.com/fullstackradio</a> to try their Bootstrap Plan free for 90 days</li>\n</ul>\n\n\n<p>Links:</p>\n\n<ul>\n<li><a href=\"https://pushsilver.com/\">PushSilver</a>, David's invoicing app</li>\n<li><a href=\"https://kitetail.co/\">KiteTail</a>, Adam's checkout platform</li>\n<li><a href=\"https://vimeo.com/74338272\">\"Designing the Ideal Bootstrapped Business\"</a> by Jason Cohen</li>\n<li><a href=\"https://blog.sketchapp.com/versioning-licensing-and-sketch-4-0-8ad98783e9ba\">Sketch's non-subscription annual pricing model</a></li>\n<li><a href=\"https://gist.github.com/adamwathan/e7023ff8fe84168b6e26744bab655cae\">Zttp</a>, the underground fight club style HTTP library</li>\n<li><a href=\"https://twitter.com/steveschoger\">Steve Schoger</a>, Adam's KiteTail co-founder</li>\n<li><a href=\"http://www.zondicons.com/\">Zondicons</a> SVG icon library by Steve</li>\n<li><a href=\"https://github.com/dukestreetstudio/zondicons-blade-bridge\">Zondicons Blade package</a> to easily embed inline SVG icons in Laravel applications</li>\n<li><a href=\"http://www.heropatterns.com/\">Hero Patterns</a>, free repeating SVG background patterns by Steve</li>\n<li><a href=\"http://www.heroicons.com/\">Heroicons</a> SVG marketing icon library by Steve</li>\n<li><a href=\"https://building.kitetail.co/\">Building KiteTail</a>, details about KiteTail live streams, newsletter, etc.</li>\n<li><a href=\"https://www.youtube.com/adamwathan\">Previous KiteTail live streams</a> on Adam's YouTube channel</li>\n</ul>\n\n",
+      "summary": "In this episode, David shares the details behind the pricing changes he's decided on for PushSilver and talks about some of the new features and marketing strategies he's working on for the upcoming launch.\n\nAdam shares the details behind his decision to bring on a co-founder for KiteTail, talks the collaboration process when working on an app with somebody else, and give an update on where he's at with getting KiteTail integrated into the Test-Driven Laravel course app.\n",
+      "date_published": "2017-05-24 09:02:00 -0400",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/70433.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 58866691,
+        "duration_in_seconds": 3673
+      }
+    },
+    {
+      "id": "bcf4b256-1a9a-4806-83b4-2dfe775e1f14",
+      "title": "64: \"We Solved Something, Maybe! Or It Might Be a Disaster!\"",
+      "url": "http://www.fullstackradio.com/64",
+      "content_text": "Adam and David are joined by Ian Landsman to talk about his latest project Thermostat.io and discuss some pricing ideas for PushSilver and KiteTail.\n\nTopics include:\n\n\nThermostat.io and NPS surveys\nCharging more vs. charging less\nFinding a niche for PushSilver and how to appeal to that niche\nOne-time purchase lifetime plans for SaaS\nPercentage-based vs. tiered pricing\n\n\n",
+      "content_html": "<p>Adam and David are joined by <a href=\"https://twitter.com/ianlandsman\">Ian Landsman</a> to talk about his latest project <a href=\"https://thermostat.io/\">Thermostat.io</a> and discuss some pricing ideas for <a href=\"https://pushsilver.com/\">PushSilver</a> and <a href=\"https://kitetail.co\">KiteTail</a>.</p>\n\n<p>Topics include:</p>\n\n<ul>\n<li>Thermostat.io and NPS surveys</li>\n<li>Charging more vs. charging less</li>\n<li>Finding a niche for PushSilver and how to appeal to that niche</li>\n<li>One-time purchase lifetime plans for SaaS</li>\n<li>Percentage-based vs. tiered pricing</li>\n</ul>\n\n\n<p>Sponsors:</p>\n\n<ul>\n<li><a href=\"https://rollbar.com/fullstackradio\">Rollbar</a>, sign up at <a href=\"https://rollbar.com/fullstackradio\">https://rollbar.com/fullstackradio</a> to try their Bootstrap Plan free for 90 days</li>\n<li><a href=\"https://www.hired.com/fullstackradio\">Hired</a>, sign up at <a href=\"https://www.hired.com/fullstackradio\">https://www.hired.com/fullstackradio</a> to double your signing bonus to $2000 if you get a job through Hired</li>\n</ul>\n\n\n<p>Links:</p>\n\n<ul>\n<li><a href=\"https://thermostat.io/\">Thermostat.io</a>, Ian's new NPS survey tool</li>\n<li><a href=\"https://pushsilver.com/\">PushSilver</a>, David's invoicing app</li>\n<li><a href=\"https://kitetail.co/\">KiteTail</a>, Adam's checkout platform</li>\n<li><a href=\"https://founderchats.com/jesse-mecham-youneedabudget-e27f3884ccff\">Jesse Mecham on Founder Chats</a>, talking about selling YNAB on the Steam store</li>\n<li><a href=\"https://en.wikipedia.org/wiki/Net_Promoter\">Net Promoter Score</a></li>\n</ul>\n\n",
+      "summary": "Adam and David are joined by Ian Landsman to talk about his latest project Thermostat.io and discuss some pricing ideas for PushSilver and KiteTail.\n\nTopics include:\n\n\nThermostat.io and NPS surveys\nCharging more vs. charging less\nFinding a niche for PushSilver and how to appeal to that niche\nOne-time purchase lifetime plans for SaaS\nPercentage-based vs. tiered pricing\n\n\n",
+      "date_published": "2017-05-09 01:00:00 -0400",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/68981.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 74505488,
+        "duration_in_seconds": 4651
+      }
+    },
+    {
+      "id": "5c02c12d-032e-4e84-8a8b-9ea9d37562ee",
+      "title": "63: MicroConf, Dog Food, and Image Previews",
+      "url": "http://www.fullstackradio.com/63",
+      "content_text": "In this episode, Adam and David recap their MicroConf 2017 experiences, give some product updates, and chat about topics like:\n\n\nDogfooding Cron Dog in PushSilver\nDealing with complex validation\nWhy we hate auto-saving UIs\nValidation issues when supporting \"draft\" models\nExpanding the scope of KiteTail\nDifferent ways to handle client-side image preview\nBuilding a Cron Dog SDK\n\n\n",
+      "content_html": "<p>In this episode, Adam and David recap their MicroConf 2017 experiences, give some product updates, and chat about topics like:</p>\n\n<ul>\n<li>Dogfooding Cron Dog in PushSilver</li>\n<li>Dealing with complex validation</li>\n<li>Why we hate auto-saving UIs</li>\n<li>Validation issues when supporting \"draft\" models</li>\n<li>Expanding the scope of KiteTail</li>\n<li>Different ways to handle client-side image preview</li>\n<li>Building a Cron Dog SDK</li>\n</ul>\n\n\n<p>Sponsors:</p>\n\n<ul>\n<li><a href=\"https://rollbar.com/fullstackradio\">Rollbar</a>, sign up at <a href=\"https://rollbar.com/fullstackradio\">https://rollbar.com/fullstackradio</a> to try their Bootstrap Plan free for 90 days</li>\n<li><a href=\"https://www.hired.com/fullstackradio\">Hired</a>, sign up at <a href=\"https://www.hired.com/fullstackradio\">https://www.hired.com/fullstackradio</a> to double your signing bonus to $2000 if you get a job through Hired</li>\n</ul>\n\n\n<p>Links:</p>\n\n<ul>\n<li><a href=\"http://microconf.com/\">MicroConf</a></li>\n<li><a href=\"https://crondog.io/\">Crondog</a>, David's scheduled webhook app</li>\n<li><a href=\"https://pushsilver.com/\">PushSilver</a>, David's invoicing app</li>\n<li><a href=\"https://kitetail.co/\">KiteTail</a>, Adam's checkout platform</li>\n<li><a href=\"http://mbsy.co/convertkit/20592464\">ConvertKit</a>, the app Adam uses for email that helped inspire the new direction for KiteTail</li>\n<li><a href=\"https://adamwathan.me/the-book-launch-that-let-me-quit-my-job/\">\"The $61,392 Book Launch That Let Me Quit My Job\"</a>, Adam's blog post about his first book launch</li>\n</ul>\n\n",
+      "summary": "In this episode, Adam and David recap their MicroConf 2017 experiences, give some product updates, and chat about topics like:\n\n\nDogfooding Cron Dog in PushSilver\nDealing with complex validation\nWhy we hate auto-saving UIs\nValidation issues when supporting \"draft\" models\nExpanding the scope of KiteTail\nDifferent ways to handle client-side image preview\nBuilding a Cron Dog SDK\n\n\n",
+      "date_published": "2017-04-27 09:21:00 -0400",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/68107.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 50591501,
+        "duration_in_seconds": 3156
+      }
+    },
+    {
+      "id": "d36f9940-013c-424a-9d18-062ef0104688",
+      "title": "62: Timezones, Webhook Security, and UI Decisions",
+      "url": "http://www.fullstackradio.com/62",
+      "content_text": "In this episode, David talks about adding timezone support to Crondog, and Adam wrestles with some decisions about dealing with failed webhooks in KiteTail.\n\nWe also talk a lot about different strategies for securing webhooks, and what we're looking forward to at MicroConf.\n",
+      "content_html": "<p>In this episode, David talks about adding timezone support to <a href=\"https://crondog.io/\">Crondog</a>, and Adam wrestles with some decisions about dealing with failed webhooks in <a href=\"https://kitetail.co/\">KiteTail</a>.</p>\n\n<p>We also talk a lot about different strategies for securing webhooks, and what we're looking forward to at <a href=\"http://www.microconf.com/starter/\">MicroConf</a>.</p>\n\n<p>Sponsors:</p>\n\n<ul>\n<li><a href=\"https://rollbar.com/fullstackradio\">Rollbar</a>, sign up at <a href=\"https://rollbar.com/fullstackradio\">https://rollbar.com/fullstackradio</a> to try their Bootstrap Plan free for 90 days</li>\n<li><a href=\"https://www.hired.com/fullstackradio\">Hired</a>, sign up at <a href=\"https://www.hired.com/fullstackradio\">https://www.hired.com/fullstackradio</a> to double your signing bonus to $2000 if you get a job through Hired</li>\n</ul>\n\n\n<p>Links:</p>\n\n<ul>\n<li><a href=\"https://crondog.io/\">Crondog</a>, David's new recurring task app</li>\n<li><a href=\"https://kitetail.co/\">KiteTail</a>, Adam's new checkout app</li>\n<li><a href=\"https://developer.github.com/webhooks/securing/\">How GitHub secures webhooks</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Hash-based_message_authentication_code\">HMAC</a> on Wikipedia</li>\n<li><a href=\"https://spark.laravel.com/\">Laravel Spark</a>, the boilerplate Laravel skeleton David's using</li>\n<li><a href=\"microconf.com/starter/\">MicroConf Start Edition</a></li>\n</ul>\n\n",
+      "summary": "In this episode, David talks about adding timezone support to Crondog, and Adam wrestles with some decisions about dealing with failed webhooks in KiteTail.\n\nWe also talk a lot about different strategies for securing webhooks, and what we're looking forward to at MicroConf.\n",
+      "date_published": "2017-04-12 03:00:00 -0400",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/65804.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 49175694,
+        "duration_in_seconds": 3068
+      }
+    },
+    {
+      "id": "1d4a043b-08ce-417f-83b9-51197461c8ed",
+      "title": "61: We're Building Products!",
+      "url": "http://www.fullstackradio.com/61",
+      "content_text": "Adam welcomes David Hemphill back to the show, but this time as a co-host!\n\nDavid introduces Crondog, the new product he's working on to help developers manage dynamic recurring tasks in their applications.\n\nAdam introduces KiteTail, an app that let's you create webhook-driven hosted checkout pages; something he wishes he'd had when he launched his course.\n\nFrom here on out, Full Stack Radio will follow David and Adam's journey building these new products; discussing interesting technical, design, and business challenges they face along the way.\n",
+      "content_html": "<p>Adam welcomes <a href=\"https://twitter.com/davidhemphill\">David Hemphill</a> back to the show, but this time as a co-host!</p>\n\n<p>David introduces <a href=\"https://crondog.io/\">Crondog</a>, the new product he's working on to help developers manage dynamic recurring tasks in their applications.</p>\n\n<p>Adam introduces <a href=\"https://kitetail.co/\">KiteTail</a>, an app that let's you create webhook-driven hosted checkout pages; something he wishes he'd had when he launched his course.</p>\n\n<p>From here on out, Full Stack Radio will follow David and Adam's journey building these new products; discussing interesting technical, design, and business challenges they face along the way.</p>\n\n<p>Sponsors:</p>\n\n<ul>\n<li><a href=\"https://rollbar.com/fullstackradio\">Rollbar</a>, sign up at <a href=\"https://rollbar.com/fullstackradio\">https://rollbar.com/fullstackradio</a> to try their Bootstrap Plan free for 90 days</li>\n<li><a href=\"https://www.hired.com/fullstackradio\">Hired</a>, sign up at <a href=\"https://www.hired.com/fullstackradio\">https://www.hired.com/fullstackradio</a> to double your signing bonus to $2000 if you get a job through Hired</li>\n</ul>\n\n\n<p>Links:</p>\n\n<ul>\n<li><a href=\"https://crondog.io/\">Crondog</a>, David's new recurring task app</li>\n<li><a href=\"https://kitetail.co/\">KiteTail</a>, Adam's new checkout app</li>\n<li><a href=\"https://pushsilver.com/\">PushSilver</a>, David's existing invoicing app</li>\n<li><a href=\"https://donorgive.com/\">DonorGive</a>, an app David worked on that motivated him to build CronDog</li>\n<li><a href=\"https://spark.laravel.com/\">Laravel Spark</a>, the boilerplate Laravel skeleton David's using</li>\n<li><a href=\"https://adamwathan.me/2017/03/02/whats-kitetail/\">\"What's KiteTail?\"</a>, Adam's blog post introducing KiteTail</li>\n<li><a href=\"https://course.testdrivenlaravel.com/early-access\">Test-Driven Laravel</a>, Adam's course app that inspired him to build KiteTail</li>\n<li><a href=\"microconf.com/starter/\">MicroConf Start Edition</a></li>\n</ul>\n\n",
+      "summary": "Adam welcomes David Hemphill back to the show, but this time as a co-host!\n\nDavid introduces Crondog, the new product he's working on to help developers manage dynamic recurring tasks in their applications.\n\nAdam introduces KiteTail, an app that let's you create webhook-driven hosted checkout pages; something he wishes he'd had when he launched his course.\n\nFrom here on out, Full Stack Radio will follow David and Adam's journey building these new products; discussing interesting technical, design, and business challenges they face along the way.\n",
+      "date_published": "2017-03-30 09:05:00 -0400",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/64598.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 39150510,
+        "duration_in_seconds": 2441
+      }
+    },
+    {
+      "id": "4733d6ea-7452-44ca-bc9b-5611bc432e36",
+      "title": "60: Michelle Bu - Engineering Payments at Stripe",
+      "url": "http://www.fullstackradio.com/60",
+      "content_text": "In this episode, Adam talks to Michelle Bu of Stripe about the new Stripe Elements library, Stripe.js v3, and the Sinatra app that powers their API.\n",
+      "content_html": "<p>In this episode, Adam talks to <a href=\"https://twitter.com/hazelcough\">Michelle Bu</a> of <a href=\"https://stripe.com/\">Stripe</a> about the new Stripe Elements library, Stripe.js v3, and the Sinatra app that powers their API.</p>\n\n<p>Sponsors:</p>\n\n<ul>\n<li><a href=\"https://rollbar.com/fullstackradio\">Rollbar</a>, sign up at <a href=\"https://rollbar.com/fullstackradio\">https://rollbar.com/fullstackradio</a> to try their Bootstrap Plan free for 90 days</li>\n<li><a href=\"https://www.hired.com/fullstackradio\">Hired</a>, sign up at <a href=\"https://www.hired.com/fullstackradio\">https://www.hired.com/fullstackradio</a> to double your signing bonus to $2000 if you get a job through Hired</li>\n</ul>\n\n\n<p>Links:</p>\n\n<ul>\n<li><a href=\"https://twitter.com/hazelcough\">Michelle on Twitter</a></li>\n<li><a href=\"https://stripe.com/docs/elements\">Stripe Elements</a></li>\n<li><a href=\"https://stripe.com/blog/engineering\">Stripe's Engineering Blog</a></li>\n<li><a href=\"https://stripe.com/checkout\">Stripe Checkout</a></li>\n<li><a href=\"https://stripe.com/radar\">Stripe Radar</a></li>\n<li><a href=\"http://amberonrails.com/building-stripes-api/\">Building Stripe's API</a>, by <a href=\"https://twitter.com/amfeng?lang=en\">Amber Feng</a></li>\n<li><a href=\"http://amberonrails.com/move-fast-dont-break-your-api/\">Move Fast, Don't Break Your API</a>, by <a href=\"https://twitter.com/amfeng?lang=en\">Amber Feng</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks to Michelle Bu of Stripe about the new Stripe Elements library, Stripe.js v3, and the Sinatra app that powers their API.\n",
+      "date_published": "2017-03-15 13:06:00 -0400",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/63341.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 35700714,
+        "duration_in_seconds": 2225
+      }
+    },
+    {
+      "id": "b4074c93-b0c8-4576-9d7d-83fe90b26581",
+      "title": "59: Jonathan Reinink - Form Hell Part 2: Complex Validation",
+      "url": "http://www.fullstackradio.com/59",
+      "content_text": "In this episode, Adam and Jonathan continue their discussion about forms from episode 54, this time focusing on the complexities of validation.\n",
+      "content_html": "<p>In this episode, Adam and <a href=\"https://twitter.com/reinink\">Jonathan</a> continue their discussion about forms from episode 54, this time focusing on the complexities of validation.</p>\n\n<p>Sponsors:</p>\n\n<ul>\n<li><a href=\"https://rollbar.com/fullstackradio\">Rollbar</a>, sign up at <a href=\"https://rollbar.com/fullstackradio\">https://rollbar.com/fullstackradio</a> to try their Bootstrap Plan free for 90 days</li>\n<li><a href=\"https://www.hired.com/fullstackradio\">Hired</a>, sign up at <a href=\"https://www.hired.com/fullstackradio\">https://www.hired.com/fullstackradio</a> to double your signing bonus to $2000 if you get a job through Hired</li>\n</ul>\n\n\n<p>Links:</p>\n\n<ul>\n<li><a href=\"https://laravel.com/docs/5.4/validation#form-request-validation\">Form Requests</a> in Laravel</li>\n<li><a href=\"https://laravel.com/docs/5.4/validation#after-validation-hook\">After Validation</a> hooks in Laravel</li>\n<li><a href=\"https://laracasts.com/discuss/channels/general-discussion/stripejs-cvc-and-zipcode-checks-can-be-bypassed-easily\">\"Stripe CVC and ZIP checks can be bypassed\"</a> forum post</li>\n<li><a href=\"https://twitter.com/adamwathan/status/833045215300694017\">Custom Rule Objects</a>, enhancement Adam is working on</li>\n<li><a href=\"https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Data_form_validation\">HTML5 Form Validation</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam and Jonathan continue their discussion about forms from episode 54, this time focusing on the complexities of validation.\n",
+      "date_published": "2017-02-24 08:39:00 -0500",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/61115.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 45902686,
+        "duration_in_seconds": 2863
+      }
+    },
+    {
+      "id": "168bc7f4-11e5-4a0a-bc26-307cc8a045a8",
+      "title": "58: Noel Rappin - Fixing Common Payment Handling Mistakes",
+      "url": "http://www.fullstackradio.com/58",
+      "content_text": "In this episode, I talk to Noel Rappin about common mistakes developers make when handling payments on the web and how to fix them.\n",
+      "content_html": "<p>In this episode, I talk to <a href=\"https://twitter.com/noelrap\">Noel Rappin</a> about common mistakes developers make when handling payments on the web and how to fix them.</p>\n\n<p>As I mention in the show, if you've been thinking about checking out <a href=\"https://testdrivenlaravel.com\">Test-Driven Laravel</a>, the course is still available at the early access price for the next few weeks:</p>\n\n<p><a href=\"https://course.testdrivenlaravel.com/early-access\">Learn more about Test-Driven Laravel Early Access</a></p>\n\n<p>Sponsors:</p>\n\n<ul>\n<li><a href=\"https://rollbar.com/fullstackradio\">Rollbar</a>, sign up at <a href=\"https://rollbar.com/fullstackradio\">https://rollbar.com/fullstackradio</a> to try their Bootstrap Plan free for 90 days</li>\n<li><a href=\"https://www.hired.com/fullstackradio\">Hired</a>, sign up at <a href=\"https://www.hired.com/fullstackradio\">https://www.hired.com/fullstackradio</a> to double your signing bonus to $2000 if you get a job through Hired</li>\n</ul>\n\n\n<p>Links:</p>\n\n<ul>\n<li><a href=\"https://testdrivenlaravel.com\">Test-Driven Laravel</a>, Adam's TDD course</li>\n<li><a href=\"http://www.noelrappin.com/\">Noel's blog</a></li>\n<li><a href=\"https://pragprog.com/book/nrtest2/rails-4-test-prescriptions\">Rails 4 Test Prescriptions</a>, Noel's book on testing</li>\n<li><a href=\"https://pragprog.com/book/nrwebpay/take-my-money\">Take My Money</a>, Noel's book on payment handling</li>\n<li><a href=\"https://www.youtube.com/watch?v=U2t9Wej0hyI\">Noel's screencast on floating point precision</a></li>\n<li><a href=\"https://github.com/RubyMoney/money\">RubyMoney</a> gem</li>\n<li><a href=\"https://ngrok.com/\">ngrok</a></li>\n<li><a href=\"https://github.com/vcr/vcr\">vcr</a> gem</li>\n</ul>\n\n",
+      "summary": "In this episode, I talk to Noel Rappin about common mistakes developers make when handling payments on the web and how to fix them.\n",
+      "date_published": "2017-02-08 04:04:00 -0500",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/59781.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 38816618,
+        "duration_in_seconds": 2420
+      }
+    },
+    {
+      "id": "056f32a6-6883-4b59-80ba-aa5319fdcedc",
+      "title": "57: Derrick Reimer - Building and Scaling Drip",
+      "url": "http://www.fullstackradio.com/57",
+      "content_text": "In this episode, Adam talks to Derrick Reimer about the technical challenges behind building and scaling Drip, a sophisticated email marketing automation platform.\n",
+      "content_html": "<p>In this episode, Adam talks to <a href=\"https://twitter.com/derrickreimer\">Derrick Reimer</a> about the technical challenges behind building and scaling <a href=\"https://drip.co\">Drip</a>, a sophisticated email marketing automation platform.</p>\n\n<p>Sponsors:</p>\n\n<ul>\n<li><a href=\"https://rollbar.com/fullstackradio\">Rollbar</a>, sign up at <a href=\"https://rollbar.com/fullstackradio\">https://rollbar.com/fullstackradio</a> to try their Bootstrap Plan free for 90 days</li>\n<li><a href=\"https://www.hired.com/fullstackradio\">Hired</a>, sign up at <a href=\"https://www.hired.com/fullstackradio\">https://www.hired.com/fullstackradio</a> to double your signing bonus to $2000 if you get a job through Hired</li>\n</ul>\n\n\n<p>Links:</p>\n\n<ul>\n<li><a href=\"https://drip.co/\">Drip</a></li>\n<li><a href=\"http://www.scalingsaas.com/\">Scaling SaaS</a>, Derrick's blog</li>\n</ul>\n\n\n<p>The Drip stack:</p>\n\n<ul>\n<li><a href=\"http://rubyonrails.org/\">Ruby on Rails</a></li>\n<li><a href=\"https://aws.amazon.com/\">AWS</a></li>\n<li><a href=\"https://www.postgresql.org/\">PostgreSQL</a></li>\n<li><a href=\"http://sidekiq.org/\">Sidekiq</a></li>\n<li><a href=\"https://sendgrid.com/\">SendGrid</a></li>\n<li><a href=\"https://redis.io/\">Redis</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks to Derrick Reimer about the technical challenges behind building and scaling Drip, a sophisticated email marketing automation platform.\n",
+      "date_published": "2017-01-25 03:00:00 -0500",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/58439.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 48349409,
+        "duration_in_seconds": 3016
+      }
+    },
+    {
+      "id": "90f52297-3890-4005-906f-72c4d5b9c645",
+      "title": "56: Wes Bos - Getting Things Done and Building Your Own Tools",
+      "url": "http://www.fullstackradio.com/56",
+      "content_text": "In this episode, Adam talks to Wes Bos about how he seems to get so much done, why he built his own course platform, and growing an audience.\n",
+      "content_html": "<p>In this episode, Adam talks to <a href=\"https://twitter.com/wesbos\">Wes Bos</a> about how he seems to get so much done, why he built his own course platform, and growing an audience.</p>\n\n<p>Sponsors:</p>\n\n<ul>\n<li><a href=\"https://rollbar.com/fullstackradio\">Rollbar</a>, sign up at <a href=\"https://rollbar.com/fullstackradio\">https://rollbar.com/fullstackradio</a> to try their Bootstrap Plan free for 90 days</li>\n<li><a href=\"https://www.hired.com/fullstackradio\">Hired</a>, sign up at <a href=\"https://www.hired.com/fullstackradio\">https://www.hired.com/fullstackradio</a> to double your signing bonus to $2000 if you get a job through Hired</li>\n</ul>\n\n\n<p>Links:</p>\n\n<ul>\n<li><a href=\"https://course.testdrivenlaravel.com/early-access\">Test-Driven Laravel Early Access</a>, Adam's new TDD course</li>\n<li><a href=\"http://wesbos.com/\">wesbos.com</a>, Wes' blog and personal website</li>\n<li><a href=\"https://javascript30.com/\">JavaScript 30</a>, Wes' new free course</li>\n<li>The <a href=\"https://en.wikipedia.org/wiki/Getting_Things_Done\">Getting Things Done</a> methodology</li>\n<li><a href=\"https://culturedcode.com/things/\">Things</a></li>\n<li><a href=\"https://todoist.com/\">Todoist</a></li>\n<li><a href=\"https://www.alfredapp.com/\">Alfred</a></li>\n<li><a href=\"https://smilesoftware.com/textexpander\">TextExpander</a></li>\n<li><a href=\"https://sites.google.com/a/nhusd.k12.ca.us/appshelp/home/mail-tips/sendandarchive\">Send and Archive</a> in Gmail</li>\n<li><a href=\"https://www.youtube.com/watch?v=4CS436KZ35A\">Behind the Scenes</a> of Wes' course platform</li>\n<li>Wes Bos on <a href=\"https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA\">YouTube</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks to Wes Bos about how he seems to get so much done, why he built his own course platform, and growing an audience.\n",
+      "date_published": "2017-01-05 05:00:00 -0500",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/56649.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 40013243,
+        "duration_in_seconds": 2495
+      }
+    },
+    {
+      "id": "a70a31fe-4d19-4d68-9927-3a3a9e149ddc",
+      "title": "55: Ian Landsman - Shady Marketing Tactics That Will Hurt Your Business",
+      "url": "http://www.fullstackradio.com/55",
+      "content_text": "In this episode, Adam talks to Ian Landsman about shady marketing tactics that will turn your customers against you, and how to be more authentic with your marketing strategy.\n",
+      "content_html": "<p>In this episode, Adam talks to <a href=\"https://twitter.com/ianlandsman\">Ian Landsman</a> about shady marketing tactics that will turn your customers against you, and how to be more authentic with your marketing strategy.</p>\n\n<p>Sponsors:</p>\n\n<ul>\n<li><a href=\"https://rollbar.com/fullstackradio\">Rollbar</a>, sign up at <a href=\"https://rollbar.com/fullstackradio\">https://rollbar.com/fullstackradio</a> to try their Bootstrap Plan free for 90 days</li>\n<li><a href=\"https://www.hired.com/fullstackradio\">Hired</a>, sign up at <a href=\"https://www.hired.com/fullstackradio\">https://www.hired.com/fullstackradio</a> to double your signing bonus to $2000 if you get a job through Hired</li>\n</ul>\n\n\n<p>Links:</p>\n\n<ul>\n<li><a href=\"https://course.testdrivenlaravel.com/early-access\">Test-Driven Laravel Early Access</a>, Adam's TDD course</li>\n<li><a href=\"https://userscape.com/\">UserScape</a>, Ian's business</li>\n<li><a href=\"https://www.helpspot.com/help-desk-software\">HelpSpot</a>, UserScape's help desk product</li>\n<li><a href=\"https://ianlandsman.com/2016/11/14/shady-tactics-in-our-midst/\">Shady Tactics in our Midst</a> from Ian's blog</li>\n<li><a href=\"https://ianlandsman.com/2016/11/15/shady-tactics-round-2/\">Shady Tactics, Round 2</a></li>\n<li><a href=\"https://ianlandsman.com/five-figure-sale/\">Securing the Five-Figure Sale</a>, Ian's new free eBook on landing enterprise sales</li>\n<li><a href=\"https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898/ref=sr_1_1?ie=UTF8&amp;qid=1481129280&amp;sr=8-1&amp;keywords=lean+startup\">The Lean Startup</a></li>\n<li><a href=\"https://meetedgar.com/\">Edgar</a>, social media tool with invite-only sign up flow</li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks to Ian Landsman about shady marketing tactics that will turn your customers against you, and how to be more authentic with your marketing strategy.\n",
+      "date_published": "2016-12-07 11:48:00 -0500",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/54680.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 55110785,
+        "duration_in_seconds": 3439
+      }
+    },
+    {
+      "id": "a952e8de-cbfa-49e5-841a-63660a383546",
+      "title": "54: Jonathan Reinink - Forms: The Worst Part of Web Dev",
+      "url": "http://www.fullstackradio.com/54",
+      "content_text": "In this episode, Adam talks to Jonathan Reinink about dealing with common headaches when working with everyone's favorite part of web development: forms.\n",
+      "content_html": "<p>In this episode, Adam talks to <a href=\"https://twitter.com/reinink\">Jonathan Reinink</a> about dealing with common headaches when working with everyone's favorite part of web development: forms.</p>\n\n<p>Sponsors:</p>\n\n<ul>\n<li><a href=\"https://rollbar.com/fullstackradio\">Rollbar</a>, sign up at <a href=\"https://rollbar.com/fullstackradio\">https://rollbar.com/fullstackradio</a> to try their Bootstrap Plan free for 90 days</li>\n<li><a href=\"https://www.hired.com/fullstackradio\">Hired</a>, sign up at <a href=\"https://www.hired.com/fullstackradio\">https://www.hired.com/fullstackradio</a> to double your signing bonus to $2000 if you get a job through Hired</li>\n</ul>\n\n\n<p>Links:</p>\n\n<ul>\n<li><a href=\"https://adamwathan.me/2013/10/02/putting-your-laravel-controllers-on-a-diet/\">Putting Your Laravel Controllers on a Diet</a>, an older blog post by Adam on form objects</li>\n<li><a href=\"https://laravel.com/docs/5.3/validation#form-request-validation\">Form Requests</a> in Laravel</li>\n<li><a href=\"http://fineuploader.com/\">Fineuploader</a>, JS file upload library</li>\n<li><a href=\"http://www.dropzonejs.com/\">DropzoneJS</a>, another JS file upload library</li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks to Jonathan Reinink about dealing with common headaches when working with everyone's favorite part of web development: forms.\n",
+      "date_published": "2016-11-18 10:05:00 -0500",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/53254.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 55904875,
+        "duration_in_seconds": 3488
+      }
+    },
+    {
+      "id": "5bd45c7e-63a0-4003-be60-47bd819f2c74",
+      "title": "53: Kyle Fiedler - Design Tips and Tricks for Developers",
+      "url": "http://www.fullstackradio.com/53",
+      "content_text": "In this episode, Adam talks to Kyle Fiedler of thoughtbot about common mistakes developers make with design, and some tips and tricks for making your designs look more professional.\n",
+      "content_html": "<p>In this episode, Adam talks to <a href=\"https://twitter.com/kylefiedler\">Kyle Fiedler</a> of <a href=\"https://thoughtbot.com/\">thoughtbot</a> about common mistakes developers make with design, and some tips and tricks for making your designs look more professional.</p>\n\n<p>Sponsors:</p>\n\n<ul>\n<li><a href=\"https://rollbar.com/fullstackradio\">Rollbar</a>, sign up at <a href=\"https://rollbar.com/fullstackradio\">https://rollbar.com/fullstackradio</a> to try their Bootstrap Plan free for 90 days</li>\n<li><a href=\"https://www.hired.com/fullstackradio\">Hired</a>, sign up at <a href=\"https://www.hired.com/fullstackradio\">https://www.hired.com/fullstackradio</a> to double your signing bonus to $2000 if you get a job through Hired</li>\n</ul>\n\n\n<p>Links:</p>\n\n<ul>\n<li><a href=\"http://kylefiedler.com/\">Kyle's personal website</a></li>\n<li><a href=\"https://dribbble.com/thoughtbot\">thoughtbot on Dribbble</a></li>\n<li><a href=\"https://thoughtbot.com/upcase/design-for-developers\">Design for Developers</a> on Upcase</li>\n<li><a href=\"https://www.smashingmagazine.com/2015/11/using-system-ui-fonts-practical-guide/\">Using System UI Fonts In Web Design</a> by Marcin Wichary</li>\n<li><a href=\"https://ianstormtaylor.com/design-tip-never-use-black\">Design Tip: Never Use Black</a> by Ian Storm Taylor</li>\n<li><a href=\"http://ux.stackexchange.com/questions/49991/should-yes-delete-it-be-red-or-green\">Should \"Yes, delete it\" be red, or green?</a> on the UX Stack Exchange</li>\n<li><a href=\"https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda#.h8tkqx8qc\">7 Rules for Creating Gorgeous UI</a> by Erik D. Kennedy</li>\n<li><a href=\"https://chrome.google.com/webstore/detail/panda-hacker-news-dribbbl/jhiocdmmaannaccoofjfmjpbfkogmnap\">Panda Chrome Extension</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks to Kyle Fiedler of thoughtbot about common mistakes developers make with design, and some tips and tricks for making your designs look more professional.\n",
+      "date_published": "2016-11-02 09:00:00 -0400",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/52115.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 50172149,
+        "duration_in_seconds": 3130
+      }
+    },
+    {
+      "id": "fee1f1d6-a94f-43f8-989c-b73fc23b55e9",
+      "title": "52: Taylor Otwell - Patterns for Simplifying Laravel Applications",
+      "url": "http://www.fullstackradio.com/52",
+      "content_text": "In this episode, Adam and Taylor Otwell have a discussion about strategies they use to write cleaner, simpler code when working with the Laravel framework.\n",
+      "content_html": "<p>In this episode, Adam and <a href=\"https://twitter.com/taylorotwell\">Taylor Otwell</a> have a discussion about strategies they use to write cleaner, simpler code when working with the Laravel framework.</p>\n\n<p>Sponsors:</p>\n\n<ul>\n<li><a href=\"https://rollbar.com/fullstackradio\">Rollbar</a>, sign up at <a href=\"https://rollbar.com/fullstackradio\">https://rollbar.com/fullstackradio</a> to try their Bootstrap Plan free for 90 days</li>\n<li><a href=\"https://www.hired.com/fullstackradio\">Hired</a>, sign up at <a href=\"https://www.hired.com/fullstackradio\">https://www.hired.com/fullstackradio</a> to double your signing bonus to $2000 if you get a job through Hired</li>\n</ul>\n\n\n<p>Links:</p>\n\n<ul>\n<li><a href=\"http://testdrivenlaravel.com/\">Test Driven Laravel</a>, Adam's upcoming video course</li>\n<li><a href=\"https://laravel.com/\">Laravel</a></li>\n<li><a href=\"https://laravel.com/docs/5.3/valet\">Laravel Valet</a></li>\n<li><a href=\"https://spark.laravel.com/\">Laravel Spark</a></li>\n<li><a href=\"https://github.com/laravel/passport\">Laravel Passport</a></li>\n<li><a href=\"https://gist.github.com/dhh/10022098\">Example of splitting controllers</a></li>\n<li><a href=\"https://twitter.com/dhh/status/780497638147796992\">Basecamp Rake Stats</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=GFhoSMD6idk\">DHH Resources on Rails presentation</a></li>\n<li><a href=\"https://nitpick-ci.com/\">Nitpick CI</a></li>\n<li><a href=\"https://sklivvz.com/posts/i-dont-love-the-single-responsibility-principle\">\"I don't love the single responsibility principle\"</a> by Marco Cecconi</li>\n<li>Martin Fowler on <a href=\"http://martinfowler.com/bliki/TellDontAsk.html\">Tell Don't Ask</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=5DVDewOReoY\">Chasing Perfect</a>, Adam's talk at Laracon 2015</li>\n<li><a href=\"https://twitter.com/adamwathan/status/784441071795404800\">Adam's base Blade layout</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam and Taylor Otwell have a discussion about strategies they use to write cleaner, simpler code when working with the Laravel framework.\n",
+      "date_published": "2016-10-18 04:00:00 -0400",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/49940.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 67703883,
+        "duration_in_seconds": 4226
+      }
+    },
+    {
+      "id": "f9206232-ac8e-40cf-b441-0f8580e55c9d",
+      "title": "51: Matt Wynne - Building the Right Thing with BDD",
+      "url": "http://www.fullstackradio.com/51",
+      "content_text": "In this episode, Adam talks to Matt Wynne about Behavior Driven Development with Cucumber.\n\nTopics include:\n\n\nWhat exactly is BDD?\nIs BDD a technical or non-technical practice?\nHow do you get started with BDD?\nHow do you keep the number of system tests low to keep your test suite fast?\nWhat's your strategy for dealing with external services in acceptance tests?\nWhat are the advantages of using Cucumber even as a solo developer working on a side project?\n\n\n",
+      "content_html": "<p>In this episode, Adam talks to <a href=\"https://twitter.com/mattwynne\">Matt Wynne</a> about Behavior Driven Development with Cucumber.</p>\n\n<p>Topics include:</p>\n\n<ul>\n<li>What exactly is BDD?</li>\n<li>Is BDD a technical or non-technical practice?</li>\n<li>How do you get started with BDD?</li>\n<li>How do you keep the number of system tests low to keep your test suite fast?</li>\n<li>What's your strategy for dealing with external services in acceptance tests?</li>\n<li>What are the advantages of using Cucumber even as a solo developer working on a side project?</li>\n</ul>\n\n\n<p>Sponsors:</p>\n\n<ul>\n<li><a href=\"https://rollbar.com/fullstackradio\">Rollbar</a>, sign up at <a href=\"https://rollbar.com/fullstackradio\">https://rollbar.com/fullstackradio</a> to try their Bootstrap Plan free for 90 days</li>\n<li><a href=\"https://www.hired.com/fullstackradio\">Hired</a>, sign up at <a href=\"https://www.hired.com/fullstackradio\">https://www.hired.com/fullstackradio</a> to double your signing bonus to $2000 if you get a job through Hired</li>\n</ul>\n\n\n<p>Links:</p>\n\n<ul>\n<li><a href=\"http://testdrivenlaravel.com/\">Test Driven Laravel</a>, Adam's upcoming video course</li>\n<li><a href=\"http://blog.mattwynne.net/\">Matt's Blog</a></li>\n<li><a href=\"http://blog.mattwynne.net/2008/03/18/awesome-acceptance-testing/\">Matt's notes from Dan North's Awesome Acceptance Testing talk</a></li>\n<li><a href=\"https://cucumber.io/school\">Cucumber School</a></li>\n<li><a href=\"http://shop.oreilly.com/product/0636920033851.do\">User Story Mapping</a></li>\n<li><a href=\"https://www.amazon.com/gp/product/0955683645/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0955683645&amp;linkCode=as2&amp;tag=swingwiki-20\">Impact Mapping</a></li>\n<li><a href=\"https://cucumber.io/blog/2015/12/08/example-mapping-introduction\">Introducing Example Mapping</a></li>\n<li><a href=\"http://blog.codeclimate.com/blog/2013/10/09/rails-testing-pyramid/\">The Rails Testing Pyramid</a></li>\n<li><a href=\"http://claysnow.co.uk/the-testing-iceberg/\">The Testing Iceberg</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=4cVZvoFGJTU\">The Deep Synergy Between Testability and Good Design</a> talk by Michael Feathers</li>\n<li><a href=\"http://aslakhellesoy.com/post/11055981222/the-training-wheels-came-off\">The Training Wheels Came Off</a>, Aslak Hellesøy on removing the built-in step definitions in Cucumber-Rails</li>\n<li><a href=\"https://cucumber.io/blog\">Cucumber Blog</a></li>\n<li><a href=\"https://github.com/cucumber/cucumber\">Cucumber on GitHub</a></li>\n<li><a href=\"https://pragprog.com/book/hwcuc/the-cucumber-book\">The Cucumber Book</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks to Matt Wynne about Behavior Driven Development with Cucumber.\n\nTopics include:\n\n\nWhat exactly is BDD?\nIs BDD a technical or non-technical practice?\nHow do you get started with BDD?\nHow do you keep the number of system tests low to keep your test suite fast?\nWhat's your strategy for dealing with external services in acceptance tests?\nWhat are the advantages of using Cucumber even as a solo developer working on a side project?\n\n\n",
+      "date_published": "2016-10-05 12:07:00 -0400",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/49208.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 62454704,
+        "duration_in_seconds": 3898
+      }
+    },
+    {
+      "id": "6fe628f9-04ee-4b44-a60f-8b50011c9045",
+      "title": "50: Evan You - What's Coming in Vue.js 2.0",
+      "url": "http://www.fullstackradio.com/50",
+      "content_text": "In this episode, Adam talks to Evan You about what's coming in Vue.js 2.0.\n\nTopics include:\n\n\nThe motivation for rewriting Vue.js from scratch\nWhat is a virtual DOM and what are the benefits?\nHow does Vue.js 2.0 stack up performance wise? (spoiler alert, it's fast)\nWhen should you use templates vs. a render function?\nWhy two-way props have been deprecated and what you should do instead\nBest practices for dealing with custom component events\nThe 1.0 to 2.0 upgrade path\nBuilding native mobile applications with Vue.js and Weex\n\n\n",
+      "content_html": "<p>In this episode, Adam talks to <a href=\"https://twitter.com/youyuxi\">Evan You</a> about what's coming in Vue.js 2.0.</p>\n\n<p>Topics include:</p>\n\n<ul>\n<li>The motivation for rewriting Vue.js from scratch</li>\n<li>What is a virtual DOM and what are the benefits?</li>\n<li>How does Vue.js 2.0 stack up performance wise? (spoiler alert, it's <em>fast</em>)</li>\n<li>When should you use templates vs. a render function?</li>\n<li>Why two-way props have been deprecated and what you should do instead</li>\n<li>Best practices for dealing with custom component events</li>\n<li>The 1.0 to 2.0 upgrade path</li>\n<li>Building native mobile applications with Vue.js and Weex</li>\n</ul>\n\n\n<p>Sponsors:</p>\n\n<ul>\n<li><a href=\"https://rollbar.com/fullstackradio\">Rollbar</a>, sign up at <a href=\"https://rollbar.com/fullstackradio\">https://rollbar.com/fullstackradio</a> to try their Bootstrap Plan free for 90 days</li>\n<li><a href=\"https://www.hired.com/fullstackradio\">Hired</a>, sign up at <a href=\"https://www.hired.com/fullstackradio\">https://www.hired.com/fullstackradio</a> to double your signing bonus to $2000 if you get a job through Hired</li>\n</ul>\n\n\n<p>Links:</p>\n\n<ul>\n<li><a href=\"http://testdrivenlaravel.com/\">Test Driven Laravel</a>, Adam's upcoming video course</li>\n<li><a href=\"https://adamwathan.me/refactoring-to-collections/\">Refactoring to Collections</a>, get 25% off using the coupon \"pnwphp\"</li>\n<li><a href=\"https://vuejs.org/\">Vue.js</a></li>\n<li><a href=\"http://vuejs.org/2016/04/27/announcing-2.0/\">Announcing Vue.js 2.0</a></li>\n<li><a href=\"http://rc.vuejs.org/guide/\">Vue.js 2.0 Documentation</a></li>\n<li><a href=\"https://cdn.rawgit.com/krausest/js-framework-benchmark/956b068f03ef96a9c08d209ffadb0947cd56edc6/webdriver-java/table.html\">JS Framework Performance Benchmarks</a></li>\n<li><a href=\"https://github.com/snabbdom/snabbdom\">Snabbdom</a>, virtual DOM library</li>\n<li><a href=\"https://github.com/vuejs/babel-plugin-transform-vue-jsx\">JSX plugin for Vue.js</a></li>\n<li><a href=\"http://rc.vuejs.org/guide/components.html#Using-v-on-with-Custom-Events\">Using v-on with Custom Events</a></li>\n<li><a href=\"https://twitter.com/vuejs/status/773679830848180224\">Vue Migration Helper teaser</a></li>\n<li><a href=\"http://alibaba.github.io/weex/\">Weex</a>, framework for building native mobile applications with Vue.js</li>\n<li><a href=\"https://twitter.com/vuejs\">Vue.js on Twitter</a></li>\n<li><a href=\"https://twitter.com/VueNewsletter\">Vue.js Newsletter</a></li>\n<li><a href=\"https://twitter.com/vuejsfeed\">Vue.js Feed</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks to Evan You about what's coming in Vue.js 2.0.\n\nTopics include:\n\n\nThe motivation for rewriting Vue.js from scratch\nWhat is a virtual DOM and what are the benefits?\nHow does Vue.js 2.0 stack up performance wise? (spoiler alert, it's fast)\nWhen should you use templates vs. a render function?\nWhy two-way props have been deprecated and what you should do instead\nBest practices for dealing with custom component events\nThe 1.0 to 2.0 upgrade path\nBuilding native mobile applications with Vue.js and Weex\n\n\n",
+      "date_published": "2016-09-21 15:44:00 -0400",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/48155.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 50961228,
+        "duration_in_seconds": 3179
+      }
+    },
+    {
+      "id": "d5cc4780-63ef-4d97-9ced-a6d02896dc29",
+      "title": "49: Toran Billups - Test Driving the Front-end",
+      "url": "http://www.fullstackradio.com/49",
+      "content_text": "In this episode, Adam talks to Toran Billups about the test driven development workflow he uses to build Ember applications.\n",
+      "content_html": "<p>In this episode, Adam talks to <a href=\"https://twitter.com/toranb\">Toran Billups</a> about the test driven development workflow he uses to build Ember applications.</p>\n\n<p>Sponsors:</p>\n\n<ul>\n<li><a href=\"https://rollbar.com/fullstackradio\">Rollbar</a>, sign up at <a href=\"https://rollbar.com/fullstackradio\">https://rollbar.com/fullstackradio</a> to try their Bootstrap Plan free for 90 days</li>\n<li><a href=\"https://goshippo.com\">Shippo</a>, try out the Shippo API for free at &lt;goshippo.com></li>\n</ul>\n\n\n<p>Links:</p>\n\n<ul>\n<li><a href=\"http://testdrivenlaravel.com/\">Test Driven Laravel</a>, Adam's upcoming video course</li>\n<li><a href=\"http://emberjs.com/\">Ember.js</a></li>\n<li><a href=\"https://qunitjs.com/\">QUnit</a> testing framework</li>\n<li><a href=\"https://guides.emberjs.com/v2.7.0/testing/\">Ember Testing Documentation</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=2b1vcg_XSR8\">Toran's TDD talk at EmberConf 2015</a></li>\n<li><a href=\"https://vimeo.com/146953048\">Outside-In TDD presentation</a>, one of Toran's more recent talks</li>\n<li><a href=\"https://www.picatic.com/outsideintdd\">Toran's upcoming Outside-In TDD Workshop</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks to Toran Billups about the test driven development workflow he uses to build Ember applications.\n",
+      "date_published": "2016-09-07 03:32:00 -0400",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/46352.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 38141592,
+        "duration_in_seconds": 2378
+      }
+    },
+    {
+      "id": "b57c455b-b2f7-4bd7-8f76-4229bc785e3c",
+      "title": "48: Jessica Lord - Building Desktop Apps with Electron",
+      "url": "http://www.fullstackradio.com/48",
+      "content_text": "In this episode, Adam talks to Jessica Lord of GitHub about building desktop applications in HTML and JavaScript using Electron.\n",
+      "content_html": "<p>In this episode, Adam talks to <a href=\"https://twitter.com/jllord\">Jessica Lord</a> of GitHub about building desktop applications in HTML and JavaScript using Electron.</p>\n\n<p>Sponsors:</p>\n\n<ul>\n<li><a href=\"https://rollbar.com/fullstackradio\">Rollbar</a>, sign up at <a href=\"https://rollbar.com/fullstackradio\">https://rollbar.com/fullstackradio</a> to try their Bootstrap Plan free for 90 days</li>\n<li><a href=\"https://goshippo.com\">Shippo</a>, try out the Shippo API for free at <a href=\"https://goshippo.com\">goshippo.com</a></li>\n</ul>\n\n\n<p>Links:</p>\n\n<ul>\n<li><a href=\"http://electron.atom.io/\">Electron</a></li>\n<li><a href=\"http://electron.atom.io/blog/\">Electron Blog</a></li>\n<li><a href=\"https://atom.io/\">Atom</a></li>\n<li><a href=\"https://github.com/electron/electron-api-demos\">Electron API Demos</a></li>\n<li><a href=\"http://photonkit.com/\">Photon</a>, Electron UI kit</li>\n<li><a href=\"http://electron.atom.io/apps/\">Built on Electron</a>, Electron app directory</li>\n<li><a href=\"https://github.com/muan/mojibar\">Mojibar</a>, emoji searcher for OSX</li>\n<li><a href=\"https://hyperterm.org/\">HyperTerm</a>, JS/HTML/CSS terminal</li>\n<li><a href=\"https://nylas.com/product/\">Nylas N1</a>, email client</li>\n<li><a href=\"https://webtorrent.io/desktop/\">WebTorrent</a>, streaming torrent client</li>\n<li><a href=\"https://code.visualstudio.com/\">Visual Studio Code</a>, code editor</li>\n<li><a href=\"https://github.com/sindresorhus/awesome-electron\">Awesome Electron</a>, useful resources for creating apps with Electron</li>\n<li><a href=\"http://electron.atom.io/devtron/\">Devtron</a>, Electron DevTools extension</li>\n<li><a href=\"http://electron.atom.io/spectron/\">Spectron</a>, Electron testing framework</li>\n<li><a href=\"https://github.com/electron/electron-quick-start\">electron-quick-start</a>, starter repo for new Electron apps</li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks to Jessica Lord of GitHub about building desktop applications in HTML and JavaScript using Electron.\n",
+      "date_published": "2016-08-23 04:08:00 -0400",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/45191.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 45032501,
+        "duration_in_seconds": 2809
+      }
+    },
+    {
+      "id": "0e39503e-1c32-43d9-8fb6-20e4edcb2fd8",
+      "title": "47: Sara Soueidan - Ditching Icon Fonts for SVG",
+      "url": "http://www.fullstackradio.com/47",
+      "content_text": "In this episode, Adam talks to Sara Soueidan about the benefits of using SVG over icon fonts, and the best workflow for using SVG in your projects.\n",
+      "content_html": "<p>In this episode, Adam talks to <a href=\"https://twitter.com/SaraSoueidan\">Sara Soueidan</a> about the benefits of using SVG over icon fonts, and the best workflow for using SVG in your projects.</p>\n\n<p>Sponsors:</p>\n\n<ul>\n<li><a href=\"https://laracasts.com\">Laracasts</a>, use coupon code FULLSTACK2016 for 50% off your first month</li>\n<li><a href=\"https://rollbar.com/fullstackradio\">Rollbar</a>, sign up at <a href=\"https://rollbar.com/fullstackradio\">https://rollbar.com/fullstackradio</a> to try their Bootstrap Plan free for 90 days</li>\n</ul>\n\n\n<p>Links:</p>\n\n<ul>\n<li><a href=\"https://sarasoueidan.com/\">Sara's Blog</a></li>\n<li><a href=\"https://css-tricks.com/icon-fonts-vs-svg/\">SVG vs Icon Fonts Cage Match</a></li>\n<li><a href=\"https://github.com/filamentgroup/grunticon\">grunticon</a></li>\n<li><a href=\"https://www.filamentgroup.com/lab/grumpicon-workflow.html\">A Designer's Guide to Grumpicon</a></li>\n<li><a href=\"https://sarasoueidan.com/blog/icon-fonts-to-svg/\">Making the Switch Away from Icont Fonts to SVG</a></li>\n<li><a href=\"https://css-tricks.com/a-complete-guide-to-svg-fallbacks/\">A complete guide to SVG fallbacks</a></li>\n<li><a href=\"https://24ways.org/2014/an-overview-of-svg-sprite-creation-techniques/\">Overview of SVG Sprite Creation Techniques</a></li>\n<li><a href=\"https://sarasoueidan.com/tags/svg/index.html\">All SVG articles on Sara's blog</a></li>\n<li><a href=\"https://github.com/svg/svgo\">svgo</a></li>\n<li><a href=\"https://jakearchibald.github.io/svgomg/\">svgomg</a></li>\n<li><a href=\"https://www.smashingmagazine.com/2015/03/real-life-responsive-web-design-smashing-book-5/\">The Smashing Book 5</a></li>\n<li><a href=\"https://abookapart.com/products/practical-svg\">Practical SVG book</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks to Sara Soueidan about the benefits of using SVG over icon fonts, and the best workflow for using SVG in your projects.\n",
+      "date_published": "2016-08-10 05:00:00 -0400",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/44159.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 43569212,
+        "duration_in_seconds": 2717
+      }
+    },
+    {
+      "id": "7ea58347-dc9d-4400-bed1-fcaa88a2b727",
+      "title": "46: Joe Ferris - Test Driven Rails",
+      "url": "http://www.fullstackradio.com/46",
+      "content_text": "In this episode, Adam talks to Joe Ferris, CTO at thoughtbot, about the test-driven development workflow he uses to build Rails applications.\n",
+      "content_html": "<p>In this episode, Adam talks to <a href=\"https://twitter.com/joeferris\">Joe Ferris</a> of <a href=\"https://thoughtbot.com\">thoughtbot</a> about the test-driven development workflow he uses to build Rails applications.</p>\n\n<p>Sponsors:</p>\n\n<ul>\n<li><a href=\"https://laracasts.com\">Laracasts</a>, use coupon code FULLSTACK2016 for 50% off your first month</li>\n<li><a href=\"https://rollbar.com/fullstackradio\">Rollbar</a>, sign up at <a href=\"https://rollbar.com/fullstackradio\">https://rollbar.com/fullstackradio</a> to try their Bootstrap Plan free for 90 days</li>\n</ul>\n\n\n<p>Links:</p>\n\n<ul>\n<li><a href=\"https://adamwathan.me/test-driven-laravel/\">Test Driven Laravel</a>, Adam's latest project</li>\n<li><a href=\"http://giantrobots.fm/\">Giant Robots</a> podcast</li>\n<li><a href=\"https://robots.thoughtbot.com/how-we-test-rails-applications\">How We Test Rails Applications</a> on the thoughtbot blog</li>\n<li><a href=\"http://jnicklas.github.io/capybara/\">Capybara</a></li>\n<li><a href=\"https://github.com/thoughtbot/capybara-webkit\">Capybara WebKit</a></li>\n<li><a href=\"http://rspec.info/\">RSpec</a></li>\n<li><a href=\"https://github.com/thoughtbot/factory_girl\">factory_girl</a></li>\n<li><a href=\"http://blog.codeclimate.com/blog/2013/10/09/rails-testing-pyramid/\">The Rails Testing Pyramid</a> on the Code Climate blog</li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks to Joe Ferris, CTO at thoughtbot, about the test-driven development workflow he uses to build Rails applications.\n",
+      "date_published": "2016-07-28 06:19:00 -0400",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/43250.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 50408252,
+        "duration_in_seconds": 3145
+      }
+    },
+    {
+      "id": "3e3c79c2-d055-4395-9461-650bc45a428a",
+      "title": "45: Derek Prior - From Rails to Phoenix",
+      "url": "http://www.fullstackradio.com/45",
+      "content_text": "In this episode, Adam talks to Derek Prior about building web applications in Elixir with Phoenix, and how it compares to building an application in Ruby on Rails.\n",
+      "content_html": "<p>In this episode, Adam talks to <a href=\"https://twitter.com/derekprior\">Derek Prior</a> of <a href=\"https://thoughtbot.com\">thoughtbot</a> about building web applications in Elixir with Phoenix, and how it compares to building an application in Ruby on Rails.</p>\n\n<p>Sponsors:</p>\n\n<ul>\n<li><a href=\"https://laracasts.com\">Laracasts</a>, use coupon code FULLSTACK2016 for 50% off your first month</li>\n<li><a href=\"https://rollbar.com/fullstackradio\">Rollbar</a>, sign up at <a href=\"https://rollbar.com/fullstackradio\">https://rollbar.com/fullstackradio</a> to try their Bootstrap Plan free for 90 days</li>\n</ul>\n\n\n<p>Links:</p>\n\n<ul>\n<li><a href=\"https://thoughtbot.com/services/elixir-phoenix\">thoughtbot on Elixir and Phoenix</a></li>\n<li><a href=\"http://bikeshed.fm/\">The Bikeshed Podcast</a></li>\n<li><a href=\"http://exercism.io/\">Exercism.io</a></li>\n<li><a href=\"http://elixir-lang.org/\">Elixir</a>, the functional programming language</li>\n<li><a href=\"http://www.phoenixframework.org/\">Phoenix</a>, the Elixir web framework</li>\n<li><a href=\"http://www.phoenixframework.org/docs/ecto-models\">Ecto</a>, the Phoenix database layer</li>\n<li><a href=\"https://pragprog.com/book/elixir/programming-elixir\">Programming Elixir</a> book by Dave Thomas</li>\n<li><a href=\"https://pragprog.com/book/phoenix/programming-phoenix\">Programming Phoenix</a> book by Chris McCord, Bruce Tate, and José Valim</li>\n<li><a href=\"https://dockyard.com/blog/2015/11/18/phoenix-is-not-rails\">Phoenix is not Rails</a> by Chris McCord</li>\n<li><a href=\"http://bikeshed.fm/54\">The Bikeshed Episode 54</a>, where Derek talks about dates and times in Elixir</li>\n<li><a href=\"https://github.com/BlakeWilliams/pact\">Pact</a>, the Elixir dependency injection library by <a href=\"https://twitter.com/blakewilliams__\">Blake Williams</a></li>\n<li><a href=\"http://elixir-slackin.herokuapp.com/\">Elixir on Slack</a></li>\n<li><a href=\"http://elixirsips.com/\">Elixir Sips</a> screencasts</li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks to Derek Prior about building web applications in Elixir with Phoenix, and how it compares to building an application in Ruby on Rails.\n",
+      "date_published": "2016-07-13 14:25:00 -0400",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/42340.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 43850483,
+        "duration_in_seconds": 2735
+      }
+    },
+    {
+      "id": "5c7bca9b-f7d2-4b63-a0b5-c29fb18a7883",
+      "title": "44: Joel Clermont - What the heck is Elm?",
+      "url": "http://www.fullstackradio.com/44",
+      "content_text": "In this episode, Adam talks to Joel Clermont about the Elm programming language and getting started with functional programming.\n",
+      "content_html": "<p>In this episode, Adam talks to <a href=\"https://twitter.com/jclermont\">Joel Clermont</a> about the Elm programming language and getting started with functional programming.</p>\n\n<p>Sponsors:</p>\n\n<ul>\n<li><a href=\"https://laracasts.com\">Laracasts</a>, use coupon code FULLSTACK2016 for 50% off your first month</li>\n<li><a href=\"https://rollbar.com/fullstackradio\">Rollbar</a>, sign up at <a href=\"https://rollbar.com/fullstackradio\">https://rollbar.com/fullstackradio</a> to try their Bootstrap Plan free for 90 days</li>\n</ul>\n\n\n<p>Links:</p>\n\n<ul>\n<li><a href=\"http://joelclermont.com/\">Joel's Blog</a></li>\n<li><a href=\"http://elm-lang.org/\">The Elm Homepage</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/ML_(programming_language\">The ML language</a>)</li>\n<li><a href=\"http://elixir-lang.org/\">The Elixir language</a></li>\n<li><a href=\"http://exercism.io/\">Exercism.io</a></li>\n<li><a href=\"https://twitter.com/rtfeldman\">Richard Feldman</a>, working on \"Elm in Action\" book</li>\n<li><a href=\"http://blog.jenkster.com/2015/12/what-is-functional-programming.html\">\"What is functional programming?\"</a> blog series by Kris Jenkins</li>\n<li><a href=\"https://www.leighhalliday.com/fizzbuzz-in-elixir\">Fizzbuzz in Elixir</a> library</li>\n<li><a href=\"http://haskellbook.com/\">Haskell Programming from first principles</a> book</li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks to Joel Clermont about the Elm programming language and getting started with functional programming.\n",
+      "date_published": "2016-06-28 23:54:00 -0400",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/41044.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 51933817,
+        "duration_in_seconds": 3240
+      }
+    },
+    {
+      "id": "8545d4d6-f852-412f-b441-e44a72668392",
+      "title": "43: Jonathan Snook - Managing Complexity, Design Systems, and Container Queries",
+      "url": "http://www.fullstackradio.com/43",
+      "content_text": "In this episode, Adam talks to Jonathan Snook, author of SMACSS, about finding the balance between utility and component driven CSS approaches, design systems engineering, and using container queries to build better responsive web experiences.\n",
+      "content_html": "<p>In this episode, Adam talks to <a href=\"https://twitter.com/snookca\">Jonathan Snook</a>, author of <a href=\"https://smacss.com/\">SMACSS</a>, about finding the balance between utility and component driven CSS approaches, design systems engineering, and using container queries to build better responsive web experiences.</p>\n\n<p>Sponsors:</p>\n\n<ul>\n<li><a href=\"https://laracasts.com\">Laracasts</a>, use coupon code FULLSTACK2016 for 50% off your first month</li>\n<li><a href=\"https://rollbar.com/fullstackradio\">Rollbar</a>, sign up at <a href=\"https://rollbar.com/fullstackradio\">https://rollbar.com/fullstackradio</a> to try their Bootstrap Plan free for 90 days</li>\n</ul>\n\n\n<p>Links:</p>\n\n<ul>\n<li><a href=\"http://snook.ca/\">Snook's Blog</a></li>\n<li><a href=\"https://smacss.com/\">SMACSS</a>, Jonathan's book</li>\n<li><a href=\"http://acss.io/\">Atomic CSS</a></li>\n<li><a href=\"http://snook.ca/archives/opinion/staffing-design-systems-team\">\"Staffing a Design Systems Team\"</a></li>\n<li><a href=\"http://snook.ca/archives/opinion/value-truly-rwd\">\"Why I Value Truly Responsive Web Design\"</a></li>\n<li><a href=\"http://alistapart.com/article/container-queries-once-more-unto-the-breach\">\"Container Queries: Once More Unto the Breach\"</a></li>\n<li><a href=\"https://www.filamentgroup.com/lab/element-query-workarounds.html\">Scott Jehl on container queries</a></li>\n<li><a href=\"https://github.com/marcj/css-element-queries\">CSS-Element-Queries</a> library</li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks to Jonathan Snook, author of SMACSS, about finding the balance between utility and component driven CSS approaches, design systems engineering, and using container queries to build better responsive web experiences.\n",
+      "date_published": "2016-06-14 23:53:00 -0400",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/39879.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 64667856,
+        "duration_in_seconds": 4036
+      }
+    },
+    {
+      "id": "c4a0506a-03a1-45b6-87d1-47f0fe0d84db",
+      "title": "42: Justin Jackson - Marketing for Developers",
+      "url": "http://www.fullstackradio.com/42",
+      "content_text": "In this episode, Adam talks to Justin Jackson, maker extraordinaire, about how to find new product ideas, finding customers for your products, and marketing for developers.\n",
+      "content_html": "<p>In this episode, Adam talks to <a href=\"https://twitter.com/mijustin\">Justin Jackson</a>, <a href=\"http://nerdnorth.com/\">maker extraordinaire</a>, about how to find new product ideas, finding customers for your products, and marketing for developers.</p>\n\n<p>Sponsors:</p>\n\n<ul>\n<li><a href=\"https://laracasts.com\">Laracasts</a>, use coupon code FULLSTACK2016 for 50% off your first month</li>\n<li><a href=\"https://rollbar.com/fullstackradio\">Rollbar</a>, sign up at <a href=\"https://rollbar.com/fullstackradio\">https://rollbar.com/fullstackradio</a> to try their Bootstrap Plan free for 90 days</li>\n</ul>\n\n\n<p>Links:</p>\n\n<ul>\n<li><a href=\"http://adamwathan.me/refactoring-to-collections/\">Refactoring to Collections</a>, Adam's book</li>\n<li><a href=\"https://justinjackson.ca/\">Justin's Blog</a></li>\n<li><a href=\"http://devmarketing.xyz/\">Marketing for Developers</a>, Justin's latest book</li>\n<li><a href=\"http://megamaker.co/\">MegaMaker Podcast</a></li>\n<li><a href=\"http://buildandlaunch.net/\">Build and Launch Podcast</a></li>\n<li><a href=\"http://productpeople.tv/\">Product People Podcast</a></li>\n<li><a href=\"http://www.networkeffects.me/\">Network Effects</a></li>\n<li><a href=\"http://remoteworkers.club/\">Remote Workers Club</a></li>\n<li><a href=\"https://baremetrics.com/\">Baremetrics</a></li>\n<li><a href=\"https://ninjasandrobots.com/\">Nate Kontny's Blog</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks to Justin Jackson, maker extraordinaire, about how to find new product ideas, finding customers for your products, and marketing for developers.\n",
+      "date_published": "2016-05-24 09:40:00 -0400",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/38254.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 50630628,
+        "duration_in_seconds": 3159
+      }
+    },
+    {
+      "id": "65cfbe5d-7eca-4e9b-a59c-0dbfcb678c07",
+      "title": "41: Jason McCreary - Git Tips, Tricks and Workflows",
+      "url": "http://www.fullstackradio.com/41",
+      "content_text": "In this episode, Adam talks to Jason McCreary, creator of Laravel Shift, about Git tips, tricks, and best practices, and how to develop a solid Git workflow for your team.\n",
+      "content_html": "<p>In this episode, Adam talks to <a href=\"https://twitter.com/gonedark\">Jason McCreary</a>, creator of <a href=\"https://laravelshift.com/\">Laravel Shift</a>, about Git tips, tricks, and best practices, and how to develop a solid Git workflow for your team.</p>\n\n<p>Sponsors:</p>\n\n<ul>\n<li><a href=\"https://laracasts.com\">Laracasts</a>, use coupon code FULLSTACK2016 for 50% off your first month</li>\n<li><a href=\"https://rollbar.com/fullstackradio\">Rollbar</a>, sign up at <a href=\"https://rollbar.com/fullstackradio\">https://rollbar.com/fullstackradio</a> to try their Bootstrap Plan free for 90 days</li>\n</ul>\n\n\n<p>Links:</p>\n\n<ul>\n<li><a href=\"http://adamwathan.me/refactoring-to-collections/\">Refactoring to Collections</a>, Adam's book</li>\n<li><a href=\"http://laracon.eu/2016/\">Laracon EU 2016</a></li>\n<li><a href=\"https://git-scm.com/book/en/v2\">Pro Git</a>, free online Git book</li>\n<li><a href=\"http://johnkary.net/blog/git-add-p-the-most-powerful-git-feature-youre-not-using-yet/\">git add -p</a></li>\n<li><a href=\"http://chris.beams.io/posts/git-commit/\">\"How to Write a Git Commit Message\"</a>, by Chris Beams</li>\n<li><a href=\"http://nvie.com/posts/a-successful-git-branching-model/\">Git Flow</a></li>\n<li><a href=\"https://guides.github.com/introduction/flow/\">GitHub Flow</a></li>\n<li><a href=\"https://hub.github.com/\">GitHub CLI tool</a></li>\n<li><a href=\"https://desktop.github.com/\">GitHub for Desktop</a></li>\n<li><a href=\"https://www.destroyallsoftware.com/screencasts\">Destroy All Software</a> screencasts</li>\n<li><a href=\"https://github.com/git/git/tree/master/contrib/completion\">Git shell completion</a></li>\n<li><a href=\"https://gist.github.com/adamwathan/00210967b76b5ed7a3ae57acce7b3f58\">Jason's Git aliases</a></li>\n<li><a href=\"http://jason.pureconcepts.net/2016/04/mentoring-pair-programming-development-coaching/\">Mentoring and Coaching with Jason</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks to Jason McCreary, creator of Laravel Shift, about Git tips, tricks, and best practices, and how to develop a solid Git workflow for your team.\n",
+      "date_published": "2016-05-04 11:30:00 -0400",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/37051.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 61735398,
+        "duration_in_seconds": 3853
+      }
+    },
+    {
+      "id": "a176996f-d9ee-45cd-a632-60e51a35403e",
+      "title": "40: Edd Mann - You Should Switch to Postgres",
+      "url": "http://www.fullstackradio.com/40",
+      "content_text": "In this episode, Adam talks to Edd Mann, host of Three Devs and a Maybe, about the advantages of using PostgreSQL over MySQL, common obstacles people running into when switching to Postgres, and deciding when to push work into the database instead of doing it in code.\n",
+      "content_html": "<p>In this episode, Adam talks to <a href=\"https://twitter.com/edd_mann\">Edd Mann</a>, host of <a href=\"http://threedevsandamaybe.com/\">Three Devs and a Maybe</a>, about the advantages of using PostgreSQL over MySQL, common obstacles people running into when switching to Postgres, and deciding when to push work into the database instead of doing it in code.</p>\n\n<p>Sponsors:</p>\n\n<ul>\n<li><a href=\"https://laracasts.com\">Laracasts</a>, use coupon code FULLSTACK2016 for 50% off your first month</li>\n<li><a href=\"https://rollbar.com/fullstackradio\">Rollbar</a>, sign up at <a href=\"https://rollbar.com/fullstackradio\">https://rollbar.com/fullstackradio</a> to try their Bootstrap Plan free for 90 days</li>\n</ul>\n\n\n<p>Links:</p>\n\n<ul>\n<li><a href=\"http://adamwathan.me/refactoring-to-collections/\">Refactoring to Collections</a>, Adam's book</li>\n<li><a href=\"http://eddmann.com/\">Edd's Blog</a></li>\n<li><a href=\"http://www.postgresql.org/\">PostgreSQL</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/ACID\">ACID</a></li>\n<li><a href=\"https://blog.heroku.com/archives/2013/6/5/javascript_in_your_postgres\">Using JavaScript in Postgres</a></li>\n<li><a href=\"http://www.postgresql.org/docs/8.0/static/indexes-partial.html\">Partial Indexes</a></li>\n<li><a href=\"https://blog.codeship.com/unleash-the-power-of-storing-json-in-postgres/\">Using JSON in Postgres</a></li>\n<li><a href=\"http://www.craigkerstiens.com/2013/11/18/best-postgres-feature-youre-not-using/\">Common Table Expressions</a></li>\n<li><a href=\"http://postgresapp.com/\">Postgres.app</a></li>\n<li><a href=\"https://www.navicat.com/products/navicat-for-postgresql\">Navicat for Postgres</a></li>\n<li><a href=\"http://www.pgadmin.org/\">pgAdmin</a></li>\n<li><a href=\"https://momjian.us/\">Bruce Momjian's homepage</a>, recommended by Edd</li>\n<li><a href=\"https://www.youtube.com/watch?v=P5iZri9s0WQ\">Explaining the Postgres Query Optimizer</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=JFh22atXTRQ\">PostgreSQL Internals Through Pictures</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks to Edd Mann, host of Three Devs and a Maybe, about the advantages of using PostgreSQL over MySQL, common obstacles people running into when switching to Postgres, and deciding when to push work into the database instead of doing it in code.\n",
+      "date_published": "2016-04-19 10:41:00 -0400",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/35748.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 49811008,
+        "duration_in_seconds": 3107
+      }
+    },
+    {
+      "id": "5b9badd4-8f58-4599-ac2b-cf25d162c752",
+      "title": "39: Michael Feathers - First Class Error Handling, Tell Don't Ask, and Collection Pipelines",
+      "url": "http://www.fullstackradio.com/39",
+      "content_text": "In this episode, Adam talks to Michael Feathers, author of Working Effectively with Legacy Code, about strategies for writing cleaner error handling code, the \"tell don't ask\" principle, and transforming data with collection pipelines.\n",
+      "content_html": "<p>In this episode, Adam talks to <a href=\"https://twitter.com/mfeathers\">Michael Feathers</a>, author of Working Effectively with Legacy Code, about strategies for writing cleaner error handling code, the \"tell don't ask\" principle, and transforming data with collection pipelines.</p>\n\n<p>Sponsors:</p>\n\n<ul>\n<li><a href=\"https://laracasts.com\">Laracasts</a>, use coupon code FULLSTACK2016 for 50% off your first month</li>\n<li><a href=\"https://rollbar.com/fullstackradio\">Rollbar</a>, sign up at <a href=\"https://rollbar.com/fullstackradio\">https://rollbar.com/fullstackradio</a> to try their Bootstrap Plan free for 90 days</li>\n</ul>\n\n\n<p>Links:</p>\n\n<ul>\n<li><a href=\"http://adamwathan.me/refactoring-to-collections/\">Refactoring to Collections</a>, Adam's book</li>\n<li><a href=\"https://michaelfeathers.silvrback.com/\">Michael's Blog</a></li>\n<li><a href=\"http://www.r7krecon.com/\">r7k</a>, Michael's company</li>\n<li><a href=\"http://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052?ie=UTF8&amp;*Version*=1&amp;*entries*=0\">Working Effectively with Legacy Code</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Null_Object_pattern\">The Null Object Pattern</a></li>\n<li><a href=\"https://en.wikibooks.org/wiki/Haskell/Understanding_monads/Maybe\">The Haskell Maybe Monad</a></li>\n<li><a href=\"http://giantrobots.fm/10\">Giant Robots podcast on Tell Don't Ask vs. SRP</a></li>\n<li><a href=\"http://learnyouahaskell.com/\">Learn You a Haskell</a></li>\n<li><a href=\"http://tryapl.org/\">APL Programming Language</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=UX7xmhpUoi4\">Michael's Arrays on Steroids presentation</a></li>\n<li><a href=\"https://michaelfeathers.silvrback.com/moving-quickly-with-compositional-chains\">Building guitar tab with collection pipelines</a></li>\n<li><a href=\"https://twitter.com/mfeathers/status/659152253274693632\">The Spaceship Operator Tweet</a></li>\n<li><a href=\"https://www.agilealliance.org/agile-alliance-technical-conference-2016/\">The Agile Alliance Technical Conference</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks to Michael Feathers, author of Working Effectively with Legacy Code, about strategies for writing cleaner error handling code, the \"tell don't ask\" principle, and transforming data with collection pipelines.\n",
+      "date_published": "2016-04-05 18:15:00 -0400",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/34716.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 56685695,
+        "duration_in_seconds": 3537
+      }
+    },
+    {
+      "id": "a82207c1-3d60-41a9-b482-ac1de13b6c59",
+      "title": "38: J.B. Rainsberger - Unit Testability and the Universal Architecture",
+      "url": "http://www.fullstackradio.com/38",
+      "content_text": "In this episode, Adam talks to J.B. Rainsberger about how to keep your adapter layer thin, designing unit testable code, and the importance of paying attention to how your code is changing vs. how your code looks today.\n\nThis episode is brought to you by Laracasts.\n",
+      "content_html": "<p>In this episode, Adam talks to <a href=\"https://twitter.com/jbrains\">J.B. Rainsberger</a> about how to keep your adapter layer thin, designing unit testable code, and the importance of paying attention to how your code is changing vs. how your code looks today.</p>\n\n<p>This episode is brought to you by <a href=\"https://laracasts.com\">Laracasts</a>.</p>\n\n<p>Links:</p>\n\n<ul>\n<li><a href=\"http://blog.jbrains.ca/\">J.B.'s Blog</a></li>\n<li><a href=\"https://vimeo.com/80533536\">Integrated Tests are a Scam</a></li>\n<li><a href=\"http://www.jmock.org/oopsla2004.pdf\">Mock Roles, not Objects</a></li>\n<li><a href=\"http://blog.jbrains.ca/permalink/the-four-elements-of-simple-design\">The Four Elements of Simple Design</a></li>\n<li><a href=\"http://ask.jbrains.ca\">Ask J.B. a question</a></li>\n<li><a href=\"http://online-training.jbrains.ca/courses/wbitdd-01\">J.B.'s Intro to TDD Course</a></li>\n<li>Sponsored by <a href=\"https://laracasts.com\">Laracasts</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks to J.B. Rainsberger about how to keep your adapter layer thin, designing unit testable code, and the importance of paying attention to how your code is changing vs. how your code looks today.\n\nThis episode is brought to you by Laracasts.\n",
+      "date_published": "2016-03-23 05:28:00 -0400",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/33235.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 46699878,
+        "duration_in_seconds": 3884
+      }
+    },
+    {
+      "id": "f5ab4108-5041-4476-94ac-db93682b239b",
+      "title": "37: Chris Hartjes - Getting Started with Testing",
+      "url": "http://www.fullstackradio.com/37",
+      "content_text": "In this episode, Adam talks to the Grumpy Programmer himself about getting started with testing PHP applications.\n\nTopics include:\n\n\nRecommended testing tools\nPHPUnit vs. PHPSpec\nMockery vs. Prophecy\nThe benefits of defensive programming\nHow to convince your manager to let you write tests\n\n\n\nThis episode is brought to you by Laracasts.\n",
+      "content_html": "<p>In this episode, Adam talks to the <a href=\"https://twitter.com/grmpyprogrammer\">Grumpy Programmer</a> himself about getting started with testing PHP applications.</p>\n\n<p>Topics include:</p>\n\n<ul>\n<li>Recommended testing tools</li>\n<li>PHPUnit vs. phpspec</li>\n<li>Mockery vs. Prophecy</li>\n<li>The benefits of defensive programming</li>\n<li>How to convince your manager to let you write tests</li>\n</ul>\n\n\n<p>This episode is brought to you by <a href=\"https://laracasts.com\">Laracasts</a>.</p>\n\n<p>Links:</p>\n\n<ul>\n<li><a href=\"https://leanpub.com/minimumviabletests\">Minimum Viable Tests</a>, Chris' new book</li>\n<li><a href=\"https://grumpy-learning.com/\">Grumpy Learning</a>, Chris' personal website</li>\n<li><a href=\"https://phpunit.de/\">PHPUnit</a> testing framework</li>\n<li><a href=\"http://phpspec.readthedocs.org/en/latest/\">phpspec</a> testing framework</li>\n<li><a href=\"https://github.com/padraic/mockery\">Mockery</a> test double library</li>\n<li><a href=\"https://github.com/phpspec/prophecy\">Prophecy</a> test double library</li>\n<li><a href=\"https://github.com/antecedent/patchwork\">Patchwork</a> monkey patching library</li>\n<li><a href=\"http://devhell.info/\">Development Hell</a>, Chris and Ed Finkler's podcast</li>\n<li>Sponsored by <a href=\"https://laracasts.com\">Laracasts</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks to the Grumpy Programmer himself about getting started with testing PHP applications.\n\nTopics include:\n\n\nRecommended testing tools\nPHPUnit vs. PHPSpec\nMockery vs. Prophecy\nThe benefits of defensive programming\nHow to convince your manager to let you write tests\n\n\n\nThis episode is brought to you by Laracasts.\n",
+      "date_published": "2016-03-09 05:00:00 -0500",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/28597.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 31450461,
+        "duration_in_seconds": 2613
+      }
+    },
+    {
+      "id": "0609f0b8-53cf-4884-8bf6-29cfac4ad0db",
+      "title": "36: Jason McCreary - Building Laravel Shift",
+      "url": "http://www.fullstackradio.com/36",
+      "content_text": "In this episode, Adam talks to Jason McCreary about building Shift, a tool that automates upgrading your application between framework versions.\n\nThis episode is brought to you by Laracasts.\n",
+      "content_html": "<p>In this episode, Adam talks to <a href=\"https://twitter.com/gonedark\">Jason McCreary</a> about building Shift, a tool that automates upgrading your application between framework versions.</p>\n\n<p>This episode is brought to you by <a href=\"https://laracasts.com\">Laracasts</a>.</p>\n\n<p>Links:</p>\n\n<ul>\n<li><a href=\"https://laravelshift.com/\">Shift</a></li>\n<li><a href=\"https://laravel.com/\">Laravel</a></li>\n<li><a href=\"http://www.pocketbracket.com/\">PocketBracket</a></li>\n<li><a href=\"https://laravel.com/docs/5.2/billing\">Laravel Cashier</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Abstract_syntax_tree\">Abstract Syntax Tree</a></li>\n<li><a href=\"http://redis.io/topics/data-types#sorted-sets\">Sorted sets in Redis</a></li>\n<li>Sponsored by <a href=\"https://laracasts.com\">Laracasts</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks to Jason McCreary about building Shift, a tool that automates upgrading your application between framework versions.\n\nThis episode is brought to you by Laracasts.\n",
+      "date_published": "2016-02-25 09:41:00 -0500",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/27677.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 23523751,
+        "duration_in_seconds": 1953
+      }
+    },
+    {
+      "id": "66e983fb-4f37-4928-963c-dcbc4f4400a2",
+      "title": "35: Jonathan Reinink - Fixing Common API Design Mistakes",
+      "url": "http://www.fullstackradio.com/35",
+      "content_text": "In this episode, Adam talks to Jonathan Reinink of Code Distillery about common API design challenges and how to fix them.\n\nThis episode is brought to you by Laracasts.\n",
+      "content_html": "<p>In this episode, Adam talks to <a href=\"https://twitter.com/reinink\">Jonathan Reinink</a> of <a href=\"http://codedistillery.ca/\">Code Distillery</a> about common API design challenges and how to fix them.</p>\n\n<p>Topics include:</p>\n\n<ul>\n<li>Does it make sense to scope resources to the authenticated user or should you always use sub-resources?</li>\n<li>When to use nested resources and when to avoid them</li>\n<li>Strategies for dealing with actions that don't seem to fit into REST</li>\n<li>Breaking the mapping between your API and your database</li>\n<li>Using singular sub-resources and optional fields to simplify your responses</li>\n</ul>\n\n\n<p>Links:</p>\n\n<ul>\n<li><a href=\"http://reinink.ca/\">Jonathan's personal website</a></li>\n<li><a href=\"http://platesphp.com/\">Plates templating library</a></li>\n<li><a href=\"http://glide.thephpleague.com/\">Glide image manipulation library</a></li>\n<li><a href=\"http://weblog.jamisbuck.org/2007/2/5/nesting-resources\">Nesting resources</a> by Jamis Buck</li>\n<li><a href=\"http://adamwathan.me/2014/04/12/theres-a-model-hiding-in-your-rest-api\">There's a model hiding in your REST API</a></li>\n<li><a href=\"https://apisyouwonthate.com/\">Build APIs You Won't Hate</a> by Phil Sturgeon</li>\n<li>Sponsored by <a href=\"https://laracasts.com\">Laracasts</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks to Jonathan Reinink of Code Distillery about common API design challenges and how to fix them.\n\nThis episode is brought to you by Laracasts.\n",
+      "date_published": "2016-02-12 09:14:00 -0500",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/26640.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 35761022,
+        "duration_in_seconds": 2973
+      }
+    },
+    {
+      "id": "0da94cf1-e4c8-4e9d-bcda-19c6680804cb",
+      "title": "34: Matt Machuga - Dealing with Dependencies in Active Record Models",
+      "url": "http://www.fullstackradio.com/34",
+      "content_text": "In this episode, Matt Machuga of Think Through Math returns to talk with Adam about design options when you find yourself wanting access to a collaborator in an Active Record or Eloquent model. They discuss the pros and cons of four specific designs, and finish off with their personal recommendations.\n\nTopics include:\n\n\nAre facades and service location automatically bad?\nAre NounVerber classes anti-OO?\nAdding a layer of composition to create domain models with dependencies\nUsing method injection for a temporary dependency\nUsing optional parameters to improve testability\n\n\n\nThis episode is brought to you by Laracasts.\n",
+      "content_html": "<p>In this episode, <a href=\"https://twitter.com/machuga\">Matt Machuga</a> of <a href=\"http://www.thinkthroughmath.com/\">Think Through Math</a> returns to talk with Adam about design options when you find yourself wanting access to a collaborator in an Active Record or Eloquent model. They discuss the pros and cons of four specific designs, and finish off with their personal recommendations.</p>\n\n<p>Topics include:</p>\n\n<ul>\n<li>Are facades and service location automatically bad?</li>\n<li>Are NounVerber classes anti-OO?</li>\n<li>Adding a layer of composition to create domain models with dependencies</li>\n<li>Using method injection for a temporary dependency</li>\n<li>Using optional parameters to improve testability</li>\n</ul>\n\n\n<p>Code snippets:</p>\n\n<ul>\n<li>Option 1: <a href=\"https://gist.github.com/adamwathan/c28a1106263ab97ca4e0\">Facades/Service Location/Global Access</a></li>\n<li>Option 2: <a href=\"https://gist.github.com/adamwathan/feaa708369450376b404\">Moving the responsibility to a new class</a></li>\n<li>Option 3: <a href=\"https://gist.github.com/adamwathan/2ccbc0f6fe3f3b31ed3d\">Composing a new domain model</a></li>\n<li>Option 4a: <a href=\"https://gist.github.com/adamwathan/09e41497dbd263caaf6c\">Inject the dependency into the method</a></li>\n<li>Option 4b: <a href=\"https://gist.github.com/adamwathan/5103581df3a5507b8ac2\">Optional method injection w/global fallback</a></li>\n</ul>\n\n\n<p>Links:</p>\n\n<ul>\n<li><a href=\"http://matthewmachuga.com/\">Matt's blog</a></li>\n<li><a href=\"http://jupitermoonbeam.blogspot.ca/2008/09/agent-nouns-are-code-smells.html\">\"Agent nouns are code smells\"</a> by Peter Gillard-Moss</li>\n<li><a href=\"https://nitpick-ci.com\">Nitpick CI</a>, Adam's PSR-2 style checking service</li>\n<li><a href=\"http://david.heinemeierhansson.com/2012/dependency-injection-is-not-a-virtue.html\">\"Dependency injection is not a virtue\"</a> by DHH</li>\n<li><a href=\"http://eriedayofcode.com/\">Erie Day of Code</a>, Matt's conference</li>\n<li>Sponsored by <a href=\"https://laracasts.com\">Laracasts</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Matt Machuga of Think Through Math returns to talk with Adam about design options when you find yourself wanting access to a collaborator in an Active Record or Eloquent model. They discuss the pros and cons of four specific designs, and finish off with their personal recommendations.\n\nTopics include:\n\n\nAre facades and service location automatically bad?\nAre NounVerber classes anti-OO?\nAdding a layer of composition to create domain models with dependencies\nUsing method injection for a temporary dependency\nUsing optional parameters to improve testability\n\n\n\nThis episode is brought to you by Laracasts.\n",
+      "date_published": "2016-01-27 08:12:00 -0500",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/24861.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 27961928,
+        "duration_in_seconds": 2323
+      }
+    },
+    {
+      "id": "85c933d4-18f9-4641-8189-452f9ef8e230",
+      "title": "33: David Hemphill - Building PushSilver with Vue.js and Beard",
+      "url": "http://www.fullstackradio.com/33",
+      "content_text": "In this episode, Adam talks to David Hemphill about his latest project PushSilver.\n\nTopics include:\n\n\nDeciding when to build something yourself vs. paying for something off the shelf\nChoosing a Javascript framework for more traditional server rendered apps\nVue.js compared to Angular and Ember\nThe advantages of using a utility-focused CSS approach\nDistributing front-end libraries\n\n\n\nThis episode is brought to you by Laracasts.\n",
+      "content_html": "<p>In this episode, Adam talks to <a href=\"https://twitter.com/davidhemphill\">David Hemphill</a> about his latest project <a href=\"https://pushsilver.com/\">PushSilver</a>.</p>\n\n<p>Topics include:</p>\n\n<ul>\n<li>Deciding when to build something yourself vs. paying for something off the shelf</li>\n<li>Choosing a Javascript framework for more traditional server rendered apps</li>\n<li>Vue.js compared to Angular and Ember</li>\n<li>The advantages of using a utility-focused CSS approach</li>\n<li>Distributing front-end libraries</li>\n</ul>\n\n\n<p>This episode is brought to you by <a href=\"https://laracasts.com\">Laracasts</a>.</p>\n\n<p>Links</p>\n\n<ul>\n<li><a href=\"http://davidhemphill.com/\">David's personal site</a></li>\n<li><a href=\"http://pushsilver.com\">PushSilver</a></li>\n<li><a href=\"https://laravel.com\">Laravel PHP Framework</a></li>\n<li><a href=\"https://digitalocean.com\">DigitalOcean</a></li>\n<li><a href=\"http://vuejs.org\">Vue.js</a></li>\n<li><a href=\"https://medium.com/designing-medium/crafting-link-underlines-on-medium-7c03a9274f9\">\"Crafting link underlines on Medium\"</a></li>\n<li><a href=\"http://buildwithbeard.com\">Beard CSS Framework</a></li>\n<li><a href=\"http://dev.buildwithbeard.com\">Beard documentation</a></li>\n<li><a href=\"https://www.pluralsight.com/courses/play-by-play-ryan-singer\">Peepcode Play by Play with Ryan Singer</a></li>\n<li><a href=\"https://speakerdeck.com/dafed/managing-css-projects-with-itcss\">Harry Roberts presentation on ITCSS</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks to David Hemphill about his latest project PushSilver.\n\nTopics include:\n\n\nDeciding when to build something yourself vs. paying for something off the shelf\nChoosing a Javascript framework for more traditional server rendered apps\nVue.js compared to Angular and Ember\nThe advantages of using a utility-focused CSS approach\nDistributing front-end libraries\n\n\n\nThis episode is brought to you by Laracasts.\n",
+      "date_published": "2016-01-12 08:19:00 -0500",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/24279.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 30867777,
+        "duration_in_seconds": 2565
+      }
+    },
+    {
+      "id": "447602c8-4421-4846-967b-3707ad83fed2",
+      "title": "32: DHH - Building Basecamp 3 like a Porsche 911",
+      "url": "http://www.fullstackradio.com/32",
+      "content_text": "DHH returns to the podcast to talk in-depth about how Basecamp 3 is designed and implemented!\n\nTopics include:\n\n\nWhy Basecamp is a \"majestic monolith\", and the impact of organizational shape and size on technical decision making in product development\nHow ActionCable works, and where Basecamp 3 uses websockets that you might not expect\nStrategies for avoiding duplication in client-side and server-side code\nThe automated testing strategy for Basecamp 3, and how it's influencing the future of testing in Rails 5\nWhy Basecamp 3 has 179 controllers, and what you can learn from their approach that will clean up your codebase\n\n\n\nThis episode is brought to you by Laracasts.\n",
+      "content_html": "<p><a href=\"https://twitter.com/dhh\">DHH</a> returns to the podcast to talk in-depth about how <a href=\"https://basecamp.com/\">Basecamp 3</a> is designed and implemented!</p>\n\n<p>Topics include:</p>\n\n<ul>\n<li>Why Basecamp is a \"majestic monolith\", and the impact of organizational shape and size on technical decision making in product development</li>\n<li>How ActionCable works, and where Basecamp 3 uses websockets that you might not expect</li>\n<li>Strategies for avoiding duplication in client-side and server-side code</li>\n<li>The automated testing strategy for Basecamp 3, and how it's influencing the future of testing in Rails 5</li>\n<li>Why Basecamp 3 has 179 controllers, and what you can learn from their approach that will clean up your codebase</li>\n</ul>\n\n\n<p>This episode is brought to you by <a href=\"https://laracasts.com\">Laracasts</a>.</p>\n\n<p>Links</p>\n\n<ul>\n<li><a href=\"https://basecamp.com/\">Basecamp 3</a></li>\n<li><a href=\"https://signalvnoise.com/posts/3959-rewrite-why-basecamp-3-is-a-brand-new-code\">Business of Software talk on Rewriting Basecamp</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=KJVTM7mE1Cc\">RailsConf presentation introducing ActionCable and Turbolinks 3</a></li>\n<li><a href=\"http://trix-editor.org/\">Trix</a>, Basecamp's new open source WYSIWYG editor</li>\n<li><a href=\"https://twitter.com/dhh/status/656905137898786816\">Rake Stats</a> for Basecamp 3</li>\n<li><a href=\"http://weblog.rubyonrails.org/2015/12/18/Rails-5-0-beta1/\">Rails 5.0.0.beta1 announcement</a></li>\n<li><a href=\"https://medium.com/@dhh\">DHH on Medium</a></li>\n<li>Sponsored by <a href=\"https://laracasts.com\">Laracasts</a></li>\n</ul>\n\n",
+      "summary": "DHH returns to the podcast to talk in-depth about how Basecamp 3 is designed and implemented!\n\nTopics include:\n\n\nWhy Basecamp is a \"majestic monolith\", and the impact of organizational shape and size on technical decision making in product development\nHow ActionCable works, and where Basecamp 3 uses websockets that you might not expect\nStrategies for avoiding duplication in client-side and server-side code\nThe automated testing strategy for Basecamp 3, and how it's influencing the future of testing in Rails 5\nWhy Basecamp 3 has 179 controllers, and what you can learn from their approach that will clean up your codebase\n\n\n\nThis episode is brought to you by Laracasts.\n",
+      "date_published": "2015-12-22 03:00:00 -0500",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/23499.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 45154120,
+        "duration_in_seconds": 3755
+      }
+    },
+    {
+      "id": "abbfdc98-2bc1-4431-a729-1f3007b2bdf3",
+      "title": "31: Woody Zuill - #NoEstimates",
+      "url": "http://www.fullstackradio.com/31",
+      "content_text": "In this episode Adam talks to Woody Zuill about software project estimation. They talk about the #NoEstimates hash tag, and what it means and where it came from. They also talk about ways to manage software projects without worrying about estimation, and alternative ways to make the decisions that estimates are usually used for.\n\nThis episode is brought to you by Laracasts.\n",
+      "content_html": "<p>In this episode Adam talks to <a href=\"https://twitter.com/WoodyZuill\">Woody Zuill</a> about software project estimation. They talk about the #NoEstimates hash tag, and what it means and where it came from. They also talk about ways to manage software projects without worrying about estimation, and alternative ways to make the decisions that estimates are usually used for.</p>\n\n<p>This episode is brought to you by <a href=\"https://laracasts.com\">Laracasts</a>.</p>\n\n<ul>\n<li><a href=\"http://zuill.us/WoodyZuill/beyond-estimates/\">Woody's #NoEstimates blog posts</a></li>\n<li><a href=\"http://neilkillick.com/2012/10/07/what-price-estimation/\">\"What price estimation?\"</a> by Neil Killick</li>\n<li><a href=\"http://www.developerdotstar.com/mag/articles/reeves_design.html\">\"What is software design?\"</a> by Jack Reeves</li>\n<li><a href=\"http://mobprogrammingconference.com\">The Mob Programming Conference</a></li>\n<li><a href=\"http://mobprogramming.org\">MobProgramming.org</a></li>\n<li>Sponsored by <a href=\"https://laracasts.com\">Laracasts</a></li>\n</ul>\n\n",
+      "summary": "In this episode Adam talks to Woody Zuill about software project estimation. They talk about the #NoEstimates hash tag, and what it means and where it came from. They also talk about ways to manage software projects without worrying about estimation, and alternative ways to make the decisions that estimates are usually used for.\n\nThis episode is brought to you by Laracasts.\n",
+      "date_published": "2015-12-08 22:49:00 -0500",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/22196.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 33338165,
+        "duration_in_seconds": 2771
+      }
+    },
+    {
+      "id": "193e390d-e410-4a61-8018-8ba862fd01c1",
+      "title": "30: Evan You - Diving Deep into Vue.js",
+      "url": "http://www.fullstackradio.com/30",
+      "content_text": "In this episode, Adam talks to Evan You, the creator of Vue.js. Evan talks about his time at Google Creative Lab and the sort of work that inspired him to create Vue. He also explains in depth how data binding works in Vue, and how it's different and more performant than Angular. Additionally, Evan discusses the benefits of Vue over React, why Vue works so well in both SPAs and traditional server-side web applications, and strategies for testing Vue components.\n",
+      "content_html": "<p>In this episode, Adam talks to <a href=\"https://twitter.com/youyuxi\">Evan You</a>, the creator of <a href=\"http://vuejs.org/\">Vue.js</a>. Evan talks about his time at Google Creative Lab and the sort of work that inspired him to create Vue. He also explains in depth how data binding works in Vue, and how it's different and more performant than Angular. Additionally, Evan discusses the benefits of Vue over React, why Vue works so well in both SPAs and traditional server-side web applications, and strategies for testing Vue components.</p>\n\n<p>This episode is brought to you by <a href=\"https://laracasts.com\">Laracasts</a>.</p>\n\n<ul>\n<li><a href=\"http://vuejs.org\">Vue.js</a></li>\n<li><a href=\"http://www.creativelab5.com/\">Google Creative Lab</a></li>\n<li><a href=\"http://www.newschool.edu/parsons/mfa-design-technology/\">Parsons Design and Technology Program</a></li>\n<li><a href=\"http://blog.evanyou.me/2015/10/25/vuejs-re-introduction/\">Vue.js: A (Re)introduction</a></li>\n<li><a href=\"https://webpack.github.io/\">webpack</a></li>\n<li><a href=\"http://nightwatchjs.org/\">Nightwatch.js</a></li>\n<li><a href=\"https://github.com/tmpvar/jsdom\">jsdom</a></li>\n<li><a href=\"http://karma-runner.github.io/0.13/index.html\">Karma</a></li>\n<li>Sponsored by <a href=\"https://laracasts.com\">Laracasts</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks to Evan You, the creator of Vue.js. Evan talks about his time at Google Creative Lab and the sort of work that inspired him to create Vue. He also explains in depth how data binding works in Vue, and how it's different and more performant than Angular. Additionally, Evan discusses the benefits of Vue over React, why Vue works so well in both SPAs and traditional server-side web applications, and strategies for testing Vue components.\n",
+      "date_published": "2015-11-23 20:21:00 -0500",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/21171.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 26707990,
+        "duration_in_seconds": 2218
+      }
+    },
+    {
+      "id": "f0a720f0-8c24-4499-8fc6-2f14043e02cb",
+      "title": "29: Mark Otto - Bootstrap 4 and CSS architecture at scale",
+      "url": "http://www.fullstackradio.com/29",
+      "content_text": "In this episode, Adam talks to Mark Otto, creator of Bootstrap and director of design at GitHub. They talk about the brand new alpha release of Bootstrap 4 and some of the most significant changes. They also talk about choosing units, when to use utility classes, and the importance of a component based CSS strategy.\n\nThis episode is brought to you by Laracasts.\n",
+      "content_html": "<p>In this episode, Adam talks to <a href=\"https://twitter.com/mdo\">Mark Otto</a>, creator of <a href=\"https://getbootstrap.com\">Bootstrap</a> and director of design at <a href=\"https://github.com/\">GitHub</a>. They talk about the brand new alpha release of Bootstrap 4 and some of the most significant changes. They also talk about choosing units, when to use utility classes, and the importance of a component based CSS strategy.</p>\n\n<p>This episode is brought to you by <a href=\"https://laracasts.com\">Laracasts</a>.</p>\n\n<ul>\n<li><a href=\"http://markdotto.com/\">Mark's blog</a></li>\n<li><a href=\"http://v4-alpha.getbootstrap.com/\">Bootstrap 4</a></li>\n<li><a href=\"https://github.com/cssstats/cssstats\">CSS Stats</a></li>\n<li><a href=\"https://github.com/katiefenn/parker\">Parker</a>, CSS analysis tool</li>\n<li><a href=\"http://codeguide.co/\">Code Guide</a>, Mark's HTML and CSS standards</li>\n<li><a href=\"http://wtfhtmlcss.com/\">WTF, HTML and CSS?</a>, Mark's collection of useful front-end gotchas</li>\n<li><a href=\"http://www.basscss.com/\">BassCSS</a></li>\n<li><a href=\"http://tachyons.io/\">Tachyons</a></li>\n<li><a href=\"http://nicolasgallagher.com/about-html-semantics-front-end-architecture/\">About HTML Semantics and Front-End Architecture</a> by <a href=\"https://twitter.com/necolas\">Nicholas Gallagher</a></li>\n<li><a href=\"https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06\">\"Medium's CSS is actually pretty f***ing good.\"</a> by <a href=\"https://twitter.com/fat\">@fat</a></li>\n<li><a href=\"http://primercss.io/\">GitHub Primer</a></li>\n<li>Sponsored by <a href=\"https://laracasts.com\">Laracasts</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks to Mark Otto, creator of Bootstrap and director of design at GitHub. They talk about the brand new alpha release of Bootstrap 4 and some of the most significant changes. They also talk about choosing units, when to use utility classes, and the importance of a component based CSS strategy.\n\nThis episode is brought to you by Laracasts.\n",
+      "date_published": "2015-11-10 05:00:00 -0500",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/19889.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 34791123,
+        "duration_in_seconds": 2892
+      }
+    },
+    {
+      "id": "8a105780-4939-4bc5-ac94-a8ed9e3fe89c",
+      "title": "28: Jeffrey Way and Dave Marshall - \"Don't mock what you don't own\"",
+      "url": "http://www.fullstackradio.com/28",
+      "content_text": "In this episode, Adam talks to recurring guests Jeffrey Way and Dave Marshall about \"don't mock what you don't own\". They talk about how to design code that needs to work with external services, how you should test that code, and the pitfalls you run into when you use mocks incorrectly in your test suite.\n\nThis episode is brought to you by Laracasts.\n",
+      "content_html": "<p>In this episode, Adam talks to recurring guests <a href=\"https://twitter.com/jeffrey_way\">Jeffrey Way</a> and <a href=\"https://twitter.com/davedevelopment\">Dave Marshall</a> about \"don't mock what you don't own\". They talk about how to design code that needs to work with external services, how you should test that code, and the pitfalls you run into when you use mocks incorrectly in your test suite.</p>\n\n<p>This episode is brought to you by <a href=\"https://laracasts.com\">Laracasts</a>.</p>\n\n<ul>\n<li><a href=\"http://www.jmock.org/oopsla2004.pdf\">Mock roles not objects</a>, the original paper</li>\n<li><a href=\"http://blog.thecodewhisperer.com/2010/10/16/integrated-tests-are-a-scam/\">Integrated tests are a scam</a> by J.B. Rainsberger</li>\n<li>Eric Evans' <a href=\"http://www.domainlanguage.com/elearn/\">Domain Language</a> e-course</li>\n<li><a href=\"http://davedevelopment.co.uk/2015/10/26/setting-up-a-database-fixture.html\">Effective tests: Setting up a database fixture</a> on Dave's blog</li>\n<li><a href=\"https://laracasts.com/lessons/to-mock-external-services\">Integration testing a Stripe wrapper</a> on Laracasts</li>\n<li>Sponsored by <a href=\"https://laracasts.com\">Laracasts</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks to recurring guests Jeffrey Way and Dave Marshall about \"don't mock what you don't own\". They talk about how to design code that needs to work with external services, how you should test that code, and the pitfalls you run into when you use mocks incorrectly in your test suite.\n\nThis episode is brought to you by Laracasts.\n",
+      "date_published": "2015-10-26 22:41:00 -0400",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/19222.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 42044538,
+        "duration_in_seconds": 3496
+      }
+    },
+    {
+      "id": "0124d2bf-8eed-498c-97cb-adbff4dbb96a",
+      "title": "27: Ben Orenstein - Outside-in TDD and Dependency Injection in Rails",
+      "url": "http://www.fullstackradio.com/27",
+      "content_text": "In this episode, Adam talks to Ben Orenstein of thoughtbot about useful tips for writing the first few tests in your application and working your way down to the unit level by starting with acceptance tests. They also talk about why dependency injection has a bad rap in the Ruby world, and common mistakes Ben sees junior Rails developers make.\n\nThis episode is brought to you by Laracasts.\n",
+      "content_html": "<p>In this episode, Adam talks to <a href=\"https://twitter.com/r00k\">Ben Orenstein</a> of <a href=\"https://thoughtbot.com\">thoughtbot</a> about useful tips for writing the first few tests in your application and working your way down to the unit level by starting with acceptance tests. They also talk about why dependency injection has a bad rap in the Ruby world, and common mistakes Ben sees junior Rails developers make.</p>\n\n<p>This episode is brought to you by <a href=\"https://laracasts.com\">Laracasts</a>.</p>\n\n<ul>\n<li><a href=\"http://www.benorenstein.com/blog/\">Ben's blog</a></li>\n<li><a href=\"https://upcase.com/coupons/full-stack\">Upcase</a></li>\n<li>DHH on <a href=\"http://david.heinemeierhansson.com/2012/dependency-injection-is-not-a-virtue.html\">\"Dependency injection is not a virtue\"</a></li>\n<li><a href=\"http://www.benorenstein.com/blog/a-criticism-of-dhhs-post-on-dependency-injection/\">A criticism of DHH's post on Dependency Injection</a></li>\n<li><a href=\"https://upcase.com/videos/dependency-management-in-rails\">Dependency Management in Rails</a> on Upcase</li>\n<li><a href=\"http://www.amazon.com/gp/product/0201485672\">Refactoring</a> by Martin Fowler</li>\n<li><a href=\"https://leanpub.com/4rulesofsimpledesign\">Understanding the 4 Rules of Simple Design</a> by Corey Haines</li>\n<li><a href=\"https://upcase.com/coupons/full-stack\">Coupon link for 50% off your first month of Upcase</a></li>\n<li>Sponsored by <a href=\"https://laracasts.com\">Laracasts</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks to Ben Orenstein of thoughtbot about useful tips for writing the first few tests in your application and working your way down to the unit level by starting with acceptance tests. They also talk about why dependency injection has a bad rap in the Ruby world, and common mistakes Ben sees junior Rails developers make.\n\nThis episode is brought to you by Laracasts.\n",
+      "date_published": "2015-10-12 20:45:00 -0400",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/18390.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 26075782,
+        "duration_in_seconds": 2165
+      }
+    },
+    {
+      "id": "aaba5527-2504-464f-949c-d17484a29da0",
+      "title": "26: Josh Pigford - What do you need when you launch?",
+      "url": "http://www.fullstackradio.com/26",
+      "content_text": "In this episode, Adam talks to Josh Pigford, founder of Baremetrics, about what you should have ready when you start a SaaS business. They also talk about how most businesses aren't doing as well as you think, content marketing, the benefits of different pricing models, and staying focused on your best idea.\n\nThis episode is brought to you by Laracasts.\n",
+      "content_html": "<p>In this episode, Adam talks to <a href=\"https://twitter.com/shpigford\">Josh Pigford</a>, founder of <a href=\"https://baremetrics.com\">Baremetrics</a>, about what you should have ready when you start a SaaS business. They also talk about how most businesses aren't doing as well as you think, content marketing, the benefits of different pricing models, and staying focused on your best idea.</p>\n\n<p>This episode is brought to you by <a href=\"https://laracasts.com\">Laracasts</a>.</p>\n\n<ul>\n<li><a href=\"https://baremetrics.com\">Baremetrics</a></li>\n<li><a href=\"https://baremetrics.com/blog/startup-insurance\">\"How to get startup insurance and avoid getting sued into oblivion\"</a></li>\n<li><a href=\"https://baremetrics.com/open\">Open Startups</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=0CDXJ6bMkMY\">DHH on The Secret to Making Money Online</a></li>\n<li><a href=\"https://baremetrics.com/blog/gifs-feature-rollout\">\"Creating amazing GIFs to announce new features\"</a></li>\n<li>Sponsored by <a href=\"https://laracasts.com\">Laracasts</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks to Josh Pigford, founder of Baremetrics, about what you should have ready when you start a SaaS business. They also talk about how most businesses aren't doing as well as you think, content marketing, the benefits of different pricing models, and staying focused on your best idea.\n\nThis episode is brought to you by Laracasts.\n",
+      "date_published": "2015-09-28 21:40:00 -0400",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/17813.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 22792159,
+        "duration_in_seconds": 1892
+      }
+    },
+    {
+      "id": "f9f6a6e8-a401-42aa-b7e5-8068479278e3",
+      "title": "25: Matt Machuga - Tips and tricks to make your code awesome",
+      "url": "http://www.fullstackradio.com/25",
+      "content_text": "In this episode, Adam talks to recurring guest Matt Machuga about tips and tricks that lead to better code.\n\nThey talk about bringing functional programming concepts to OO, simple patterns for cleaning up typical MVC web app code, and about how imposing crazy rules like banning conditionals and loops can lead to creative solutions that change the way you think about solving problems. They also get a little too excited about anonymous functions and compositional chains.\n\nThis episode is brought to you by Laracasts.\n",
+      "content_html": "<p>In this episode, Adam talks to recurring guest <a href=\"https://twitter.com/machuga\">Matt Machuga</a> about tips and tricks that lead to better code.</p>\n\n<p>They talk about bringing functional programming concepts to OO, simple patterns for cleaning up typical MVC web app code, and about how imposing crazy rules like banning conditionals and loops can lead to creative solutions that change the way you think about solving problems. They also get a little too excited about anonymous functions and compositional chains.</p>\n\n<p>This episode is brought to you by <a href=\"http://laracasts.com\">Laracasts</a>.</p>\n\n<ul>\n<li><a href=\"http://elm-lang.org/\">Elm</a></li>\n<li><a href=\"http://elixir-lang.org/\">Elixir</a></li>\n<li><a href=\"https://pragprog.com/book/elixir/programming-elixir\">Programming Elixir</a>, from The Pragmatic Bookshelf</li>\n<li><a href=\"http://typedclojure.org/\">Typed Clojure</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Visitor_pattern\">The Visitor Pattern</a>, which is not at all what we talked about</li>\n<li>Adam's <a href=\"http://adamwathan.me/2015/01/01/refactoring-loops-and-conditionals/\">Refactoring Loops and Conditionals</a> screencast</li>\n<li><a href=\"https://michaelfeathers.silvrback.com/moving-quickly-with-compositional-chains\">Michael Feathers' post</a> on compositional chains and guitar tab</li>\n<li><a href=\"https://pragmaticstudio.com/elm\">Pragmatic Studios Elm Course</a></li>\n<li><a href=\"https://radiusco.work/\">Radius CoWork</a> in Erie, PA</li>\n<li>Sponsored by <a href=\"http://laracasts.com\">Laracasts</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks to recurring guest Matt Machuga about tips and tricks that lead to better code.\n\nThey talk about bringing functional programming concepts to OO, simple patterns for cleaning up typical MVC web app code, and about how imposing crazy rules like banning conditionals and loops can lead to creative solutions that change the way you think about solving problems. They also get a little too excited about anonymous functions and compositional chains.\n\nThis episode is brought to you by Laracasts.\n",
+      "date_published": "2015-09-14 20:55:00 -0400",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/17262.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 36153496,
+        "duration_in_seconds": 3005
+      }
+    },
+    {
+      "id": "a110d328-2043-427c-ba24-eb709e5ac3db",
+      "title": "24: Wes Bos - What the Flexbox?!",
+      "url": "http://www.fullstackradio.com/24",
+      "content_text": "In this episode, Adam talks to Wes Bos about solving all of your CSS problems with Flexbox. They also talk about Bootstrap 4, ReactJS, and Wes' favorite Sublime Text tips and tricks.\n\nThis episode is brought to you by Laracasts.\n",
+      "content_html": "<p>In this episode, Adam talks to <a href=\"https://twitter.com/wesbos\">Wes Bos</a> about solving all of your CSS problems with Flexbox. They also talk about Bootstrap 4, ReactJS, and Wes' favorite Sublime Text tips and tricks.</p>\n\n<p>This episode is brought to you by <a href=\"http://laracasts.com\">Laracasts</a>.</p>\n\n<ul>\n<li><a href=\"http://wesbos.com/blog/\">Wes' Blog</a></li>\n<li><a href=\"http://flexbox.io\">\"What the Flexbox?!\"</a>, Wes' Flexbox training course</li>\n<li><a href=\"http://v4-alpha.getbootstrap.com/\">Bootstrap 4 alpha</a></li>\n<li><a href=\"https://github.com/philipwalton/flexbugs\">Flexbugs</a></li>\n<li><a href=\"https://philipwalton.github.io/solved-by-flexbox/\">Solved by Flexbox</a></li>\n<li><a href=\"https://www.mozilla.org/en-US/firefox/developer/\">Firefox Developer Edition</a></li>\n<li><a href=\"http://facebook.github.io/react/\">React</a></li>\n<li><a href=\"http://wesbos.com/sublime-text-book/\">Wes' Sublime Text book</a></li>\n<li><a href=\"https://www.alfredapp.com/\">Alfred</a></li>\n<li><a href=\"https://packagecontrol.io/packages/GhostText\">GhostText</a></li>\n<li>Sponsored by <a href=\"http://laracasts.com\">Laracasts</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks to Wes Bos about solving all of your CSS problems with Flexbox. They also talk about Bootstrap 4, ReactJS, and Wes' favorite Sublime Text tips and tricks.\n\nThis episode is brought to you by Laracasts.\n",
+      "date_published": "2015-09-01 16:20:00 -0400",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/16270.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 27616412,
+        "duration_in_seconds": 2294
+      }
+    },
+    {
+      "id": "3b9635d5-b441-44a2-836e-5663fc7378e0",
+      "title": "23: Chris Hunt - How GitHub does remote work",
+      "url": "http://www.fullstackradio.com/23",
+      "content_text": "In this episode, Adam talks to the Healthy Hacker, Chris Hunt, about how his team at GitHub works remotely. They also talk about entertaining your audience at conferences, taking a Codecation, and adventure motorcycling.\n\nThis episode is brought to you by Hired.\n",
+      "content_html": "<p>In this episode, Adam talks to the <a href=\"http://www.healthyhacker.com/\">Healthy Hacker</a>, <a href=\"https://twitter.com/chrishunt\">Chris Hunt</a>, about how his team at GitHub works remotely. They also talk about entertaining your audience at conferences, taking a Codecation, and adventure motorcycling.</p>\n\n<p>This episode is brought to you by <a href=\"http://hired.com/fullstackradio\">Hired</a>.</p>\n\n<ul>\n<li><a href=\"http://www.healthyhacker.com/\">Healthy Hacker</a>, Chris' podcast</li>\n<li><a href=\"http://www.chrishunt.co/talks/2014/10/24/solving_the_rubiks_cube_blindfolded.html\">\"Solving the Rubik's Cube Blindfolded\"</a> and more of Chris' <a href=\"http://www.chrishunt.co/talks/\">talks</a></li>\n<li><a href=\"https://github.com/blog/1124-how-we-use-pull-requests-to-build-github\">\"How we use Pull Requests to build GitHub\"</a></li>\n<li><a href=\"https://robots.thoughtbot.com/you-should-take-a-codecation\">\"You should take a Codecation\"</a></li>\n<li><a href=\"https://twitter.com/r00k\">Ben Orenstein</a>'s <a href=\"https://www.youtube.com/watch?t=108&amp;v=rOE9ydzHQ88\">Codecation presentation</a></li>\n<li><a href=\"https://www.trailmix.life/landing\">Trailmix</a></li>\n<li><a href=\"https://instagram.com/huntca/\">Chris' Motorcycle Adventures</a> on Instagram</li>\n<li>Sponsored by <a href=\"http://hired.com/fullstackradio\">Hired</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks to the Healthy Hacker, Chris Hunt, about how his team at GitHub works remotely. They also talk about entertaining your audience at conferences, taking a Codecation, and adventure motorcycling.\n\nThis episode is brought to you by Hired.\n",
+      "date_published": "2015-08-04 09:59:00 -0400",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/14858.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 27548096,
+        "duration_in_seconds": 2288
+      }
+    },
+    {
+      "id": "aa58b743-f1b1-4b82-b6f8-ec6f3d02f4fe",
+      "title": "22: Corey Haines - The 4 Rules of Simple Design",
+      "url": "http://www.fullstackradio.com/22",
+      "content_text": "In this episode, Adam talks to Corey Haines, author of \"Understanding the 4 Rules of Simple Design\". They talk about the importance of low-level design decisions, tricks for naming things well, why you shouldn't model your objects after the real world, and of course, Active Record.\n\nThis episode is brought to you by Hired.\n",
+      "content_html": "<p>In this episode, Adam talks to <a href=\"https://twitter.com/coreyhaines\">Corey Haines</a>, author of <a href=\"https://leanpub.com/4rulesofsimpledesign\">\"Understanding the 4 Rules of Simple Design\"</a>. They talk about the importance of low-level design decisions, tricks for naming things well, why you shouldn't model your objects after the real world, and of course, Active Record.</p>\n\n<p>This episode is brought to you by <a href=\"http://hired.com/fullstackradio\">Hired</a>.</p>\n\n<ul>\n<li><a href=\"http://www.wearehearken.com\">Hearken</a></li>\n<li><a href=\"https://leanpub.com/4rulesofsimpledesign\">Understanding the 4 Rules of Simple Design</a></li>\n<li><a href=\"http://articles.coreyhaines.com/\">Corey's Blog</a></li>\n<li>Corey's post on <a href=\"http://articles.coreyhaines.com/posts/four-second-tests/\">comparing test run speeds</a></li>\n<li><a href=\"http://www.amazon.com/Refactoring-Patterns-Joshua-Kerievsky/dp/0321213351\">Refactoring to Patterns</a> by Josh Kerievsky</li>\n<li><a href=\"https://www.youtube.com/watch?v=Is8ThG6Fetg\">Maintaing Balance While Reducing Duplication</a> by David Chelimsky</li>\n<li>J.B. Rainsberger on <a href=\"http://www.jbrains.ca/permalink/the-four-elements-of-simple-design\">The Four Elements of Simple Design</a></li>\n<li>Sponsored by <a href=\"http://hired.com/fullstackradio\">Hired</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks to Corey Haines, author of \"Understanding the 4 Rules of Simple Design\". They talk about the importance of low-level design decisions, tricks for naming things well, why you shouldn't model your objects after the real world, and of course, Active Record.\n\nThis episode is brought to you by Hired.\n",
+      "date_published": "2015-07-21 07:08:00 -0400",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/14310.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 46759704,
+        "duration_in_seconds": 3889
+      }
+    },
+    {
+      "id": "bcc026fe-5848-4cfa-81a6-b67c9dee7013",
+      "title": "21: Chad Pytel - Sticking to your guns",
+      "url": "http://www.fullstackradio.com/21",
+      "content_text": "In this episode, Adam talks to Chad Pytel, CEO of thoughtbot. Chad gives tips for balancing client work with internal product work, growing your client-base without compromising your principles, and applying Jobs to be Done to new client projects.\n\nThis episode is brought to you by Hired.\n",
+      "content_html": "<p>In this episode, Adam talks to <a href=\"https://twitter.com/cpytel\">Chad Pytel</a>, CEO of <a href=\"http://thoughtbot.com\">thoughtbot</a>. Chad gives tips for balancing client work with internal product work, growing your client-base without compromising your principles, and applying Jobs to be Done to new client projects.</p>\n\n<p>This episode is brought to you by <a href=\"http://hired.com/fullstackradio\">Hired</a>.</p>\n\n<ul>\n<li><a href=\"http://thoughtbot.com\">thoughtbot</a></li>\n<li>thoughtbot's <a href=\"http://playbook.thoughtbot.com/\">Playbook</a></li>\n<li><a href=\"https://robots.thoughtbot.com/the-product-design-sprint\">The Product Design Sprint</a> on the Giant Robots blog</li>\n<li><a href=\"https://robots.thoughtbot.com/converting-to-jobs-stories\">Converting to Job Stories</a> on the Giant Robots blog</li>\n<li><a href=\"http://formkeep.com\">FormKeep</a>, thoughtbot's form endpoint service</li>\n<li><a href=\"http://troposweather.com/\">Tropos</a>, thoughtbot's open source iOS weather app</li>\n<li>Sponsored by <a href=\"http://hired.com/fullstackradio\">Hired</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks to Chad Pytel, CEO of thoughtbot. Chad gives tips for balancing client work with internal product work, growing your client-base without compromising your principles, and applying Jobs to be Done to new client projects.\n\nThis episode is brought to you by Hired.\n",
+      "date_published": "2015-07-06 20:17:00 -0400",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/13867.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 35531526,
+        "duration_in_seconds": 2953
+      }
+    },
+    {
+      "id": "ee503f3a-f69c-467c-9339-f1cb1b1d7d45",
+      "title": "20: Ian Landsman - Code is not a business",
+      "url": "http://www.fullstackradio.com/20",
+      "content_text": "In this episode, Adam talks to Ian Landsman, founder of Userscape and creator of HelpSpot. Ian talks about the biggest mistakes programmers make when trying to start their own business, where to find new ideas, and why your new software product shouldn't be a SaaS app.\n\nThis episode is brought to you by Hired.\n",
+      "content_html": "<p>In this episode, Adam talks to <a href=\"https://twitter.com/ianlandsman\">Ian Landsman</a>, founder of <a href=\"http://userscape.com\">Userscape</a> and creator of <a href=\"http://helpspot.com/\">HelpSpot</a>. Ian talks about the biggest mistakes programmers make when trying to start their own business, where to find new ideas, and why your new software product <em>shouldn't</em> be a SaaS app.</p>\n\n<p>This episode is brought to you by <a href=\"http://hired.com/fullstackradio\">Hired</a>.</p>\n\n<ul>\n<li><a href=\"http://userscape.com\">Userscape</a></li>\n<li><a href=\"http://helpspot.com\">HelpSpot</a></li>\n<li><a href=\"http://besnappy.com\">Snappy</a></li>\n<li><a href=\"http://ianlandsman.com/\">Ian's Blog</a></li>\n<li><a href=\"http://bootstrapped.fm\">Bootstrapped.fm</a>, Ian's bootstrapping podcast</li>\n<li><a href=\"http://ianlandsman.com/10-tips-for-moving-from-programmer-to-entrepreneur/\">\"10 tips for moving from programmer to entrepreneur\"</a></li>\n<li><a href=\"http://ianlandsman.com/what-they-never-told-you-about-handling-b2b-transactions/\">\"What they never told you about handling B2B transactions\"</a>, handling purchase orders and invoicing</li>\n<li><a href=\"http://productandsupport.com/\">Product and Support</a></li>\n<li><a href=\"http://larajobs.com/\">LaraJobs</a></li>\n<li>Sponsored by <a href=\"http://hired.com/fullstackradio\">Hired</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks to Ian Landsman, founder of Userscape and creator of HelpSpot. Ian talks about the biggest mistakes programmers make when trying to start their own business, where to find new ideas, and why your new software product shouldn't be a SaaS app.\n\nThis episode is brought to you by Hired.\n",
+      "date_published": "2015-06-22 22:00:00 -0400",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/13267.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 50973348,
+        "duration_in_seconds": 4240
+      }
+    },
+    {
+      "id": "f8464724-2982-4b07-acf7-d2a10685829c",
+      "title": "19: Dave Marshall - Designing Effective Tests",
+      "url": "http://www.fullstackradio.com/19",
+      "content_text": "In this episode, Adam talks to Dave Marshall, testing guru and host of That Podcast. Dave talks to Adam about the upcoming Mockery 1.0 release and some interesting API changes destined for 2.0. They also talk about how fakes can improve your tests, fixtures vs. factories, spec-style vs xUnit style test frameworks, and mutation testing.\n\nThis episode is brought to you by Hired.\n",
+      "content_html": "<p>In this episode, Adam talks to <a href=\"https://twitter.com/davedevelopment\">Dave Marshall</a>, testing guru and host of <a href=\"http://thatpodcast.io\">That Podcast</a>. Dave talks to Adam about the upcoming Mockery 1.0 release and some interesting API changes destined for 2.0. They also talk about how fakes can improve your tests, fixtures vs. factories, spec-style vs xUnit style test frameworks, and mutation testing.</p>\n\n<p>This episode is brought to you by <a href=\"http://hired.com/fullstackradio\">Hired</a>.</p>\n\n<ul>\n<li><a href=\"http://davedevelopment.co.uk/\">Dave's Blog</a></li>\n<li><a href=\"https://thatpodcast.io/\">That Podcast</a></li>\n<li><a href=\"https://github.com/padraic/mockery\">Mockery</a> on GitHub</li>\n<li>Uncle Bob on <a href=\"https://blog.8thlight.com/uncle-bob/2014/05/10/WhenToMock.html\">writing your own test doubles</a></li>\n<li><a href=\"http://docs.behat.org/en/v2.5/\">Behat</a></li>\n<li><a href=\"https://github.com/padraic/humbug\">Humbug</a> mutation testing library</li>\n<li>Sponsored by <a href=\"http://hired.com/fullstackradio\">Hired</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks to Dave Marshall, testing guru and host of That Podcast. Dave talks to Adam about the upcoming Mockery 1.0 release and some interesting API changes destined for 2.0. They also talk about how fakes can improve your tests, fixtures vs. factories, spec-style vs xUnit style test frameworks, and mutation testing.\n\nThis episode is brought to you by Hired.\n",
+      "date_published": "2015-06-09 07:40:00 -0400",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/12933.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 50696249,
+        "duration_in_seconds": 4217
+      }
+    },
+    {
+      "id": "754385e3-3ffe-452a-93dc-1d6cc424c4b1",
+      "title": "18: Katie Cerar - Designing and Prototyping for Clients",
+      "url": "http://www.fullstackradio.com/18",
+      "content_text": "In this episode, Adam talks to Katie Cerar, user experience designer at Boltmade. Katie talks to Adam about running a successful kick off meeting, understanding the problems your client is trying to solve, and strategies for getting clients to keep their ideas focused. Katie also talks about the difference between a prototype and an MVP, and how to choose the right prototyping tool to get the feedback you need.\n\nThis episode is brought to you by Hired.\n",
+      "content_html": "<p>In this episode, Adam talks to <a href=\"https://twitter.com/katiecerar\">Katie Cerar</a>, user experience designer at <a href=\"http://boltmade.com\">Boltmade</a>. Katie talks to Adam about running a successful kick off meeting, understanding the problems your client is trying to solve, and strategies for getting clients to keep their ideas focused. Katie also talks about the difference between a prototype and an MVP, and how to choose the right prototyping tool to get the feedback you need.</p>\n\n<p>This episode is brought to you by <a href=\"http://hired.com/fullstackradio\">Hired</a>.</p>\n\n<ul>\n<li><a href=\"http://opportunityanalysiscanvas.com/\">The Opportunity Analysis Canvas</a> by James Green</li>\n<li><a href=\"http://www.invisionapp.com/\">Invision</a> Prototyping Tool</li>\n<li><a href=\"http://en.wikipedia.org/wiki/5_Whys\">5 Why's</a></li>\n<li><a href=\"http://jobstobedone.org/\">Jobs-to-be-Done</a></li>\n<li><a href=\"http://shop.oreilly.com/product/0636920033851.do\">User Story Mapping</a> by Jeff Patton</li>\n<li>The Google Ventures <a href=\"http://www.gv.com/sprint/\">Design Sprint</a></li>\n<li><a href=\"http://abbytheia.com/makesense/\">How to Make Sense of Any Mess</a> by Abby Covert</li>\n<li><a href=\"http://rosenfeldmedia.com/books/the-user-experience-team-of-one/\">The User Experience Team of One</a> by Leah Buley</li>\n<li><a href=\"http://rosenfeldmedia.com/books/\">The Rosenfeld Media Catalog</a></li>\n<li>Sponsored by <a href=\"http://hired.com/fullstackradio\">Hired</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks to Katie Cerar, user experience designer at Boltmade. Katie talks to Adam about running a successful kick off meeting, understanding the problems your client is trying to solve, and strategies for getting clients to keep their ideas focused. Katie also talks about the difference between a prototype and an MVP, and how to choose the right prototyping tool to get the feedback you need.\n\nThis episode is brought to you by Hired.\n",
+      "date_published": "2015-05-26 21:34:00 -0400",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/12592.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 28821748,
+        "duration_in_seconds": 2394
+      }
+    },
+    {
+      "id": "15ea12dc-460b-4abd-b9ec-2dadcb9e309e",
+      "title": "17: Adam Culp - Maximizing Your Conference Experience",
+      "url": "http://www.fullstackradio.com/17",
+      "content_text": "In this episode, Adam talks to Adam Culp, organizer of Sunshine PHP and ZendCon. They talk about how to get into conference speaking, how to make the most of a conference as an attendee, as well as tips for running a great local user group.\n\nThis episode is brought to you by Hired.\n",
+      "content_html": "<p>In this episode, Adam talks to <a href=\"https://twitter.com/adamculp\">Adam Culp</a>, organizer of Sunshine PHP and ZendCon. They talk about how to get into conference speaking, how to make the most of a conference as an attendee, as well as tips for running a great local user group.</p>\n\n<p>This episode is brought to you by <a href=\"http://hired.com/fullstackradio\">Hired</a>.</p>\n\n<ul>\n<li><a href=\"http://geekyboy.com\">Adam's Tech Blog</a></li>\n<li><a href=\"http://crazyfloridian.com\">Adam's Running Blog</a></li>\n<li><a href=\"http://rungeekradio.com\">Run Geek Radio</a></li>\n<li><a href=\"http://www.zendcon.com/\">ZendCon</a></li>\n<li><a href=\"http://2015.sunshinephp.com/\">Sunshine PHP</a></li>\n<li><a href=\"http://www.meetup.com/South-Florida-PHP-Users-Group/\">SoFloPHP</a></li>\n<li><a href=\"http://helpmeabstract.com\">\"Help Me Abstract\"</a> by <a href=\"https://twitter.com/kayladnls\">Kayla Daniels</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=DC-pQPq0acs\">\"Refactoring from Good to Great\"</a> by Ben Orenstein</li>\n<li><a href=\"http://cfp.zendcon.com/\">ZendCon 2015 Call For Papers</a></li>\n<li>Sponsored by <a href=\"http://hired.com/fullstackradio\">Hired</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks to Adam Culp, organizer of Sunshine PHP and ZendCon. They talk about how to get into conference speaking, how to make the most of a conference as an attendee, as well as tips for running a great local user group.\n\nThis episode is brought to you by Hired.\n",
+      "date_published": "2015-05-11 22:00:00 -0400",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/11445.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 33089943,
+        "duration_in_seconds": 2750
+      }
+    },
+    {
+      "id": "f881194b-01a5-49b8-98f4-ade194076b2a",
+      "title": "16: Kent Beck - Tiny Decisions and Emergent Design",
+      "url": "http://www.fullstackradio.com/16",
+      "content_text": "In this episode, Adam talks to Kent Beck about Smalltalk vs. Java, low level design vs. big picture architecture, planning for the future vs. emergent design, and applying the principles of Extreme Programming in 2015.\n\nThis episode is brought to you by Hired.\n",
+      "content_html": "<p>In this episode, Adam talks to <a href=\"https://twitter.com/kentbeck\">Kent Beck</a> about Smalltalk vs. Java, low level design vs. big picture architecture, planning for the future vs. emergent design, and applying the principles of Extreme Programming in 2015.</p>\n\n<p>This episode is brought to you by <a href=\"http://hired.com/fullstackradio\">Hired</a>.</p>\n\n<ul>\n<li><a href=\"https://www.facebook.com/kentlbeck/notes\">Kent's Facebook Blog</a></li>\n<li><a href=\"http://www.amazon.com/Smalltalk-Best-Practice-Patterns-Kent/dp/013476904X\">Smalltalk Best Practice Patterns</a></li>\n<li><a href=\"http://pragdave.me/blog/2014/03/04/time-to-kill-agile/\">\"Agile is Dead (Long Live Agility)\"</a> by Dave Thomas</li>\n<li><a href=\"http://www.extremeprogramming.org/\">Extreme Programming</a></li>\n<li><a href=\"https://screenhero.com/\">Screenhero</a></li>\n<li><a href=\"http://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912\">\"Continuous Delivery\"</a> by Jez Humble</li>\n<li><a href=\"http://www.amazon.com/Structured-Design-Fundamentals-Discipline-Computer/dp/0138544719\">\"Structured Design\"</a></li>\n<li>Kent's <a href=\"https://pragprog.com/screencasts/v-kbtdd/test-driven-development\">TDD Screencast Series</a></li>\n<li>Sponsored by <a href=\"http://hired.com/fullstackradio\">Hired</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks to Kent Beck about Smalltalk vs. Java, low level design vs. big picture architecture, planning for the future vs. emergent design, and applying the principles of Extreme Programming in 2015.\n\nThis episode is brought to you by Hired.\n",
+      "date_published": "2015-05-04 22:54:00 -0400",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/11199.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 33415946,
+        "duration_in_seconds": 2777
+      }
+    },
+    {
+      "id": "60928c5a-0785-47c7-afce-77336400fd56",
+      "title": "15: Everzet - Classicist and Mockist TDD",
+      "url": "http://www.fullstackradio.com/15",
+      "content_text": "In this episode, Adam talks to Konstantin Kudryashov, creator of Behat and BDD Practice Manager at Inviqa. Konstantin and Adam talk about the schools of TDD, how to use test doubles effectively, and common challenges people face when trying to learn TDD.\n\nThis episode is brought to you by Hired.\n",
+      "content_html": "<p>In this episode, Adam talks to <a href=\"https://twitter.com/everzet\">Konstantin Kudryashov</a>, creator of <a href=\"http://docs.behat.org/en/v2.5/\">Behat</a> and BDD Practice Manager at <a href=\"http://inviqa.com/\">Inviqa</a>. Konstantin and Adam talk about the schools of TDD, how to use test doubles effectively, and common challenges people face when trying to learn TDD.</p>\n\n<p>This episode is brought to you by <a href=\"http://hired.com/fullstackradio\">Hired</a>.</p>\n\n<ul>\n<li><a href=\"http://twitter.com/everzet\">everzet on Twitter</a></li>\n<li><a href=\"http://inviqa.com\">Inviqa</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=X6y-OyMPqfw\">\"Design How Your Objects Talk Through Mocking\"</a> presentation</li>\n<li><a href=\"http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530\">\"Test Driven Development: By Example\"</a>, by Kent Beck</li>\n<li><a href=\"http://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627/\">\"Growing Object Oriented Software Guided By Tests\"</a>, by Steve Freeman and Nat Pryce</li>\n<li>The <a href=\"https://pragprog.com/articles/tell-dont-ask\">\"Tell, Don't Ask\"</a> principle</li>\n<li>Sandi Metz's <a href=\"https://www.youtube.com/watch?v=URSWYvyc42M\">\"Magic Tricks of Testing\"</a> talk</li>\n<li>Ian Cooper's <a href=\"https://vimeo.com/68375232\">\"TDD: Where did it all go wrong?\"</a> talk</li>\n<li><a href=\"http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life\">Conway's Game of Life</a></li>\n<li><a href=\"http://www.meetup.com/BDDLondon/\">BDD London Meetup</a></li>\n<li>Sponsored by <a href=\"http://hired.com/fullstackradio\">Hired</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks to Konstantin Kudryashov, creator of Behat and BDD Practice Manager at Inviqa. Konstantin and Adam talk about the schools of TDD, how to use test doubles effectively, and common challenges people face when trying to learn TDD.\n\nThis episode is brought to you by Hired.\n",
+      "date_published": "2015-04-20 18:56:00 -0400",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/10630.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 41437607,
+        "duration_in_seconds": 3446
+      }
+    },
+    {
+      "id": "f73edda7-744a-487a-9208-6a0d0eeb8fb3",
+      "title": "14: Taylor Otwell - Building Envoyer, Laravel 5.1 and Learning to Program",
+      "url": "http://www.fullstackradio.com/14",
+      "content_text": "In this episode, Adam talks to Taylor Otwell, creator of Laravel. Taylor gives an in-depth behind-the-scenes look at how Envoyer is architected, and shares some new tips and tricks he's been using to keep his code simple. They also talk about the decisions behind upcoming changes in Laravel 5.1, how Taylor learned to program, and how he almost became the manager of a retirement home.\n\nThis episode is brought to you by Hired.\n",
+      "content_html": "<p>In this episode, Adam talks to <a href=\"https://twitter.com/taylorotwell\">Taylor Otwell</a>, creator of <a href=\"http://laravel.com\">Laravel</a>. Taylor gives an in-depth behind-the-scenes look at how <a href=\"http://envoyer.io\">Envoyer</a> is architected, and shares some new tips and tricks he's been using to keep his code simple. They also talk about the decisions behind upcoming changes in Laravel 5.1, how Taylor learned to program, and how he almost became the manager of a retirement home.</p>\n\n<p>This episode is brought to you by <a href=\"http://hired.com/fullstackradio\">Hired</a>.</p>\n\n<ul>\n<li><a href=\"http://laravel.com\">Laravel</a></li>\n<li><a href=\"http://envoyer.io\">Envoyer</a>, Taylor's latest project</li>\n<li><a href=\"http://forge.laravel.com\">Laravel Forge</a></li>\n<li><a href=\"http://pusher.com\">Pusher</a></li>\n<li><a href=\"http://authy.com\">Authy</a></li>\n<li><a href=\"http://laracasts.com\">Laracasts</a></li>\n<li><a href=\"http://larachat.co\">Larachat</a></li>\n<li>Sponsored by <a href=\"http://hired.com/fullstackradio\">Hired</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks to Taylor Otwell, creator of Laravel. Taylor gives an in-depth behind-the-scenes look at how Envoyer is architected, and shares some new tips and tricks he's been using to keep his code simple. They also talk about the decisions behind upcoming changes in Laravel 5.1, how Taylor learned to program, and how he almost became the manager of a retirement home.\n\nThis episode is brought to you by Hired.\n",
+      "date_published": "2015-04-07 07:00:00 -0400",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/9881.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 44009376,
+        "duration_in_seconds": 3660
+      }
+    },
+    {
+      "id": "da9d9c51-4d28-4c7b-a2c3-1200340df41d",
+      "title": "13: Phil Sturgeon - Designing and Testing APIs, Go and PHP 7",
+      "url": "http://www.fullstackradio.com/13",
+      "content_text": "In this episode, Adam talks to Philip J. Sturgeon about designing and testing APIs at Ride. They also talk about building microservices with Go, and some of the new features coming in PHP 7.\n\nThis episode is brought to you by Hired.\n",
+      "content_html": "<p>In this episode, Adam talks to <a href=\"https://twitter.com/philsturgeon\">Philip J. Sturgeon</a> about designing and testing APIs at <a href=\"http://ride.com\">Ride</a>. They also talk about building microservices with Go, and some of the new features coming in PHP 7.</p>\n\n<p>This episode is brought to you by <a href=\"http://hired.com/fullstackradio\">Hired</a>.</p>\n\n<ul>\n<li><a href=\"http://philsturgeon.uk\">Phil's Blog</a></li>\n<li><a href=\"http://ride.com\">Ride</a></li>\n<li><a href=\"https://golang.org\">Go</a></li>\n<li><a href=\"https://tools.ietf.org/html/rfc6902\">JSON Patch RFC</a></li>\n<li><a href=\"https://github.com/json-api/json-api/pull/341\">Recent changes to JSON API</a></li>\n<li><a href=\"http://www.troyhunt.com/2014/02/your-api-versioning-is-wrong-which-is.html\">Troy Hunt on API versioning</a></li>\n<li><a href=\"http://apisyouwonthate.com/\">\"Build APIs You Won't Hate\"</a>, Phil's book</li>\n<li><a href=\"https://philsturgeon.uk/api/2015/01/28/dredd-api-testing-documentation/\">\"Dredd: Do Your HTTP API Justice\"</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/HATEOAS\">HATEOAS</a></li>\n<li><a href=\"http://raml.org/\">RAML</a></li>\n<li><a href=\"http://www.amazon.com/Smalltalk-Best-Practice-Patterns-Kent/dp/013476904X/ref=sr_1_2?ie=UTF8&amp;qid=1426906747&amp;sr=8-2&amp;keywords=smalltalk#reader_013476904X\">\"Smalltalk Best Practice Patterns\"</a> by Kent Beck</li>\n<li>Sponsored by <a href=\"http://hired.com/fullstackradio\">Hired</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks to Philip J. Sturgeon about designing and testing APIs at Ride. They also talk about building microservices with Go, and some of the new features coming in PHP 7.\n\nThis episode is brought to you by Hired.\n",
+      "date_published": "2015-04-01 23:05:00 -0400",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/9860.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 54004008,
+        "duration_in_seconds": 4493
+      }
+    },
+    {
+      "id": "0554e9e7-4e22-4970-98b3-f846a35fbbb0",
+      "title": "12: Jack McDade - Building Photoshoot.io and Getting Stuff Done",
+      "url": "http://www.fullstackradio.com/12",
+      "content_text": "In this episode, Adam talks to Jack McDade creator of Statamic, about building his latest project Photoshoot.io. They also talk about how Jack juggles design and development, and how to buckle down and get things done.\n\nThis episode is brought to you by Hired.\n",
+      "content_html": "<p>In this episode, Adam talks to <a href=\"https://twitter.com/jackmcdade\">Jack McDade</a> creator of <a href=\"http://statamic.com\">Statamic</a>, about building his latest project <a href=\"http://photoshoot.io\">Photoshoot.io</a>. They also talk about how Jack juggles design and development, and how to buckle down and get things done.</p>\n\n<p>This episode is brought to you by <a href=\"http://hired.com/fullstackradio\">Hired</a>.</p>\n\n<ul>\n<li><a href=\"http://photoshoot.io\">Photoshoot.io</a></li>\n<li><a href=\"http://statamic.com\">Statamic</a></li>\n<li><a href=\"http://envoyer.io\">Envoyer</a>, designed by Jack</li>\n<li><a href=\"http://laravel.com\">Laravel 5 Homepage</a>, designed by Jack</li>\n<li><a href=\"http://wilderborn.com\">Wilderborn</a>, Jack's company</li>\n<li><a href=\"http://jackmcdade.com/\">Jack's personal site</a></li>\n<li><a href=\"http://wayswework.io/interviews/jack-mcdade-of-statamic\">Interview at Ways We Work</a></li>\n<li>Sponsored by <a href=\"http://hired.com/fullstackradio\">Hired</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks to Jack McDade creator of Statamic, about building his latest project Photoshoot.io. They also talk about how Jack juggles design and development, and how to buckle down and get things done.\n\nThis episode is brought to you by Hired.\n",
+      "date_published": "2015-03-22 22:00:00 -0400",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/9415.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 35766806,
+        "duration_in_seconds": 2960
+      }
+    },
+    {
+      "id": "1345c6fa-f594-41d8-8446-0c4256d312b5",
+      "title": "11: Jeffrey Way - \"But how does it feel?\"",
+      "url": "http://www.fullstackradio.com/11",
+      "content_text": "In this episode, Adam talks with Jeffrey Way of Laracasts about learning, object oriented design, testing, API usability, and whole bunch of other stuff.\n\nThis episode is brought to you by Hired.\n",
+      "content_html": "<p>In this episode, Adam talks with <a href=\"https://twitter.com/jeffrey_way\">Jeffrey Way</a> of <a href=\"http://laracasts.com\">Laracasts</a> about learning, object oriented design, testing, API usability, and whole bunch of other stuff.</p>\n\n<p>This episode is brought to you by <a href=\"http://hired.com/fullstackradio\">Hired</a>.</p>\n\n<ul>\n<li><a href=\"http://laracasts.com\">Laracasts</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Temporal_database\">Temporal Databases</a></li>\n<li><a href=\"http://www.amazon.com/Object-Thinking-Developer-Reference-David/dp/0735619654\">Object Thinking</a></li>\n<li><a href=\"http://martinfowler.com/articles/is-tdd-dead/\">\"Is TDD Dead\"</a> with Martin Fowler, Kent Beck, and David Heinemeier Hannson</li>\n<li>The <a href=\"https://twitter.com/ircmaxell/status/556102253472272385\">$invoice->download()</a> incident</li>\n<li>A bit on <a href=\"http://searls.testdouble.com/posts/2011-04-29-the-power-of-prompts.html\">verb class names</a> <em>(scroll to \"Verb-first classes\")</em></li>\n<li>Sponsored by <a href=\"http://hired.com/fullstackradio\">Hired</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks with Jeffrey Way of Laracasts about learning, object oriented design, testing, API usability, and whole bunch of other stuff.\n\nThis episode is brought to you by Hired.\n",
+      "date_published": "2015-03-08 23:25:00 -0400",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/8958.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 48853981,
+        "duration_in_seconds": 4064
+      }
+    },
+    {
+      "id": "bb758cc0-e5c1-4e3d-8a3f-89c1b4d95dcf",
+      "title": "10: Type Safety Roundtable with Ryan Tablada and Matt Machuga",
+      "url": "http://www.fullstackradio.com/10",
+      "content_text": "In this episode, Adam talks with Ryan Tablada and Matt Machuga about the philosophical differences between programming in a statically typed language vs. a dynamically typed language. They talk about things like explicit interfaces vs. duck typing, function calling vs. message passing, and some of the recent RFCs around optional typing in the PHP community.\n\nThis episode is brought to you by Hired.\n",
+      "content_html": "<p>In this episode, Adam talks with <a href=\"https://twitter.com/RyanTablada\">Ryan Tablada</a> and <a href=\"https://twitter.com/machuga\">Matt Machuga</a> about the philosophical differences between programming in a statically typed language vs. a dynamically typed language. They talk about things like explicit interfaces vs. duck typing, function calling vs. message passing, and some of the recent RFCs around optional typing in the PHP community.</p>\n\n<p>This episode is brought to you by <a href=\"http://hired.com/fullstackradio\">Hired</a>.</p>\n\n<ul>\n<li><a href=\"http://en.wikipedia.org/wiki/J_Sharp\">J#</a></li>\n<li><a href=\"http://hacklang.org/\">Hack</a></li>\n<li><a href=\"https://vimeo.com/17420638\">DHH's \"Why Ruby?\" Keynote at RubyConf X</a></li>\n<li><a href=\"https://www.eiffel.com/values/design-by-contract/introduction/\">Design by Contract in Eiffel</a></li>\n<li><a href=\"http://php.net/manual/en/language.oop5.typehinting.php\">Type Hinting in PHP</a></li>\n<li><a href=\"https://wiki.php.net/rfc/scalar_type_hints\">PHP RFC: Scalar Type Hints</a></li>\n<li><a href=\"https://wiki.php.net/rfc/sum_types\">PHP RFC: Sum Types</a></li>\n<li><a href=\"http://eriedayofcode.com/\">Erie Day of Code</a></li>\n<li><a href=\"https://embergrep.com/\">EmberGrep</a></li>\n<li><a href=\"http://hired.com/fullstackradio\">Hired</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks with Ryan Tablada and Matt Machuga about the philosophical differences between programming in a statically typed language vs. a dynamically typed language. They talk about things like explicit interfaces vs. duck typing, function calling vs. message passing, and some of the recent RFCs around optional typing in the PHP community.\n\nThis episode is brought to you by Hired.\n",
+      "date_published": "2015-02-22 22:00:00 -0500",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/7874.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 50695027,
+        "duration_in_seconds": 4217
+      }
+    },
+    {
+      "id": "1ca1693f-8c16-4806-8978-b8c467e8efd2",
+      "title": "9: David Heinemeier Hansson - Architecture, Patterns and Design",
+      "url": "http://www.fullstackradio.com/9",
+      "content_text": "In this episode, Adam talks with David Heinemeier Hansson, partner at Basecamp and creator of Ruby on Rails. They talk about the pursuit of \"purity\", Domain Driven Design, ActiveRecord vs DataMapper, and developing an eye for \"good code\".\n",
+      "content_html": "<p>In this episode, Adam talks with <a href=\"https://twitter.com/dhh\">David Heinemeier Hansson</a>, partner at <a href=\"https://basecamp.com/\">Basecamp</a> and creator of <a href=\"http://rubyonrails.org/\">Ruby on Rails</a>. They talk about the pursuit of \"purity\", Domain Driven Design, ActiveRecord vs DataMapper, and developing an eye for \"good code\".</p>\n\n<ul>\n<li><a href=\"http://david.heinemeierhansson.com/\">DHH's Blog</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=9LfmrkyP81M\">\"Writing Software\" keynote</a></li>\n<li><a href=\"https://signalvnoise.com/posts/3375-the-five-programming-books-that-meant-most-to-me\">DHH's 5 most influential programming books</a></li>\n<li><a href=\"https://codeascraft.com/2015/02/02/transitioning-to-scss-at-scale/\">Transitioning to SCSS at Etsy</a></li>\n<li><a href=\"http://www.inc.com/magazine/201202/jason-fried/starting-over-get-real.html\">Jason Fried on Rebuilding Basecamp</a></li>\n<li><a href=\"https://signalvnoise.com/posts/3856-the-big-rewrite-revisited\">The Big Rewrite, revisited</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks with David Heinemeier Hansson, partner at Basecamp and creator of Ruby on Rails. They talk about the pursuit of \"purity\", Domain Driven Design, ActiveRecord vs DataMapper, and developing an eye for \"good code\".\n",
+      "date_published": "2015-02-10 23:45:00 -0500",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/7407.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 25612798,
+        "duration_in_seconds": 3171
+      }
+    },
+    {
+      "id": "65985364-a68b-4977-a7c2-95653a15855d",
+      "title": "8: Sean Devine - Ember and API first",
+      "url": "http://www.fullstackradio.com/8",
+      "content_text": "In this episode, Adam talks with Sean Devine, host of the Ruby on Rails podcast. Sean gives Adam an introduction to building applications with Ember, and how it's different than the way you might sprinkle AngularJS into a mostly server-side app. They talk about why your Ember apps shouldn't be mixed in with your server-side code, and the advantages that come along with building a server-side API with no front end of it's own.\n",
+      "content_html": "<p>In this episode, Adam talks with <a href=\"https://twitter.com/barelyknown\">Sean Devine</a>, host of the Ruby on Rails podcast. Sean gives Adam an introduction to building applications with Ember, and how it's different than the way you might sprinkle AngularJS into a mostly server-side app. They talk about why your Ember apps shouldn't be mixed in with your server-side code, and the advantages that come along with building a server-side API with no front end of it's own.</p>\n\n<ul>\n<li><a href=\"http://emberjs.com/\">Ember</a></li>\n<li><a href=\"https://github.com/emberjs/rfcs/pull/15\">The Road to Ember 2.0</a></li>\n<li><a href=\"https://github.com/emberjs/data\">Ember Data</a></li>\n<li><a href=\"http://jsonapi.org/\">JSON API</a></li>\n<li><a href=\"http://www.barelyknown.com/\">Sean's blog</a></li>\n<li><a href=\"http://5by5.tv/rubyonrails\">Ruby on Rails podcast</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks with Sean Devine, host of the Ruby on Rails podcast. Sean gives Adam an introduction to building applications with Ember, and how it's different than the way you might sprinkle AngularJS into a mostly server-side app. They talk about why your Ember apps shouldn't be mixed in with your server-side code, and the advantages that come along with building a server-side API with no front end of it's own.\n",
+      "date_published": "2015-02-01 10:30:00 -0500",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/6886.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 28256775,
+        "duration_in_seconds": 3502
+      }
+    },
+    {
+      "id": "0f816ceb-ac93-44c1-b668-11451b0a00b1",
+      "title": "7: Shawn McCool - BDD and DDD",
+      "url": "http://www.fullstackradio.com/7",
+      "content_text": "In this episode, Adam talks with Shawn McCool about Behavior Driven Development and Domain Driven Design. They talk about how you can use these ideas to better understand your clients' needs and to build software that closely models their business. They also talk about where these ideas don't work so well, and some of the challenges and trade-offs you face when trying to build software this way.\n",
+      "content_html": "<p>In this episode, Adam talks with <a href=\"https://twitter.com/ShawnMcCool\">Shawn McCool</a> about Behavior Driven Development and Domain Driven Design. They talk about how you can use these ideas to better understand your clients' needs and to build software that closely models their business. They also talk about where these ideas don't work so well, and some of the challenges and trade-offs you face when trying to build software this way.</p>\n\n<ul>\n<li><a href=\"http://shawnmc.cool/\">Shawn's blog</a></li>\n<li><a href=\"https://pragprog.com/book/achbd/the-rspec-book\">The RSpec Book</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=njcHzGYv7nI\">everzet's Introduction to BDD</a></li>\n<li><a href=\"http://everzet.com/post/99045129766/introducing-modelling-by-example\">everzet on Modelling by Example</a></li>\n<li><a href=\"http://www.infoq.com/minibooks/domain-driven-design-quickly\">Domain Driven Design Quickly</a></li>\n<li><a href=\"http://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215\">\"Domain Driven Design\" by Eric Evans</a></li>\n<li><a href=\"http://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577/ref=pd_sim_b_1?ie=UTF8&amp;refRID=04C4FD26GV2050CDT7GB\">\"Implementing Domain Driven Design\" by Vaughn Vernon</a></li>\n<li><a href=\"http://rosstuck.com/\">Ross Tuck's blog</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks with Shawn McCool about Behavior Driven Development and Domain Driven Design. They talk about how you can use these ideas to better understand your clients' needs and to build software that closely models their business. They also talk about where these ideas don't work so well, and some of the challenges and trade-offs you face when trying to build software this way.\n",
+      "date_published": "2015-01-19 12:34:00 -0500",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/6797.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 29724425,
+        "duration_in_seconds": 3685
+      }
+    },
+    {
+      "id": "d823ba23-178a-497b-a745-58a56423dd16",
+      "title": "6: Chris Fidao - Servers for Hackers",
+      "url": "http://www.fullstackradio.com/6",
+      "content_text": "In this episode, Adam talks with Chris Fidao of Userscape. They talk about things every web developer should know about server administration, platform-as-a-service vs. self-hosting, Ansible, Docker, and more.\n",
+      "content_html": "<p>In this episode, Adam talks with <a href=\"https://twitter.com/fideloper\">Chris Fidao</a> of <a href=\"http://userscape.com\">Userscape</a>. They talk about things every web developer should know about server administration, platform-as-a-service vs. self-hosting, Ansible, Docker, and more.</p>\n\n<ul>\n<li><a href=\"https://serversforhackers.com/\">Servers for Hackers Newsletter</a></li>\n<li><a href=\"https://book.serversforhackers.com/\">Servers for Hackers Book</a></li>\n<li><a href=\"http://fideloper.com\">Chris' blog</a></li>\n<li><a href=\"http://www.ansible.com/home\">Ansible</a></li>\n<li><a href=\"https://www.docker.com/\">Docker</a></li>\n<li><a href=\"https://forge.laravel.com/\">Forge</a></li>\n<li><a href=\"https://www.scalingphpbook.com/\">\"Scaling PHP Applications\" by Steve Corona</a></li>\n<li><a href=\"http://www.jamesturnbull.net/#books\">James Turnbull's Books</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks with Chris Fidao of Userscape. They talk about things every web developer should know about server administration, platform-as-a-service vs. self-hosting, Ansible, Docker, and more.\n",
+      "date_published": "2015-01-04 22:37:00 -0500",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/6448.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 20464135,
+        "duration_in_seconds": 2528
+      }
+    },
+    {
+      "id": "b88d89b6-e6ff-436b-9771-8090eb76ec98",
+      "title": "5: Ryan Singer - Jobs-to-be-Done and Product Design",
+      "url": "http://www.fullstackradio.com/5",
+      "content_text": "In this episode, Adam talks with Ryan Singer of Basecamp about Jobs-to-be-Done thinking, UX, and product design.\n",
+      "content_html": "<p>In this episode, Adam talks with <a href=\"https://twitter.com/rjs\">Ryan Singer</a> of <a href=\"http://basecamp.com\">Basecamp</a> about Jobs-to-be-Done thinking, UX, and product design.</p>\n\n<ul>\n<li><a href=\"http://feltpresence.com/\">Ryan's blog</a></li>\n<li><a href=\"https://medium.com/the-job-to-be-done\">\"Jobs-to-be-Done\" collection on Medium</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=f84LymEs67Y\">The Milkshake Video</a></li>\n<li><a href=\"https://signalvnoise.com/posts/3028-watch-ryan-sketch-and-code-a-ui-from-scratch-on-peepcode\">Ryan's Peepcode Play-by-Play</a></li>\n<li><a href=\"http://feltpresence.com/articles/18-ui-and-capability\">Ryan's post on affordance vs. styling</a></li>\n<li><a href=\"http://www.amazon.com/Notes-Synthesis-Form-Christopher-Alexander/dp/0674627512\">\"Notes on the Synthesis of Form\" by Christopher Alexander</a></li>\n<li><a href=\"https://gettingreal.37signals.com/\">\"Getting Real\" by Basecamp/37signals</a></li>\n<li><a href=\"http://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215\">\"Domain Driven Design\" by Eric Evans</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks with Ryan Singer of Basecamp about Jobs-to-be-Done thinking, UX, and product design.\n",
+      "date_published": "2014-12-18 23:09:00 -0500",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/6135.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 22636278,
+        "duration_in_seconds": 2799
+      }
+    },
+    {
+      "id": "c637d8a1-9506-4178-94bb-8776bdf39633",
+      "title": "4: Alex Bilbie - OAuth 2 and API Security",
+      "url": "http://www.fullstackradio.com/4",
+      "content_text": "In this episode, Adam gets super technical with Alex Bilbie about the OAuth 2 specification. They talk about the different grant types and what they're each appropriate for, as well as discuss some potential API security strategies for one of Adam's personal projects.\n",
+      "content_html": "<p>In this episode, Adam gets super technical with <a href=\"https://twitter.com/alexbilbie\">Alex Bilbie</a> about the OAuth 2 specification. They talk about the different grant types and what they're each appropriate for, as well as discuss some potential API security strategies for one of Adam's personal projects.</p>\n\n<ul>\n<li><a href=\"http://alexbilbie.com/\">Alex's blog</a></li>\n<li><a href=\"https://github.com/thephpleague/oauth2-server\">Alex's PHP OAuth2 Server package</a></li>\n<li><a href=\"http://alexbilbie.com/2014/11/oauth-and-javascript/\">\"OAuth and Single Page JavaScript Web-Apps\"</a></li>\n<li><a href=\"https://leanpub.com/oauthello-a-book-about-oauth\">Alex's upcoming OAuth book</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam gets super technical with Alex Bilbie about the OAuth 2 specification. They talk about the different grant types and what they're each appropriate for, as well as discuss some potential API security strategies for one of Adam's personal projects.\n",
+      "date_published": "2014-12-08 08:00:00 -0500",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/6018.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 27204991,
+        "duration_in_seconds": 3370
+      }
+    },
+    {
+      "id": "ad24ac05-c5b2-4fe2-8dc6-4766973ef4db",
+      "title": "3: Matt Machuga - Ruby, PHP, object oriented design, testing and other crap",
+      "url": "http://www.fullstackradio.com/3",
+      "content_text": "In this episode, Adam talks with Matt Machuga of Think Through Math about being a Rubyist who still writes PHP and the differences between writing PHP like a Rubyist vs. writing PHP like a Java developer. They also talk about common struggles when learning new things, and trying to remain pragmatic while still pushing the boundaries of what you know.\n",
+      "content_html": "<p>In this episode, Adam talks with <a href=\"https://twitter.com/machuga\">Matt Machuga</a> of <a href=\"http://www.thinkthroughmath.com/\">Think Through Math</a> about being a Rubyist who still writes PHP and the differences between writing PHP like a Rubyist vs. writing PHP like a Java developer. They also talk about common struggles when learning new things, and trying to remain pragmatic while still pushing the boundaries of what you know.</p>\n\n<ul>\n<li><a href=\"http://matthewmachuga.com/\">Matt's personal website</a></li>\n<li><a href=\"http://tutsplus.com/authors/matthew-machuga\">Matt's courses at TutsPlus</a></li>\n<li><a href=\"https://vimeo.com/17420638\">DHH's \"Why Ruby?\" Talk</a></li>\n<li><a href=\"https://github.com/rails/rails/commit/e50530ca3ab5db53ebc74314c54b62b91b932389\">Array#forty_two</a></li>\n<li><a href=\"http://giantrobots.fm/\">Giant Robots Podcast</a></li>\n<li><a href=\"http://david.heinemeierhansson.com/2012/dependency-injection-is-not-a-virtue.html\">DHH on Dependency Injection</a></li>\n<li><a href=\"http://shawnmc.cool/too-far-is-just-far-enough\">\"Too Far Is Just Enough\" by Shawn McCool</a></li>\n<li><a href=\"http://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215\">Domain Driven Design</a></li>\n<li><a href=\"http://swannodette.github.io/mori/\">mori</a></li>\n<li><a href=\"https://github.com/facebook/immutable-js\">Immutable JS</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks with Matt Machuga of Think Through Math about being a Rubyist who still writes PHP and the differences between writing PHP like a Rubyist vs. writing PHP like a Java developer. They also talk about common struggles when learning new things, and trying to remain pragmatic while still pushing the boundaries of what you know.\n",
+      "date_published": "2014-11-16 21:30:00 -0500",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/5531.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 31429283,
+        "duration_in_seconds": 3739
+      }
+    },
+    {
+      "id": "90d89a47-5eff-4d5f-af8c-1cba36e37209",
+      "title": "2: Eric Barnes - Wardrobe, Javascript and Writing",
+      "url": "http://www.fullstackradio.com/2",
+      "content_text": "In this episode, Adam talks with Eric Barnes of Userscape about rebuilding WardrobeCMS, trends in Javascript development, and building an audience.\n",
+      "content_html": "<p>In this episode, Adam talks with <a href=\"http://twitter.com/ericlbarnes\">Eric Barnes</a> of <a href=\"http://userscape.com\">Userscape</a> about rebuilding WardrobeCMS, trends in Javascript development, and building an audience.</p>\n\n<ul>\n<li><a href=\"http://ericlbarnes.com/\">Eric's blog</a></li>\n<li><a href=\"http://laravel-news.com/\">Laravel News</a></li>\n<li><a href=\"http://ericlbarnes.com/category/wardrobe/\">Rebuilding Wardrobe</a></li>\n<li><a href=\"http://besnappy.com\">Snappy</a></li>\n<li><a href=\"http://forge.laravel.com\">Laravel Forge</a></li>\n<li><a href=\"http://jaxenter.com/angular-2-0-112094.html\">Sneak peek at Angular 2.0</a></li>\n<li><a href=\"http://www.shopify.com/technology/15646068-rebuilding-the-shopify-admin-improving-developer-productivity-by-deleting-28-000-lines-of-javascript\">Removing Batman.js at Shopify</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Adam talks with Eric Barnes of Userscape about rebuilding WardrobeCMS, trends in Javascript development, and building an audience.\n",
+      "date_published": "2014-11-03 04:00:00 -0500",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/5303.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 20512137,
+        "duration_in_seconds": 2374
+      }
+    },
+    {
+      "id": "15b91004-1070-42e2-958d-7bd160ceb4cb",
+      "title": "1: Matt Stauffer - CSS Semantics",
+      "url": "http://www.fullstackradio.com/1",
+      "content_text": "In our very first episode, Adam talks with Matt Stauffer of Tighten Co about OOCSS, BEM, SMACSS, preprocessors, common architecture pitfalls, and CSS semantics.\n",
+      "content_html": "<p>In our very first episode, Adam talks with <a href=\"http://twitter.com/stauffermatt\">Matt Stauffer</a> of <a href=\"http://tighten.co\">Tighten Co</a> about OOCSS, BEM, SMACSS, preprocessors, common architecture pitfalls, and CSS semantics.</p>\n\n<ul>\n<li><a href=\"http://mattstauffer.co/blog/organizing-css-oocss-smacss-and-bem\">\"Organizing CSS: OOCSS, SMACSS, and BEM\"</a> by Matt Stauffer</li>\n<li><a href=\"http://www.stubbornella.org/content/2010/06/25/the-media-object-saves-hundreds-of-lines-of-code/\">Nicole Sullivan on Media Objects</a></li>\n<li><a href=\"https://smacss.com/\">SMACSS</a></li>\n<li><a href=\"http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/\">\"MindBEMding\"</a></li>\n<li><a href=\"https://coderwall.com/p/wixovg\">\"Bootstrap without all the debt\"</a></li>\n<li><a href=\"https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06\">\"Medium's CSS is actually pretting f***ing good\"</a></li>\n<li><a href=\"http://nicolasgallagher.com/about-html-semantics-front-end-architecture/\">\"About HTML semantics and front-end architecture\"</a></li>\n</ul>\n\n",
+      "summary": "In our very first episode, Adam talks with Matt Stauffer of Tighten Co about OOCSS, BEM, SMACSS, preprocessors, common architecture pitfalls, and CSS semantics.\n",
+      "date_published": "2014-10-18 12:27:00 -0400",
+      "author": {
+        "name": "Adam Wathan"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/5135.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 24880822,
+        "duration_in_seconds": 2920
+      }
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Dads In Development",
+  "home_page_url": "http://dadsindev.com",
+  "feed_url": "https://rss.simplecast.com/podcasts/1656/rss",
+  "description": "A podcast about dads and geeky stuff",
+  "author": {
+    "url": "http://dadsindev.com",
+    "name": "David Hemphill & Andrew Del Prete"
+  },
+  "items": [
+    {
+      "id": "ae07e40e-9ec6-4b81-9dc1-f62f749cc76d",
+      "title": "Episode 25: Popping Arms and Burning out",
+      "url": "http://www.dadsindev.com/25",
+      "content_text": "Andrew and David talk about David's recent return to the Octagon, Andrew's Half Marathon, the latest launch of PushSilver, secret React Native projects, and dealing with burnout.\n",
+      "content_html": "<p>Andrew and David talk about David's recent return to the Octagon, Andrew's Half Marathon, the latest launch of PushSilver, secret React Native projects, and dealing with burnout.</p>\n\n<ol>\n<li><a href=\"https://www.facebook.com/davidhemphill/videos/10154480805835178/\">David's Fight</a></li>\n<li><a href=\"http://www.skagwaymarathon.org/\">Skagway Marathon</a></li>\n<li><a href=\"https://pushsilver.com/\">PushSilver</a></li>\n<li><a href=\"https://github.com/react-community/create-react-native-app\">Create React Native App</a></li>\n<li><a href=\"https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwjAn4eBuonVAhVL7mMKHTCSAo0QFggtMAA&amp;url=https://expo.io/&amp;usg=AFQjCNG3psVH-S_R0S5fcaSCddURK_fy4Q\">Expo</a></li>\n<li><a href=\"https://itunes.apple.com/us/podcast/dads-in-development/id1080365183?mt=2\">iTunes - Leave a review!</a></li>\n</ol>\n\n",
+      "summary": "Andrew and David talk about David's recent return to the Octagon, Andrew's Half Marathon, the latest launch of PushSilver, secret React Native projects, and dealing with burnout.\n",
+      "date_published": "2017-07-17 09:00:00 -0500",
+      "author": {
+        "name": "David Hemphill & Andrew Del Prete"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/76856.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 36300039,
+        "duration_in_seconds": 2267
+      }
+    },
+    {
+      "id": "e839c405-8c54-4773-b9df-b5378c1a05c9",
+      "title": "Episode 24: Giving Talks and Powerlifting - Part 2",
+      "url": "http://www.dadsindev.com/24",
+      "content_text": "Andrew and David continue their talk with guest Emily Freeman about giving talks, life as a junior developer, powerlifting, and the importance of challenges.\n",
+      "content_html": "<p>Andrew and David continue their talk with guest Emily Freeman about giving talks, life as a junior developer, powerlifting, and the importance of challenges.</p>\n\n<ol>\n<li><a href=\"https://www.toastmasters.org/\">toastmasters.org</a></li>\n<li><a href=\"http://emilyfreeman.io/\">Emily Freeman</a></li>\n<li><a href=\"https://simplecast.com/s/90332e33\">Episode 23: Code Bootcamps and Diversity - Part 1</a></li>\n</ol>\n\n",
+      "summary": "Andrew and David continue their talk with guest Emily Freeman about giving talks, life as a junior developer, powerlifting, and the importance of challenges.\n",
+      "date_published": "2017-06-22 10:00:00 -0500",
+      "author": {
+        "name": "David Hemphill & Andrew Del Prete"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/73563.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 37275974,
+        "duration_in_seconds": 2328
+      }
+    },
+    {
+      "id": "d866dc3c-d5ad-4342-be5d-aa173142727e",
+      "title": "Episode 23: Code Bootcamps and Diversity - Part 1",
+      "url": "http://www.dadsindev.com/23",
+      "content_text": "Andrew and David talk with their first female guest Emily Freeman about her story going from ghost writer to developer, code bootcamps, and diversity in tech.\n",
+      "content_html": "<p>Andrew and David talk with their first female guest Emily Freeman about her story going from ghost writer to developer, code bootcamps, and diversity in tech.</p>\n\n<ol>\n<li><a href=\"http://emilyfreeman.io/\">Emily Freeman</a></li>\n<li><a href=\"https://www.turing.io/\">Turing School of Software &amp; Design</a></li>\n<li><a href=\"http://www.wazeedigital.com/\">Wazee Digital</a></li>\n<li><a href=\"https://www.girlsgodigital.org/\">Girls Go Digital</a></li>\n<li><a href=\"https://twitter.com/ladyleet\">Tracy lee</a></li>\n</ol>\n\n",
+      "summary": "Andrew and David talk with their first female guest Emily Freeman about her story going from ghost writer to developer, code bootcamps, and diversity in tech.\n",
+      "date_published": "2017-05-24 08:00:00 -0500",
+      "author": {
+        "name": "David Hemphill & Andrew Del Prete"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/70223.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 26004450,
+        "duration_in_seconds": 1624
+      }
+    },
+    {
+      "id": "7dc753a7-329b-4c5f-9cac-37161903cc0e",
+      "title": "Episode 22: Wordpress to Laravel and that Destroit Life",
+      "url": "http://www.dadsindev.com/22",
+      "content_text": "Andrew and David talk with Tj Miller about Coffee swaps, Wordpress to Laravel, life in Detroit, and Next.js.\n",
+      "content_html": "<p>Andrew and David talk with Tj Miller about Coffee swaps, Wordpress to Laravel, life in Detroit, and Next.js.</p>\n\n<ol>\n<li><a href=\"https://www.twitter.com/SIXLIV3\">Tj Miller</a></li>\n<li><a href=\"https://detroitjs.com/\">detroitjs</a></li>\n<li><a href=\"https://twitter.com/detroitlaravel\">detroitlaravel</a></li>\n<li><a href=\"https://github.com/zeit/next.js/\">Next.js</a></li>\n<li><a href=\"https://zeit.co/now\">Now</a></li>\n<li><a href=\"http://laracon.us/\">Laracon</a></li>\n</ol>\n\n",
+      "summary": "Andrew and David talk with Tj Miller about Coffee swaps, Wordpress to Laravel, life in Detroit, and Next.js.\n",
+      "date_published": "2017-05-10 09:00:00 -0500",
+      "author": {
+        "name": "David Hemphill & Andrew Del Prete"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/69201.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 52849153,
+        "duration_in_seconds": 3302
+      }
+    },
+    {
+      "id": "3dd7249d-7bab-4a48-91d7-53205224f9fa",
+      "title": "Episode 21: Night Terrors and Vim",
+      "url": "http://www.dadsindev.com/21",
+      "content_text": "David and Andrew discuss recent projects, state management, Andrew's journey to Vim enlightenment, and Night Terrors.\n",
+      "content_html": "<p>David and Andrew discuss recent projects, state management, Andrew's journey to Vim enlightenment, and Night Terrors.</p>\n\n<ol>\n<li><a href=\"https://www.catchthekraken.com/\">catchthekraken.com</a></li>\n<li><a href=\"http://www.imdb.com/name/nm0662018/\">Ray Parker Jr.</a></li>\n<li><a href=\"http://www.adonisjs.com/\">AdonisJS</a></li>\n<li><a href=\"https://laravel.com/docs/5.4/mix\">Laravel Mix</a></li>\n<li><a href=\"https://github.com/revivek/oy\">React Oy</a></li>\n<li><a href=\"http://www.fullstackradio.com/\">Full Stack Radio - Podcast</a></li>\n</ol>\n\n",
+      "summary": "David and Andrew discuss recent projects, state management, Andrew's journey to Vim enlightenment, and Night Terrors.\n",
+      "date_published": "2017-04-21 14:00:00 -0500",
+      "author": {
+        "name": "David Hemphill & Andrew Del Prete"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/67070.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 46581469,
+        "duration_in_seconds": 2910
+      }
+    },
+    {
+      "id": "b9628844-ddb6-4e2e-bd50-d121c9bd1387",
+      "title": "Episode 20: Freelance to Full Time and Remote Life",
+      "url": "http://www.dadsindev.com/20",
+      "content_text": "Andrew talks with Chris Gmyr about coffee habits, freelance to full-time, and remote tips.\n",
+      "content_html": "<p>Andrew talks with Chris Gmyr about their coffee habits, switching from Freelance to Full Time employment, Laravel, and remote working tips with a family.</p>\n\n<ol>\n<li><a href=\"https://chrisgmyr.com/\">Chris Gmyr</a></li>\n<li><a href=\"http://teeccino.com/\">Teeccino Caffeine-Free Herbal Coffee</a></li>\n<li><a href=\"https://www.crowdpac.com/\">Crowdpac</a></li>\n<li><a href=\"https://github.com/cmgmyr/laravel-messenger\">Laravel Messenger</a></li>\n<li><a href=\"https://medium.com/@AndrewDelPrete/hopeful-remoteful-469482d394b7\">Hopeful Remoteful</a></li>\n<li><a href=\"https://laravel-news.com\">Laravel News</a></li>\n</ol>\n\n",
+      "summary": "Andrew talks with Chris Gmyr about coffee habits, freelance to full-time, and remote tips.\n",
+      "date_published": "2017-04-04 23:26:00 -0500",
+      "author": {
+        "name": "David Hemphill & Andrew Del Prete"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/65317.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 42773413,
+        "duration_in_seconds": 2672
+      }
+    },
+    {
+      "id": "56043af9-b349-4a7d-bd69-bf689cb0ff29",
+      "title": "Episode 19: Parenting and PWAs",
+      "url": "http://www.dadsindev.com/19",
+      "content_text": "David and Andrew talk with Zack Argyle of Pinterest about Progressive Web Apps, Web Performance, Parenting, Remote Work, and what we're currently reading.\n",
+      "content_html": "<p>David and Andrew talk with Zack Argyle of Pinterest about Progressive Web Apps, Web Performance, Parenting, Remote Work, and what we're currently reading.</p>\n\n<ol>\n<li><a href=\"http://www.pinterest.com\">Pinterest</a></li>\n<li><a href=\"https://developers.google.com/web/progressive-web-apps/\">Progressive Web Apps</a></li>\n<li><a href=\"http://brandonsanderson.com/books/the-stormlight-archive/\">Stormlight Archive</a></li>\n<li><a href=\"https://www.samharris.org/free-will\">Free Will</a></li>\n<li><a href=\"https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2\">Extreme Ownership</a></li>\n<li><a href=\"http://www.zackargyle.com/\">Zack Argyle</a></li>\n<li><a href=\"https://forwardjs.com/\">ForwardJS</a></li>\n</ol>\n\n",
+      "summary": "David and Andrew talk with Zack Argyle of Pinterest about Progressive Web Apps, Web Performance, Parenting, Remote Work, and what we're currently reading.\n",
+      "date_published": "2017-03-07 09:51:00 -0600",
+      "author": {
+        "name": "David Hemphill & Andrew Del Prete"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/62092.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 52528162,
+        "duration_in_seconds": 3282
+      }
+    },
+    {
+      "id": "07cbc41d-8974-43e8-bc78-a99d24013fbf",
+      "title": "Episode 18: C-sections and Side Projects",
+      "url": "http://www.dadsindev.com/18",
+      "content_text": "David and Andrew discuss the most recent addition to Andrew's household (baby Eden), C-section experiences, David and Andrew's new projects, Crondog and Learnperf.com.\n",
+      "content_html": "<p>David and Andrew discuss the most recent addition to Andrew's household (baby Eden), C-section experiences, David and Andrew's new projects, Crondog and Learnperf.com.</p>\n\n<ol>\n<li><a href=\"http://www.mayoclinic.org/diseases-conditions/spinal-headaches/basics/definition/con-20025295\">Spinal Headache</a></li>\n<li><a href=\"http://www.learnperf.com\">Learnperf.com</a></li>\n</ol>\n\n",
+      "summary": "David and Andrew discuss the most recent addition to Andrew's household (baby Eden), C-section experiences, David and Andrew's new projects, Crondog and Learnperf.com.\n",
+      "date_published": "2017-01-24 12:00:00 -0600",
+      "author": {
+        "name": "David Hemphill & Andrew Del Prete"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/58399.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 41568437,
+        "duration_in_seconds": 2597
+      }
+    },
+    {
+      "id": "3476381d-96be-4e73-a09f-ae17931cc215",
+      "title": "Episode 17: The Inaugural North Meets South Meets Dads In Dev Christmas Extravaganza Web Podcast",
+      "url": "http://www.dadsindev.com/17",
+      "content_text": "Andrew and David catch up with the hosts of our sister podcast \"North Meets South\", Jacob Bennett and Michael Dyrynda to round out the year with talk of Christmas, structuring single page applications, JavaScript frontends with client-side validation, and Private Packagist.\n",
+      "content_html": "<p>Andrew and David catch up with the hosts of their sister podcast \"North Meets South\", Jacob Bennett and Michael Dyrynda to round out the year with talk of Christmas, structuring single page applications, JavaScript frontends with client-side validation, and Private Packagist.</p>\n\n<p><strong>Show Links</strong></p>\n\n<ul>\n<li><p><em>Christmas Wishlists</em></p>\n\n<ul>\n<li><a href=\"https://www.amazon.com/All-One-Espresso-Machine-Bundle/dp/B01LWUI6B8/ref=lp_15761852011_1_1?srs=15761852011&amp;ie=UTF8&amp;qid=1481967295&amp;sr=8-1\">Espresso Works Espresso Machine</a></li>\n<li><a href=\"https://www.breville.com.au/the-barista-expresstm.html\">Breville Barista Express</a></li>\n<li><a href=\"http://www.kenwoodworld.com/en-au/products/kitchen-machines/chef-and-major/chef-xl-sense-kvl6000t-0w20011133\">Kenwood Chef XL</a></li>\n<li><a href=\"http://www.shure.com/americas/products/microphones/sm/sm7b-vocal-microphone\">Shure SM7B</a></li>\n<li><a href=\"https://www.whiteelephantrules.com/\">White Elephant Gift Exchange</a></li>\n</ul>\n</li>\n<li><p><em>Christmas Movies</em></p>\n\n<ul>\n<li><a href=\"http://www.imdb.com/title/tt0097958/\">National Lampoon's Christmas Vacation</a></li>\n<li><a href=\"http://www.imdb.com/title/tt0116705/\">Jingle All The Way</a></li>\n<li><a href=\"http://www.imdb.com/title/tt0095016/\">Die Hard</a></li>\n<li><a href=\"http://www.imdb.com/title/tt0319343/\">Elf</a></li>\n<li><a href=\"http://www.imdb.com/title/tt0099785/\">Home Alone</a> (<a href=\"https://www.youtube.com/watch?v=mDUSjBiHYeY\">Tarantula Scene</a>)</li>\n</ul>\n</li>\n<li><p><a href=\"https://itunes.apple.com/app/super-mario-run/id1145275343?mt=8\">Super Mario Run</a> (iOS Only)</p></li>\n<li><a href=\"https://www.youtube.com/watch?v=YXE3Ku-mGrk\">President-Elect Donald Trump in Home Alone 2</a></li>\n<li><a href=\"http://jerryseinfeld.com/\">Jerry Seinfeld</a></li>\n<li><a href=\"http://www.jimgaffigan.com/\">Jim Gaffigan</a></li>\n<li><a href=\"https://louisck.net/\">Louis CK</a></li>\n<li><a href=\"https://georgecarlin.com/\">George Carlin</a></li>\n<li><a href=\"https://www.filmsupply.com/\">Filmsupply</a></li>\n<li><a href=\"https://packagist.com/\">Private Packagist</a></li>\n<li><a href=\"https://github.com/kazupon/vue-validator\">vue-validator</a></li>\n<li><a href=\"https://monterail.github.io/vuelidate/\">vuelidate</a></li>\n<li><a href=\"http://airnzchristmas.co.nz/song\">Summer Wonderland</a> by Ronan Keating for Air New Zealand</li>\n</ul>\n\n",
+      "summary": "Andrew and David catch up with the hosts of our sister podcast \"North Meets South\", Jacob Bennett and Michael Dyrynda to round out the year with talk of Christmas, structuring single page applications, JavaScript frontends with client-side validation, and Private Packagist.\n",
+      "date_published": "2016-12-21 14:00:00 -0600",
+      "author": {
+        "name": "David Hemphill & Andrew Del Prete"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/55437.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 73823053,
+        "duration_in_seconds": 4611
+      }
+    },
+    {
+      "id": "0111c4a3-1a73-4f84-a381-4e1b423a1e7d",
+      "title": "Episode 16: Eggnog Savage",
+      "url": "http://www.dadsindev.com/16",
+      "content_text": "David and Andrew sit down to catch up on life, David's move to MO, Andrew's cold house, Alaskan pregnancies and deliveries, recreating a react-like library, web performance, and code splitting in Javascript.\n",
+      "content_html": "<p>David and Andrew sit down to catch up on life, David's move to MO, Andrew's cold house, Alaskan pregnancies and deliveries, recreating a react-like library, web performance, and code splitting in Javascript.</p>\n",
+      "summary": "David and Andrew sit down to catch up on life, David's move to MO, Andrew's cold house, Alaskan pregnancies and deliveries, recreating a react-like library, web performance, and code splitting in Javascript.\n",
+      "date_published": "2016-12-19 07:00:00 -0600",
+      "author": {
+        "name": "David Hemphill & Andrew Del Prete"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/55436.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 47451200,
+        "duration_in_seconds": 2964
+      }
+    },
+    {
+      "id": "80b3865b-c61e-4eed-9ca8-ba574d4b259f",
+      "title": "Episode 15: Catch Up & Mustard",
+      "url": "http://www.dadsindev.com/15",
+      "content_text": "Andrew and David catch up on all the things. Scary times in the Hemphill household, Moving, Interplanetary Timezones, Testing, Server-side Rendering, Atomic CSS, Game Development, knowing when to shelve a project, having babies, dookie tomatoes, and The Martian.\n",
+      "content_html": "<p>Andrew and David catch up on all the things. Scary times in the Hemphill household, Moving, Interplanetary Timezones, Testing, Server-side Rendering, Atomic CSS, Game Development, knowing when to shelve a project, having babies, dookie tomatoes, and The Martian.</p>\n",
+      "summary": "Andrew and David catch up on all the things. Scary times in the Hemphill household, Moving, Interplanetary Timezones, Testing, Server-side Rendering, Atomic CSS, Game Development, knowing when to shelve a project, having babies, dookie tomatoes, and The Martian.\n",
+      "date_published": "2016-11-01 09:00:00 -0500",
+      "author": {
+        "name": "David Hemphill & Andrew Del Prete"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/51778.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 50766015,
+        "duration_in_seconds": 3171
+      }
+    },
+    {
+      "id": "6b61d49e-4f6b-443e-a002-8f948e8fa23f",
+      "title": "Episode 14: JavaScript Loins",
+      "url": "http://www.dadsindev.com/14",
+      "content_text": "Andrew and David talk with Michael Freaking Calkins about coming up as a developer, working for Musicbed, his exploits doing Javascript game dev and his love for the sport of airsoft.\n",
+      "content_html": "<p>Andrew and David talk with Michael Freaking Calkins about coming up as a developer, working for Musicbed, his exploits doing Javascript game dev and his love for the sport of airsoft.</p>\n\n<ul>\n<li><a href=\"http://rangersteve.io\">Ranger Steve</a></li>\n<li><a href=\"http://www.musicbed.com\">Musicbed</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Airsoft\">Airsoft</a></li>\n<li><a href=\"http://phaser.io\">Phaser.io</a></li>\n<li><a href=\"https://www.facebook.com/groups/318008301871900/\">Eagle Freak</a></li>\n<li><a href=\"http://www.nintendo.com/games/detail/super-mario-maker-wii-u\">Super Mario Maker</a></li>\n</ul>\n\n",
+      "summary": "Andrew and David talk with Michael Freaking Calkins about coming up as a developer, working for Musicbed, his exploits doing Javascript game dev and his love for the sport of airsoft.\n",
+      "date_published": "2016-10-19 07:55:00 -0500",
+      "author": {
+        "name": "David Hemphill & Andrew Del Prete"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/50049.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 59724970,
+        "duration_in_seconds": 3731
+      }
+    },
+    {
+      "id": "dc49f4f3-642d-4505-b5ce-4f253be41c56",
+      "title": "Episode 13: Crossing the Streams",
+      "url": "http://www.dadsindev.com/13",
+      "content_text": "David and Andrew talk with another David...David Stanley about his work at Help Scout, Andrew's new project Neckbeard, lego robotics, children learning to program, testing and more.\n",
+      "content_html": "<p>David and Andrew talk with another David...David Stanley about his work at Help Scout, Andrew's new project Neckbeard, lego robotics, children learning to program, testing and more.</p>\n\n<ol>\n<li><a href=\"http://www.helpscout.com\">Help Scout</a></li>\n<li><a href=\"http://www.codecombat.com\">Code Combat</a></li>\n<li><a href=\"https://www.neckbeardjs.com/\">NeckbeardJS</a></li>\n</ol>\n\n",
+      "summary": "David and Andrew talk with another David...David Stanley about his work at Help Scout, Andrew's new project Neckbeard, lego robotics, children learning to program, testing and more.\n",
+      "date_published": "2016-09-15 16:00:00 -0500",
+      "author": {
+        "name": "David Hemphill & Andrew Del Prete"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/47426.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 49512555,
+        "duration_in_seconds": 3093
+      }
+    },
+    {
+      "id": "904f1600-be39-4984-b708-48a4aab5909e",
+      "title": "Episode 12: CSS Modules",
+      "url": "http://www.dadsindev.com/12",
+      "content_text": "David and Andrew talk with Kent C. Dodds and Mark Dalgleish about CSS in Javascript techniques and packages like Aphrodite, CSS Modules, and Atomic CSS.\n",
+      "content_html": "<p>David and Andrew talk with Kent C. Dodds and Mark Dalgleish about CSS in Javascript techniques and packages like Aphrodite, CSS Modules, and Atomic CSS.</p>\n\n<ol>\n<li><a href=\"https://medium.com/@kentcdodds/what-code-comments-can-teach-us-about-scaling-a-codebase-90bbfad8d70d\">Kent C Dodds - What code comments can teach us about scaling a codebase</a></li>\n<li><a href=\"https://github.com/Khan/aphrodite\">Aphrodite</a></li>\n<li><a href=\"https://www.briefs.fm/3-minutes-with-kent/\">Kent C. Dodds @ Briefs.fm</a></li>\n<li><a href=\"https://youtu.be/BXOF_8jDdf8?list=PLV5CVI1eNcJi8sor_aQ2AzOeQ3On3suOr\">CSS in JS tech chat</a></li>\n<li><a href=\"https://github.com/threepointone/glamor\">Glamor</a></li>\n<li><a href=\"https://github.com/css-modules/css-modules\">CSS Modules</a></li>\n<li><a href=\"https://github.com/css-modules/webpack-demo\">Css Modules Webpack Demo</a></li>\n<li><a href=\"http://glenmaddern.com/articles/css-modules\">Glenn Maddern - CSS Modules</a></li>\n<li><a href=\"https://medium.com/seek-ui-engineering/the-end-of-global-css-90d2a4a06284#.pttdb59ci\">The End of Global CSS</a></li>\n<li><a href=\"http://buildwithbeard.com\">Beard CSS</a></li>\n<li><a href=\"https://github.com/tedconf/shed-css\">Shed CSS</a></li>\n<li><a href=\"http://acss.io\">Atomic CSS by Yahoo</a></li>\n</ol>\n\n",
+      "summary": "David and Andrew talk with Kent C. Dodds and Mark Dalgleish about CSS in Javascript techniques and packages like Aphrodite, CSS Modules, and Atomic CSS.\n",
+      "date_published": "2016-08-11 16:00:00 -0500",
+      "author": {
+        "name": "David Hemphill & Andrew Del Prete"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/44425.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 70576445,
+        "duration_in_seconds": 4410
+      }
+    },
+    {
+      "id": "d0f948d8-3c1f-4733-98ea-8c0f82fe8786",
+      "title": "Episode 11: Guerilla Ballfare",
+      "url": "http://www.dadsindev.com/11",
+      "content_text": "David and Andrew talk with UX Designer Zach Herring about Zach's history, Zach's current role at EMC, Styleguides, Healthy Designer / Developer ratio, Having an empowered team, Casino Royale, and overly progressive design.\n",
+      "content_html": "<p>David and Andrew talk with UX Designer Zach Herring about Zach's history, Zach's current role at EMC, Styleguides, Healthy Designer / Developer ratio, Having an empowered team, Casino Royale, and overly progressive design.</p>\n\n<ol>\n<li><a href=\"https://dribbble.com/zherring\">Zach Herring - Dribbble</a></li>\n<li><a href=\"https://www.amazon.com/Enemies-Excellence-Reasons-Sabotage-Success/dp/0824526260\">The Enemies of Excellence</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Casino_Royale_%282006_film%29\">Casino Royale</a></li>\n<li><a href=\"http://www.emc.com/en-us/index.htm\">EMC</a></li>\n<li><a href=\"https://itunes.apple.com/us/app/vsco/id588013838?mt=8\">VSCO</a></li>\n</ol>\n\n",
+      "summary": "David and Andrew talk with UX Designer Zach Herring about Zach's history, Zach's current role at EMC, Styleguides, Healthy Designer / Developer ratio, Having an empowered team, Casino Royale, and overly progressive design.\n",
+      "date_published": "2016-07-14 12:00:00 -0500",
+      "author": {
+        "name": "David Hemphill & Andrew Del Prete"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/42381.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 59799785,
+        "duration_in_seconds": 3736
+      }
+    },
+    {
+      "id": "0b56b534-586d-4d2e-b4db-a730bae68409",
+      "title": "Episode 10: Mythbuster",
+      "url": "http://www.dadsindev.com/10",
+      "content_text": "David and Andrew talk about Andrew's recent half-marathon, David's daughter's hospital visit, pregnancy, diapers, atomic CSS and Beard.\n",
+      "content_html": "<p>David and Andrew talk about Andrew's recent half-marathon, David's daughter's hospital visit, pregnancy, diapers, atomic CSS and Beard.</p>\n\n<p>Beard - <a href=\"http://buildwithbeard.com\">http://buildwithbeard.com</a></p>\n",
+      "summary": "David and Andrew talk about Andrew's recent half-marathon, David's daughter's hospital visit, pregnancy, diapers, atomic CSS and Beard.\n",
+      "date_published": "2016-06-20 14:00:00 -0500",
+      "author": {
+        "name": "David Hemphill & Andrew Del Prete"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/40475.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 49951831,
+        "duration_in_seconds": 3121
+      }
+    },
+    {
+      "id": "f9e0ef49-e929-4318-975a-0a84ba87ef5c",
+      "title": "Episode 9: Nightmare on Elm Street",
+      "url": "http://www.dadsindev.com/9",
+      "content_text": "David and Andrew talk with Murphy \"Splodingsocks\" Randle about Elm Lang, React / Redux, Functional Programming, Estimates, his time at Pixar, and being dadly.\n",
+      "content_html": "<p>David and Andrew talk with Murphy \"Splodingsocks\" Randle about Elm Lang, React / Redux, Functional Programming, Estimates,his time at Pixar, and being dadly.</p>\n\n<ol>\n<li>Kuali - <a href=\"https://www.kuali.org/\">https://www.kuali.org/</a></li>\n<li>Elm -  <a href=\"https://www.elmlang.com/\">https://www.elmlang.com/</a></li>\n<li>Twitter - <a href=\"https://www.twitter.com/splodingsocks\">https://www.twitter.com/splodingsocks</a></li>\n<li>Website - <a href=\"http://murph.xyz/\">http://murph.xyz/</a></li>\n</ol>\n\n",
+      "summary": "David and Andrew talk with Murphy \"Splodingsocks\" Randle about Elm Lang, React / Redux, Functional Programming, Estimates, his time at Pixar, and being dadly.\n",
+      "date_published": "2016-05-27 13:30:00 -0500",
+      "author": {
+        "name": "David Hemphill & Andrew Del Prete"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/38474.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 61150972,
+        "duration_in_seconds": 3821
+      }
+    },
+    {
+      "id": "db98f2b8-4913-4d07-b472-c8fcb18c2cf8",
+      "title": "Episode 8: Pardon My Japanese",
+      "url": "http://www.dadsindev.com/8",
+      "content_text": "David and Andrew talk with Jonathan Brake about his best friend, how estimates are evil, project management, unordered and ordered lists, and his cursing children.\n",
+      "content_html": "<p>David and Andrew talk with Jonathan Brake about his best friend, how estimates are evil, project management, unordered and ordered lists, and his cursing children.</p>\n",
+      "summary": "David and Andrew talk with Jonathan Brake about his best friend, how estimates are evil, project management, unordered and ordered lists, and his cursing children.\n",
+      "date_published": "2016-05-16 07:00:00 -0500",
+      "author": {
+        "name": "David Hemphill & Andrew Del Prete"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/37669.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 61685960,
+        "duration_in_seconds": 3854
+      }
+    },
+    {
+      "id": "8aad5fdd-2cd2-42a2-a1dc-01ffcbc39cc8",
+      "title": "Episode 7: No Procreation, Just Recreation",
+      "url": "http://www.dadsindev.com/7",
+      "content_text": "David and Andrew talk with Noah Labhart about learning new technologies, computer science degrees or lack thereof, iOS development, vasectomies, and exercise.\n",
+      "content_html": "<p>David and Andrew talk with Noah Labhart about learning new technologies, computer science degrees or lack thereof, iOS development, vasectomies, and exercise.</p>\n\n<ul>\n<li><a href=\"http://touchtap.io\">Touchtap</a></li>\n<li><a href=\"https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099\">Stanford iOS Curriculum on iTunes </a></li>\n<li><a href=\"https://open.spotify.com/artist/2zbOpfUp27yuUIfOk4jVwq\">Withheld - Band</a></li>\n</ul>\n\n",
+      "summary": "David and Andrew talk with Noah Labhart about learning new technologies, computer science degrees or lack thereof, iOS development, vasectomies, and exercise.\n",
+      "date_published": "2016-04-25 14:00:00 -0500",
+      "author": {
+        "name": "David Hemphill & Andrew Del Prete"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/36298.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 48536964,
+        "duration_in_seconds": 3032
+      }
+    },
+    {
+      "id": "c04b7a14-0070-4de0-a4a6-d71b4fdd0bdb",
+      "title": "Episode 6: Bloody Boogers",
+      "url": "http://www.dadsindev.com/6",
+      "content_text": "Andrew and David talk about David's newborn Milo, mental boundaries, bloody boogers, skid marks, and testing code.\n",
+      "content_html": "<p>Andrew and David talk about David's newborn Milo, mental boundaries, bloody boogers, skid marks, and testing code.</p>\n\n<ol>\n<li><a href=\"https://github.com/airbnb/enzyme\">Enzyme</a></li>\n</ol>\n\n",
+      "summary": "Andrew and David talk about David's newborn Milo, mental boundaries, bloody boogers, skid marks, and testing code.\n",
+      "date_published": "2016-04-11 08:30:00 -0500",
+      "author": {
+        "name": "David Hemphill & Andrew Del Prete"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/34881.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 29618116,
+        "duration_in_seconds": 3700
+      }
+    },
+    {
+      "id": "e5f0911e-210b-41a9-a2aa-0bdeedc6b1e0",
+      "title": "Episode 5: Bald with Beard",
+      "url": "http://www.dadsindev.com/5",
+      "content_text": "Andrew interviews former co-worker and long time friend Seth Barber. Seth works with Ellislab on the  CMS ExpressionEngine. Agency work, beards, raising children, and pens.\n",
+      "content_html": "<p>Andrew interviews former co-worker and long time friend Seth Barber. Seth works with Ellislab on the CMS ExpressionEngine. Andrew and Seth reminisce over their past work history at an agency, raising children, pens, writing, and books.</p>\n\n<ol>\n<li><a href=\"https://ellislab.com/\">EllisLab</a></li>\n<li><a href=\"https://ellislab.com/expressionengine\">ExpressionEngine</a></li>\n<li><a href=\"https://the.nibandbarrel.com/\">The Nib &amp; Barrel</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=BKorP55Aqvg\">The Expert - Video</a></li>\n</ol>\n\n",
+      "summary": "Andrew interviews former co-worker and long time friend Seth Barber. Seth works with Ellislab on the  CMS ExpressionEngine. Agency work, beards, raising children, and pens.\n",
+      "date_published": "2016-03-28 08:30:00 -0500",
+      "author": {
+        "name": "David Hemphill & Andrew Del Prete"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/33744.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 27870509,
+        "duration_in_seconds": 3481
+      }
+    },
+    {
+      "id": "badf78e0-d034-431f-8183-1694b6f8db60",
+      "title": "Episode 4: Tall and Bushy",
+      "url": "http://www.dadsindev.com/4",
+      "content_text": "David is out due to his little guy being born. Andrew talks with guest Jacob Bennett about dev stacks, close calls with their children, learning, and books they're reading.\n\nAndrew also learns how to edit / mix a podcast. :D\n",
+      "content_html": "<p>Andrew talks to Jacob Bennett about dev stacks, close calls with their children, learning, and books they're reading.</p>\n\n<ul>\n<li><a href=\"http://jakebennett.net/\">Jacob Bennett </a></li>\n<li><a href=\"https://forge.laravel.com/\">Laravel Forge</a></li>\n<li><a href=\"https://egghead.io/series/mastering-asynchronous-programming-the-end-of-the-loop\">The End of the Loop</a></li>\n<li><a href=\"https://egghead.io/articles/recording-a-great-coding-screencast\">Recording a Great Coding Screencast</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=COKdtOgopWQ\">Javascript ES7 - Async / Await in under 3 minutes\n</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=pbuxUhkT0AA\">Javascript ES6 / ES7 - Spread Syntax in less than 3 minutes</a></li>\n<li><a href=\"https://github.com/mattstauffer/Torch\">Torch</a></li>\n<li><a href=\"http://spreadtruth.com/\">Spread Truth</a></li>\n</ul>\n\n",
+      "summary": "David is out due to his little guy being born. Andrew talks with guest Jacob Bennett about dev stacks, close calls with their children, learning, and books they're reading.\n\nAndrew also learns how to edit / mix a podcast. :D\n",
+      "date_published": "2016-03-16 08:00:00 -0500",
+      "author": {
+        "name": "David Hemphill & Andrew Del Prete"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/30507.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 32364444,
+        "duration_in_seconds": 4043
+      }
+    },
+    {
+      "id": "2e7fcf62-baf6-439d-90e5-a13eda3b24f4",
+      "title": "Episode 3: Can't Fake Cow",
+      "url": "http://www.dadsindev.com/3",
+      "content_text": "David and Andrew talk with Eric L. Barnes about on-demand learning, working out, managing remote-worker life with kids, and books they've been reading.\n",
+      "content_html": "<p>David and Andrew talk with Eric L. Barnes about on-demand learning, working out, managing remote-worker life with kids, and books they've been reading.</p>\n\n<ul>\n<li><a href=\"http://www.ericlbarnes.com\">ericlbarnes.com</a></li>\n<li><a href=\"https://laravel-news.com\">laravel-news.com</a></li>\n<li><a href=\"http://www.112263book.com\">112263book.com</a></li>\n<li><a href=\"http://spiraldiner.com\">spiraldiner.com</a></li>\n</ul>\n\n",
+      "summary": "David and Andrew talk with Eric L. Barnes about on-demand learning, working out, managing remote-worker life with kids, and books they've been reading.\n",
+      "date_published": "2016-03-01 07:00:00 -0600",
+      "author": {
+        "name": "David Hemphill & Andrew Del Prete"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/27966.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 28151497,
+        "duration_in_seconds": 3517
+      }
+    },
+    {
+      "id": "ba79c89f-5015-412a-95af-12b408dbeea0",
+      "title": "Episode 2: Poop Art",
+      "url": "http://www.dadsindev.com/2",
+      "content_text": "David and Andrew talk with Erik Aybar about their kid's pee and poop, and balancing life as a dad as a remote worker. They also discuss learning new tools, burning the midnight oil, React, Redux, Reflux, and their reading lists.\n",
+      "content_html": "<p>David and Andrew talk with Erik Aybar about their kid's pee and poop, and balancing life as a dad as a remote worker. They also discuss learning new tools, burning the midnight oil, React, Redux, Reflux, and their reading lists.</p>\n\n<ul>\n<li><a href=\"https://m.youtube.com/watch?v=xsSnOQynTHs\">Dan Abramov - Live React: Hot Reloading with Time Travel at react-europe 2015</a></li>\n<li><a href=\"https://medium.com/@AndrewDelPrete/2015-the-year-i-started-to-enjoy-reading-eb4acab129bc\">2015 -- The Year I started to enjoy reading</a></li>\n<li><a href=\"https://egghead.io/instructors/erik-aybar\">Egghead.io - Erik Aybar</a></li>\n<li><a href=\"http://www.amazon.com/Saturn-Run-John-Sandford/dp/0399176950\">Saturn Run - Book</a></li>\n<li><a href=\"http://www.amazon.com/gp/product/0385743572\">Steelheart, Firefight, Calamity (Reckoners Series) - Book</a></li>\n</ul>\n\n",
+      "summary": "David and Andrew talk with Erik Aybar about their kid's pee and poop, and balancing life as a dad as a remote worker. They also discuss learning new tools, burning the midnight oil, React, Redux, Reflux, and their reading lists.\n",
+      "date_published": "2016-02-15 14:00:00 -0600",
+      "author": {
+        "name": "David Hemphill & Andrew Del Prete"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/26754.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 25528594,
+        "duration_in_seconds": 3189
+      }
+    },
+    {
+      "id": "13084ff9-95a1-45e1-a01f-24c19a3014d0",
+      "title": "Episode 1: Forearm Builder",
+      "url": "http://www.dadsindev.com/1",
+      "content_text": "David Hemphill and Andrew Del Prete talk about getting their start in development, having kids, being healthy as remote workers, learning Vim, and Andrew building Tweeps.io.\n\nSorry about Andrew's mic quality. He's got a new one on the way!\n\nThis episode was sponsored by PushSilver.\n",
+      "content_html": "<p>David Hemphill and Andrew Del Prete talk about getting their start in development, having kids, being healthy as remote workers, learning Vim, and Andrew building <a href=\"http://tweeps.io\">Tweeps.io</a>.</p>\n\n<p>Sorry about Andrew's mic quality. He's got a new one on the way!</p>\n\n<p>This episode was sponsored by <a href=\"http://pushsilver.com\">PushSilver</a>.</p>\n",
+      "summary": "David Hemphill and Andrew Del Prete talk about getting their start in development, having kids, being healthy as remote workers, learning Vim, and Andrew building Tweeps.io.\n\nSorry about Andrew's mic quality. He's got a new one on the way!\n\nThis episode was sponsored by PushSilver.\n",
+      "date_published": "2016-02-01 00:00:00 -0600",
+      "author": {
+        "name": "David Hemphill & Andrew Del Prete"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/25180.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 47262681,
+        "duration_in_seconds": 2952
+      }
+    }
+  ]
+}

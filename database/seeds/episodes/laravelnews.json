@@ -1,0 +1,727 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Laravel News Podcast",
+  "home_page_url": "https://laravel-news.com/podcast",
+  "feed_url": "https://rss.simplecast.com/podcasts/1356/rss",
+  "description": "The Laravel News Podcast brings you all the latest news and events related to Laravel. ",
+  "author": {
+    "url": "https://laravel-news.com/podcast",
+    "name": "Jacob Bennett and Michael Dyrynda"
+  },
+  "items": [
+    {
+      "id": "55597cb9-6cba-4d33-8929-409a9c79a6c0",
+      "title": "Laracon Sessions with Taylor Otwell, Jeffrey Way, Matt Stauffer, and Adam Wathan",
+      "content_text": "In the final Laracon Sessions episode for 2017, Jake and Michael are joined by Taylor Otwell, Jeffrey Way, Matt Stauffer, and Adam Wathan to get the final word on the upcoming Laracon US conference in New York City.\n",
+      "content_html": "<p>In the final Laracon Sessions episode for 2017, Jake and Michael are joined by Taylor Otwell, Jeffrey Way, Matt Stauffer, and Adam Wathan to get the final word on the upcoming Laracon US conference in New York City.</p>\n\n<p>You can read the <a href=\"https://laravel-news.com/podcast/42/transcript\">full episode transcript</a> which includes time markers and links.</p>\n\n<p><strong>Guest Starring</strong></p>\n\n<ul>\n<li><a href=\"https://twitter.com/taylorotwell\">Taylor Otwell</a></li>\n<li><a href=\"https://twitter.com/jeffrey_way\">Jeffrey Way</a></li>\n<li><a href=\"https://twitter.com/stauffermatt\">Matt Stauffer</a></li>\n<li><a href=\"https://twitter.com/adamwathan\">Adam Wathan</a></li>\n</ul>\n\n\n<a name=\"Show.Links\"></a>\n<h3>Show Links</h3>\n\n<ul>\n<li><a href=\"https://twitter.com/beausimensen\">Beau Simensen</a> - <a href=\"https://www.mixcloud.com/simensen/\">Mixcloud</a></li>\n<li><a href=\"https://medium.com/@taylorotwell/weekend-laravel-improvements-26d0d230e48f\">Chainable jobs</a></li>\n<li><a href=\"https://laravel-news.com/custom-validation-rule-objects\">Custom validation rules</a></li>\n<li><a href=\"https://github.com/laravel/framework/blob/master/src/Illuminate/Foundation/Testing/RefreshDatabase.php\"><code>RefreshDatabase</code> trait</a></li>\n<li><a href=\"https://laravel-news.com/bladeif\">Custom Blade <code>if</code> statements</a></li>\n<li><a href=\"https://github.com/fideloper/TrustedProxy\">Trusted Proxy</a></li>\n<li><a href=\"https://github.com/laravel/framework/pull/19063\"><code>Request::validate()</code></a></li>\n<li><a href=\"https://github.com/laravel/framework/commit/f6511d477f73b3033ef2336257f4cac5f20594a0\"><code>migrate:fresh</code> command</a></li>\n<li><a href=\"https://github.com/laravel/framework/commit/c0c89fd73cebf9ed56e6c5e69ad35106df03d9db\">Support for <code>Responsable</code> objects</a></li>\n<li><a href=\"http://amzn.to/2tjJTEZ\">Deep Work</a></li>\n<li><a href=\"http://www.mildlyalarming.com/episodes/15121-23-it-s-not-dopayours-it-s-dopamine\">Mildly Alarming Podcast  - It's not Dopayours, it's dopamine</a></li>\n<li><a href=\"https://www.topoftherocknyc.com/\">Top of the Rock</a></li>\n<li><a href=\"http://www.tomsrestaurant.net/\">Tom's Restaurant</a></li>\n<li><a href=\"https://forge.laravel.com\">Laravel Forge</a></li>\n<li><a href=\"https://envoyer.io\">Envoyer</a></li>\n<li><a href=\"https://laracasts.com\">Laracasts</a></li>\n<li><a href=\"https://tighten.co/\">Tighten Co.</a></li>\n<li><a href=\"https://laravelupandrunning.com/\">Laravel Up and Running</a></li>\n<li><a href=\"https://testdrivenlaravel.com\">Test Driven Laravel</a></li>\n<li><a href=\"https://kitetail.co\">KiteTail</a> - <a href=\"https://building.kitetail.co/\">Building KiteTail</a></li>\n</ul>\n\n",
+      "summary": "In the final Laracon Sessions episode for 2017, Jake and Michael are joined by Taylor Otwell, Jeffrey Way, Matt Stauffer, and Adam Wathan to get the final word on the upcoming Laracon US conference in New York City.\n",
+      "date_published": "2017-07-18 09:00:00 -0400",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/77129.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 60738704,
+        "duration_in_seconds": 3795
+      }
+    },
+    {
+      "id": "560fefe3-0d3d-462c-88d4-3b8d76aaa3b9",
+      "title": "Laracon Sessions with Michele and Mathias Hansen",
+      "content_text": "In the penultimate Laracon Session, Jake and Michael are joined by husband and wife tag-team speakers Michele and Mathias Hansen to talk about launching and scaling a side project, along with your regular dose of Laravel framework and community news.\n",
+      "content_html": "<p>In the penultimate Laracon Session, Jake and Michael are joined by husband and wife tag-team speakers Michele and Mathias Hansen to talk about launching and scaling a side project, along with your regular dose of Laravel framework and community news.</p>\n\n<p>You can read the <a href=\"https://laravel-news.com/podcast/41/transcript\">full episode transcript</a> which includes time markers and links.</p>\n\n<p><strong>Guest Starring</strong></p>\n\n<ul>\n<li><a href=\"https://twitter.com/mjwhansen\">Michele Hansen</a></li>\n<li><a href=\"https://twitter.com/MathiasHansen\">Mathias Hansen</a></li>\n</ul>\n\n\n<a name=\"Show.links\"></a>\n<h3>Show links</h3>\n\n<ul>\n<li><a href=\"https://geocod.io/\">Geocodio</a></li>\n<li><a href=\"https://www.fool.com/\">The Motley Fool</a></li>\n<li><a href=\"https://www.videoblocks.com/\">VideoBlocks</a></li>\n<li><a href=\"https://www.amazon.com/Jobs-be-Done-Theory-Practice/dp/0990576744\">Jobs to be Done</a></li>\n<li><a href=\"https://medium.com/@mjwhansen/six-product-books-i-wish-id-read-sooner-16e11d4d8d49\">6 product books I wish I'd read sooner</a></li>\n<li><a href=\"http://www.whencoffeeandkalecompete.com/\">When coffee and kale compete</a></li>\n<li><a href=\"https://pixelbug.io\">Pixelbug</a></li>\n<li><a href=\"https://laravel-news.com/laracon-live-stream-2017\">Laracon US live stream tickets on sale</a></li>\n<li><a href=\"https://laravel-news.com/laravel-v5-4-28\">Laravel 5.4.28 is released</a></li>\n<li><a href=\"https://github.com/laravel/framework/pull/19741\"><code>array_random</code> helper</a></li>\n<li><a href=\"https://github.com/laravel/framework/pull/19738\"><code>unless</code> Collection method</a></li>\n<li><a href=\"https://github.com/laravel/framework/pull/19616\"><code>fresh</code> Eloquent Collection method</a></li>\n<li><a href=\"https://github.com/laravel/framework/pull/19733\"><code>BelongsTo</code> default return</a></li>\n<li><a href=\"https://github.com/laravel/framework/pull/19643\">Escape values in <code>@yield</code></a></li>\n<li><a href=\"https://laravel-news.com/dd-and-dump-collections\">DD and Dump is coming to Collections in Laravel 5.5</a></li>\n<li>Spatie's <a href=\"https://github.com/spatie/laravel-collection-macros\">Collection macros</a></li>\n<li><a href=\"https://twitter.com/JacobBennett/status/880512467088138242\">PSA: Carbon <code>subMonth</code> / <code>addMonth</code> behaviour</a></li>\n<li><a href=\"https://github.com/briannesbitt/Carbon/pull/710\"><code>useMonthsOverflow</code> to change default</a></li>\n<li><a href=\"https://laravel-news.com/laravel-io-launches-its-next-version\">Laravel.io launches its next version</a></li>\n<li><a href=\"https://laravel-news.com/tweetsnippet\">Tweetsnippet - a curated list of tips and tricks posted on Twitter</a> by <a href=\"https://twitter.com/RealMthrRussia\">Casper Sørensen</a></li>\n</ul>\n\n",
+      "summary": "In the penultimate Laracon Session, Jake and Michael are joined by husband and wife tag-team speakers Michele and Mathias Hansen to talk about launching and scaling a side project, along with your regular dose of Laravel framework and community news.\n",
+      "date_published": "2017-07-04 08:32:00 -0400",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/75261.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 50039407,
+        "duration_in_seconds": 3126
+      }
+    },
+    {
+      "id": "d41b9400-eb5e-4f88-8c0c-647df34a403b",
+      "title": "Laracon Sessions with Laura Elizabeth",
+      "content_text": "Jake and Michael are joined by designer, product maker, and Laravel community newcomer Laura Elizabeth as we get ever-closer to Laracon 2017, in addition to your regular dose of Laravel framework and community news.\n",
+      "content_html": "<p>Jake and Michael are joined by designer, product maker, and Laravel community newcomer Laura Elizabeth as we get ever-closer to Laracon 2017, in addition to your regular dose of Laravel framework and community news.</p>\n\n<p>You can read the <a href=\"https://laravel-news.com/podcast/40/transcript\">full episode transcript</a> which includes time markers and links.</p>\n\n<p><strong>Guest Starring</strong>: <a href=\"https://twitter.com/laurium\">Laura Elizabeth</a></p>\n\n<a name=\"Show.links\"></a>\n<h3>Show links</h3>\n\n<ul>\n<li><a href=\"http://designacademy.io/\">Design Academy</a></li>\n<li><a href=\"http://client-portal.io/\">Client Portal</a></li>\n<li><a href=\"https://github.com/laravel/framework/releases/tag/v5.4.25\">Laravel 5.4.25</a></li>\n<li><a href=\"https://github.com/laravel/framework/releases/tag/v5.4.26\">Laravel 5.4.26</a></li>\n<li><a href=\"https://github.com/laravel/framework/releases/tag/v5.4.27\">Laravel 5.4.27</a></li>\n<li><a href=\"https://laravel-news.com/package-auto-discovery\">Laravel package auto-discovery</a></li>\n<li><a href=\"https://laravel-news.com/laravel-deep-dive\">Take a deep dive into the Laravel core</a></li>\n<li><a href=\"https://divinglaravel.com/\">Diving Laravel</a> by <a href=\"https://twitter.com/themsaid\">Mohamed Said</a></li>\n<li><a href=\"https://laravel-news.com/performant-laravel\">Learn how to improve the performance of your Laravel app with Performant Laravel</a></li>\n<li><a href=\"https://serversforhackers.com/laravel-perf\">Performant Laravel</a> by <a href=\"https://twitter.com/fideloper\">Chris Fidao</a></li>\n<li><a href=\"https://laravel-news.com/javascript-collections\">Bring Laravel collections to JavaScript with collect.js</a></li>\n<li><a href=\"https://laravel-news.com/invisible-recaptcha-integration-with-laravel\">Invisible reCAPTCHA integration with Laravel</a></li>\n<li><a href=\"https://laravel-news.com/partyline-artisan-print-to-console\">Partyline - A package to print to the Artisan console from anywhere</a></li>\n</ul>\n\n",
+      "summary": "Jake and Michael are joined by designer, product maker, and Laravel community newcomer Laura Elizabeth as we get ever-closer to Laracon 2017, in addition to your regular dose of Laravel framework and community news.\n",
+      "date_published": "2017-06-20 08:00:00 -0400",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/73147.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 46995318,
+        "duration_in_seconds": 2936
+      }
+    },
+    {
+      "id": "ae3da528-c034-4542-a901-f26f1a87252c",
+      "title": "Laracon Sessions with Jack McDade",
+      "content_text": "In Laracon Sessions Episode Three, Jake and Michael are joined by Jack McDade to discuss his surely-80s themed talk, as well as your regular dose of Laravel framework and community news.\n",
+      "content_html": "<p>In Laracon Sessions Episode Three, Jake and Michael are joined by Jack McDade to discuss his surely-80s themed talk, as well as your regular dose of Laravel framework and community news.</p>\n\n<p>You can read the <a href=\"https://laravel-news.com/podcast/39/transcript\">full episode transcript</a> which includes time markers and links.</p>\n\n<p><strong>Guest Starring</strong>: <a href=\"https://twitter.com/jackmcdade\">Jack McDade</a></p>\n\n<a name=\"Show.links\"></a>\n<h3>Show links</h3>\n\n<ul>\n<li><a href=\"https://statamic.com/\">Statamic</a></li>\n<li><a href=\"https://wilderborn.com/\">Wilderborn</a></li>\n<li><a href=\"https://contestkit.com\">ContestKit</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Halt_and_Catch_Fire_(TV_series)\">Halt and Catch Fire</a></li>\n<li><a href=\"http://railsforzombies.org/\">Rails for Zombies</a></li>\n<li><a href=\"https://streamacon.com/video/laracon-us/jack-mcdade-wizards-lawnmowers-and-hovercrafts\">Wizards, Lawnmowers, and Hovercrafts</a></li>\n<li><a href=\"https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692\">Deep Work</a></li>\n<li><a href=\"https://www.becomeasuperlearner.com/courses/become-a-superlearner-masterclass\">Become a SuperLearner</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=otFYYqNVbAI\">Hot Rod \"quiet place\" dance scene</a></li>\n<li><a href=\"https://laravel-news.com/laravel-v5-4-24-is-now-released\">Laravel 5.4.24 is now released</a>\n\n<ul>\n<li><a href=\"https://github.com/laravel/framework/pull/19124\">Gate resources</a></li>\n<li><a href=\"https://github.com/laravel/framework/pull/19227/files\">Route <code>isName</code></a></li>\n<li><a href=\"https://github.com/laravel/framework/commit/26681eb1c8ba35a0129ad47d4f0f03af9c2baa45\">Request <code>routeIs</code></a> - formerly <code>isRouteName</code></li>\n<li><a href=\"https://github.com/laravel/framework/pull/19256\">Filesystem hashing</a></li>\n<li><a href=\"https://github.com/laravel/framework/pull/19174\"><code>Model::refresh</code></a></li>\n<li><a href=\"https://github.com/laravel/framework/pull/19357\"><code>str_after</code> helper</a></li>\n<li><a href=\"https://github.com/laravel/framework/pull/19347\">Router <code>apiResource</code></a></li>\n</ul>\n</li>\n<li><a href=\"https://laravel-news.com/laravel-5-5-custom-validator-rules\">Customer Validator rules</a> in Laravel 5.5 - Taylor's <a href=\"https://medium.com/@taylorotwell/custom-validation-rules-in-laravel-5-5-c6cb250f65df\">blog post</a></li>\n<li><a href=\"https://laravel-news.com/whoops-laravel-5-5\">Whoops is coming back in Laravel 5.5</a></li>\n<li><a href=\"https://laravel-news.com/zttp-guzzle-wrapper\">Zttp</a> is a wrapper around Guzzle for simplifying common use cases</li>\n</ul>\n\n",
+      "summary": "In Laracon Sessions Episode Three, Jake and Michael are joined by Jack McDade to discuss his surely-80s themed talk, as well as your regular dose of Laravel framework and community news.\n",
+      "date_published": "2017-06-06 13:13:00 -0400",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/71971.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 47725160,
+        "duration_in_seconds": 2981
+      }
+    },
+    {
+      "id": "435d81b1-338c-4121-8116-d793d6e3c973",
+      "title": "Laracon Sessions with Tom Schlick",
+      "content_text": "In Laracon Sessions Episode Two, Jake and Michael are joined by Tom Schlick to discuss his talk on multi-tenancy in Laravel, as well as your regular dose of Laravel framework and community news.\n",
+      "content_html": "<p>In Laracon Sessions Episode Two, Jake and Michael are joined by Tom Schlick to discuss his talk on multi-tenancy in Laravel, as well as your regular dose of Laravel framework and community news.</p>\n\n<p>You can read the <a href=\"https://laravel-news.com/podcast/38/transcript\">full episode transcript</a> which includes time markers and links.</p>\n\n<p><strong>Guest Starring</strong>: <a href=\"https://twitter.com/tomschlick\">Tom Schlick</a></p>\n\n<a name=\"Show.links\"></a>\n<h3>Show links</h3>\n\n<ul>\n<li><a href=\"https://laravel-news.com/throw_if-throw_unless\">Laravel throw_if and throw_unless helpers</a></li>\n<li><a href=\"https://laravel-news.com/laravel-5-4-22-is-now-released-and-includes-a-security-fix\">Laravel 5.4.22 released and includes a security fix</a></li>\n<li><a href=\"https://laravel.com/docs/5.4/releases#laravel-5.4.22\">Laravel 5.4.22 release notes</a></li>\n<li><a href=\"https://github.com/laravel/framework/pull/19015\">Eloquent query builder 'make' method</a></li>\n<li><a href=\"https://github.com/laravel/framework/pull/19019\">Allow Eloquent 'find' method to support Arrayable arguments</a></li>\n<li><a href=\"https://open.spotify.com/user/1232998793/playlist/2SEDE1NvGSnFcMTsJZKCXF\">The Road to Laracon US</a></li>\n</ul>\n\n",
+      "summary": "In Laracon Sessions Episode Two, Jake and Michael are joined by Tom Schlick to discuss his talk on multi-tenancy in Laravel, as well as your regular dose of Laravel framework and community news.\n",
+      "date_published": "2017-05-23 08:00:00 -0400",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/70189.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 24901945,
+        "duration_in_seconds": 1555
+      }
+    },
+    {
+      "id": "d5ff9684-4eff-4853-a375-45425cba9d8b",
+      "title": "Laracon Sessions with Freek Van der Herten",
+      "content_text": "Jake and Michael kick off their series of Laracon Sessions with prolific package maintainer Freek Van der Herten, in addition to your regular dose of Laravel framework and community news.\n",
+      "content_html": "<p>Jake and Michael kick off their series of Laracon Sessions with prolific package maintainer Freek Van der Herten, in addition to your regular dose of Laravel framework and community news.</p>\n\n<p>You can read the <a href=\"https://laravel-news.com/podcast/37/transcript\">full episode transcript</a> which includes time markers and links.</p>\n\n<p><strong>Guest Starring</strong>: <a href=\"https://twitter.com/freekmurze\">Freek Van der Herten</a></p>\n\n<a name=\"Show.links\"></a>\n<h3>Show links</h3>\n\n<ul>\n<li><a href=\"https://spatie.be\">Spatie</a></li>\n<li><a href=\"https://github.com/spatie/dashboard.spatie.be\">Laravel Dashboard</a></li>\n<li><a href=\"https://github.com/spatie/browsershot\">Browsershot</a></li>\n<li><a href=\"https://github.com/spatie/blender\">Blender</a></li>\n<li><a href=\"https://murze.be/2015/10/on-open-sourcing-blender/\">On open sourcing Blender</a></li>\n<li><a href=\"https://laravel-news.com/laravel-5-4-20-is-released\">Laravel 5.4.20 is released</a></li>\n<li><a href=\"https://github.com/laravel/framework/commit/3abc4fb90fe59a90c2d8cccd27e310b20e5e2631\">Higher order tap</a></li>\n<li><a href=\"https://medium.com/@taylorotwell/tap-tap-tap-1fc6fc1f93a6\">Tap, Tap, Tap</a></li>\n<li><a href=\"https://github.com/laravel/framework/pull/18823\">Model factory lazy method</a></li>\n<li><a href=\"https://twitter.com/joseph_silber/status/847120343022096385\">Joseph Silber on creating related model factories</a></li>\n<li><a href=\"https://laravel-news.com/request-data-validator-improvements\">Laravel 5.5 returns request data from the validator</a></li>\n<li><a href=\"https://github.com/laravel/framework/pull/19063\">Validation as a request macro</a></li>\n<li><a href=\"https://laravel-news.com/laravel-5-5-error-views\">Laravel 5.5 gets improvements with default error views</a></li>\n<li><a href=\"https://laravel-news.com/interactive-make-command\">Interactive make command</a></li>\n<li><a href=\"https://laravel-news.com/markdownmail\">MarkdownMail - A web app to create Laravel Markdown email themes</a></li>\n<li><a href=\"https://laravel-news.com/laravel-language-manager\">Laravel Language Manager</a></li>\n<li><a href=\"https://laravel-news.com/laravel-nigeria\">Laravel Nigeria's first meetup had over 150 in attendance</a></li>\n<li><p><a href=\"https://laravel-news.com/php-roundtable-laravel-edition\">PHP Roundtable - Laravel Edition</a></p></li>\n<li><p><a href=\"https://open.spotify.com/user/1232998793/playlist/2SEDE1NvGSnFcMTsJZKCXF\">The Road to Laracon US</a></p></li>\n</ul>\n\n",
+      "summary": "Jake and Michael kick off their series of Laracon Sessions with prolific package maintainer Freek Van der Herten, in addition to your regular dose of Laravel framework and community news.\n",
+      "date_published": "2017-05-09 08:00:00 -0400",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/68904.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 46645440,
+        "duration_in_seconds": 2914
+      }
+    },
+    {
+      "id": "f76367e4-7406-49d1-8209-b24cea5fa0dd",
+      "title": "Laravel Macros, frontend presets, and Jigsaw",
+      "content_text": "Jake and Michael recap a relatively quiet period of change on the Laravel landscape, talking about 5.4 maintenance releases, upcoming features in Laravel 5.5, and some contributions from the community.\n",
+      "content_html": "<p>Jake and Michael recap a relatively quiet period of change on the Laravel landscape, talking about 5.4 maintenance releases, upcoming features in Laravel 5.5, and some contributions from the community.</p>\n\n<p>You can read the <a href=\"https://laravel-news.com/podcast/36/transcript\">full episode transcript</a> which includes time markers and links.</p>\n\n<a name=\"Show.links\"></a>\n<h3>Show links</h3>\n\n<ul>\n<li><a href=\"https://laravel-news.com/laravel-v5-4-18-is-now-released\">Laravel 5.4.18 is now released</a></li>\n<li><a href=\"https://github.com/laravel/framework/blob/5.4/CHANGELOG-5.4.md\">Laravel 5.4 changelog</a></li>\n<li><a href=\"https://github.com/spatie/laravel-collection-macros\">Laravel Collection Macros</a></li>\n<li><a href=\"https://laravel-news.com/frontend-presets\">Laravel 5.5 frontend presets</a></li>\n<li><a href=\"https://laravel-news.com/custom-exception-reporting\">Laravel 5.5 custom exception reporting</a></li>\n<li><a href=\"http://rosstuck.com/formatting-exception-messages/\">Formatting exception messages</a> by <a href=\"https://twitter.com/rosstuck\">Ross Tuck</a></li>\n<li><a href=\"https://laravel-news.com/phpunit-phpstorm\">Quickly run PHPUnit tests in PhpStorm</a></li>\n<li><a href=\"https://laravel-news.com/forge-alfred-app\">Manage your Laravel sites and servers through Alfred</a></li>\n<li><a href=\"https://www.alfredapp.com\">Alfred App</a></li>\n<li><a href=\"https://laravel-news.com/jigsaw-v1\">The static site generator Jigsaw launched v1.0</a></li>\n</ul>\n\n",
+      "summary": "Jake and Michael recap a relatively quiet period of change on the Laravel landscape, talking about 5.4 maintenance releases, upcoming features in Laravel 5.5, and some contributions from the community.\n",
+      "date_published": "2017-04-25 07:00:00 -0400",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/67151.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 25842137,
+        "duration_in_seconds": 1613
+      }
+    },
+    {
+      "id": "bd646d05-24ea-468d-bff9-e11f5c9d4c5a",
+      "title": "Interview with Mohamed Said, Laravel's First Employee",
+      "content_text": "Get to know Mohamed Said in his first ever interview where we discuss how he got into programming, being Laravel's first ever employee, what it's like working with Taylor Otwell.\n",
+      "content_html": "<p>Get to know <a href=\"https://twitter.com/themsaid\">Mohamed Said</a> in his first ever interview where we discuss how he got into programming, being Laravel's first ever employee, what it's like working with Taylor Otwell.</p>\n\n<p>You can read the <a href=\"https://laravel-news.com/podcast/35/transcript\">full episode transcript</a> which includes time markers and links.</p>\n\n<a name=\"Show.Sponsors\"></a>\n<h3>Show Sponsors</h3>\n\n<ul>\n<li><a href=\"https://eyewitness.io\">Eyewitness.io</a>, know how your applications are actually performing. Monitor your queues, schedulers/cron, email, logs, security, SSL, DNS and much more. Dead simple installation - be up and running in just 90 seconds...</li>\n</ul>\n\n\n<a name=\"Show.links\"></a>\n<h3>Show links</h3>\n\n<ul>\n<li><a href=\"https://laravel-news.com/render-mailables\">In Laravel 5.5 you can render mailables to the browser</a></li>\n<li><a href=\"https://laravel-news.com/email-themes\">Laravel 5.5 adds support for email themes in mailables</a></li>\n<li><a href=\"https://laravel-news.com/laravel-dusk-continuous-integration\">Running Dusk tests on Travis CI and CircleCI</a></li>\n<li><a href=\"https://laravel-news.com/laravel-5-4-17-is-released\">Laravel 5.4.17 is released</a></li>\n<li><a href=\"https://laravel-news.com/migrate-fresh\">Laravel migrate:fresh command</a></li>\n<li><a href=\"https://laravel-news.com/which-laravel-helper-do-you-use-for-your-urls\">Which Laravel helper do you use for your URLs?</a></li>\n<li><a href=\"https://laravel-news.com/laravel-forge-php-sdk\">Laravel Forge PHP SDK</a></li>\n</ul>\n\n\n<a name=\"Tutorials.and.packages\"></a>\n<h3>Tutorials and packages</h3>\n\n<ul>\n<li><a href=\"https://laravel-news.com/laravel-opcache-package\">Laravel OPcache package</a></li>\n<li><a href=\"https://laravel-news.com/seeding-data-testing\">Introduction to seeding data in testing</a></li>\n<li><a href=\"https://laravel-news.com/cache-query-params\">Using Laravel's cache with query params</a></li>\n<li><a href=\"https://laravel-news.com/user-invitation-system\">Building a user invitation system with Laravel</a></li>\n</ul>\n\n",
+      "summary": "Get to know Mohamed Said in his first ever interview where we discuss how he got into programming, being Laravel's first ever employee, what it's like working with Taylor Otwell.\n",
+      "date_published": "2017-04-12 08:00:00 -0400",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/65895.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 55251810,
+        "duration_in_seconds": 3452
+      }
+    },
+    {
+      "id": "f774eb7c-5da5-4d71-9305-b1b839ab5cd7",
+      "title": "Forge updates, Ubuntu DNS issues, and PhpStorm 2017.1",
+      "content_text": "Jake and Michael discuss the new Laravel announcements publication, Ubuntu DNS issues, using environment variables in your .env file, and PhpStorm 2017.1\n",
+      "content_html": "<p>Jake and Michael discuss the new Laravel announcements publication, Ubuntu DNS issues, using environment variables in your .env file, and PhpStorm 2017.1</p>\n\n<p>You can read the <a href=\"https://laravel-news.com/podcast/34/transcript\">full episode transcript</a> which includes time markers and links.</p>\n\n<a name=\"Show.Links\"></a>\n<h3>Show Links</h3>\n\n<ul>\n<li><a href=\"https://laravel-news.com/you-can-now-follow-laravel-release-announcements-from-medium\">You can now follow Laravel release announcements from Medium</a></li>\n<li><a href=\"https://twitter.com/taylorotwell/status/845022090109599745\">Laravel 5.5 to be the easiest upgrade ever</a></li>\n<li><a href=\"https://laravel-news.com/vendorpublish\">vendor:publish gets a provider prompt</a></li>\n<li><a href=\"https://github.com/laracasts/flash\">laracasts/flash</a></li>\n<li><a href=\"https://laravel-news.com/laravel-artisan-autocomplete-with-oh-my-zsh\">zsh autocompletion for Laravel</a></li>\n<li><a href=\"https://laravel-news.com/laravellive-india\">LaravelLive India</a></li>\n<li><a href=\"https://laravel-news.com/laracon-online-feedback\">Laracon Online feedback</a></li>\n<li><a href=\"https://laravel-news.com/dns-resolver-issue\">Ubuntu DNS issues</a></li>\n<li><a href=\"https://laravel-news.com/using-variables-in-your-env-file\">Using variables in your .env file</a></li>\n<li><a href=\"https://laravel-news.com/phpstorm-2017-1\">Improved Blade support in PhpStorm 2017.1</a></li>\n<li><a href=\"https://www.jetbrains.com/phpstorm/whatsnew/\">What's new in PhpStorm 2017.1</a></li>\n<li><a href=\"https://laracasts.com/series/how-to-be-awesome-in-phpstorm\">Be awesome in PhpStorm</a></li>\n</ul>\n\n",
+      "summary": "Jake and Michael discuss the new Laravel announcements publication, Ubuntu DNS issues, using environment variables in your .env file, and PhpStorm 2017.1\n",
+      "date_published": "2017-03-28 08:00:00 -0400",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/64255.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 33549892,
+        "duration_in_seconds": 2095
+      }
+    },
+    {
+      "id": "b0863961-dfd9-46a0-8069-61d28afcaa29",
+      "title": "Recapping Laracon Online 2017",
+      "content_text": "Jake and Michael recap the inaugural Laracon Online and go over all the latest from the Laravel Community.\n",
+      "content_html": "<p>Jake and Michael recap the inaugural Laracon Online and go over all the latest from the Laravel Community.</p>\n\n<p>You can read the <a href=\"https://laravel-news.com/podcast/33/transcript\">full episode transcript</a> which includes time markers and links.</p>\n\n<a name=\"Show.Links\"></a>\n<h3>Show Links</h3>\n\n<ul>\n<li><a href=\"https://laravel-news.com/laracon-online-2017-recap\">Laracon Online 2017 Recap</a></li>\n<li><a href=\"https://aneventapart.com/news/post/designing-for-people\">Eric Meyer at An Event Apart</a></li>\n<li><a href=\"https://blog.tighten.co/q-and-a-with-the-speakers-from-laracon-online-2017\">Q&amp;A with speakers from laracon Online 2017</a></li>\n<li><a href=\"https://medium.com/@taylorotwell/how-i-work-a22010d1ad82#.8h17c78nu\">How I Work</a> by <a href=\"https://twitter.com/taylorotwell\">Taylor Otwell</a></li>\n<li><a href=\"https://www.kickstarter.com/projects/antsylabs/fidget-cube-a-vinyl-desk-toy\">Fidget Cube</a></li>\n<li><a href=\"https://twitter.com/ianlandsman/status/840228975783886848\">No ongoing sales of Laracon Online 2017 tickets/videos</a></li>\n<li><a href=\"https://laravel-news.com/subfolder-install\">Installing Laravel in a subfolder? Hide your .env file</a></li>\n<li><a href=\"https://laravel-news.com/testing-file-uploads-with-laravel\">Testing file uploads with Laravel</a></li>\n<li><a href=\"https://laravel-news.com/amazon-releases-a-summary-of-the-recent-s3-outage\">Amazon releases a summary of the recent S3 outage</a></li>\n<li><a href=\"https://laravel-news.com/countries-and-currencies\">Laravel countries and currencies package</a></li>\n<li><a href=\"https://laravel-news.com/blade-includewhen-directive\">Blade @includeWhen directive</a></li>\n<li><a href=\"https://laravel-news.com/laravel-forge-api\">Laravel Forge API</a></li>\n<li><a href=\"https://twitter.com/janostlund/status/839921238038437889\">F-Bar</a> by <a href=\"https://twitter.com/janostlund\">Jan Östlund</a></li>\n<li><a href=\"https://laravel-news.com/homestead-v5\">Homestead v5 is released</a></li>\n</ul>\n\n",
+      "summary": "Jake and Michael recap the inaugural Laracon Online and go over all the latest from the Laravel Community.\n",
+      "date_published": "2017-03-14 08:00:00 -0400",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/62441.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 29052040,
+        "duration_in_seconds": 1814
+      }
+    },
+    {
+      "id": "db8e554b-21b3-4b12-a351-6167496f96df",
+      "title": "Laravel Shift with Jason McCreary",
+      "content_text": "Jake and Michael speak with Jason McCreary about Laravel Shift, LTS software, and getting git.\n",
+      "content_html": "<p>Jake and Michael speak with Jason McCreary about Laravel Shift, LTS software, and getting git.</p>\n\n<p><strong>Guest Starring</strong>: <a href=\"https://twitter.com/gonedark\">Jason McCreary</a></p>\n\n<p>You can read the <a href=\"https://laravel-news.com/podcast/32/transcript\">full episode transcript</a> which includes time markers and links.</p>\n\n<a name=\"Show.links\"></a>\n<h3>Show links</h3>\n\n<ul>\n<li><a href=\"https://streamacon.com/video/laracon-us/jason-mccreary-yagni-with-laravel\">YAGNI with Laravel</a></li>\n<li><a href=\"https://laravelshift.com/\">Laravel Shift</a></li>\n<li><a href=\"https://php-shift.com/\">PHP Shift</a></li>\n<li><a href=\"https://jason.pureconcepts.net/2017/01/shift-developer-platform/\">Shift developer platform</a></li>\n<li><a href=\"https://laravel-news.com/laravel-5-5-lts\">Laravel 5.5 will be LTS</a></li>\n<li><a href=\"https://medium.com/@jasonmccreary/laravel-lts-is-a-trap-97b1d1103961\">LTS is a trap</a></li>\n<li><a href=\"https://twitter.com/gonedark/status/834413096269656064\">Just memorize these commands</a></li>\n<li><a href=\"https://gettinggit.com\">Getting Git</a></li>\n<li><a href=\"https://laravel-news.com/laracon-online-last-day-for-early-bird\">Laracon Online conference swag</a></li>\n<li><a href=\"https://laravel-news.com/blade-prepend\">Blade @prepend directive</a></li>\n<li><a href=\"https://laravel-news.com/laravel-collections-when-method\">Collection 'when' method</a></li>\n<li><a href=\"https://twitter.com/tomschlick\">Tom Schlick</a></li>\n<li><a href=\"https://laravel-news.com/stripe-elements\">Stripe Elements</a></li>\n<li><a href=\"https://laravel-news.com/stripe-tokens-for-testing\">Stripe test tokens</a></li>\n<li><a href=\"https://laravel-news.com/cloudflare-has-been-leaking-custom-https-sessions\">Cloudflare HTTPS leaks</a></li>\n<li><a href=\"https://laravel-news.com/its-okay-to-be-unavailable\">No really, it's ok to be unavailable</a></li>\n<li><a href=\"http://calnewport.com/books/deep-work/\">Deep Work</a></li>\n<li><a href=\"https://kapeli.com/dash\">Dash</a></li>\n<li><a href=\"http://devdocs.io/\">DevDocs</a> (not read the docs, sorry!)</li>\n</ul>\n\n",
+      "summary": "Jake and Michael speak with Jason McCreary about Laravel Shift, LTS software, and getting git.\n",
+      "date_published": "2017-02-28 08:00:00 -0500",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/61192.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 45281877,
+        "duration_in_seconds": 2828
+      }
+    },
+    {
+      "id": "ddb8c374-34c4-495b-a6f6-a4e78d5c544c",
+      "title": "Laracon Online with Ian Landsman",
+      "content_text": "In this episode, Jacob and Michael are joined by Ian Landsman to discuss the exciting new conference venture Laracon Online.\n",
+      "content_html": "<p>In this episode, Jacob and Michael are joined by Ian Landsman to discuss the exciting new conference venture Laracon Online.</p>\n\n<p><strong>Guest Starring</strong>: <a href=\"https://twitter.com/ianlandsman\">Ian Landsman</a></p>\n\n<p>You can read the <a href=\"https://laravel-news.com/podcast/31/transcript\">full episode transcript</a> which includes time markers and links.</p>\n\n<a name=\"Show.links\"></a>\n<h3>Show links</h3>\n\n<ul>\n<li><a href=\"https://userscape.com/\">UserScape</a></li>\n<li><a href=\"https://www.helpspot.com/\">HelpSpot</a></li>\n<li><a href=\"http://zurb.com/forrst/posts/Laravel_A_Classy_New_PHP_Framework_RESTful-Yb2\">Announcing Laravel</a></li>\n<li><a href=\"https://laracon.net/\">Laracon Online</a></li>\n<li><a href=\"https://www.gotomeeting.com/webinar\">Webinar</a></li>\n<li><a href=\"https://zoom.us/webinar\">Zoom</a></li>\n<li><a href=\"https://grabaperch.com/\">Perch CMS</a></li>\n<li><a href=\"https://twitter.com/LaraconOnline/status/828718800300158976\">Free .co domain to the first 20,000 attendees</a></li>\n<li><a href=\"https://twitter.com/laravelphp/status/827155912821456896\">New Forge UI</a> (<a href=\"https://forge.laravel.com\">Laravel Forge</a>)</li>\n<li><a href=\"https://laravel-news.com/github-topics\">Find Laravel code and packages with GitHub's new topics feature</a></li>\n<li><a href=\"https://medium.com/@jordonbrill/manage-custom-vm-with-laravel-forge-dc4c3218e415\">Manage custom VM with Laravel Forge</a></li>\n<li><a href=\"https://laravel-news.com/php-56-no-longer-supported\">PHP 5.6 is no longer actively supported</a></li>\n<li><a href=\"https://laravel-news.com/php-7-2-deprecations\">Deprecations for PHP 7.2</a></li>\n<li><a href=\"https://laravel-news.com/homestead-now-includes-mailhog\">Homestead now includes MailHog</a> (<a href=\"https://github.com/mailhog/MailHog\">MailHog</a>)</li>\n<li><a href=\"https://twitter.com/adamwathan/status/829423543985307661\">Using Request::intersect() to simplify partial model updates</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Jacob and Michael are joined by Ian Landsman to discuss the exciting new conference venture Laracon Online.\n",
+      "date_published": "2017-02-14 10:00:00 -0500",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/60268.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 50337224,
+        "duration_in_seconds": 3141
+      }
+    },
+    {
+      "id": "9d9094ae-e273-4bae-9797-93211198dbd0",
+      "title": "Laravel 5.4 with Taylor Otwell",
+      "content_text": "Jake and Michael take the reigns for their very first Laravel News podcast with a bang, tackling all the big new features in the just-released Laravel 5.4, with the help of Taylor Otwell.\n",
+      "content_html": "<p>Jake and Michael take the reigns for their very first Laravel News podcast with a bang, tackling all the big new features in the just-released Laravel 5.4, with the help of Taylor Otwell.</p>\n\n<p><strong>Guest Starring</strong>: <a href=\"https://twitter.com/taylorotwell\">Taylor Otwell</a></p>\n\n<p>You can read the <a href=\"https://laravel-news.com/podcast/30/transcript\">full episode transcript</a> which includes time markers and links.</p>\n\n<a name=\"Show.Links\"></a>\n<h3>Show Links</h3>\n\n<ul>\n<li><a href=\"https://laravel.com/docs/5.4/passport\">Laravel Passport</a></li>\n<li><a href=\"https://laravel.com/docs/5.3/broadcasting#installing-laravel-echo\">Laravel Echo</a></li>\n<li><a href=\"https://laravel.com/docs/5.4/dusk\">Laravel Dusk</a></li>\n<li><a href=\"https://github.com/tightenco/mailthief\">MailThief</a></li>\n<li><a href=\"https://medium.com/@taylorotwell/laravel-lawns-bca94903d814#.66yjgspr6\">Laravel &amp; Lawns</a></li>\n<li><a href=\"https://github.com/laravel/tinker\">Laravel Tinker</a> (<a href=\"https://github.com/laravel/framework/pull/17002\">PR</a> extracting it to its own package)</li>\n<li><a href=\"http://psysh.org/\">PsySH</a></li>\n<li><a href=\"https://twitter.com/LaraconUS/status/825054544333778948\">Laracon US is sold out</a></li>\n<li><a href=\"https://laravel-news.com/laravel-5-4-key-too-long-error\">Specified key to long error</a></li>\n<li><a href=\"https://laravel-news.com/laravel-5-4-middleware\">Two new middleware</a></li>\n<li><a href=\"https://laravel-news.com/automatic-facades\">Automatic facades</a></li>\n<li><a href=\"https://laravel-news.com/laravel-elixir-to-laravel-mix\">Laravel Elixir will be renamed to Laravel Mix</a></li>\n<li><a href=\"https://twitter.com/jeffrey_way/status/822559352456364034\">Incompatibilities with Mix and Yarn</a></li>\n<li><a href=\"https://laravel-news.com/laravel-markdown-emails\">Use markdown in your emails</a> (<a href=\"https://laravel.com/docs/5.4/mail#markdown-mailables\">Docs</a>)</li>\n<li><a href=\"https://laravel-news.com/route-improvements\">Route improvements</a></li>\n<li><a href=\"https://laravel-news.com/json-based-translations\">JSON-based language files</a> (<a href=\"https://laravel.com/docs/5.4/localization#using-translation-strings-as-keys\">Docs</a>)</li>\n<li><a href=\"https://laravel-news.com/blade-components-slots\">Blade components and slots</a> (<a href=\"https://laravel.com/docs/5.4/blade#components-and-slots\">Docs</a>)</li>\n<li><a href=\"https://laravel-news.com/higher-order-messaging\">Higher-order messaging for collections</a> (<a href=\"https://laravel.com/docs/5.4/collections#higher-order-messages\">Docs</a>)</li>\n<li><a href=\"https://laravel-news.com/laravel-dusk-is-coming\">Laravel Dusk is coming</a> (<a href=\"https://laravel.com/docs/5.4/dusk\">Docs</a>)</li>\n<li><a href=\"https://github.com/laravel/framework/blob/5.4/CHANGELOG-5.4.md\">Complete Laravel 5.4 changelog</a></li>\n</ul>\n\n",
+      "summary": "Jake and Michael take the reigns for their very first Laravel News podcast with a bang, tackling all the big new features in the just-released Laravel 5.4, with the help of Taylor Otwell.\n",
+      "date_published": "2017-01-31 08:20:00 -0500",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/58219.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 55960894,
+        "duration_in_seconds": 3494
+      }
+    },
+    {
+      "id": "f48cc040-2062-46e1-b342-10967899afc1",
+      "title": "Welcome Jacob Bennett and Michael Dyrynda as the new hosts",
+      "content_text": "In this episode, we welcome the new hosts of the podcast.\n",
+      "content_html": "<p>Jacob Bennett and Michael Dyrynda will be taking over as hosts of the show going forward and this episode is a farewell from Jack and Eric and introductions of Jake and Michael.</p>\n\n<p>Apologies in advance for the audio on Eric's end. He had his computer set to use the wrong mic.</p>\n",
+      "summary": "In this episode, we welcome the new hosts of the podcast.\n",
+      "date_published": "2017-01-17 11:00:00 -0500",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/57708.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 43312690,
+        "duration_in_seconds": 2703
+      }
+    },
+    {
+      "id": "03d7fb0c-e586-4eb8-a793-fcdccb12b143",
+      "title": "Laravel 5.3.18, Yarn, Leanpub, and more. ",
+      "content_text": "In this episode, we discuss Yarn, Facebook's new JavaScript package manger, the new Laravel Links section, and lots of other random topics.\n",
+      "content_html": "<p>In this episode, we discuss Yarn, Facebook's new JavaScript package manger, the new Laravel Links section, and lots of other random topics.</p>\n\n<p>This is our last podcast episode for 2016 and we will be taking a break until next year.</p>\n\n<a name=\"Show.Links\"></a>\n<h3>Show Links</h3>\n\n<ul>\n<li><a href=\"https://laravel-news.com/2016/10/unique-and-exists-validation/\">Laravel 5.3.18</a></li>\n<li><a href=\"https://laravel-news.com/2016/10/laravel-links/\">New Laravel Links</a></li>\n<li><a href=\"https://laravel-news.com/2016/10/facebook-yarn/\">Yarn</a></li>\n<li><a href=\"https://laravel-news.com/2016/10/leanpub-announces-a-new-pricing-model/\">Leanpub announces a new pricing model</a></li>\n<li><a href=\"http://marked2app.com/\">Marked2</a> and <a href=\"https://ulyssesapp.com/\">Ulysses</a></li>\n<li><a href=\"https://dotdev.co/dealing-with-case-sensitivity-related-errors-in-web-development-509a442e6d96#.us301950d\">Case sensitive file systems and web development</a></li>\n<li><a href=\"https://github.com/PowerShell/PowerShell\">Powershell for mac/linux</a></li>\n<li>Book: <a href=\"http://amzn.to/2elIbIy\">A Mind for Numbers</a> by Barbara Oakley</li>\n</ul>\n\n",
+      "summary": "In this episode, we discuss Yarn, Facebook's new JavaScript package manger, the new Laravel Links section, and lots of other random topics.\n",
+      "date_published": "2016-10-18 10:00:00 -0400",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/49868.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 31867638,
+        "duration_in_seconds": 1987
+      }
+    },
+    {
+      "id": "dcee9e8e-1add-43e9-bcc8-00c0a6c7273d",
+      "title": "Computer Vision Syndrome, Hacktoberfest, Laravel Valet",
+      "content_text": "In this epsiode, we talk about Computer Vision Syndrome, making the front page of Hacker News, troubleshooting Valet, and more.\n",
+      "content_html": "<p>In this epsiode, we talk about Computer Vision Syndrome, making the front page of Hacker News, troubleshooting Valet, and more.</p>\n\n<a name=\"Show.Links\"></a>\n<h3>Show Links</h3>\n\n<ul>\n<li><a href=\"https://laravel-news.com/2016/09/hacktoberfest-2016/\">Hacktoberfest</a></li>\n<li><a href=\"https://laravel-news.com/2016/09/computer-vision-syndrome/\">Computer vision Syndrome</a></li>\n<li><a href=\"https://www.cloudflare.com/\">Cloudflare</a></li>\n<li><a href=\"https://laravel-news.com/2016/09/troubleshooting-laravel-valet-on-macos-sierra/\">Troubleshooting Valet on macOS</a></li>\n<li><a href=\"https://www.mamp.info\">MAMP 4.0</a></li>\n<li><a href=\"https://www.factorio.com/\">factorio</a> and <a href=\"http://www.madskillsmx.com/\">MadSkillsMx</a></li>\n</ul>\n\n",
+      "summary": "In this epsiode, we talk about Computer Vision Syndrome, making the front page of Hacker News, troubleshooting Valet, and more.\n",
+      "date_published": "2016-10-04 10:00:00 -0400",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/48859.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 28090651,
+        "duration_in_seconds": 1751
+      }
+    },
+    {
+      "id": "7aee8239-04e2-48cb-84ed-43a87aa6a5a8",
+      "title": "Laravel 5.3.8, Spark 2, Lumen 5.3 and more!",
+      "content_text": "In this week's episode, we discuss the new Laravel 5.3.8, briefly cover Spark 2 &amp; Lumen 5.3, and talk a lot about our progression of code editors.\n",
+      "content_html": "<p>In this week's episode, we discuss the new Laravel 5.3.8, briefly cover Spark 2 &amp; Lumen 5.3, and talk a lot about our progression of code editors.</p>\n\n<a name=\"Show.Links\"></a>\n<h3>Show Links</h3>\n\n<ul>\n<li><a href=\"https://laravel-news.com/2016/09/spark-v2/\">Spark v2</a></li>\n<li><a href=\"https://laravel-news.com/2016/09/lumen-5-3-is-released/\">Lumen 5.3</a></li>\n<li><a href=\"https://laravel-news.com/2016/09/laravel-5-3-8-is-released-with-new-fakes-for-events-jobs-mail-and-notifications/\">Laravel 5.3.8</a></li>\n<li><a href=\"https://laravel-news.com/2016/09/vim-8-0-is-released/\">Vim 8.0</a></li>\n<li><a href=\"https://laravel-news.com/2016/09/gitlab-raises-an-additional-20-million-and-announces-their-master-plan/\">GitLab raises $20 million</a></li>\n</ul>\n\n",
+      "summary": "In this week's episode, we discuss the new Laravel 5.3.8, briefly cover Spark 2 & Lumen 5.3, and talk a lot about our progression of code editors.\n",
+      "date_published": "2016-09-20 10:00:00 -0400",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/47399.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 24978299,
+        "duration_in_seconds": 1557
+      }
+    },
+    {
+      "id": "deab4231-382d-4272-8c74-e36af84e11fb",
+      "title": "Laravel 5.3 and Shift with Taylor Otwell and Jason McCreary",
+      "content_text": "LN25: In this episode, we are joined by Taylor Otwell and Jason McCreary to discuss Laravel 5.3 and Laravel Shift.\n",
+      "content_html": "<p>In this episode, we are joined by Taylor Otwell and Jason McCreary to discuss Laravel 5.3, Laravel's first hire, and Laravel Shift.</p>\n\n<p><strong>Guest Staring</strong>: <a href=\"https://twitter.com/taylorotwell\">Taylor Otwell</a> and <a href=\"https://twitter.com/gonedark\">Json McCreary</a></p>\n\n<p>The episode of the Laravel News Podcast is sponsored by <a href=\"https://goshippo.com/?utm_source=laravel-news&amp;utm_medium=podcast&amp;utm_campaign=laravel-news\">Shippo</a>, the API and dashboard for all your shipping needs.</p>\n\n<a name=\"Show.Links\"></a>\n<h3>Show Links</h3>\n\n<ul>\n<li><a href=\"https://twitter.com/taylorotwell\">Taylor Otwell</a></li>\n<li><a href=\"https://twitter.com/gonedark\">Json McCreary</a></li>\n<li><a href=\"https://twitter.com/themsaid\">Mohamed Said</a></li>\n<li><a href=\"https://laravel-news.com/2016/08/laravel-5-3-is-now-released/\">Laravel 5.3</a></li>\n<li><a href=\"https://forge.laravel.com/\">Laravel Forge</a></li>\n<li><a href=\"https://laravelshift.com/\">Laravel Shift</a></li>\n<li><a href=\"https://laravel-news.com/2016/08/upgrading-with-laravel-shift/\">Upgrading with Laravel Shift</a></li>\n<li><a href=\"https://laravel-news.com/2016/08/laravel-passport/\">Laravel Passport</a></li>\n</ul>\n\n",
+      "summary": "LN25: In this episode, we are joined by Taylor Otwell and Jason McCreary to discuss Laravel 5.3 and Laravel Shift.\n",
+      "date_published": "2016-09-06 10:00:00 -0400",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/46169.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 26535097,
+        "duration_in_seconds": 1654
+      }
+    },
+    {
+      "id": "0e402199-8530-49d4-80ab-ee86bf87c9e5",
+      "title": "Laracon EU Special Edition",
+      "content_text": "LN24: Eric and Jack talk with Shawn McCool and Freek Van der Herten about Laracon EU 2016!\n",
+      "content_html": "<p>This week we are joined by Shawn McCool and Freek Van der Herten to talk about <a href=\"http://laracon.eu\">LaraconEU</a> happening next. This episode is sponsored by <a href=\"https://goshippo.com\">Shippo</a> - If you are shipping products Shippo will save you a ton of time.</p>\n\n<a name=\"Show.Links\"></a>\n<h2>Show Links</h2>\n\n<ul>\n<li><a href=\"http://shawnmc.cool\">Shawn McCool</a></li>\n<li><a href=\"http://spatie.be/\">SPATIE</a></li>\n<li><a href=\"https://spatie.be/en/opensource/laravel\">SPATIE's Laravel Packages</a></li>\n<li><a href=\"https://murze.be/\">Freek's Blog</a></li>\n<li><a href=\"https://laravel-news.com/2016/08/laracon-eu-interview-with-speaker-freek-van-der-herten/\">Interview with Freek about his talk</a></li>\n<li><a href=\"https://laravel-news.com/2016/08/gearing-laracon-eu/\">Gearing up for Laracon.eu</a></li>\n</ul>\n\n",
+      "summary": "LN24: Eric and Jack talk with Shawn McCool and Freek Van der Herten about Laracon EU 2016!\n",
+      "date_published": "2016-08-19 10:05:00 -0400",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/44912.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 41296614,
+        "duration_in_seconds": 2577
+      }
+    },
+    {
+      "id": "5137c4e2-37d8-4366-9e89-5414603584bd",
+      "title": "The Laracon US Recap Episode",
+      "content_text": "LN23: In this episode, we talk about last weeks Laracon, some of our favorite talks, and the new Laravel News.\n",
+      "content_html": "<p>In this episode, we talk about last weeks Laracon, some of our favorite talks, and the new Laravel News.</p>\n\n<p><strong>Show links:</strong></p>\n\n<ul>\n<li><a href=\"https://laravel-news.com/2016/08/video-taylor-otwell-covering-new-features-laravel-5-3/\">Video: Taylor Otwell covering new features for Laravel 5.3</a></li>\n<li><a href=\"https://laravel-news.com/2016/08/laracon-us-2016-recap/\">Laracon US 2016 Recap</a> - <em>Includes links to all the slides</em></li>\n<li><a href=\"https://laravel-news.com/2016/08/welcome-to-the-next-version-of-laravel-news/\">The new Laravel News</a></li>\n<li><a href=\"https://laravel-news.com/2016/06/look-whats-coming-laravel-5-3/\">Laravel 5.3</a></li>\n</ul>\n\n",
+      "summary": "LN23: In this episode, we talk about last weeks Laracon, some of our favorite talks, and the new Laravel News.\n",
+      "date_published": "2016-08-09 12:30:00 -0400",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/44171.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 44455473,
+        "duration_in_seconds": 2770
+      }
+    },
+    {
+      "id": "5e761521-6961-4815-81ef-0e06f53c7c6b",
+      "title": "The Laracon US 2016 Special With Taylor Otwell, Evan You, Chris Fidao, and Adam Wathan",
+      "content_text": "LN22: A special \"Laracon\" edition of the podcast. In this episode, we chat with Taylor Otwell, Evan You, Adam Wathan, and Chris Fidao about their talks at Laracon, projects they're working on, getting the most out of the conference and more.\n",
+      "content_html": "<p>A special \"Laracon\" edition of the podcast.</p>\n\n<p>In this episode, we chat with Taylor Otwell, Evan You, Adam Wathan, and Chris Fidao about their talks at Laracon, projects they're working on, getting the most out of the conference and more. There's great stuff here, even if you're not attending!</p>\n\n<a name=\"Show.Links:\"></a>\n<h3>Show Links:</h3>\n\n<ul>\n<li><a href=\"http://laracon.us/\">Laracon.us</a></li>\n<li><a href=\"https://forge.laravel.com/\">Forge</a></li>\n<li><a href=\"https://spark.laravel.com/\">Spark</a></li>\n<li><a href=\"https://envoyer.io/\">Envoyer</a></li>\n<li><a href=\"https://adamwathan.me/refactoring-to-collections/\">Adam's refactoring book</a></li>\n<li><a href=\"http://vue.js\">Vue.js</a></li>\n<li><a href=\"https://www.patreon.com/evanyou\">Support Evan You on Patreon</a></li>\n<li><a href=\"https://book.serversforhackers.com/\">Chris's Servers For Hackers book</a></li>\n</ul>\n\n",
+      "summary": "LN22: A special \"Laracon\" edition of the podcast. In this episode, we chat with Taylor Otwell, Evan You, Adam Wathan, and Chris Fidao about their talks at Laracon, projects they're working on, getting the most out of the conference and more.\n",
+      "date_published": "2016-07-25 01:00:00 -0400",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/43091.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 70615094,
+        "duration_in_seconds": 4405
+      }
+    },
+    {
+      "id": "e91f7311-932a-406b-8615-829833d18b83",
+      "title": "Laracon, Laravel 5.3 Advanced Where, October CMS, Canvas",
+      "content_text": "LN21: In this episode, we discuss Laracon Live Streaming, the new advanced where for Collections, and a few new apps and packages. We also talk about using named functions in places where anonymous functions are often used.\n",
+      "content_html": "<p>In this episode, we discuss Laracon Live Streaming, the new advanced <code>where</code> for Collections, and a few new apps and packages.</p>\n\n<p><strong>Show Links</strong></p>\n\n<ul>\n<li><a href=\"https://laravel.com/docs/5.2/helpers\">Laravel Helper Functions</a></li>\n<li><a href=\"https://github.com/laravel/framework/blob/master/src/Illuminate/Support/Collection.php#L214-L260\">Advanced Where in Collections</a></li>\n<li><a href=\"https://github.com/unicodeveloper/laravel-password\">Laravel Password</a></li>\n<li><a href=\"https://laravel-news.com/2016/07/october-cms-stable/\">October CMS releases their first stable version</a></li>\n<li><a href=\"https://laravel-news.com/2016/07/canvas-new-minimal-blogging-app/\">Canvas a minimal blogging app</a></li>\n<li><a href=\"http://larachat.slackarchive.io/\">Larachat Archive</a></li>\n<li><a href=\"http://php.net/manual/en/language.types.callable.php\">Use 'regular' functions where you would normally use an Anonymous function</a></li>\n<li><a href=\"https://dotdev.co/using-non-anonymous-functions-where-you-would-normally-use-anonymous-functions-b950f65545c4#.uepmjjxf5\">Jacks article on Anonymous Functions on dotdev.co</a></li>\n</ul>\n\n",
+      "summary": "LN21: In this episode, we discuss Laracon Live Streaming, the new advanced where for Collections, and a few new apps and packages. We also talk about using named functions in places where anonymous functions are often used.\n",
+      "date_published": "2016-07-12 11:54:00 -0400",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/41860.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 15941907,
+        "duration_in_seconds": 988
+      }
+    },
+    {
+      "id": "dab9824a-efbb-4c8f-a3ba-d56eebac4074",
+      "title": "Refactoring to Collections with Adam Wathan",
+      "content_text": "LN20: In this week's Laravel News podcast we have Adam Wathan on to talk about his book Refactoring to Collections and a new package MailThief.\n",
+      "content_html": "<p>In this week's Laravel News podcast we have Adam Wathan on to talk about his book <em>Refactoring to Collections</em> and a new package MailThief.</p>\n\n<a name=\"Show.Links\"></a>\n<h3>Show Links</h3>\n\n<ul>\n<li><a href=\"http://adamwathan.me/refactoring-to-collections/\">Refactoring with Collections</a></li>\n<li><a href=\"https://github.com/tightenco/mailthief\">Mailthief</a></li>\n<li><a href=\"http://www.fullstackradio.com/\">Full Stack Radio</a></li>\n</ul>\n\n\n<p>Super Secret Discount Code save 25% off <a href=\"http://adamwathan.me/refactoring-to-collections/\">Refactoring with Collections</a> with the code: <em>laravelnews</em></p>\n",
+      "summary": "LN20: In this week's Laravel News podcast we have Adam Wathan on to talk about his book Refactoring to Collections and a new package MailThief.\n",
+      "date_published": "2016-06-28 10:00:00 -0400",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/40698.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 29395567,
+        "duration_in_seconds": 1829
+      }
+    },
+    {
+      "id": "6c3f7119-83aa-4689-957b-f66d89272b37",
+      "title": "A look at what's coming to Laravel 5.3",
+      "content_text": "LN19: A look at what's coming to Laravel 5.3\n",
+      "content_html": "<ul>\n<li><a href=\"https://laravel-news.com/2016/06/look-whats-coming-laravel-5-3/\">A look at what's coming to Laravel 5.3</a></li>\n<li><a href=\"https://laravel-news.com/2016/06/building-status-board-using-laravel-vue/\">Building a Status Board using Laravel and Vue</a></li>\n<li><a href=\"https://github.com/robbyrussell/oh-my-zsh\">Oh my zsh</a></li>\n<li><a href=\"https://github.com/molteber/puz-autoembed\">Auto embed email package</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=PrMyQeI2Dpk\">Using Webmin admin console</a> (youtube video by Roy Verrips)</li>\n</ul>\n\n\n<a name=\"Tip.of.the.day:\"></a>\n<h3>Tip of the day:</h3>\n\n<p>Make the CD command case insensitive by adding the following to your <code>~/.inputrc</code> file:</p>\n\n<pre><code>set completion-ignore-case on\n</code></pre>\n\n<p>As seen in the free book: <a href=\"https://leanpub.com/workingwithforgeservers\">Working with Forge Servers</a></p>\n",
+      "summary": "LN19: A look at what's coming to Laravel 5.3\n",
+      "date_published": "2016-06-14 10:00:00 -0400",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/39214.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 34591255,
+        "duration_in_seconds": 2153
+      }
+    },
+    {
+      "id": "f8bf415e-51ed-404f-b26b-96d77a38acee",
+      "title": "Jack reads the news",
+      "content_text": "LN18: Jack reads the Laravel related news this week.\n",
+      "content_html": "<p>Jack reads the laravel related news this week.\nEric is off this week.</p>\n\n<p>All the news from issue 105 of the Laravel-News.com newsletter.</p>\n\n<ul>\n<li>Laravel is turning 5</li>\n<li>Original \"Introducing Laravel\" post from Taylor</li>\n<li>New Spark Tutorial added this week.</li>\n<li>Several new articles on dotdev.co on using git for Branching, merging and rebasing (great articles)</li>\n<li>Several articles on using view Composers</li>\n<li>Contract testing</li>\n<li>Multiple Migrations Paths coming in Laravel 5.3</li>\n<li>Cascading softdeletes with Laravel 5 (package)</li>\n<li>Scaffolding with custom commands by Amo Chohan</li>\n<li>Laravel API generator</li>\n<li>Laravel Docusign</li>\n<li>Request rate limiter middleware for Laravel 5.2+</li>\n</ul>\n\n",
+      "summary": "LN18: Jack reads the Laravel related news this week.\n",
+      "date_published": "2016-05-31 15:00:00 -0400",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/38619.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 10474844,
+        "duration_in_seconds": 646
+      }
+    },
+    {
+      "id": "7841fec6-1c6b-4bfb-8521-2a19de4dae06",
+      "title": "Laravel Echo, Valet, and PHP-FIG implosion",
+      "content_text": "LN17: In this episode, we talk about Laravel Echo and new changes to Valet.\n",
+      "content_html": "<p>In this episode, we talk about Laravel Echo and new changes to Valet.</p>\n\n<p><strong>Show Links</strong></p>\n\n<ul>\n<li><a href=\"https://laravel-news.com/2016/05/echo-coming-laravel-5-3/\">Laravel Echo</a></li>\n<li><a href=\"https://laravel-news.com/2016/05/announcing-laravel-valet/\">Laravel Valet</a></li>\n<li><a href=\"https://www.reddit.com/r/PHP/comments/4iwx5s/the_phpfig_is_imploding/\">PHP-FIG is imploding</a></li>\n</ul>\n\n",
+      "summary": "LN17: In this episode, we talk about Laravel Echo and new changes to Valet.\n",
+      "date_published": "2016-05-17 14:00:00 -0400",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/37755.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 22106818,
+        "duration_in_seconds": 1373
+      }
+    },
+    {
+      "id": "fc8bab71-51bf-49c2-8791-fe86c4cae785",
+      "title": "Laravel Valet with Taylor Otwell and Adam Wathan",
+      "content_text": "LN16: Laravel Valet is a new high-speed development environment by Taylor Otwell and Adam Wathan.\n\nIn this special edition episode of the Laravel News Podcast Eric and Jack are Joined by Taylor and Adam as they discuss everything about Valet, how it came to be and the amazingly short time from idea to completed product. They talk about the internals, how it works, how external sharing works, the driver architecture and more.\n",
+      "content_html": "<p>Laravel Valet is a new high-speed development environment by Taylor Otwell and Adam Wathan.</p>\n\n<p>In this special edition episode of the Laravel News Podcast Eric and Jack are Joined by Taylor and Adam as they discuss everything about Valet, how it came to be and the amazingly short time from idea to completed product. They talk about the internals, how it works, how external sharing works, the driver architecture and more.</p>\n\n<p>An audio copy of the Official Valet Commerical is at the end of the episode</p>\n\n<a name=\"Show.Links\"></a>\n<h2>Show Links</h2>\n\n<ul>\n<li><a href=\"https://laravel-news.com/2016/05/announcing-laravel-valet/\">Valet Announcement</a></li>\n<li><a href=\"https://dotdev.co/laravel-valet-ab9e745dd6f0#.og5xmd2qw\">First look at Valet</a></li>\n<li><a href=\"http://themsaid.github.io/magic-behind-laravel-valet-20160506/\">The magic behind Valet</a></li>\n</ul>\n\n",
+      "summary": "LN16: Laravel Valet is a new high-speed development environment by Taylor Otwell and Adam Wathan.\n\nIn this special edition episode of the Laravel News Podcast Eric and Jack are Joined by Taylor and Adam as they discuss everything about Valet, how it came to be and the amazingly short time from idea to completed product. They talk about the internals, how it works, how external sharing works, the driver architecture and more.\n",
+      "date_published": "2016-05-07 11:30:00 -0400",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/37234.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 33908232,
+        "duration_in_seconds": 2111
+      }
+    },
+    {
+      "id": "7294d955-e5f0-4a2a-9586-34879519b30c",
+      "title": "Interview with Mike Bronner about his early experiences with Laravel Spark",
+      "content_text": "LN15: Jack reads the news and interviews Mike Bronner while Eric takes a much needed week off.\n",
+      "content_html": "<p>Jack reads the news and interviews Mike Bronner while Eric takes a much needed week off.</p>\n\n<ul>\n<li>Eric sent out his 100th episode of the Laravel News Newsletter!</li>\n<li>Interview with Mike Bronner (@mikebronner) who shares his experiences being one of the first users to get Spark into production.</li>\n<li>Mike talked about larachat live @larachatlive that meet Thursdays at 7pm CST</li>\n<li><a href=\"https://laravel-news.com/2016/04/vue-js-v2-announced/\">ViewJS 2.0</a></li>\n<li><a href=\"https://wiki.php.net/rfc/pipe-operator\">PHP RFC: Pipe operator</a></li>\n</ul>\n\n\n<a name=\"Book.updates:\"></a>\n<h3>Book updates:</h3>\n\n<ul>\n<li><a href=\"http://www.easylaravelbook.com/\">Easy Laravel 5 Book and companion Website</a></li>\n<li><a href=\"https://leanpub.com/laravel-5-for-beginners-laraboot\">Laravel 5.2 for beginners by Bill Keck</a></li>\n<li><a href=\"https://leanpub.com/codesmart\">CodeSmart by Dayle Rees</a></li>\n<li><a href=\"https://leanpub.com/workingwithforgeservers\">Working With Forge Servers</a>  -by Jack Fruh &amp; Friends</li>\n</ul>\n\n\n<a name=\"Tutorials:\"></a>\n<h3>Tutorials:</h3>\n\n<ul>\n<li><a href=\"https://medium.com/laravel-news/fake-localized-data-and-laravel-c4cdbecb2c31#.kp54s9ij0\">Generate Fake Localized data with laravel</a></li>\n<li><a href=\"https://laravel-news.com/2016/04/6408/?utm_campaign=Laravel%20News&amp;utm_medium=email&amp;utm_source=ln101\">Tweet Streaming With laravel by Daniel Abernathy</a></li>\n<li>Using SparkPost for Transactional emails with Laravel</li>\n<li><a href=\"http://maxbublik.com/blog/run-tests-inside-your-deploy-script\">Run tests inside your deploy script</a></li>\n<li><a href=\"https://laracasts.com/series/es6-cliffsnotes\">EcmaScript 6 Crash Course</a></li>\n<li><a href=\"http://themsaid.github.io/laravel-query-conditions-20160425/\">Conditionally adding to Laravel Query Builder</a></li>\n</ul>\n\n\n<a name=\"Packages:\"></a>\n<h3>Packages:</h3>\n\n<ul>\n<li><a href=\"https://github.com/Snowfire/Beautymail\">BeautyMail</a></li>\n<li><a href=\"http://labs.infyom.com/laravelgenerator/\">Laravel Generators</a></li>\n<li><a href=\"https://github.com/hootlex/laravel-friendships\">Laravel Friendships</a></li>\n<li><a href=\"https://benramsey.com/blog/2016/04/ramsey-uuid/\">UUID generator</a></li>\n<li><a href=\"https://github.com/spatie/laravel-newsletter\">Spatie Laravel Newsletter Package</a></li>\n</ul>\n\n",
+      "summary": "LN15: Jack reads the news and interviews Mike Bronner while Eric takes a much needed week off.\n",
+      "date_published": "2016-05-03 09:00:00 -0400",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/36951.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 25953845,
+        "duration_in_seconds": 1614
+      }
+    },
+    {
+      "id": "2c062e95-c762-49e5-a072-ea46939d2ef4",
+      "title": "Laravel Spark with Taylor Otwell",
+      "content_text": "LN14: Laravel Spark is here and Taylor Otwell is here to talk about it!!!\n",
+      "content_html": "<p>This week Taylor Otwell joins us to talk all about Spark!</p>\n\n<p><strong>Show links:</strong></p>\n\n<ul>\n<li><a href=\"https://laravel-news.com/2016/04/spark-beta-now-available/\">Laravel Spark Beta</a></li>\n<li><a href=\"https://laravel-news.com/2016/04/composer-hits-1-0/\">Composer \"Gold\" Floppy sells for >$1400USD!</a></li>\n<li><a href=\"https://laravel-news.com/2016/04/laravel-cheat-sheet/\">Laravel Cheat Sheets</a>.</li>\n</ul>\n\n",
+      "summary": "LN14: Laravel Spark is here and Taylor Otwell is here to talk about it!!!\n",
+      "date_published": "2016-04-19 02:00:00 -0400",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/35615.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 39995395,
+        "duration_in_seconds": 2491
+      }
+    },
+    {
+      "id": "76ffa178-3014-4c07-84d8-8e0769053519",
+      "title": "Covering  a few community Laravel packages ",
+      "content_text": "LN13: Laravel Exception Reporter, Chrome Bandwidth limiter, Chrome extension to generate Laravel tests, Jigsaw, Helpspot Vault, Fixing MySql Memory, Sparkwatch, Taxes, Jack runs into a laravel problem that Eric helps with.\n",
+      "content_html": "<p>In this episode we talk about Laravel Exception Reporter, Chrome Bandwidth limiter, Chrome extension to generate Laravel tests, Jigsaw, Helpspot Vault, Fixing MySql Memory, Sparkwatch, Taxes, Jack runs into a laravel problem that Eric helps with.</p>\n\n<ul>\n<li>Spark breaking news</li>\n<li>3:15 Laravel Exception reporter - emails you anytime an exception is logged.</li>\n<li>5:30 Chrome bandwidth limiter for testing.</li>\n<li>7:10 Chrome extension to generate Laravel tests.</li>\n<li>9:55 Jigsaw</li>\n<li>13:20 Userscape helpspot Vault - an expiring way to send info.</li>\n<li>15:10 Dropbox - share a file for a week</li>\n<li>17:00 Mysql is still holding for Jack on 2gb,</li>\n<li>17:15 Laravel tweeted that Mysql might know the root cause.</li>\n<li>17:20 James Fairhurst wrote to tell us that Forge servers do not have swap files and it's just a few commands to add one.</li>\n<li>19:10 SparkWatch continues, Jack predicts the 100th day of the year. April 9th.</li>\n<li>22:00 taxes in the US - Jack and Eric chat about paying taxes on side work.</li>\n<li>33:15 Eric helps Jack through a laravel problem involving a complex query and how to get that into a blade template.</li>\n</ul>\n\n\n<a name=\"Show.links\"></a>\n<h3>Show links</h3>\n\n<ul>\n<li><a href=\"https://laravel-news.com/2016/03/add-laravel-unit-tests-directly-chrome/\">Chrome extension to generate tests</a></li>\n<li><a href=\"https://laravel-news.com/2016/03/laravel-exception-recorder-notifier-package/\">Exception Recorder</a></li>\n<li><a href=\"https://laravel-news.com/2016/04/laravel-static-site-generator/\">Jigsaw</a></li>\n<li><a href=\"https://dotdev.co/tools/send-text-securely-with-vault/\">Vault</a></li>\n<li><a href=\"https://medium.com/@james_fairhurst/using-laravel-forge-to-setup-an-aws-server-7da83f760a56\">Adding a swap file to a linux box</a></li>\n</ul>\n\n\n<p>PS (We don't say in the show what spark is, it's a starter project that has billing, invoicing, subscriptions, user management and more built in)</p>\n\n<p>Also Star Wars Force unleashed was released on DVD and BluRay today...</p>\n",
+      "summary": "LN13: Laravel Exception Reporter, Chrome Bandwidth limiter, Chrome extension to generate Laravel tests, Jigsaw, Helpspot Vault, Fixing MySql Memory, Sparkwatch, Taxes, Jack runs into a laravel problem that Eric helps with.\n",
+      "date_published": "2016-04-05 12:00:00 -0400",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/34456.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 36913508,
+        "duration_in_seconds": 2299
+      }
+    },
+    {
+      "id": "1741eba2-dbd7-415c-8b68-85d6e1f20adb",
+      "title": "Composer updates, Laravel Backup 3, Katana, Mail Preview Driver, and more...",
+      "content_text": "LN12: In this episode, we talk about the latest Laravel news including Composer updates, Github Relaxing their API limit, Laravel internals moving to Github issues. Then we talk about a few recent packages released including Katana, Laravel Backup 3, and a new mail preview driver.\n",
+      "content_html": "<p>In this episode, we talk about the latest Laravel news including Composer updates, Github Relaxing their API limit, Laravel internals moving to Github issues. Then we talk about a few recent packages released including Katana, Laravel Backup 3, and a new mail preview driver.</p>\n\n<a name=\"News.this.week\"></a>\n<h2>News this week</h2>\n\n<ul>\n<li><a href=\"https://laravel-news.com/2016/03/laravel-internals-discussion-moved-github/\">Internals moved to Github</a></li>\n<li><a href=\"https://laravel-news.com/2016/03/github-relaxes-api-limit-composer-installs/\">Github removes the API limit on composer installs</a></li>\n<li><a href=\"https://laravel-news.com/2016/03/may-need-update-composer-json-file/\">Update composer.json</a></li>\n</ul>\n\n\n<a name=\"Code.and.Packages\"></a>\n<h2>Code and Packages</h2>\n\n<ul>\n<li><a href=\"http://themsaid.github.io/katana/\">Katana</a></li>\n<li><a href=\"https://murze.be/2016/03/a-modern-backup-solution-for-laravel-apps/\">Laravel Backup 3</a></li>\n<li><a href=\"https://laravel-news.com/2016/03/mail-preview-laravel-driver/\">Mail preview driver</a></li>\n</ul>\n\n\n<a name=\"Easter.Eggs.\"></a>\n<h2>Easter Eggs.</h2>\n\n<p>Yep, this episode has several. They're easy to find if you start at the beginning and listen until the end...</p>\n",
+      "summary": "LN12: In this episode, we talk about the latest Laravel news including Composer updates, Github Relaxing their API limit, Laravel internals moving to Github issues. Then we talk about a few recent packages released including Katana, Laravel Backup 3, and a new mail preview driver.\n",
+      "date_published": "2016-03-22 10:40:00 -0400",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/32710.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 33955591,
+        "duration_in_seconds": 2114
+      }
+    },
+    {
+      "id": "a37f3f01-0e8e-4b4b-a5f9-e04e9b5cf9d0",
+      "title": "Interview with Shawn McCool about Laracon EU and Laravel Spark",
+      "content_text": "LN11: In this episode, we talk with Shawn McCool about Laracon.eu and we discuss the latest news in the Laravel world.\n",
+      "content_html": "<p>In this episode, we talk with Shawn McCool about Laracon.eu and latest Spark news, my new <a href=\"https://dotdev.co\">dotdev.co</a> project, and painless switching to mariadb.</p>\n\n<p><strong>Show Links:</strong></p>\n\n<ul>\n<li><a href=\"https://dotdev.co\">dotdev.co</a></li>\n<li><a href=\"http://laracon.eu\">Laracon EU</a></li>\n<li><a href=\"https://laravel-news.com/2016/03/composer-hits-beta-1/\">Composer Hits Beta 1</a></li>\n</ul>\n\n",
+      "summary": "LN11: In this episode, we talk with Shawn McCool about Laracon.eu and we discuss the latest news in the Laravel world.\n",
+      "date_published": "2016-03-08 10:00:00 -0500",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/28438.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 57683122,
+        "duration_in_seconds": 3597
+      }
+    },
+    {
+      "id": "2e99b734-7583-4ef6-afea-f01c286e1d24",
+      "title": "Lots of converstion! CloudflareSSL and Forge, Laptop scam, Code fonts",
+      "content_text": "LN10: Eric and Jack talk business, and the news this week, it's a long episode\n",
+      "content_html": "<p>Eric and Jack talk business, and the news this week, it's a long episode.</p>\n\n<ul>\n<li><a href=\"https://laravel-news.com/2016/02/operator-a-new-monospace-typeface/\">Operator Font</a></li>\n<li><a href=\"https://laravel-news.com/2016/02/laravel-up-and-running-available-for-preorder/\">Matt's got a new book coming soon</a></li>\n<li><a href=\"http://cur.at/wLvdWwb?m=web\">Tutorial Laravel Forge and CloudflairSSL</a></li>\n<li><a href=\"http://www.notla.com/archives/2010/07/nigerian-scammer-gets-a-laptop-from-me/\">Nigerian Laptop scam.</a></li>\n<li><a href=\"http://cur.at/lp5Lhcs?m=web\">Github Scientist</a></li>\n<li><a href=\"https://laravel-news.com/2016/02/github/\">Open letter to Github</a></li>\n</ul>\n\n",
+      "summary": "LN10: Eric and Jack talk business, and the news this week, it's a long episode\n",
+      "date_published": "2016-02-23 14:00:00 -0500",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/27521.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 60043588,
+        "duration_in_seconds": 3744
+      }
+    },
+    {
+      "id": "d42e5273-73f4-496a-9f46-b580e19124de",
+      "title": "Laracon, Laravel Gurus, and more",
+      "content_text": "LN09: Eric and Jack talk about Laravel News Items for the week ending Jan 5th, 2016.\n",
+      "content_html": "<p><strong>Show Links</strong></p>\n\n<ul>\n<li><a href=\"https://laravel-news.com/2016/02/new-speakers-announced-for-laracon-us/\">New Speakers announced for Laracon US</a></li>\n<li><a href=\"https://laravel-news.com/2016/01/laravel-gurus-relaunches/\">Laravel Gurus site relaunched.</a></li>\n<li><a href=\"http://zaengle.com/blog/diving-in-to-a-laravel-audit\">Lessons learned during an audit of a project done in Laravel.</a></li>\n<li><a href=\"http://ericlbarnes.com/2015/01/29/why-programming-manuals-arent-on-audiobook/\">Why programming manuals aren’t on audiobook</a></li>\n</ul>\n\n",
+      "summary": "LN09: Eric and Jack talk about Laravel News Items for the week ending Jan 5th, 2016.\n",
+      "date_published": "2016-02-10 14:00:00 -0500",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/26062.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 22786178,
+        "duration_in_seconds": 1416
+      }
+    },
+    {
+      "id": "72dab99b-4d67-4762-b9b9-d11cea119115",
+      "title": "Database Backups, Test Driven Laravel, WordPress & Laravel, PDF generation, and the PHP Code of Conduct",
+      "content_text": "LN 08: Backups methods compared with special guest Freek Van der Herten, Test Driven Laravel, WordPress &amp; Laravel, and PDF generation\n",
+      "content_html": "<a name=\"Links.from.this.episode:\"></a>\n<h2>Links from this episode:</h2>\n\n<ul>\n<li><a href=\"https://laravel-news.com/2016/01/adam-wathan-test-driven-laravel-from-scratch/\">Test driven Laravel development:</a></li>\n<li><a href=\"https://laravel-news.com/2016/01/laravel-release-process/\">How the Laravel Release Process works</a></li>\n<li><a href=\"http://culttt.com/2015/10/26/generating-pdfs-from-html-and-phantomjs/\">Generate PDF's</a></li>\n<li><a href=\"https://laravel-news.com/2016/01/wordpress-and-laravel/\">Using Laravel with Wordpress</a></li>\n</ul>\n\n\n<p><strong>Backups:</strong></p>\n\n<ul>\n<li><a href=\"https://spatie.be/opensource/laravel\">https://spatie.be/opensource/laravel</a></li>\n<li><a href=\"https://github.com/spatie/laravel-backup\">https://github.com/spatie/laravel-backup</a></li>\n<li><a href=\"https://ottomatik.io/\">https://ottomatik.io/</a></li>\n</ul>\n\n",
+      "summary": "LN 08: Backups methods compared with special guest Freek Van der Herten, Test Driven Laravel, WordPress & Laravel, and PDF generation\n",
+      "date_published": "2016-01-26 04:00:00 -0500",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/24717.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 41094354,
+        "duration_in_seconds": 2560
+      }
+    },
+    {
+      "id": "dc66e9bd-b3af-444e-be70-ecebe4fa1abd",
+      "title": "Laracon, Laravel 5.2, Simplecast, Linode, and Project Management",
+      "content_text": "LN07: We kick off 2016 with a discussion on Upgrading to Laravel 5.2, Laracon, the Linode DoS attack, And simple project management tips that have made us more productive.\n",
+      "content_html": "<p>We kick off 2016 with a discussion on Upgrading to Laravel 5.2, Laracon, the Linode DoS attack, And simple project management tips that have made us more productive.</p>\n\n<p><strong>Show Links:</strong></p>\n\n<ul>\n<li><a href=\"https://laravel-news.com/2016/01/automatically-upgrade-your-laravel-app-with-shift/\">Laravel Shift</a></li>\n<li><a href=\"https://laravel-news.com/2016/01/lumen-5-2-is-released/\">Lumen 5.2</a></li>\n<li><a href=\"http://www.theregister.co.uk/2016/01/05/linode_resets_passwords_after_credential_leak/\">Linode Outage</a></li>\n</ul>\n\n\n<p><em>Attribution to <a href=\"http://www.freesfx.co.uk/\">http://www.freesfx.co.uk/</a> for the record scratch sound effect.</em></p>\n",
+      "summary": "LN07: We kick off 2016 with a discussion on Upgrading to Laravel 5.2, Laracon, the Linode DoS attack, And simple project management tips that have made us more productive.\n",
+      "date_published": "2016-01-12 02:11:00 -0500",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/24234.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 23761209,
+        "duration_in_seconds": 1477
+      }
+    },
+    {
+      "id": "2095ff00-7e67-4041-b4ed-9b894d03b116",
+      "title": "PHP7, Laravel 5.2, LaraVer, and interviews with Colin O'Dell and Mike Bronner",
+      "content_text": "LN06: We're joined by Colin O'Dell and Mike Bronner this week. Colin talks to us about new features in PHP7, Mike talks to us about Laraver.xyz and Eric and Jack talk about stuff we've heard about Laravel 5.2, Flexbox Froggy, Lets Encrypt\n",
+      "content_html": "<a name=\"Show.Notes\"></a>\n<h3>Show Notes</h3>\n\n<p><strong>PHP 7:</strong></p>\n\n<p>Colin O'Dell, author of <a href=\"http://www.colinodell.com/blog/2015-12/five-lesser-known-features-of-php-7\">PHP 7 UpgradeGuide</a> Joins us to share new features of PHP7 and advice on things listeners might want to check before upgrading to PHP7.</p>\n\n<p><strong>Laraver</strong></p>\n\n<p>Mike Bronner joins us to talk about <a href=\"http://laraver.xyz\">Laraver.xyz</a> a new service that monitors the change logs for Laravel in Github</p>\n\n<a name=\"Show.Links\"></a>\n<h3>Show Links</h3>\n\n<ul>\n<li><p><a href=\"https://laravel-news.com/2015/11/laravel-5-2-a-look-at-whats-coming/\">What is coming to Laravel 5.2?</a></p></li>\n<li><p><a href=\"https://forge.laravel.com/\">Forge</a> now supports LetsEncrypt.</p></li>\n<li><p><a href=\"http://flexboxfroggy.com/\">Flexbox Froggy</a> is a cool intro to learn flexbox.</p></li>\n</ul>\n\n\n<a name=\"End.of.year.update\"></a>\n<h3>End of year update</h3>\n\n<p>This is our last episode for 2015, we'll be back on January 8th with more Laravel News!</p>\n",
+      "summary": "LN06: We're joined by Colin O'Dell and Mike Bronner this week. Colin talks to us about new features in PHP7, Mike talks to us about Laraver.xyz and Eric and Jack talk about stuff we've heard about Laravel 5.2, Flexbox Froggy, Lets Encrypt\n",
+      "date_published": "2015-12-15 01:00:00 -0500",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/22367.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 21221093,
+        "duration_in_seconds": 1757
+      }
+    },
+    {
+      "id": "6ec415a2-0fdb-4cc0-8137-2ace3bde3a78",
+      "title": "Laracon 2016 dates announced",
+      "content_text": "LN05: Laracon 2016 announced, Jack's Homestead Adventures, TV shows, and more...\n",
+      "content_html": "<p>Our most random episode yet. We cover the news and then it turns into a talk show. :)</p>\n\n<p><strong>Show Links</strong></p>\n\n<ul>\n<li><a href=\"https://laravel-news.com/2015/11/laracon-us-2016-dates-announced/\">Laracon US 2016</a></li>\n<li><a href=\"https://speakerdeck.com/willroth/50-laravel-tricks-in-50-minutes\">50 Laravel tips</a></li>\n<li><a href=\"http://laraveldaily.com/10-laravel-packages-everyone-should-know-slides/\">Laravel Daily 10 packages</a></li>\n<li><a href=\"https://leanpub.com/laravelcollectionsunraveled/\">Laravel Collections Unraveled</a></li>\n<li><a href=\"https://geo.itunes.apple.com/us/movie-collection/godfather-trilogy-coppola/id343645059?at=1l3vuLL&amp;ct=podcast\">Godfather Trilogy on iTunes</a></li>\n</ul>\n\n",
+      "summary": "LN05: Laracon 2016 announced, Jack's Homestead Adventures, TV shows, and more...\n",
+      "date_published": "2015-12-01 11:00:00 -0500",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/21379.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 25488995,
+        "duration_in_seconds": 2113
+      }
+    },
+    {
+      "id": "da76f270-a599-4ff7-bacb-65d5243cd880",
+      "title": "Laravel Homestead ",
+      "content_text": "LN04: Features of this episode include Fallout 4, Laravel Homestead, Lets Encrypt, some new Laravel packages, tutorials, and more...\n",
+      "content_html": "<p>Features of this episode include Fallout 4, Laravel Homestead, Lets Encrypt, some new Laravel packages, tutorials, and more...</p>\n\n<p><strong>Show Links</strong></p>\n\n<ul>\n<li><a href=\"http://amzn.to/1H6kLD7\">Fallout 4</a></li>\n<li><a href=\"https://laravel-news.com/?s=homestead\">Homestead</a></li>\n<li><a href=\"https://laravel-news.com/2015/10/lets-encrypt-is-now-browser-trusted/\">Lets Encrypt</a></li>\n<li><a href=\"http://phpsaturday.com\">PHP Saturday</a></li>\n<li><a href=\"https://deploy.serversforhackers.com/\">Deploy PHP</a> -- save 15% with the coupon <code>thegoodnews</code></li>\n<li><a href=\"http://laraveldaily.com/how-to-create-a-laravel-5-package-in-10-easy-steps/\">Writing your first Laravel package</a></li>\n<li><a href=\"http://links.laravel-news.com/resource/187-captainhook-webhooks-for-laravel/\">Captain hooks package</a></li>\n</ul>\n\n",
+      "summary": "LN04: Features of this episode include Fallout 4, Laravel Homestead, Lets Encrypt, some new Laravel packages, tutorials, and more...\n",
+      "date_published": "2015-11-17 12:00:00 -0500",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/20294.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 18897111,
+        "duration_in_seconds": 1564
+      }
+    },
+    {
+      "id": "3b18659d-0ccb-4f39-badb-353453bb5d57",
+      "title": "Laravel Quickstart Tutorials",
+      "content_text": "LN03: Laravel Quickstart Guides, New Features coming to Laravel 5.2, Bootstrap/Sass/Elixir, Laravel Tagging Package, Password strength, Why Developers hate being interrupted.\n",
+      "content_html": "<p>In this episode of the Laravel News Podcast, we discuss the new Laravel quick start guides, new features coming to Laravel 5.2, Elixir and Bootstrap, Developer interruptions and more!</p>\n\n<a name=\"Show.Links\"></a>\n<h2>Show Links</h2>\n\n<ul>\n<li>New Laravel guides. <a href=\"https://laravel-news.com/2015/10/laravel-quick-start-learn-to-build-a-task-list/\">Quick Start</a> and <a href=\"https://laravel-news.com/2015/10/laravel-intermediate-tutorial/\">Intermediate</a></li>\n<li><a href=\"https://laravel-news.com/2015/11/laravel-5-2-a-look-at-whats-coming/\">New features coming to Laravel 5.2</a>\n\n<ul>\n<li>Implicit Model Binding</li>\n<li>Output from scheduled tasks</li>\n<li>Array validation -- <a href=\"https://twitter.com/taylorotwell/status/659828575982366720\">Taylor's Reaction</a></li>\n</ul>\n</li>\n<li><a href=\"https://laravel-news.com/2015/10/setup-bootstrap-sass-with-laravel-elixir/\">Bootstrap Sass Elixir</a></li>\n<li><a href=\"http://thetomorrowlab.com/2015/01/why-developers-hate-being-interrupted/\">Why developer hate being interrupted</a></li>\n<li><a href=\"https://laravel-news.com/2015/10/how-to-add-tagging-to-your-laravel-app/\">Laravel Tagging Package</a></li>\n<li>Passwords\n\n<ul>\n<li><a href=\"https://alfrednutile.info/posts/166\">Forcing more complex passwords in Laravel</a></li>\n<li><a href=\"http://ryanwinchester.ca/post/stop-forcing-your-arbitrary-password-rules-on-me\">Stop forcing your password rules on me</a></li>\n</ul>\n</li>\n<li>Google is adding podcasts and we are in it.</li>\n</ul>\n\n",
+      "summary": "LN03: Laravel Quickstart Guides, New Features coming to Laravel 5.2, Bootstrap/Sass/Elixir, Laravel Tagging Package, Password strength, Why Developers hate being interrupted.\n",
+      "date_published": "2015-11-03 12:07:00 -0500",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/19501.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 19263725,
+        "duration_in_seconds": 1594
+      }
+    },
+    {
+      "id": "f19f10d1-68e9-43c0-8a84-62554da70ebb",
+      "title": "Laravel Model Factories ",
+      "content_text": "LN02: This episode discusses Laravel Model Factories, Blade Directives, and more!\n",
+      "content_html": "<p><strong>Show Links</strong></p>\n\n<ul>\n<li><a href=\"https://laravel-news.com/2015/10/learn-to-use-model-factories-in-laravel-5-1/\">Laravel Model Factories</a></li>\n<li><a href=\"https://laravel-news.com/2015/10/laravel-blade-directives/\">Blade Directives</a></li>\n<li><a href=\"https://laravel-news.com/2015/10/material-theme-for-phpstorm/\">PhpStorm Material Theme</a></li>\n<li><a href=\"https://github.com/daylerees/colour-schemes\">Colour Schemes by Dayle Rees</a></li>\n<li><a href=\"https://scotch.io/tutorials/automatically-format-laravel-database-fields-with-accessors-and-mutators\">Laravel Accessors and Mutators</a></li>\n<li><a href=\"http://blog.krucas.lt/2015/07/active-menu-state-using-route-attributes/\">Active menu state using route attributes</a></li>\n</ul>\n\n",
+      "summary": "LN02: This episode discusses Laravel Model Factories, Blade Directives, and more!\n",
+      "date_published": "2015-10-20 23:03:00 -0400",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/18702.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 16033848,
+        "duration_in_seconds": 1325
+      }
+    },
+    {
+      "id": "a19ba01b-e768-4bb8-bd75-9ab5d6d9e027",
+      "title": "Pilot: Welcome to the Laravel News Podcast",
+      "content_text": "LN01: Our First Episode of the Laravel News Podcast.\n",
+      "content_html": "<p>This episode talks about the beginning of the podcast, why it was created, and what's new in Laravel.</p>\n\n<p><strong>Show Links</strong></p>\n\n<ul>\n<li><a href=\"http://links.laravel-news.com/\">Laravel Links</a></li>\n<li><a href=\"https://laravel-news.com/newsletter/\">Laravel Newsletter</a></li>\n<li><a href=\"https://laravel-news.com/2015/09/laravel-spark/\">Laravel Spark</a></li>\n<li><a href=\"https://laravel-news.com/2015/09/install-spark-in-an-existing-laravel-app/\">Install Spark in an Existing Laravel App</a></li>\n<li><a href=\"https://laravel-news.com/2015/09/laravel-spark-deep-dive/\">Laravel Spark Deep Dive</a></li>\n<li><a href=\"https://laravel-news.com/2015/09/flexible-maintainable-laravel-with-angular-material-apps/\">Flexible &amp; Maintainable Laravel with Angular Material Apps</a></li>\n<li><a href=\"https://sysops.forlaravel.com/diffie-hellman-fix\">The Diffie-Hellman Fix</a></li>\n<li><a href=\"http://easyecommercebook.com/\">Easy E-Commerce Book</a></li>\n</ul>\n\n",
+      "summary": "LN01: Our First Episode of the Laravel News Podcast.\n",
+      "date_published": "2015-10-06 20:53:00 -0400",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/17050.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 12976362,
+        "duration_in_seconds": 1068
+      }
+    }
+  ]
+}

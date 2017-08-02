@@ -1,0 +1,553 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "North Meets South Web Podcast",
+  "home_page_url": "http://northmeetssouth.audio",
+  "feed_url": "https://rss.simplecast.com/podcasts/2072/rss",
+  "description": "Jacob Bennett and Michael Dyrynda conquer a 14.5 hour time difference to talk about life as web developers",
+  "author": {
+    "url": "http://northmeetssouth.audio",
+    "name": "Jacob Bennett and Michael Dyrynda"
+  },
+  "items": [
+    {
+      "id": "8afa5054-0383-40e5-948d-31a83dc172e9",
+      "title": "Podcasting, side hustles, and the importance of being earnest",
+      "url": "http://www.northmeetssouth.audio/31",
+      "content_text": "In this episode, Jake and Michael are joined by up-and-coming Laravel community members Caleb Porzio and Daniel Coulbourne for a casual chat about a wide array of topics from podcasting, to side hustles, and the importance of being earnest.\n",
+      "content_html": "<p>In this episode, Jake and Michael are joined by up-and-coming Laravel community members Caleb Porzio and Daniel Coulbourne for a casual chat about a wide array of topics from podcasting, to side hustles, and the importance of being earnest.</p>\n\n<p><strong>Guest starring</strong></p>\n\n<ul>\n<li><a href=\"https://twitter.com/calebporzio\">Caleb Porzio</a></li>\n<li><a href=\"https://twitter.com/dcoulbourne\">Daniel Coulbourne</a></li>\n</ul>\n\n\n<p><strong>Show links</strong></p>\n\n<ul>\n<li><a href=\"http://fitsandstarts.fm/\">Fits + Starts</a></li>\n<li><a href=\"http://twentypercent.fm/\">Twenty Percent Time</a></li>\n<li><a href=\"https://www.npmjs.com/package/es6-resource-client\">es6-resource-client</a></li>\n<li><a href=\"https://zaengle.com/blog/layers-of-a-laravel-vue-application\">Sharing data in a Laravel/Vue application</a></li>\n<li><a href=\"http://www.5lovelanguages.com/\">5 Love Languages</a> (referred to as 7 Love Languages)</li>\n<li><a href=\"https://adamwathan.me/the-book-launch-that-let-me-quit-my-job\">The $61,392 Book Launch That Let Me Quit My Job</a></li>\n<li><a href=\"https://twitter.com/themsaid/status/877831014059450369\">Great people doing stuff for money so they can do other stuff for free</a></li>\n<li><a href=\"http://markdowntomedium.com/\">Markdown to Medium</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Jake and Michael are joined by up-and-coming Laravel community members Caleb Porzio and Daniel Coulbourne for a casual chat about a wide array of topics from podcasting, to side hustles, and the importance of being earnest.\n",
+      "date_published": "2017-06-26 06:30:00 +0930",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/73678.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 70763492,
+        "duration_in_seconds": 4421
+      }
+    },
+    {
+      "id": "7d0cadd2-3696-45b4-8ec7-4ce54d07831d",
+      "title": "Making users, shared sessions, and production deployments",
+      "url": "http://www.northmeetssouth.audio/30",
+      "content_text": "In our golden episode, Jake and Michael talk about making users in a Laravel app, sharing sessions between servers and applications, and answer a listener question on our production deployment workflows.\n",
+      "content_html": "<p>In our golden episode, Jake and Michael talk about making users in a Laravel app, sharing sessions between servers and applications, and answer a listener question on our production deployment workflows.</p>\n\n<p><strong>Show Links</strong></p>\n\n<ul>\n<li><a href=\"http://github.com/michaeldyrynda/laravel-make-user\"><code>make:user</code> package</a></li>\n<li><a href=\"https://medium.com/@taylorotwell/package-auto-discovery-in-laravel-5-5-ea9e3ab20518\">Package auto-discovery in Laravel 5.5</a></li>\n<li><a href=\"https://gistlog.co/JacobBennett/090369fbab0b31130b51\">API token authentication in Laravel 5.2 &amp; 5.3</a></li>\n<li><a href=\"https://github.com/Adldap2/Adldap2-Laravel\">Adldap2 - Laravel</a></li>\n<li><a href=\"https://jenkins.io/\">Jenkins</a></li>\n<li><a href=\"http://pre-commit.com/\">pre-commit by Yelp</a></li>\n<li><a href=\"https://eastwest.se/apps/gitftpdeploy\">GitFTP-Deploy</a></li>\n<li><a href=\"https://github.com/git-ftp/git-ftp\"><code>git-ftp</code></a></li>\n<li><a href=\"http://surge.sh/\">Surge</a></li>\n<li><a href=\"https://murze.be/2017/05/testing-vue-component-part-1-getting-started/\">Testing Vue components</a> - a five-part series</li>\n<li><a href=\"https://murze.be/2017/06/a-straightforward-vue-component-to-filter-and-sort-tables\">A straightforward Vue component to filter and sort tables</a> (post to be published during the week of June 12, 2017)</li>\n</ul>\n\n",
+      "summary": "In our golden episode, Jake and Michael talk about making users in a Laravel app, sharing sessions between servers and applications, and answer a listener question on our production deployment workflows.\n",
+      "date_published": "2017-06-12 06:30:00 +0930",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/72587.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 39856530,
+        "duration_in_seconds": 2489
+      }
+    },
+    {
+      "id": "0c8ff5d9-7b62-4c53-83da-4b3f04d3a2e2",
+      "title": "Vue components, chainable jobs, and life after thirty",
+      "url": "http://www.northmeetssouth.audio/29",
+      "content_text": "Jake and Michael talk about how simple Vue makes life, chaining jobs in the upcoming Laravel 5.5, and Michael's upcoming 30th birthday.\n",
+      "content_html": "<p>Jake and Michael talk about how simple Vue makes life, chaining jobs in the upcoming Laravel 5.5, and Michael's upcoming 30th birthday.</p>\n\n<p><strong>Show Links</strong></p>\n\n<ul>\n<li><a href=\"https://github.com/laravel/framework/blob/master/CHANGELOG-5.5.md\">Laravel 5.5 changelog</a></li>\n<li><a href=\"https://github.com/laravel/framework/commit/81bcb03b303707cdc94420983b9d72ed558a2b3d\">Adding chainable jobs</a></li>\n<li><a href=\"https://twitter.com/taylorotwell/status/847925269432344577\">Taylor's chainable job tweet</a></li>\n<li><a href=\"https://murze.be/2016/09/taking-care-of-backups-with-laravel/\">Taking care of backups with Laravel</a></li>\n<li><a href=\"https://github.com/spatie/laravel-backup\"> Spatie's Laravel Backup package</a></li>\n</ul>\n\n",
+      "summary": "Jake and Michael talk about how simple Vue makes life, chaining jobs in the upcoming Laravel 5.5, and Michael's upcoming 30th birthday.\n",
+      "date_published": "2017-05-29 06:30:00 +0930",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/70692.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 34777676,
+        "duration_in_seconds": 2172
+      }
+    },
+    {
+      "id": "c9b8d792-8f68-4618-ac58-6b8cf1cf39b2",
+      "title": "Eloquent observers, managing client expectations, and Laravel packages",
+      "url": "http://www.northmeetssouth.audio/28",
+      "content_text": "In this episode, Jake and Michael talk about Eloquent observers and answer listener questions about managing client expectations and packages we use in our Laravel applications.\n",
+      "content_html": "<p>In this episode, Jake and Michael talk about Eloquent observers and answer listener questions about managing client expectations and packages we use in our Laravel applications.</p>\n\n<p><strong>Show Links</strong></p>\n\n<ul>\n<li><a href=\"https://laravel.com/docs/5.4/eloquent#observers\">Eloquent observers</a></li>\n<li><a href=\"https://laravel.com/api/5.4/Illuminate/Database/Eloquent/Concerns/HasAttributes.html#method_isDirty\">Eloquent isDirty method</a></li>\n<li><a href=\"https://laravel.com/docs/5.4/eloquent-relationships\">Eloquent relationships</a></li>\n<li><a href=\"https://kapeli.com/dash\">Dash</a></li>\n<li><a href=\"https://devdocs.io/\">devdocs.io</a></li>\n<li><a href=\"https://blog.tighten.co/supercharge-your-laravel-tinker-workflow\">Sueprcharge your Laravel Tinker workflow</a></li>\n<li><a href=\"https://twitter.com/calebporzio\">Caleb Porzio</a></li>\n<li><a href=\"https://twitter.com/dcoulbourne\">Daniel Coulbourne</a></li>\n<li><a href=\"http://twentypercent.fm/\">Twenty Percent Time</a></li>\n<li><a href=\"https://github.com/barryvdh/laravel-debugbar\">Laravel Debugbar</a></li>\n<li><a href=\"https://github.com/getsentry/sentry-laravel\">Sentry</a></li>\n<li><a href=\"https://laravelcollective.com/docs/5.3/html\">Laravel Collective HTML</a></li>\n<li><a href=\"https://github.com/adamwathan/bootforms\">Bootforms</a> by <a href=\"https://twitter.com/adamwathan\">Adam Wathan</a></li>\n<li><a href=\"https://dyrynda.com.au/blog/elegant-form-handling-in-laravel\">Elegant form handling in Laravel</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Jake and Michael talk about Eloquent observers and answer listener questions about managing client expectations and packages we use in our Laravel applications.\n",
+      "date_published": "2017-05-15 06:30:00 +0930",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/69504.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 28141018,
+        "duration_in_seconds": 1757
+      }
+    },
+    {
+      "id": "62e5ffad-9057-4238-9b56-84e684b61489",
+      "title": "HTTP clients, container tagging, and foreign keys with Paul Redmond and TJ Miller",
+      "url": "http://www.northmeetssouth.audio/27",
+      "content_text": "In this episode, Jake and Michael welcome Paul Redmond and the returning TJ Miller to have the HTTP client discussion you were promised last time.\n",
+      "content_html": "<p>In this episode, Jake and Michael welcome Paul Redmond and the returning TJ Miller to have the HTTP client discussion you were promised last time. We also dig into container tagging in Laravel, as well as working with foreign keys in your projects.</p>\n\n<p><strong>Special Guests</strong></p>\n\n<ul>\n<li><a href=\"https://twitter.com/paulredmond\">Paul Redmond</a></li>\n<li><a href=\"http://www.apress.com/us/book/9781484221860\">Lumen Programming Guide</a></li>\n<li><a href=\"https://leanpub.com/docker-for-php-developers\">Docker for PHP Developers</a></li>\n<li><a href=\"https://twitter.com/SIXLIV3\">TJ Miller</a></li>\n</ul>\n\n\n<p><strong>Show Notes</strong></p>\n\n<ul>\n<li><a href=\"https://freestar.io/\">Freestar</a></li>\n<li><a href=\"https://twitter.com/zeldman\">Jeffrey Zeldman</a></li>\n<li><a href=\"https://twitter.com/meyerweb\">Eric Meyer</a></li>\n<li><a href=\"https://twitter.com/simplebits\">Dan Cederholm</a></li>\n<li><a href=\"http://expressjs.com/\">Express</a></li>\n<li><a href=\"https://zeit.co/micro\">Zeit Micro</a></li>\n<li><a href=\"https://medium.com/@jasonmccreary/lumen-is-dead-long-live-lumen-ee43a069f19\">Lumen is dead. Long live Lumen.</a></li>\n<li><a href=\"http://guzzlephp.org/\">Guzzle</a></li>\n<li><a href=\"https://medium.com/@paulredmond/using-guzzle-6-middleware-in-a-laravel-application-7fbd6d966235\">Using Guzzle 6 middleware in a Laravel application</a></li>\n<li><a href=\"http://www.php-fig.org/psr/psr-7/\">PSR-7</a></li>\n<li><a href=\"http://guzzle3.readthedocs.io/webservice-client/guzzle-service-descriptions.html\">Guzzle service descriptions</a></li>\n<li><a href=\"https://github.com/guzzle/guzzle-services\">GitHub</a></li>\n<li><a href=\"https://github.com/Rarst/wporg-client\">WordPress.org API client</a></li>\n<li><a href=\"https://github.com/rmccue/Requests\">Requests</a> by <a href=\"https://twitter.com/rmccue\">Ryan McCue</a></li>\n<li><a href=\"http://phphttpclient.com/\">Httpful</a></li>\n<li><a href=\"https://laravel.com/docs/5.4/container#tagging\">Container tagging</a></li>\n<li><a href=\"https://twitter.com/laracasts/status/857958046206746624\">Foreign key constraints</a></li>\n<li><a href=\"https://laravel.com/docs/5.4/migrations#foreign-key-constraints\">Laravel Migrations</a></li>\n<li><a href=\"https://github.com/michaeldyrynda/laravel-cascade-soft-deletes\">Cascade soft deletes</a></li>\n<li><a href=\"http://www.fullstackradio.com/52\">Full Stack Radio, Episode 52</a> - Patterns for simplifying Laravel applications with <a href=\"https://twitter.com/taylorotwell\">Taylor Otwell</a></li>\n<li><a href=\"http://shoptalkshow.com/\">Shop Talk Show</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Jake and Michael welcome Paul Redmond and the returning TJ Miller to have the HTTP client discussion you were promised last time.\n",
+      "date_published": "2017-05-01 06:30:00 +0930",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/68332.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 74715422,
+        "duration_in_seconds": 4668
+      }
+    },
+    {
+      "id": "cc43f4c8-eb76-44cd-a229-bc0ab33350bc",
+      "title": "Docker, Rancher, and Geocities with TJ Miller",
+      "url": "http://www.northmeetssouth.audio/26",
+      "content_text": "In this episode, Jake and Michael are joined by TJ Miller to talk about Docker, Rancher, and journies in development through Geocities and MySpace.\n",
+      "content_html": "<p>In this episode, Jake and Michael are joined by TJ Miller to talk about Docker, Rancher, and journies in development through Geocities and MySpace.</p>\n\n<p>Special guest: <a href=\"https://twitter.com/SIXLIV3\">TJ Miller</a></p>\n\n<p><strong>Show Links</strong></p>\n\n<ul>\n<li><a href=\"https://www.internationalbancard.com/\">International Bancard</a></li>\n<li><a href=\"https://www.docker.com/\">Docker</a></li>\n<li><a href=\"http://rancher.com/\">Rancher</a></li>\n<li><a href=\"https://aws.amazon.com/rds/\">Amazon RDS</a></li>\n<li><a href=\"https://github.com/laradock/laradock\">Laradock</a></li>\n<li><a href=\"https://laravel.com/docs/5.4/valet\">Laravel Valet</a></li>\n<li><a href=\"https://laravel-news.com/podcast/35\">Interview with Mohamed Said</a></li>\n<li><a href=\"https://phalconphp.com/en/\">Phalcon PHP</a></li>\n<li><a href=\"https://medium.com/@taylorotwell/benchmarking-laravel-symfony-zend-2c01c2b270f8\">Benchmarking Laravel, Symfony, &amp; Zend</a></li>\n<li><a href=\"https://xkcd.com/1172/\">xkcd workflow</a></li>\n<li><a href=\"https://codepen.io/\">Codepen</a></li>\n<li><a href=\"https://jsfiddle.net/\">JS Fiddle</a></li>\n<li><a href=\"https://medium.com/@paulredmond/using-guzzle-6-middleware-in-a-laravel-application-7fbd6d966235\">Using Guzzle 6 middleware in a Laravel application</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Jake and Michael are joined by TJ Miller to talk about Docker, Rancher, and journies in development through Geocities and MySpace.\n",
+      "date_published": "2017-04-17 06:30:00 +0930",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/66346.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 39279472,
+        "duration_in_seconds": 2453
+      }
+    },
+    {
+      "id": "d0f4306f-c7c1-4447-a00e-14cecf933c4a",
+      "title": "WordPress, UUIDs, and testing revelations",
+      "url": "http://www.northmeetssouth.audio/25",
+      "content_text": "This episode, Jake and Michael speak about working with UUIDs in Laravel, Wordpress, and testing mindsets.\n",
+      "content_html": "<p>This episode, Jake and Michael speak about working with UUIDs in Laravel, Wordpress, and testing mindsets.</p>\n\n<p><strong>Show Links</strong></p>\n\n<ul>\n<li><a href=\"https://www.percona.com/blog/2014/12/19/store-uuid-optimized-way/\">Store UUID in an optimized way</a></li>\n<li><a href=\"https://github.com/michaeldyrynda/laravel-model-uuid\">Laravel model UUIDs</a></li>\n<li><a href=\"https://github.com/michaeldyrynda/laravel-efficient-uuid\">Laravel efficient UUIDs</a></li>\n<li><a href=\"https://apisyouwonthate.com/\">Build APIs You Won't Hate</a> by <a href=\"https://twitter.com/philsturgeon\">Phil Sturgeon</a></li>\n<li><a href=\"https://www.advancedcustomfields.com/\">Advanced Custom Fields</a></li>\n<li><a href=\"https://www.australiascience.tv/\">Australia's Science Channel</a></li>\n<li><a href=\"https://www.elegantthemes.com/gallery/divi/\">Divi</a> by <a href=\"https://elegantthemes.com/\">Elegant Themes</a></li>\n<li><a href=\"https://twitter.com/keithb_b/status/841381028090523650\">TDD; one thought at a time, complete it before starting another</a></li>\n<li><a href=\"https://laravel-news.com/laravel-dusk-continuous-integration\">Running Laravel Dusk on TravisCI and CircleCI</a></li>\n<li><a href=\"https://twitter.com/adamwathan/status/842380318904582144\">Disabling exception handling in Laravel 5.4 feature tests</a></li>\n</ul>\n\n",
+      "summary": "This episode, Jake and Michael speak about working with UUIDs in Laravel, Wordpress, and testing mindsets.\n",
+      "date_published": "2017-04-03 06:30:00 +0930",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/65022.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 34673281,
+        "duration_in_seconds": 2165
+      }
+    },
+    {
+      "id": "ba59499f-815e-4768-946a-960eff58f515",
+      "title": "Mentoring, upgrading config, and cloud infrastructure",
+      "url": "http://www.northmeetssouth.audio/24",
+      "content_text": "Jake and Michael discuss self-improvement through mentoring developers new to Laravel, upgrading configuration between Laravel versions, and IAM credentials on cloud infrastructure.\n",
+      "content_html": "<p>Jake and Michael discuss self-improvement through mentoring developers new to Laravel, upgrading configuration between Laravel versions, and IAM credentials on cloud infrastructure.</p>\n\n<p>We now have swag - check out the <a href=\"https://store.northmeetssouth.audio\">store</a>!</p>\n\n<p><strong>Show links</strong></p>\n\n<ul>\n<li><a href=\"http://www.zeldman.com/\">Jeffrey Zeldman</a></li>\n<li><a href=\"https://twitter.com/michaeldyrynda/status/842111738501767168\">Somebody is always where you were yesterday</a></li>\n<li><a href=\"https://bigjman123.github.io/phaserproject/\">Batman Game</a> by <a href=\"https://twitter.com/https://twitter.com/bigjmaaan\">bigjman123</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Rubber_duck_debugging\">Rubber ducking</a></li>\n<li><a href=\"https://laravel.com/api/5.4/Illuminate/Contracts/Queue/Queue.html#method_pushRaw\">Queue::pushRaw</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Adele\">Adele</a></li>\n<li><a href=\"https://aws.amazon.com/documentation/iam/\">Amazon IAM</a></li>\n<li><a href=\"https://cloud.google.com/iam/\">Google Cloud Platform IAM</a></li>\n<li><a href=\"https://gojko.net/2017/02/23/serverless-migration-lesson.html\">The key lesson from our serverless migration</a></li>\n<li><a href=\"http://docs.aws.amazon.com/cognito/latest/developerguide/what-is-amazon-cognito.html\">Amazon Cognito</a></li>\n<li><a href=\"https://store.northmeetssouth.audio\">North Meets South apparel</a></li>\n</ul>\n\n",
+      "summary": "Jake and Michael discuss self-improvement through mentoring developers new to Laravel, upgrading configuration between Laravel versions, and IAM credentials on cloud infrastructure.\n",
+      "date_published": "2017-03-20 06:30:00 +1030",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/63498.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 30538833,
+        "duration_in_seconds": 1907
+      }
+    },
+    {
+      "id": "5bcdcd89-c5c8-4523-a53d-6e46f1e804c0",
+      "title": "Clouds, queues, and learning to code",
+      "url": "http://www.northmeetssouth.audio/23",
+      "content_text": "In this episode, Jake and Michael talk about 80 new Pokemon, Jake streaming zip files from Amazon S3, Michael's woes with queues and Google Cloud Platform, as well as learning to code with PhaserJS.\n",
+      "content_html": "<p>In this episode, Jake and Michael talk about 80 new Pokemon, Jake streaming zip files from Amazon S3, Michael's woes with queues and Google Cloud Platform, as well as learning to code with PhaserJS.</p>\n\n<p><strong>Show links</strong></p>\n\n<ul>\n<li><a href=\"http://pokemongolive.com/en/post/johto-pokemon/\">80 new Pokemon</a></li>\n<li><a href=\"https://github.com/jmathai/s3-bucket-stream-zip-php\">S3BucketStreamZip</a></li>\n<li><a href=\"https://cloud.google.com/storage/docs/object-change-notification\">GCP Object Change Notification</a></li>\n<li><a href=\"http://stackoverflow.com/questions/29199302/job-too-big-pheanstalk-what-can-be-done\">Beanstalk JOB_TOO_BIG</a></li>\n<li><a href=\"https://laravel.com/docs/5.4/queues\">Laravel Queues</a></li>\n<li><a href=\"http://phaser.io/\">Phaser JS</a></li>\n<li><a href=\"https://rangersteve.io\">Ranger Steve</a></li>\n<li><a href=\"https://github.com/bigjman123/phaserproject\">Batman game</a></li>\n<li><a href=\"http://threedevsandamaybe.com/space-beer-cave/\">Space Beer Cave - Three Devs and a Maybe</a></li>\n<li><a href=\"https://twitter.com/fraserhartdev\">Fraser Hart</a></li>\n<li><a href=\"https://laravel.com/docs/5.4/authentication#adding-custom-guards\">Laravel custom authentication guards</a></li>\n<li><a href=\"https://laravel.com/docs/5.4/authentication#adding-custom-user-providers\">Laravel custom authentication providers</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Jake and Michael talk about 80 new Pokemon, Jake streaming zip files from Amazon S3, Michael's woes with queues and Google Cloud Platform, as well as learning to code with PhaserJS.\n",
+      "date_published": "2017-02-20 06:30:00 +1030",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/60745.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 27402794,
+        "duration_in_seconds": 1711
+      }
+    },
+    {
+      "id": "72c015c6-40ab-46f2-9c77-d81ef3c3043e",
+      "title": "Non-recording, updating Laravel, and huge manatees",
+      "url": "http://www.northmeetssouth.audio/22",
+      "content_text": "After a hiccup that led to having to re-record the first five minutes of the show, Jake and Michael talk about manually updating Laravel apps and the virtues of doing so regularly, a brief outburst on politics, and comparing modern JavaScript frameworks with legacy jQuery.\n",
+      "content_html": "<p>After a hiccup that led to having to re-record the first five minutes of the show, Jake and Michael talk about manually updating Laravel apps and the virtues of doing so regularly, a brief outburst on politics, and comparing modern JavaScript frameworks with legacy jQuery.</p>\n\n<p><img src=\"http://d.pr/i/EhId+\" alt=\"Oh the huge manatee!\" /></p>\n\n<p><strong>Show links</strong></p>\n\n<ul>\n<li><a href=\"https://twitter.com/taylorotwell/status/809768330118758400\">There (probably) won't be another Laravel LTS</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=pboUsEHwOgk\">Ship my pants</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=eL5RPNoJA4U\">Big gas savings</a></li>\n<li><a href=\"https://laravelshift.com/\">Laravel Shift</a></li>\n<li><a href=\"https://twitter.com/gonedark\">Jason McCreary</a></li>\n<li><a href=\"https://streamacon.com/video/laracon-us/jason-mccreary-yagni-with-laravel\">YAGNI - Larcon US 2016</a></li>\n<li><a href=\"https://github.com/sindresorhus/trash-cli\">trash-cli</a></li>\n<li><a href=\"https://twitter.com/wesbos\">Wes Bos</a></li>\n<li><a href=\"https://twitter.com/wesbos/status/827268492936114176\">Skip YouTube pre-roll ads</a></li>\n<li><a href=\"http://www.imdb.com/title/tt2658504/\">Curious George - Monkey Down Under</a></li>\n<li><a href=\"https://javascript30.com/\">Javascript 30</a></li>\n<li><a href=\"https://es6.io/\">ES6 for everyone</a></li>\n<li><a href=\"http://markdowntomedium.com/\">Markdown to Medium</a></li>\n<li><a href=\"https://www.npmjs.com/package/extract-gfm\">extract-gfm</a></li>\n</ul>\n\n",
+      "summary": "After a hiccup that led to having to re-record the first five minutes of the show, Jake and Michael talk about manually updating Laravel apps and the virtues of doing so regularly, a brief outburst on politics, and comparing modern JavaScript frameworks with legacy jQuery.\n",
+      "date_published": "2017-02-06 06:30:00 +1030",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/59535.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 34043718,
+        "duration_in_seconds": 2124
+      }
+    },
+    {
+      "id": "0651b789-eff6-4fc3-9fb6-9312b7dc1abe",
+      "title": "Screencasting, Markdown to Medium, and Google Cloud Storage",
+      "url": "http://www.northmeetssouth.audio/21",
+      "content_text": "Michael and Jake return with their slightly tinkered format, where they focus on challenges overcome and things learnt in day to day framework usage.\n",
+      "content_html": "<p>Michael and Jake return with their slightly tinkered format, where they focus on challenges overcome and things learnt in day to day framework usage.</p>\n\n<p><strong>Show Links</strong></p>\n\n<ul>\n<li><a href=\"https://github.com/cviebrock/sequel-pro-laravel-export\">Laravel Migration Exporter for Sequel Pro</a></li>\n<li><a href=\"https://dyrynda.com.au/blog/switching-php-versions-with-laravel-valet\">Switching PHP versions with Laravel Valet</a></li>\n<li><a href=\"https://asciinema.org/\">asciinema</a></li>\n<li><a href=\"http://markdowntomedium.com/\">Markdown to Medium</a></li>\n<li><a href=\"https://laravel.com/docs/5.3/routing#route-model-binding\">Route model binding</a></li>\n<li><a href=\"https://cloud.google.com/storage/\">Google Cloud Storage</a></li>\n<li><a href=\"http://v4-alpha.getbootstrap.com/utilities/spacing/\">Bootstrap 4 spacing utilities</a> via <a href=\"https://twitter.com/tillkruss\">Till Krüss</a></li>\n<li><a href=\"https://sametime.co/\">SameTime.co - Group text reminders</a></li>\n<li><a href=\"https://laravelupandrunning.com/\">Laravel Up and Running</a></li>\n</ul>\n\n",
+      "summary": "Michael and Jake return with their slightly tinkered format, where they focus on challenges overcome and things learnt in day to day framework usage.\n",
+      "date_published": "2017-01-23 19:47:00 +1030",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/58307.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 29616434,
+        "duration_in_seconds": 1848
+      }
+    },
+    {
+      "id": "3205cc8e-9934-4753-8036-efff535e52c3",
+      "title": "Holiday catchups, CSS frameworks, and a big announcement",
+      "url": "http://www.northmeetssouth.audio/20",
+      "content_text": "Jake and Michael return in 2017 catching up after the holiday season, talk about various CSS frameworks, and make a big announcement!\n",
+      "content_html": "<p>Jake and Michael return in 2017 catching up after the holiday season, talk about various CSS frameworks, and make a big announcement!</p>\n\n<p><strong>Show Links</strong></p>\n\n<ul>\n<li><a href=\"https://en.wikipedia.org/wiki/Leviathan_Wakes\">Leviathan Rises</a></li>\n<li><a href=\"http://markdowntomedium.com\">Markdown to Medium</a></li>\n<li><a href=\"https://bulma.io\">Bulma</a></li>\n<li><a href=\"http://buildwithbeard.com\">BeardCSS</a></li>\n<li><a href=\"http://getbootstrap.com\">Twitter Bootstrap</a></li>\n<li><a href=\"https://blog.getbootstrap.com/2017/01/06/bootstrap-4-alpha-6/\">Bootstrap 4 Alpha 6</a></li>\n<li><a href=\"http://laravel-news.com/podcast\">Laravel News Podcast</a></li>\n</ul>\n\n",
+      "summary": "Jake and Michael return in 2017 catching up after the holiday season, talk about various CSS frameworks, and make a big announcement!\n",
+      "date_published": "2017-01-16 06:30:00 +1030",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/57602.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 34069122,
+        "duration_in_seconds": 2126
+      }
+    },
+    {
+      "id": "e46a6922-c350-486f-bdc9-883af15315e5",
+      "title": "Happy New Year",
+      "url": "http://www.northmeetssouth.audio/19",
+      "content_text": "Spare 68 seconds of your day to let Michael and Jake thank you for being such terrific supporters of our podcast in 2016\n",
+      "content_html": "<p>Spare 68 seconds of your day to let Michael and Jake thank you for being such terrific supporters of our podcast in 2016</p>\n\n<p><strong>Show Links</strong></p>\n\n<ul>\n<li><a href=\"https://www.youtube.com/watch?v=4E5fw9aFSCM\">Relient K - Auld Lang Syne</a></li>\n</ul>\n\n",
+      "summary": "Spare 68 seconds of your day to let Michael and Jake thank you for being such terrific supporters of our podcast in 2016\n",
+      "date_published": "2016-12-31 06:30:00 +1030",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/56068.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 1128603,
+        "duration_in_seconds": 68
+      }
+    },
+    {
+      "id": "a22e643a-93a3-4333-93ab-f48c57d9d9d9",
+      "title": "Inaugural North Meets South Meets Dads In Dev Christmas Extravaganza Web Podcast",
+      "url": "http://www.northmeetssouth.audio/18",
+      "content_text": "Michael and Jake catch up with the hosts of our sister Dads in Dev podcast David Hemphill to round out the year with talk of Christmas, structuring single page applications, JavaScript frontends with client-side validation, and private Packagist.\n",
+      "content_html": "<p>Michael and Jake catch up with the hosts of our sister Dads in Dev podcast David Hemphill to round out the year with talk of Christmas, structuring single page applications, JavaScript frontends with client-side validation, and private Packagist.</p>\n\n<p><strong>Show Links</strong></p>\n\n<ul>\n<li><p><em>Christmas Wishlists</em></p>\n\n<ul>\n<li><a href=\"https://www.amazon.com/All-One-Espresso-Machine-Bundle/dp/B01LWUI6B8/ref=lp_15761852011_1_1?srs=15761852011&amp;ie=UTF8&amp;qid=1481967295&amp;sr=8-1\">Espresso Works Espresso Machine</a></li>\n<li><a href=\"https://www.breville.com.au/the-barista-expresstm.html\">Breville Barista Express</a></li>\n<li><a href=\"http://www.kenwoodworld.com/en-au/products/kitchen-machines/chef-and-major/chef-xl-sense-kvl6000t-0w20011133\">Kenwood Chef XL</a></li>\n<li><a href=\"http://www.shure.com/americas/products/microphones/sm/sm7b-vocal-microphone\">Shure SM7B</a></li>\n<li><a href=\"https://www.whiteelephantrules.com/\">White Elephant Gift Exchange</a></li>\n</ul>\n</li>\n<li><p><em>Christmas Movies</em></p>\n\n<ul>\n<li><a href=\"http://www.imdb.com/title/tt0097958/\">National Lampoon's Christmas Vacation</a></li>\n<li><a href=\"http://www.imdb.com/title/tt0116705/\">Jingle All The Way</a></li>\n<li><a href=\"http://www.imdb.com/title/tt0095016/\">Die Hard</a></li>\n<li><a href=\"http://www.imdb.com/title/tt0319343/\">Elf</a></li>\n<li><a href=\"http://www.imdb.com/title/tt0099785/\">Home Alone</a> (<a href=\"https://www.youtube.com/watch?v=mDUSjBiHYeY\">Tarantula Scene</a>)</li>\n</ul>\n</li>\n<li><p><a href=\"https://itunes.apple.com/app/super-mario-run/id1145275343?mt=8\">Super Mario Run</a> (iOS Only)</p></li>\n<li>Buy it for your kids, it's a write off (<a href=\"https://www.youtube.com/watch?v=XEL65gywwHQ\">Write it off</a>)</li>\n<li><a href=\"https://www.youtube.com/watch?v=YXE3Ku-mGrk\">President-Elect Donald Trump in Home Alone 2</a></li>\n<li><a href=\"http://jerryseinfeld.com/\">Jerry Seinfeld</a> (<a href=\"https://www.youtube.com/watch?v=XEL65gywwHQ\">Write-offs</a>)</li>\n<li><a href=\"http://www.jimgaffigan.com/\">Jim Gaffigan</a></li>\n<li><a href=\"https://louisck.net/\">Louis CK</a></li>\n<li><a href=\"https://georgecarlin.com/\">George Carlin</a></li>\n<li><a href=\"https://www.filmsupply.com/\">Filmsupply</a></li>\n<li><a href=\"https://packagist.com/\">Private Packagist</a></li>\n<li><a href=\"https://github.com/kazupon/vue-validator\">vue-validator</a></li>\n<li><a href=\"https://monterail.github.io/vuelidate/\">vuelidate</a></li>\n<li><a href=\"http://airnzchristmas.co.nz/song\">Summer Wonderland</a> by Ronan Keating for Air New Zealand</li>\n</ul>\n\n",
+      "summary": "Michael and Jake catch up with the hosts of our sister Dads in Dev podcast David Hemphill to round out the year with talk of Christmas, structuring single page applications, JavaScript frontends with client-side validation, and private Packagist.\n",
+      "date_published": "2016-12-22 06:30:00 +1030",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/55349.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 73830793,
+        "duration_in_seconds": 4611
+      }
+    },
+    {
+      "id": "621d364e-08f4-47ba-ab66-d69606e769b4",
+      "title": "Mince pies, Laravel 5.4 updates, and Vue server-side rendering",
+      "url": "http://www.northmeetssouth.audio/17",
+      "content_text": "Michael and Jake managed to record this week whilst Michael's family was visiting to talk about mince pies, changes coming in Laravel 5.4, new versions of Homestead and Valet, and Vue JS server-side rendering.\n",
+      "content_html": "<p>Michael and Jake managed to record this week whilst Michael's family was visiting to talk about mince pies, changes coming in Laravel 5.4, new versions of Homestead and Valet, and Vue JS server-side rendering.</p>\n\n<p><strong>Show Links</strong></p>\n\n<ul>\n<li><a href=\"https://en.wikipedia.org/wiki/Mince_pie\">Mince pies</a></li>\n<li><a href=\"https://laravel-news.com/laravel-valet-2\">Valet 2.0</a></li>\n<li><a href=\"https://laravel-news.com/laravel-homestead-4-0-is-released-featuring-support-for-php-7-1\">Homestead 4.0</a></li>\n<li><a href=\"https://twitter.com/taylorotwell/status/806724672804950016\">Homestead using 62TB of traffic a month</a></li>\n<li><a href=\"https://shippingdocker.com/\">Shipping Docker</a> by <a href=\"https://twitter.com/fideloper\">Chris Fidao</a></li>\n<li><a href=\"https://laravel-news.com/release-cycle-changes\">Changes coming to the Laravel release cycle</a></li>\n<li><a href=\"https://laravel-news.com/route-improvements\">Route improvements in Laravel 5.4</a></li>\n<li><a href=\"https://laravel-news.com/blade-components-slots\">Blade components and slots</a></li>\n<li><a href=\"https://vuex.vuejs.org/en/\">Vuex</a></li>\n<li><a href=\"https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en\">Vue.js devtools</a></li>\n<li><a href=\"https://vuejs.org/v2/guide/state-management.html\">Simple state management in Vue</a></li>\n<li><a href=\"https://vuejs.org/v2/guide/ssr.html\">Vue server-side rendering</a></li>\n</ul>\n\n",
+      "summary": "Michael and Jake managed to record this week whilst Michael's family was visiting to talk about mince pies, changes coming in Laravel 5.4, new versions of Homestead and Valet, and Vue JS server-side rendering.\n",
+      "date_published": "2016-12-12 06:30:00 +1030",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/54893.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 40103909,
+        "duration_in_seconds": 2504
+      }
+    },
+    {
+      "id": "68ec544c-20a2-4c38-814e-275d159890ef",
+      "title": "PHP 7.1, contributing to Open Source for Christmas, and posting on Medium as a developer",
+      "url": "http://www.northmeetssouth.audio/16",
+      "content_text": "After some erratic recording, Jake and Michael return for consecutive weeks to talk about PHP 7.1, contributing to Open Source for Christmas, and posting on Medium as a developer.\n",
+      "content_html": "<p>After some erratic recording, Jake and Michael return for consecutive weeks to talk about PHP 7.1, contributing to Open Source for Christmas, and posting on Medium as a developer.</p>\n\n<p><img src=\"http://d.pr/i/V93u+\" alt=\"Minty\" /></p>\n\n<p><strong>Show Links</strong></p>\n\n<ul>\n<li><a href=\"https://laravel-news.com/php-7-1\">PHP 7.1 is now released – Featuring nullable types, class constants, and more</a></li>\n<li><a href=\"http://www.php.net/ChangeLog-7.php#7.1.0\">PHP 7.1 Changelog</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=Qlr-FGbhKaI\">Fun, Fun, Functions - Semicolons cannot save you!</a></li>\n<li><a href=\"https://24pullrequests.com\">24 Pull Requests</a></li>\n<li><a href=\"http://adventofcode.com\">Advent of Code</a></li>\n<li><a href=\"https://24ways.org\">24 Ways</a></li>\n<li><a href=\"https://adamwathan.me/test-driven-laravel/\">Test-Driven Laravel</a></li>\n<li><a href=\"https://github.com/JacobBennett/MediumSyntaxHighlight\">Jake's Medium syntax highlighting solution</a></li>\n</ul>\n\n",
+      "summary": "After some erratic recording, Jake and Michael return for consecutive weeks to talk about PHP 7.1, contributing to Open Source for Christmas, and posting on Medium as a developer.\n",
+      "date_published": "2016-12-05 06:30:00 +1030",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/54374.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 35401642,
+        "duration_in_seconds": 2209
+      }
+    },
+    {
+      "id": "e0116bf0-dc50-4ddc-a1e4-76600322a49c",
+      "title": "Giving thanks, verifying max post size, and Vue & ES6",
+      "url": "http://www.northmeetssouth.audio/15",
+      "content_text": "Jake and Michael record on Thanksgiving to catch up on what they've been up to, discuss dealing with overloading max post size, and what Jake learned about Vue and ES6.\n",
+      "content_html": "<p>Jake and Michael record on Thanksgiving to catch up on what they've been up to, discuss dealing with overloading max post size, and what Jake learned about Vue and ES6.</p>\n\n<p><strong>Show Links</strong></p>\n\n<ul>\n<li><a href=\"https://spark.laravel.com/\">Laravel Spark 50% off</a></li>\n<li><a href=\"https://laravel-news.com/2016/11/laravel-spark-integration-tests/\">Laravel Spark integration tests</a></li>\n<li><a href=\"https://twitter.com/adamwathan\">Adam Wathan's</a> <a href=\"https://adamwathan.me/test-driven-laravel/\">Test Driven Laravel</a></li>\n<li><a href=\"http://oreil.ly/CyberMonday16\">50% off O'Reilly</a> - Pick Up Matt Stauffer's <a href=\"https://laravelupandrunning.com/\">Laravel Up and Running</a></li>\n<li><a href=\"https://github.com/laravel/framework/issues/16538\">Uploads that exceed post_max_size causing misleading exceptions</a></li>\n<li><a href=\"https://github.com/mattstauffer/suggestive\">Suggestive</a></li>\n<li><a href=\"http://laravel-podcast-suggest.mattstauffer.co/app\">Laravel Podcast Suggestions</a></li>\n<li><a href=\"http://laravelpodcast.com/\">The Laravel Podcast</a></li>\n<li><a href=\"https://medium.com/@jacobbennett/clean-up-your-vue-modules-with-es6-arrow-functions-2ef65e348d41#.is4qb5oh4\">Clean up your Vue modules with ES6 arrow functions</a></li>\n<li><a href=\"https://twitter.com/jackfruh\">Jack Fruh</a></li>\n<li><a href=\"https://twitter.com/andrewdelprete\">Andrew Del Prete</a></li>\n<li><a href=\"https://twitter.com/wesbos\">Wes Bos</a>\n\n<ul>\n<li><a href=\"https://laravel-news.com/2016/11/react-for-beginners-and-es6-for-everyone/\">50% off React for Beginners and ES6 for everyone</a></li>\n<li><a href=\"https://reactforbeginners.com/\">React for Beginners</a></li>\n<li><a href=\"https://es6.io/\">ES6 for Everyone</a></li>\n</ul>\n</li>\n<li><a href=\"https://laracasts.com/series/es6-cliffsnotes\">Laracasts ES6</a></li>\n</ul>\n\n",
+      "summary": "Jake and Michael record on Thanksgiving to catch up on what they've been up to, discuss dealing with overloading max post size, and what Jake learned about Vue and ES6.\n",
+      "date_published": "2016-11-28 06:30:00 +1030",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/53788.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 29008278,
+        "duration_in_seconds": 1810
+      }
+    },
+    {
+      "id": "dc6e6825-3eda-461c-917e-d4769bc69b0f",
+      "title": "Up and Running with Matt Stauffer",
+      "url": "http://www.northmeetssouth.audio/14",
+      "content_text": "Jake and Michael welcome to the show Matt Stauffer and discuss how he got to where he is today, life as technical director of Tighten Co., hiring and onboarding new developers, and his very soon to be released book Laravel Up and Running.\n",
+      "content_html": "<p>Jake and Michael welcome to the show Matt Stauffer and discuss how he got to where he is today, life as technical director of Tighten Co., hiring and onboarding new developers, and his very soon to be released book Laravel Up and Running</p>\n\n<p><img src=\"http://d.pr/i/8yCo+\" alt=\"Let's Do This\" /></p>\n\n<p><strong>Matt Stauffer</strong></p>\n\n<ul>\n<li><a href=\"https://twitter.com/stauffermatt\">Twitter</a></li>\n<li><a href=\"https://mattstauffer.co/blog\">Blog</a></li>\n<li><a href=\"https://tighten.co\">Tighten Co.</a></li>\n</ul>\n\n\n<p><strong>Show Links</strong></p>\n\n<ul>\n<li><a href=\"https://confomo.com\">ConFOMO</a></li>\n<li><a href=\"https://gistlog.co\">Gistlog</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/TheDraw\">TheDraw</a></li>\n<li><a href=\"http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models\">7 Patterns to Refactor Fat ActiveRecord Models</a></li>\n<li><a href=\"https://larajobs.com\">Larajobs</a></li>\n<li><a href=\"https://breezy.hr\">Breezy HR</a></li>\n<li><a href=\"http://www.fiveminutegeekshow.com/91\">Commitments, not (or and) goals</a></li>\n<li><a href=\"https://laravelupandrunning.com\">Laravel: Up and Running</a></li>\n<li><a href=\"https://laracasts.com\">Laracasts</a></li>\n<li><a href=\"http://www.apple.com/macbook-pro\">MacBook Pro</a></li>\n<li><a href=\"https://medium.com/charged-tech/apple-just-told-the-world-it-has-no-idea-who-the-mac-is-for-722a2438389b#.lk01cf15e\">Apple just told the world it has no idea who the Mac is for</a></li>\n<li><a href=\"https://www.microsoft.com/en-us/surface/devices/surface-studio\">Surface Studio</a></li>\n<li>Bible</li>\n<li><a href=\"https://en.wikipedia.org/wiki/King_James_Version\">King James Version</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/English_Standard_Version\">English Standard Version</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/New_Living_Translation\">New Living Translation</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/New_International_Version\">New International Version</a></li>\n<li><a href=\"https://github.com/mattstauffer/suggestive\">Suggestive</a></li>\n<li><a href=\"http://www.laravelpodcast.com/episodes/49944-episode-49-big-ball-of-yarn\">Laravel Podcast - Episode 49: Big Ball Of Yarn</a></li>\n</ul>\n\n",
+      "summary": "Jake and Michael welcome to the show Matt Stauffer and discuss how he got to where he is today, life as technical director of Tighten Co., hiring and onboarding new developers, and his very soon to be released book Laravel Up and Running.\n",
+      "date_published": "2016-10-31 06:30:00 +1030",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/51562.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 60220067,
+        "duration_in_seconds": 3760
+      }
+    },
+    {
+      "id": "91fae4fe-4924-4e7b-95fe-53d0d439facf",
+      "title": "Denials of Service, MacBooks, and reviewing other people's code",
+      "url": "http://www.northmeetssouth.audio/13",
+      "content_text": "Jake and Michael relive the disconnection as a result of the great DDoS attack of October 2016, discuss changes in Laravel 5.3.19, rumoured features of the upcoming (and long overdue) MacBook refresh, as well as talk about working with and reviewing other people's code.\n",
+      "content_html": "<p>Jake and Michael relive the disconnection as a result of the great DDoS attack of October 2016, discuss changes in Laravel 5.3.19, rumoured features of the upcoming (and long overdue) MacBook refresh, as well as talk about working with and reviewing other people's code.</p>\n\n<p><strong>Show Links</strong></p>\n\n<ul>\n<li><a href=\"https://www.theguardian.com/technology/2016/oct/21/ddos-attack-dyn-internet-denial-service\">Major cyber attack disrupts internet services across Europe and US</a></li>\n<li><a href=\"http://dyn.com/blog/dyn-statement-on-10212016-ddos-attack/\">Dyn Statement on 10/21/2016 DDoS Attack</a></li>\n<li><a href=\"http://www.lifx.com\">LIFX Globes / Bulbs</a></li>\n<li><a href=\"https://vimeo.com/82920243\">Lights Out</a></li>\n<li><a href=\"https://vimeo.com/119573692\">Attic Panic</a></li>\n<li><a href=\"https://vimeo.com/187257744\">Borrowed Time</a></li>\n<li><a href=\"https://laravel-news.com/2016/10/laravel-v5-3-19/\">Laravel v5.3.19 is now released</a></li>\n<li><a href=\"http://image.intervention.io/\">Intervention Image</a></li>\n<li><a href=\"https://9to5mac.com/2016/10/22/kgi-apple-to-release-3-new-mac-laptops-at-next-weeks-event-new-imac-5k-display-coming-next-year/\">New MacBook Pro (rumours)</a></li>\n<li><a href=\"https://dotdev.co/a-git-workflow-for-client-facing-sign-off-28b7683bf01c\">A Git workflow for client-facing sign off</a></li>\n</ul>\n\n",
+      "summary": "Jake and Michael relive the disconnection as a result of the great DDoS attack of October 2016, discuss changes in Laravel 5.3.19, rumoured features of the upcoming (and long overdue) MacBook refresh, as well as talk about working with and reviewing other people's code.\n",
+      "date_published": "2016-10-24 06:30:00 +1030",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/50436.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 31640631,
+        "duration_in_seconds": 1974
+      }
+    },
+    {
+      "id": "007bc5f3-94e4-4a4e-8b03-c6ad94d88c49",
+      "title": "Laravel and Forge improvements, Yarn, and Hacktoberfest",
+      "url": "http://www.northmeetssouth.audio/12",
+      "content_text": "Jake and Michael return after a short break and talk about improvements to Laravel and Forge, the new package manager unveiled by Facebook, Yarn, and touch on the currently running Hacktoberfest.\n",
+      "content_html": "<p>Jake and Michael return after a short break and talk about improvements to Laravel and Forge, the new package manager unveiled by Facebook, Yarn, and touch on the currently running Hacktoberfest.</p>\n\n<p><img src=\"http://d.pr/i/k6lx+\" alt=\"Jake using a keyboard\" /></p>\n\n<p><strong>Show Links</strong></p>\n\n<ul>\n<li><a href=\"http://www.safe-house.com\">The Safe House</a></li>\n<li><a href=\"https://laravel-news.com/2016/10/unique-and-exists-validation/\">Revamped validation syntax</a></li>\n<li><a href=\"https://laravel-news.com/2016/10/laravel-model-factory-states/\">Model Factory States</a></li>\n<li>Forge Improvements</li>\n<li><a href=\"https://forge-blog.laravel.com/mysql-databases\">Manage MySQL Databases</a></li>\n<li><a href=\"https://forge-blog.laravel.com/php-71-and-56-now-available\">PHP 7.1</a></li>\n<li><a href=\"https://twitter.com/laravelphp/status/781507332932980736\">Custom VPS Load Balancers</a></li>\n<li><a href=\"https://twitter.com/laravelphp/status/786212659959967744\">GitLab Support</a></li>\n<li><a href=\"https://twitter.com/PHPRFCBot\">PHPRFCBot</a></li>\n<li><a href=\"https://twitter.com/rfcbot\">IETF RFCBot</a> by <a href=\"https://twitter.com/bradleyfalzon\">@bradleyfalzon</a></li>\n<li><a href=\"https://code.facebook.com/posts/1840075619545360\">Yarn</a></li>\n<li><a href=\"https://hacktoberfest.digitalocean.com\">Hacktoberfest</a></li>\n</ul>\n\n",
+      "summary": "Jake and Michael return after a short break and talk about improvements to Laravel and Forge, the new package manager unveiled by Facebook, Yarn, and touch on the currently running Hacktoberfest.\n",
+      "date_published": "2016-10-17 06:30:00 +1030",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/49839.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 34303398,
+        "duration_in_seconds": 2141
+      }
+    },
+    {
+      "id": "fa752791-e5d8-4b4e-93ce-ef9a953c8b89",
+      "title": "Meetups, the Universe, and master plans",
+      "url": "http://www.northmeetssouth.audio/11",
+      "content_text": "Jake and Michael discuss starting a PHP meetup and becoming a speaker, the GitHub Universe, and GitLab's Master Plan.\n",
+      "content_html": "<p>Jake and Michael discuss starting a PHP meetup and becoming a speaker, the GitHub Universe, and GitLab's Master Plan.</p>\n\n<p><strong>Show Links</strong></p>\n\n<ul>\n<li><a href=\"https://twitter.com/CalEvans\">Cal Evans</a></li>\n<li><a href=\"http://voicesoftheelephpant.com\">Voices of the Elephpant</a></li>\n<li><a href=\"https://phpsa.org\">PHP Adelaide</a></li>\n<li><a href=\"http://www.slideshare.net/deringer/developing-web-apps\">Michael's Developing Web Apps Slide Deck</a></li>\n<li><a href=\"http://www.codemash.org\">CodeMash</a></li>\n<li><a href=\"https://spin-a-good-yarn.com\">Spin a Good Yarn</a></li>\n<li><a href=\"http://githubuniverse.com\">GitHub Universe</a> (<a href=\"https://github.com/blog/2259-mission-report-github-universe\">Mission Report</a>)</li>\n<li><a href=\"https://waffle.io\">waffle.io</a></li>\n<li><a href=\"https://gitlab.com\">GitLab</a> (<a href=\"https://about.gitlab.com/2016/09/13/gitlab-master-plan/\">Master Plan</a>)</li>\n<li><a href=\"https://travis-ci.org\">Travis CI</a></li>\n<li><a href=\"https://styleci.io\">Style CI</a></li>\n<li><a href=\"https://github.com/adldap/adLDAP\">adLDAP</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Quicksort\">Quicksort</a></li>\n<li><a href=\"https://dredd.readthedocs.io/en/latest\">Dredd</a></li>\n<li><a href=\"https://twitter.com/philsturgeon\">Phil Sturgeon</a></li>\n<li><a href=\"https://apisyouwonthate.com\">Build APIs You Won't Hate</a></li>\n</ul>\n\n",
+      "summary": "Jake and Michael discuss starting a PHP meetup and becoming a speaker, the GitHub Universe, and GitLab's Master Plan.\n",
+      "date_published": "2016-09-27 07:30:00 +0930",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/48499.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 30272519,
+        "duration_in_seconds": 1889
+      }
+    },
+    {
+      "id": "e2c05e5e-4b6c-4127-9dcf-f9cb8bec14c0",
+      "title": "Jake and Michael's Introduce Adam Wathan in under an hour",
+      "url": "http://www.northmeetssouth.audio/10",
+      "content_text": "In this, our tenth episode, Jake and Michael (but mostly Jake) talk with Adam Wathan on his journey towards the master of collections, not touching his friend's privates, as well as his plans for his upcoming Test Driven Laravel course.\n",
+      "content_html": "<p>In this, our tenth episode, Jake and Michael (but mostly Jake) talk with Adam Wathan on his journey towards the master of collections, not touching his friend's privates, as well as his plans for his upcoming Test Driven Laravel course.</p>\n\n<p><strong>Show Links</strong></p>\n\n<ul>\n<li><a href=\"https://twitter.com/adamwathan\">Adam Wathan</a></li>\n<li><a href=\"http://www.fullstackradio.com\">Full Stack Radio</a></li>\n<li><a href=\"https://www.amazon.com/Teach-Yourself-HTML-Hours-Sams/dp/0672317249\">Sam's Teach Yourself HTML4 in 24 Hours</a></li>\n<li><a href=\"http://www.reaper.fm\">Reaper</a></li>\n<li><a href=\"http://vehikl.com\">Vehikl</a> (formerly Chrome Media)</li>\n<li><a href=\"http://buildwithbeard.com\">BeardCSS</a></li>\n<li><a href=\"https://tighten.co\">Tighten Co.</a></li>\n<li><a href=\"https://adamwathan.me/refactoring-to-collections\">Refactoring to Collections</a></li>\n<li><a href=\"http://github.com/tightenco/jigsaw\">Jigsaw</a></li>\n<li><a href=\"https://github.com/tightenco/mailthief\">MailThief</a></li>\n<li><a href=\"https://laravel.com/docs/valet\">Laravel Valet</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=H3Z4Gk9Wc0s\">Laravel Valet Trailer</a></li>\n<li><a href=\"http://php-osx.liip.ch\">PHP-OSX</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Law_of_Demeter\">Law of Demeter</a></li>\n<li><a href=\"http://testdrivenlaravel.com\">Test Driven Laravel</a></li>\n</ul>\n\n",
+      "summary": "In this, our tenth episode, Jake and Michael (but mostly Jake) talk with Adam Wathan on his journey towards the master of collections, not touching his friend's privates, as well as his plans for his upcoming Test Driven Laravel course.\n",
+      "date_published": "2016-09-19 07:30:00 +0930",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/47543.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 47326745,
+        "duration_in_seconds": 2955
+      }
+    },
+    {
+      "id": "fe522a7a-e396-4111-a679-b24dc95c5ad8",
+      "title": "Post-Hiatus Catchups, Migrating To Forge And Envoyer, And Certification",
+      "url": "http://www.northmeetssouth.audio/9",
+      "content_text": "After a brief hiatus, Jacob and Michael catch up on what they've been working on, migrating internal servers to using Forge and Envoyer, and tread ever so lightly around the potentially controversial Laravel Certification Program.\n",
+      "content_html": "<p>After a brief hiatus, Jacob and Michael catch up on what they've been working on, migrating internal servers to using Forge and Envoyer, and tread ever so lightly around the potentially controversial Laravel Certification Program.</p>\n\n<p><strong>Show Links</strong></p>\n\n<ul>\n<li><a href=\"https://forge.laravel.com\">Laravel Forge</a></li>\n<li><a href=\"https://envoyer.io\">Envoyer</a></li>\n<li><a href=\"https://brickftp.com\">BrickFTP</a></li>\n<li><a href=\"http://api.symfony.com/3.1/Symfony/Component/HttpFoundation/ParameterBag.html\">Symfony ParameterBag</a></li>\n<li><a href=\"https://github.com/thephpleague/flysystem-sftp\">Flysystem SFTP Driver</a></li>\n<li><a href=\"https://docs.spatie.be/laravel-backup/v3/introduction\">Laravel Backup</a> by <a href=\"https://spatie.be\">Spatie</a></li>\n<li><a href=\"https://github.com/laravel/framework/pull/15216\">between / unlessBetween</a> with Laravel's <a href=\"https://laravel.com/docs/5.3/scheduling\">Scheduler</a></li>\n<li><a href=\"http://davidhemphill.com/blog/2016/09/06/presenters-in-laravel\">Presenters in Laravel</a> by <a href=\"https://twitter.com/davidhemphill\">David Hemphill</a></li>\n<li><a href=\"https://laravel.com/certification/\">Laravel Certification Program</a></li>\n<li><a href=\"https://dyrynda.com.au/blog/on-the-laravel-certification-program\">On the Laravel Certification Program</a></li>\n</ul>\n\n",
+      "summary": "After a brief hiatus, Jacob and Michael catch up on what they've been working on, migrating internal servers to using Forge and Envoyer, and tread ever so lightly around the potentially controversial Laravel Certification Program.\n",
+      "date_published": "2016-09-11 14:00:00 +0930",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/46647.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 33415532,
+        "duration_in_seconds": 2085
+      }
+    },
+    {
+      "id": "20ef7eb0-a829-41ae-b21a-53f3f61cb35d",
+      "title": "No Man's Sky, HTTP2, and Majestic Monoliths",
+      "url": "http://www.northmeetssouth.audio/7",
+      "content_text": "In this episode, Jacob and Michael talk about the recently released No Man's Sky, HTTP/2 middleware in Laravel, MailThief, and how Majestic Monoliths stack up against microservices.\n",
+      "content_html": "<p>In this episode, Jacob and Michael talk about the recently released No Man's Sky, HTTP/2 middleware in Laravel, MailThief, and how Majestic Monoliths stack up against microservices.</p>\n\n<p><strong>Show Links</strong></p>\n\n<ul>\n<li><a href=\"http://www.no-mans-sky.com\">No Man's Sky</a></li>\n<li><a href=\"http://www.lego.com/en-us/starwars/games/videogame\">Lego: The Force Awakens</a></li>\n<li><a href=\"https://www.facebook.com/polygon/videos/1241235675889058\">How Big Is No Man's Sky?</a></li>\n<li><a href=\"https://blog.eu.playstation.com/2014/08/26/exploring-18446744073709551616-planets-mans-sky\">Eploring the 2<sup>64</sup> planets of No Man's Sky</a> - a 64-bit integer may actually be <a href=\"https://en.wikipedia.org/wiki/9223372036854775807\">2<sup>63</sup> - 1, not 2<sup>64</sup></a></li>\n<li><a href=\"https://streamacon.com/video/laracon-us/ben-ramsey-long-live-http2\">Ben Ramsey - Long Live HTTP/2 from Laracon US</a></li>\n<li><a href=\"https://twitter.com/tomschlick\">Tom Schlick</a> - <a href=\"https://github.com/tomschlick/laravel-http2-server-push\">Laravel HTTP/2 Server Push middleware</a></li>\n<li>Jacob's <a href=\"https://github.com/JacobBennett/laravel-HTTP2ServerPush\">HTTP/2 Server Push middleware</a></li>\n<li><a href=\"https://laravel-news.com/2016/08/http2-server-push-middleware/\">Easily Integrate HTTP/2 Server Push with a Laravel Middleware</a> via Laravel News</li>\n<li><a href=\"https://twitter.com/grahamjcampbell\">Graham Campbell</a> (<a href=\"https://github.com/JacobBennett/laravel-HTTP2ServerPush/issues/5\">HTTP/2 Server Push comments</a>)</li>\n<li><a href=\"https://twitter.com/freekmurze\">Freek Van der Herten</a></li>\n<li>PJAX Middleware</li>\n<li><a href=\"https://github.com/spatie/laravel-pjax\">Spatie</a></li>\n<li><a href=\"https://github.com/JacobBennett/pjax\">Jacob</a></li>\n<li><a href=\"https://github.com/tightenco/mailthief\">MailThief</a></li>\n<li><a href=\"https://laravel.com/docs/master/mail\">Mailables in Laravel 5.3</a></li>\n<li><a href=\"https://twitter.com/dhh\">DHH</a> on <a href=\"https://m.signalvnoise.com/the-majestic-monolith-29166d022228#.aju7guvg4\">The Majestic Monolith</a></li>\n<li><a href=\"http://jeromedalbert.com/how-dhh-organizes-his-rails-controllers\">How DHH Organizes His Rails Controllers</a> from an <a href=\"http://www.fullstackradio.com/32\">interview on Full Stack Radio</a></li>\n<li><a href=\"http://www.slideshare.net/SamanthaGeitz1/serviceoriented-architecture-62986976\">Service-Oriented Architecture</a> at Laracon US 2015 by <a href=\"https://twitter.com/SamanthaGeitz\">Samantha Geitz</a></li>\n<li><a href=\"https://www.phproundtable.com/episode/service-oriented-architecture-and-microservices\">Service Oriented Architecture and Microservices</a> on PHP Round Table</li>\n</ul>\n\n",
+      "summary": "In this episode, Jacob and Michael talk about the recently released No Man's Sky, HTTP/2 middleware in Laravel, MailThief, and how Majestic Monoliths stack up against microservices.\n",
+      "date_published": "2016-08-16 21:00:00 +0930",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/44549.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 27532998,
+        "duration_in_seconds": 1717
+      }
+    },
+    {
+      "id": "f551df85-3656-49cd-a268-127afcca1b26",
+      "title": "Post-Laracon Crash",
+      "url": "http://www.northmeetssouth.audio/6",
+      "content_text": "Jacob and Michael catch up for the first time since returning from Laracon, discussing some of their favourite parts, talks, and memorable parts of the three-day event.\n",
+      "content_html": "<p>Jacob and Michael catch up for the first time since returning from Laracon, discussing some of their favourite parts, talks, and memorable parts of the three-day event.</p>\n\n<p><strong>Show Links</strong></p>\n\n<ul>\n<li>Laravel <a href=\"https://laravel.com/docs/master/notifications\">Notifiable</a> docs</li>\n<li>Laravel <a href=\"https://laravel.com/docs/master/mail\">Mailable</a> docs</li>\n<li><a href=\"https://speakerdeck.com/skmetz/get-a-whiff-of-this?utm_campaign=Laravel%20News&amp;utm_medium=web&amp;utm_source=ln114\">Sandi Metz - Get a Whiff of This</a></li>\n<li><a href=\"http://jason.pureconcepts.net/2016/08/practicing-yagni/\">Jason McReary - YAGNI</a></li>\n<li><a href=\"https://twitter.com/rjs\">Ryan Singer</a> - live demo, no slides. Wait for the videos!</li>\n<li><a href=\"https://speakerdeck.com/adamwathan/curing-the-common-loop?utm_campaign=Laravel%20News&amp;utm_medium=web&amp;utm_source=ln114\">Adam Wathan - Curing the Common Loop</a></li>\n<li><a href=\"https://laravel-news.com/2016/08/laracon-us-2016-recap/\">Laracon US 2016 Recap</a></li>\n<li><a href=\"https://confomo.com\">ConFOMO</a></li>\n</ul>\n\n",
+      "summary": "Jacob and Michael catch up for the first time since returning from Laracon, discussing some of their favourite parts, talks, and memorable parts of the three-day event.\n",
+      "date_published": "2016-08-11 10:00:00 +0930",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/44331.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 32496972,
+        "duration_in_seconds": 2028
+      }
+    },
+    {
+      "id": "976b9ea0-de56-4ea8-82c9-688e53421a66",
+      "title": "Gotta catch 'em all, developer tools, and mismatched exceptions",
+      "url": "http://www.northmeetssouth.audio/5",
+      "content_text": "In this episode, Jacob and Michael talk about the latest craze Pokemon go, the tools they use for their daily development and productivity workflows, and handling token mismatch exceptions in the Laravel framework.\n",
+      "content_html": "<p>In this episode, Jacob and Michael talk about the latest craze Pokemon go, the tools they use for their daily development and productivity workflows, and handling token mismatch exceptions in the Laravel framework.</p>\n\n<p><strong>Show Links</strong></p>\n\n<ul>\n<li>Pokemon Go - <a href=\"https://itunes.apple.com/au/app/pokemon-go/id1094591345?mt=8\">iTunes</a> / <a href=\"https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo&amp;hl=en\">Google Play</a></li>\n<li><a href=\"http://www.cessnockadvertiser.com.au/story/4049151/pokemon-live-action-movie-detective-pikachu-confirmed-by-legendary-pictures/?cs=36\">Detective Pikachu</a> live action Pokemon film</li>\n<li><a href=\"https://blog.tighten.co/tools-of-the-trade-software-we-love-or-tolerate-at-tighten\">Tools of the Trade: Software we love (or tolerate) at Tighten</a></li>\n<li><a href=\"http://www.vim.org\">vim</a></li>\n<li><a href=\"https://www.sublimetext.com\">Sublime Text</a></li>\n<li><a href=\"https://twitter.com/vimgifs\">vimgifs</a> on Twitter</li>\n<li><a href=\"https://laravel.com/docs/5.2/valet\">Laravel Valet</a></li>\n<li><a href=\"https://laravel.com/docs/5.2/homestead\">Laravel Homestead</a></li>\n<li><a href=\"https://www.jetbrains.com/phpstorm\">PhpStorm</a> (<a href=\"https://laracasts.com/series/how-to-be-awesome-in-phpstorm\">Laracasts videos</a></li>\n<li><a href=\"https://manytricks.com/moom\">Moom</a></li>\n<li><a href=\"https://www.spectacleapp.com\">Spectacle</a></li>\n<li><a href=\"http://sequelpro.com\">Sequel Pro</a></li>\n<li><a href=\"https://www.iterm2.com\">iTerm</a></li>\n<li><a href=\"https://slack.com\">Slack</a></li>\n<li><a href=\"https://www.sourcetreeapp.com\">SourceTree</a></li>\n<li><a href=\"https://github.com/tpope/vim-fugitive\">vim fugitive</a></li>\n<li><a href=\"https://desktop.github.com\">GitHub Desktop</a></li>\n<li><a href=\"https://www.sublimetext.com/docs/2/osx_command_line.html\">Sublime Text from the command line</a></li>\n<li><a href=\"https://dotdev.co/a-git-workflow-for-client-facing-sign-off-28b7683bf01c\">A git workflow for client-facing sign off</a></li>\n<li><a href=\"https://gistlog.co/JacobBennett/d246789b546747b391b48231f44c6007\">The Hows and Whys of Software Development (Writing a SDLC)</a></li>\n<li><a href=\"http://nodegh.io\">nodegh</a></li>\n<li><a href=\"https://hub.github.com\">hub</a></li>\n<li><a href=\"https://github.com/rupa/z\">z</a></li>\n<li><a href=\"https://twitter.com/JackFruh/status/755963135056424962\">Wunderlist Conference</a></li>\n<li><a href=\"https://todoist.com\">Todoist</a></li>\n<li><a href=\"https://dyrynda.com.au/blog/better-handling-of-tokenmismatchexception-in-laravel\">Better handling of TokenMismatchException in Laravel</a></li>\n<li><a href=\"https://rollbar.com\">Rollbar</a></li>\n<li><a href=\"https://getsentry.com\">Sentry</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Jacob and Michael talk about the latest craze Pokemon go, the tools they use for their daily development and productivity workflows, and handling token mismatch exceptions in the Laravel framework.\n",
+      "date_published": "2016-07-26 07:00:00 +0930",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/43124.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 32139797,
+        "duration_in_seconds": 2006
+      }
+    },
+    {
+      "id": "0d715274-4835-4881-b77b-e795474722b0",
+      "title": "Music, Beards, and MMA with David Hemphill",
+      "url": "http://www.northmeetssouth.audio/4",
+      "content_text": "This episode sees Jacob and Michael interview their first guest, co-host of the Dads in Development podcast, David Hemphill. We get to know a little bit about where David is from, how he got to where he is, and what he does.\n",
+      "content_html": "<p>This episode sees Jacob and Michael interview their first guest, co-host of the Dads in Development podcast, David Hemphill. We get to know a little bit about where David is from, how he got to where he is, and what he does.</p>\n\n<p><strong>Show Links</strong></p>\n\n<ul>\n<li><a href=\"http://davidhemphill.com\">David Hemphill</a> -  <a href=\"https://twitter.com/davidhemphill\">@davidhemphill</a></li>\n<li><a href=\"http://reblventures.com\">Rebl Ventures</a></li>\n<li><a href=\"http://monarkee.com\">Monarkee</a></li>\n<li><a href=\"https://www.musicbed.com\">Music Bed</a></li>\n<li><a href=\"http://churchmedia.com\">Church Media Group</a></li>\n<li><a href=\"http://buildwithbeard.com\">Beard CSS</a></li>\n<li><a href=\"http://acss.io\">Atomic CSS</a> by Yahoo!</li>\n<li><a href=\"http://solid.buzzfeed.com\">Solid</a> by BuzzFeed</li>\n<li><a href=\"https://github.com/inuitcss/getting-started\">InuitCSS</a></li>\n<li><a href=\"http://emmet.io\">Emmet</a></li>\n<li><a href=\"https://www.w3.org/TR/css-syntax-3/#escaping\">@-symbols in CSS classes</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Kombucha\">Kombucha (drink)</a></li>\n<li><a href=\"https://www.waveapps.com\">Wave Apps</a></li>\n<li><a href=\"https://stripe.com\">Stripe</a></li>\n<li><a href=\"http://www.dadsindev.com\">Dads in Development</a> with <a href=\"https://twitter.com/andrewdelprete\">Andrew Del Prete</a></li>\n<li><a href=\"http://jigsaw.tighten.co\">Jigsaw</a> by <a href=\"https://tighten.co\">Tighten Co.</a></li>\n<li><a href=\"https://pushsilver.com\">PushSilver</a> - sign up for free and get three free invoices per month</li>\n<li><a href=\"https://www.youtube.com/watch?v=398m8RQMHzE\">David Hemphill vs. RJ Couch - Cage of Honor 39</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=XiWB6g-Y1AI\">David Hemphill vs. Jerry Walker</a></li>\n</ul>\n\n",
+      "summary": "This episode sees Jacob and Michael interview their first guest, co-host of the Dads in Development podcast, David Hemphill. We get to know a little bit about where David is from, how he got to where he is, and what he does.\n",
+      "date_published": "2016-07-12 08:45:00 +0930",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/42236.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 33003633,
+        "duration_in_seconds": 2058
+      }
+    },
+    {
+      "id": "c9c32b46-dc55-462a-8b0e-dc951c72c8c0",
+      "title": "Wrong Abstractions, Valet, and MailThief",
+      "url": "http://www.northmeetssouth.audio/3",
+      "content_text": "In this episode, Jacob and Michael discuss Sandi Metz's article \"The Wrong Abstraction\", Laravel Valet and their experiences with developing on both Mac and Windows, and the new mail testing package from Tighten Co, MailThief.\n",
+      "content_html": "<p>In this episode, Jacob and Michael discuss Sandi Metz's article \"The Wrong Abstraction\", Laravel Valet and their experiences with developing on both Mac and Windows, and the new mail testing package from Tighten Co, MailThief.</p>\n\n<p><strong>Show Links</strong></p>\n\n<ul>\n<li><a href=\"http://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction\">The Wrong Abstraction</a> by <a href=\"http://twitter.com/sandimetz\">Sandi Metz</a></li>\n<li><a href=\"http://www.sandimetz.com/products\">Practical Object Oriented Design in Ruby (POODR)</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Don%27t_repeat_yourself\">DRY - Don't Repeat Yourself</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Rule_of_three_%28computer_programming%29\">Rule of three</a></li>\n<li><a href=\"https://laravel.com/docs/5.2/valet\">Laravel Valet</a></li>\n<li><a href=\"https://ngrok.com\">ngrok</a></li>\n<li><a href=\"https://www.picatic.com\">Picatic</a></li>\n<li><a href=\"https://laragon.org\">Laragon</a></li>\n<li><a href=\"https://twitter.com/taylorotwell/status/746790490167599105\">Taylor Otwell and the Windows laptop</a></li>\n<li><a href=\"https://github.com/tightenco/mailthief\">MailThief</a></li>\n<li><a href=\"https://mailtrap.io\">MailTrap</a></li>\n<li><a href=\"https://mailcatcher.me\">MailCatcher</a></li>\n<li><a href=\"https://tighten.co\">Tighten Co.</a></li>\n<li><a href=\"https://www.indatus.com\">Indatus</a>, now a part of <a href=\"http://www.realpage.com\">RealPage</a></li>\n</ul>\n\n",
+      "summary": "In this episode, Jacob and Michael discuss Sandi Metz's article \"The Wrong Abstraction\", Laravel Valet and their experiences with developing on both Mac and Windows, and the new mail testing package from Tighten Co, MailThief.\n",
+      "date_published": "2016-06-29 08:43:00 +0930",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/41032.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 21463022,
+        "duration_in_seconds": 1783
+      }
+    },
+    {
+      "id": "600bef05-beb7-4c63-9cb7-140c20c2fac3",
+      "title": "Refactoring to Laracon",
+      "url": "http://www.northmeetssouth.audio/2",
+      "content_text": "In this episode, Jacob and Michael talk about the upcoming Laracon US in Louisville, Kentucky and share their thoughts on Adam Wathan's recently released Refactoring to Collections book.\n",
+      "content_html": "<p>In this episode, Jacob and Michael talk about the upcoming Laracon US in Louisville, Kentucky and share their thoughts on Adam Wathan's recently released Refactoring to Collections book.</p>\n\n<ul>\n<li><a href=\"http://laracon.us\">Laracon US</a></li>\n<li><a href=\"http://adamwathan.me/refactoring-to-collections\">Refactoring to Collections</a> by <a href=\"https://twitter.com/adamwathan\">Adam Wathan</a></li>\n<li><a href=\"https://dyrynda.com.au/blog/review-adam-wathans-refactoring-to-collections\">Review: Adam Wathan's Refactoring to Collections</a></li>\n</ul>\n\n\n<p>Adam has graciously offered a 25% discount to the first ten listeners who use the coupon code \"northmeetssouth\" 🔥</p>\n",
+      "summary": "In this episode, Jacob and Michael talk about the upcoming Laracon US in Louisville, Kentucky and share their thoughts on Adam Wathan's recently released Refactoring to Collections book.\n",
+      "date_published": "2016-06-22 12:59:00 +0930",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/40546.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 25294970,
+        "duration_in_seconds": 1579
+      }
+    },
+    {
+      "id": "f71912c2-2b73-4194-88a7-e85ef2ce9e98",
+      "title": "Introductions",
+      "url": "http://www.northmeetssouth.audio/1",
+      "content_text": "Jacob and Michael record their first episode, introduce themselves, and talk a bit about what they've been working on.\n",
+      "content_html": "<ul>\n<li><a href=\"https://www.hostworks.com.au\">Hostworks</a></li>\n<li><a href=\"http://www.thefoundry.com.au\">The Foundry</a></li>\n<li><a href=\"http://confomo.com\">ConFOMO</a></li>\n<li><a href=\"https://dotdev.co\">.dev</a></li>\n<li><a href=\"https://www.wilbergroup.com\">Wilber Group</a></li>\n<li><a href=\"https://github.com/michaeldyrynda/laravel-nullable-fields\">Laravel Nullable Fields</a> (<a href=\"https://dyrynda.com.au/blog/working-with-nullable-field-in-eloquent-models-part-deux\">blog post</a>)</li>\n<li><a href=\"https://github.com/michaeldyrynda/laravel-cascade-soft-deletes\">Laravel Cascade Soft Deletes</a> (<a href=\"https://dyrynda.com.au/blog/cascading-soft-deletes-with-laravel-and-eloquent\">blog post</a>)</li>\n<li><a href=\"https://asked.io/cascading-softdeletes-with-laravel-5\">Cascading Soft Deletes with Laravel 5</a></li>\n<li><a href=\"https://jacobbennett.github.io/VoiceTimer/\">Voice Timer</a></li>\n<li><a href=\"https://github.com/TalAter/annyang\">annyang!</a></li>\n<li><a href=\"http://adamwathan.me/refactoring-to-collections\">Refactoring to Collections</a> by <a href=\"https://twitter.com/adamwathan\">Adam Wathan</a></li>\n<li><a href=\"https://dyrynda.com.au/podcasts\">Michael's Recommended Podcasts</a></li>\n<li><a href=\"https://overcast.fm\">Overcast</a></li>\n<li><a href=\"https://laravel.com/docs/5.2/queues\">Laravel Queues</a></li>\n<li><a href=\"https://gistlog.co/JacobBennett/e60d6a932db98985f160146b09455988\">How Laravel's SerializesModels Trait Could Save Your Bacon</a></li>\n<li><a href=\"https://laravel.com/docs/5.2/events\">Laravel Events</a></li>\n</ul>\n\n",
+      "summary": "Jacob and Michael record their first episode, introduce themselves, and talk a bit about what they've been working on.\n",
+      "date_published": "2016-06-13 12:00:00 +0930",
+      "author": {
+        "name": "Jacob Bennett and Michael Dyrynda"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/39404.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 31351275,
+        "duration_in_seconds": 1959
+      }
+    }
+  ]
+}

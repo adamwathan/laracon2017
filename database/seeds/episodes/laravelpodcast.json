@@ -1,0 +1,967 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "The Laravel Podcast",
+  "home_page_url": "http://laravel.com",
+  "feed_url": "https://rss.simplecast.com/podcasts/351/rss",
+  "description": "The Laravel Podcast brings you Laravel and PHP development news and discussion. The podcast is hosted by Matt Stauffer and regular guests include Taylor Otwell (the creator of Laravel) and Jeffrey Way (the creator of Laracasts).",
+  "author": {
+    "url": "http://laravel.com",
+    "name": "Taylor Otwell"
+  },
+  "items": [
+    {
+      "id": "a18d78d2-e3b2-47f5-bc41-a7968b1ff400",
+      "title": "Episode 53: Bigger & Better",
+      "url": "http://www.laravelpodcast.com/episodes/68236-episode-53-bigger-better",
+      "content_text": "In this episode, the crew talks about enterprise applications, scalability, and productivity.\n",
+      "content_html": "<p>In this episode, the crew talks about enterprise applications, scalability, and productivity.</p>\n",
+      "summary": "In this episode, the crew talks about enterprise applications, scalability, and productivity.\n",
+      "date_published": "2017-04-28 11:53:00 -0500",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/68236.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 51116511,
+        "duration_in_seconds": 3193
+      }
+    },
+    {
+      "id": "a389fea7-8dae-4c11-9077-26b926efbadd",
+      "title": "Episode 52: Doug Pro",
+      "url": "http://www.laravelpodcast.com/episodes/59891-episode-52-doug-pro",
+      "content_text": "In this episode, the crew talks about Mix, Dusk, Laracon US, package development using TestBench, GitLab, and more.\n",
+      "content_html": "<p>In this episode, the crew talks about Mix, Dusk, Laracon US, package development using TestBench, GitLab, and more.</p>\n\n<ul>\n<li><a href=\"https://about.gitlab.com/2017/02/01/gitlab-dot-com-database-incident/\">Gitlab.com Database Incident</a></li>\n<li><a href=\"http://laravelfromscratch.com/\">Laravel from Scratch</a></li>\n<li><a href=\"http://laracon.us\">Laracon</a></li>\n<li><a href=\"https://github.com/orchestral/testbench\">Orchestra Testbench</a></li>\n</ul>\n\n",
+      "summary": "In this episode, the crew talks about Mix, Dusk, Laracon US, package development using TestBench, GitLab, and more.\n",
+      "date_published": "2017-02-08 12:31:00 -0600",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/59891.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 39190466,
+        "duration_in_seconds": 2448
+      }
+    },
+    {
+      "id": "7b43f7bf-8277-4410-b1f3-99351250d822",
+      "title": "Episode 51: Dusky Christmas",
+      "url": "http://www.laravelpodcast.com/episodes/55797-episode-51-dusky-christmas",
+      "content_text": "In this episode, the crew discusses Laravel Mix, Markdown mailables, Laravel Dusk, Laravel 5.4, and more.\n",
+      "content_html": "<p>In this episode, the crew discusses Laravel Mix, Markdown mailables, Laravel Dusk, Laravel 5.4, and more.</p>\n\n<ul>\n<li>Matt's <a href=\"https://www.youtube.com/playlist?list=PLgJIx0-UaB9Qe1O7NDCF8raGyPMPM7cj_\">Learning Vue.JS Out Loud</a> videos</li>\n<li><a href=\"http://www.fiveminutegeekshow.com/94\">Five-Minute Geek Show: One Easy Tip to Being In the Top 2% of Freelancers</a></li>\n<li><a href=\"https://twitter.com/jeffrey_way/status/811338802962792448\">Laravel Mix tweet</a></li>\n<li><a href=\"https://laravel-news.com/laravel-markdown-emails\">Laravel News: Markdown Mail</a></li>\n<li><a href=\"http://vuecasts.com/\">VueCasts</a></li>\n<li><a href=\"http://laravelupandrunning.com/\">Laravel: Up and Running - the book</a></li>\n<li><a href=\"http://course.testdrivenlaravel.com/\">Test-Driven Laravel - video course</a></li>\n<li><a href=\"http://laracon.us\">Laracon US</a></li>\n</ul>\n\n",
+      "summary": "In this episode, the crew discusses Laravel Mix, Markdown mailables, Laravel Dusk, Laravel 5.4, and more.\n",
+      "date_published": "2016-12-23 08:16:00 -0600",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/55797.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 54931241,
+        "duration_in_seconds": 3432
+      }
+    },
+    {
+      "id": "32b54f5e-977b-4c9a-8313-903a1395bba3",
+      "title": "Episode 50: Turkey Day Touch Bar",
+      "url": "http://www.laravelpodcast.com/episodes/53433-episode-50-turkey-day-touch-bar",
+      "content_text": "In this episode, the crew discusses new Apple announcements, the Laracast redesign and improvements, Forge, Laravel 5.3 and 5.4 changes, and more.\n",
+      "content_html": "<p>In this episode, the crew discusses new Apple announcements, the Laracast redesign and improvements, Forge, Laravel 5.3 and 5.4 changes, and more.</p>\n\n<ul>\n<li><a href=\"https://laracasts.com/series/setup-a-mac-dev-machine-from-scratch\">Set up a Mac Dev Machine From Scratch</a></li>\n<li><a href=\"https://itunes.apple.com/us/app/penultimate/id354098826\">Penultimate</a></li>\n<li><a href=\"http://www.bear-writer.com/\">Bear</a></li>\n<li><a href=\"https://github.com/mattstauffer/suggestive\">Suggestive on GitHub</a></li>\n<li><a href=\"http://laravel-podcast-suggest.mattstauffer.co/\">Laravel Podcast Suggestive</a></li>\n<li><a href=\"https://laravel-news.com/2016/11/blade-components-slots\">Laravel News on Components and Slots</a></li>\n<li><a href=\"http://themsaid.com/laravel-54-localization-json-20161117/\">Mohamed Said on Laravel 5.4 localization using JSON files</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=f5uik5fgIaI\">Nintendo Switch ad</a></li>\n</ul>\n\n",
+      "summary": "In this episode, the crew discusses new Apple announcements, the Laracast redesign and improvements, Forge, Laravel 5.3 and 5.4 changes, and more.\n",
+      "date_published": "2016-11-21 10:40:00 -0600",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/53433.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 46918969,
+        "duration_in_seconds": 2931
+      }
+    },
+    {
+      "id": "09e8c774-c178-4301-b770-26c70c55296a",
+      "title": "Episode 49: Big Ball Of Yarn",
+      "url": "http://www.laravelpodcast.com/episodes/49944-episode-49-big-ball-of-yarn",
+      "content_text": "In this episode, the crew discusses PHP 7.1, Laravel Forge, Yarn, Validator improvements, and more.\n",
+      "content_html": "<p>In this episode, the crew discusses PHP 7.1, Laravel Forge, Yarn, Validator improvements, and more.</p>\n\n<ul>\n<li><a href=\"https://yarnpkg.com/\">Yarn</a></li>\n<li><a href=\"https://laracasts.com/lessons/meet-yarn-your-new-package-manager\">Yarn Laracasts</a></li>\n<li><a href=\"https://laravel.com/docs/5.3/validation#rule-unique\">Fluent builder unique/exists</a></li>\n<li><a href=\"https://dotdev.co/upcoming-changes-in-php-7-1-76ebea53b820#.qe27nlx3q\">PHP 7.1 release notes</a></li>\n</ul>\n\n",
+      "summary": "In this episode, the crew discusses PHP 7.1, Laravel Forge, Yarn, Validator improvements, and more.\n",
+      "date_published": "2016-10-17 11:53:00 -0500",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/49944.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 36595377,
+        "duration_in_seconds": 2286
+      }
+    },
+    {
+      "id": "4cd7877e-1f56-4775-bf01-e84f5931d819",
+      "title": "Episode 48: Bing Bong Loves dd()",
+      "url": "http://www.laravelpodcast.com/episodes/46453-episode-48-bing-bong-loves-dd",
+      "content_text": "In this episode, the crew discusses Laracon US &amp; EU, Laravel 5.3, Laravel's first hire, and the heart-wrenching sense of loss created by Bing Bong's death.\n",
+      "content_html": "<p>In this episode, the crew discusses Laracon US &amp; EU, Laravel 5.3, Laravel's first hire, and the heart-wrenching sense of loss created by Bing Bong's death.</p>\n\n<ul>\n<li><a href=\"https://streamacon.com\">Streamacon</a></li>\n<li><a href=\"https://streamacon.com/videos\">Laracon US videos</a></li>\n<li><a href=\"https://laracasts.com/series/whats-new-in-laravel-5-3\">Laracasts 5.3 series</a></li>\n<li><a href=\"https://mattstauffer.co/blog/series/new-features-in-laravel-5-3\">Mattstauffer.co 5.3 series</a></li>\n<li><a href=\"https://laravel-news.com/2016/06/look-whats-coming-laravel-5-3/\">Laravel news 5.3 release post</a></li>\n<li><a href=\"https://mattstauffer.co/blog/whats-up-with-laravel-up-and-running\">What's up with Laravel Up and Running?</a></li>\n<li><a href=\"https://github.com/laravel/docs/commit/bcdd8d68aaf8755e43d0343cb88e92d0ab672ac9\">Soft delete commit note</a></li>\n<li><a href=\"https://github.com/tightenco/quicksand\">Tighten Quicksand</a></li>\n</ul>\n\n",
+      "summary": "In this episode, the crew discusses Laracon US & EU, Laravel 5.3, Laravel's first hire, and the heart-wrenching sense of loss created by Bing Bong's death.\n",
+      "date_published": "2016-09-07 10:39:00 -0500",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/46453.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 36406482,
+        "duration_in_seconds": 2274
+      }
+    },
+    {
+      "id": "89deee5f-dd69-4a2c-8e4d-0d3f74fd2a58",
+      "title": "Episode 47: Musical Routes",
+      "url": "http://www.laravelpodcast.com/episodes/42491-episode-47-musical-routes",
+      "content_text": "The crew talks about where the routes file lives, some tantalizing hints of big new 5.3 features, Jeffrey's plan for two hours two times, and Taylor's love for DHH.\n",
+      "content_html": "<p>The crew talks about where the routes file lives, some tantalizing hints of big new 5.3 features, Jeffrey's 2 sets of 2 hours plan, and Taylor's love for DHH.</p>\n\n<ul>\n<li><a href=\"https://laracasts.simplecast.fm/33\">Jeffrey's 2 sets of 2 hours</a></li>\n<li><a href=\"https://twitter.com/taylorotwell/status/752589625630203904\">Taylor's tweet about Scout &amp; Passport</a></li>\n<li><a href=\"https://blog.tighten.co/what-i-learned-at-the-basecamp-way-to-work-workshop\">Tighten Blog: What I learned at The Basecamp Way To Work Workshop</a></li>\n</ul>\n\n",
+      "summary": "The crew talks about where the routes file lives, some tantalizing hints of big new 5.3 features, Jeffrey's plan for two hours two times, and Taylor's love for DHH.\n",
+      "date_published": "2016-07-16 16:35:00 -0500",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/42491.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 34297834,
+        "duration_in_seconds": 2142
+      }
+    },
+    {
+      "id": "99426170-470f-46cb-b7ba-db522db4c6cf",
+      "title": "Episode 46: Laracon & Books Jeffrey Hasn't Read",
+      "url": "http://www.laravelpodcast.com/episodes/41169-episode-46-laracon-books-jeffrey-hasn-t-read",
+      "content_text": "In this episode, the crew talks discusses Laracon, Elixir, Browserify, Webpack, the NBA finals, and Red Rising.\n",
+      "content_html": "<p>In this episode, the crew talks discusses Laracon, Elixir, Browserify, Webpack, the NBA finals, and Red Rising.</p>\n\n<ul>\n<li><a href=\"https://twitter.com/rjs\">Ryan Singer Twitter</a></li>\n<li><a href=\"http://www.fullstackradio.com/5\">Ryan Singer Full Stack Radio</a></li>\n<li>Sandi metz <a href=\"https://twitter.com/sandimetz\">twitter</a> / <a href=\"http://www.sandimetz.com\">site</a></li>\n<li><a href=\"http://www.poodr.com\">Sandi Metz - POODR (Practical Object-Oriented Design in Ruby)</a></li>\n<li><a href=\"http://signup.99bottlesbook.com\">Sandi Metz - 99 bottles of OOP</a></li>\n<li><a href=\"https://laravel-news.com/2016/06/look-whats-coming-laravel-5-3/\">Laravel News: Laravel 5.3</a></li>\n<li><a href=\"https://mattstauffer.co/blog/series/new-features-in-laravel-5-3\">Matt Stauffer: Laravel 5.3</a></li>\n<li><a href=\"https://laracasts.com/community?orderBy=votes\">Laracasts Community Page</a></li>\n<li><a href=\"https://github.com/laravel/docs/issues\">Issues for Laravel Docs</a></li>\n<li>Some sample open source laravel apps: <a href=\"https://github.com/tightenco/symposium\">Symposium</a> / <a href=\"https://github.com/tightenco/gistlog\">Gistlog</a> / <a href=\"https://github.com/tightenco/giscus\">Giscus</a> / <a href=\"https://github.com/cachethq/cachet\">Cachet</a> <em>(got others? tweet us at @laravelpodcast and we'll add more)</em></li>\n</ul>\n\n",
+      "summary": "In this episode, the crew talks discusses Laracon, Elixir, Browserify, Webpack, the NBA finals, and Red Rising.\n",
+      "date_published": "2016-06-30 16:36:00 -0500",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/41169.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 30461010,
+        "duration_in_seconds": 1902
+      }
+    },
+    {
+      "id": "84bd497b-5785-4ade-bbf2-76b090e3b4cc",
+      "title": "Episode 45: Free Parking",
+      "url": "http://www.laravelpodcast.com/episodes/38785-episode-45-free-parking",
+      "content_text": "In this episode, the crew discusses the releases of Valet and Echo, Laracon US 2016, Laravel 5.3, and their favorite nut.\n",
+      "content_html": "<p>In this episode, the crew discusses the releases of Valet and Echo, Laracon US 2016, Laravel 5.3, and their favorite nut.</p>\n\n<ul>\n<li><a href=\"https://laravel.com/docs/valet\">Valet docs</a></li>\n<li><a href=\"http://brew.sh/\">Homebrew</a></li>\n<li><a href=\"https://laravel.com/docs/events\">Event Broadcasting</a></li>\n<li><a href=\"https://laracasts.com/lessons/introducing-laravel-echo\">Laravel Echo</a></li>\n<li><a href=\"https://pusher.com/\">Pusher</a></li>\n</ul>\n\n",
+      "summary": "In this episode, the crew discusses the releases of Valet and Echo, Laracon US 2016, Laravel 5.3, and their favorite nut.\n",
+      "date_published": "2016-06-02 11:01:00 -0500",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/38785.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 28280907,
+        "duration_in_seconds": 1766
+      }
+    },
+    {
+      "id": "7c4b77f0-46ea-4dbf-b941-7fff9348d160",
+      "title": "Episode 44: I Like The CranApple",
+      "url": "http://www.laravelpodcast.com/episodes/35051-episode-44-i-like-the-cranapple",
+      "content_text": "In this episode the crew chats about Laravel Elixir, Spark, VAT MOSS, and juice.\n",
+      "content_html": "<p>In this episode the crew chats about Laravel Elixir, Spark, VAT MOSS, and juice.</p>\n\n<ul>\n<li><a href=\"http://blog.tighten.co/setting-up-your-first-vuejs-site-using-laravel-elixir-and-vueify\">Setting up your first Vue.js site using Laravel Elixir and Vueify</a></li>\n<li><a href=\"http://jigsaw.tighten.co/\">Jigsaw - static sites for Laravel developers</a></li>\n<li>Spark preview tweets (<a href=\"https://twitter.com/taylorotwell/status/717783750877143040\">1</a> <a href=\"https://twitter.com/taylorotwell/status/717460189302009856\">2</a> <a href=\"https://twitter.com/taylorotwell/status/717456484095799300\">3</a> <a href=\"https://twitter.com/taylorotwell/status/717380938452209664\">4</a>)</li>\n<li><a href=\"https://smilesoftware.com/blog/entry/textexpander-release-follow-up\">TextExpander blog post about pricing</a></li>\n<li><a href=\"https://kapeli.com/dash\">Dash app</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/SunnyD\">Sunny D</a></li>\n</ul>\n\n",
+      "summary": "In this episode the crew chats about Laravel Elixir, Spark, VAT MOSS, and juice.\n",
+      "date_published": "2016-04-11 11:30:00 -0500",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/35051.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 36057886,
+        "duration_in_seconds": 2252
+      }
+    },
+    {
+      "id": "cd401637-484c-427f-a9ce-aac036fd9cf6",
+      "title": "Episode 43: Open Source Money & Rocket League",
+      "url": "http://www.laravelpodcast.com/episodes/32762-episode-43-open-source-money-rocket-league",
+      "content_text": "In this episode, the crew talks about making money from open source and Taylor's utter dominance at Rocket League.\n",
+      "content_html": "<p>In this episode, the crew talks about making money from open source and Taylor's utter dominance at Rocket League.</p>\n\n<ul>\n<li><a href=\"https://laravelshift.com/\">Laravel Shift</a></li>\n<li><a href=\"http://www.fullstackradio.com/36\">Jason McCreary - Building Laravel Shift - Full Stack Radio</a></li>\n<li><a href=\"https://twitter.com/jeremeamia\">Jeremy Lindblom</a></li>\n<li><a href=\"https://reactforbeginners.com/\">ReactforBeginners.com</a></li>\n</ul>\n\n",
+      "summary": "In this episode, the crew talks about making money from open source and Taylor's utter dominance at Rocket League.\n",
+      "date_published": "2016-03-21 12:31:00 -0500",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/32762.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 27271148,
+        "duration_in_seconds": 1703
+      }
+    },
+    {
+      "id": "119207ea-a698-4e79-9b39-7ef95847c0e3",
+      "title": "Episode 42: ActiveRecord & The School Of Zonda",
+      "url": "http://www.laravelpodcast.com/episodes/27610-episode-42-activerecord-the-school-of-zonda",
+      "content_text": "In this episode, the crew is joined by Adam Wathan to discuss ActiveRecord and the Eloquent ORM.\n",
+      "content_html": "<p>In this episode, the crew is joined by Adam Wathan to discuss ActiveRecord and the Eloquent ORM.</p>\n\n<ul>\n<li><a href=\"https://laravel.com/docs/eloquent\">Eloquent</a></li>\n<li><a href=\"http://www.doctrine-project.org/\">Doctrine</a></li>\n<li><a href=\"http://www.fullstackradio.com/34\">Full-Stack Radio episode about \"a receipt can't send itself\"</a></li>\n<li><a href=\"https://ragesofanon.files.wordpress.com/2012/08/204-clean-and-jerk.gif\">Clean and Jerk</a></li>\n<li><a href=\"https://uploadir.com/u/ek0n9cvg.gif\">Clean and Press</a></li>\n</ul>\n\n",
+      "summary": "In this episode, the crew is joined by Adam Wathan to discuss ActiveRecord and the Eloquent ORM.\n",
+      "date_published": "2016-02-24 12:00:00 -0600",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/27610.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 52531335,
+        "duration_in_seconds": 3282
+      }
+    },
+    {
+      "id": "bd703b1e-b8b1-43b4-8ee8-d2318122d2b0",
+      "title": "Episode 41: Powerslides & Sparks",
+      "url": "http://www.laravelpodcast.com/episodes/25906-episode-41-powerslides-sparks",
+      "content_text": "In this episode, the crew discusses multiple authentication drivers, Laracon, PJAX, Spark, and Mario Kart rage.\n",
+      "content_html": "<p>In this episode, the crew discusses multiple authentication drivers, Laracon, PJAX, Spark, and Mario Kart rage.</p>\n\n<ul>\n<li><a href=\"https://mattstauffer.co/blog/multiple-authentication-guard-drivers-including-api-in-laravel-5-2\">Matt's Laravel Auth blog post</a></li>\n<li><a href=\"https://laracasts.com/lessons/faster-page-loads-with-pjax\">Laracasts: PJAX</a></li>\n<li><a href=\"https://gist.github.com/JeffreyWay/8526696b6f29201c4e33\">Laracasts PJAX Middleware</a></li>\n<li><a href=\"https://github.com/defunkt/jquery-pjax\">jQuery PJAX library</a></li>\n<li><a href=\"http://giantrobots.fm/31\">Brett Terpstra talking shortcuts on the Giant Robots Podcast</a></li>\n<li>Matt's soon-to-be-released blog post on auth via request, (COMING SOON)</li>\n</ul>\n\n",
+      "summary": "In this episode, the crew discusses multiple authentication drivers, Laracon, PJAX, Spark, and Mario Kart rage.\n",
+      "date_published": "2016-02-05 17:15:00 -0600",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/25906.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 26023791,
+        "duration_in_seconds": 1857
+      }
+    },
+    {
+      "id": "32c33d39-781e-478b-8e47-1ca67679db9b",
+      "title": "Episode 40: Will Smith Hates Vim",
+      "url": "http://www.laravelpodcast.com/episodes/24121-episode-40-will-smith-hates-vim",
+      "content_text": "In this episode, the crew discusses Linode down time, server migrations, editors, Will Smith, and Mario Kart. Most importantly, Jeffrey &amp; Taylor finally disagree.\n",
+      "content_html": "<p>In this episode, the crew discusses Linode down time, server migrations, editors, Will Smith, and Mario Kart. Most importantly, Jeffrey &amp; Taylor finally disagree.</p>\n\n<ul>\n<li><a href=\"http://www.theregister.co.uk/2016/01/05/linode_resets_passwords_after_credential_leak/\">Linode drama</a></li>\n<li><a href=\"https://ottomatik.io/?refcode=zpN5VeOG\">Ottomatik</a></li>\n<li><a href=\"https://envoyer.io\">Envoyer</a></li>\n<li>MySQL 5.7\n\n<ul>\n<li><a href=\"https://laravel.com/docs/5.2/upgrade#upgrade-5.2.0\">Laravel 5.2 upgrade guide</a></li>\n<li><a href=\"https://mattstauffer.co/blog/how-to-disable-mysql-strict-mode-on-laravel-forge-ubuntu\">How to disable MySQL strict mode on Laravel Forge</a></li>\n</ul>\n</li>\n<li><a href=\"https://www.google.com/search?q=is%20sublime%20text%20dead\">Sublime is (dead?)</a>, long live Vim</li>\n<li>Will Smith is a legend</li>\n</ul>\n\n",
+      "summary": "In this episode, the crew discusses Linode down time, server migrations, editors, Will Smith, and Mario Kart. Most importantly, Jeffrey & Taylor finally disagree.\n",
+      "date_published": "2016-01-07 10:45:00 -0600",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/24121.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 36455352,
+        "duration_in_seconds": 2277
+      }
+    },
+    {
+      "id": "a355032c-d1ce-4cc7-b56c-0ab3b8453709",
+      "title": "Episode 39: Updates On All The Things",
+      "url": "http://www.laravelpodcast.com/episodes/22314-episode-39-updates-on-all-the-things",
+      "content_text": "In this episode, the crew discusses the status and features of Laravel 5.2, Lumen 5.2, and Spark.\n",
+      "content_html": "<p>In this episode, the crew discusses the status and features of Laravel 5.2, Lumen 5.2, and Spark.</p>\n\n<ul>\n<li><a href=\"http://www.neontsunami.com/posts/urlroutable-in-laravel-5\">URLRoutable</a></li>\n<li><a href=\"https://scotch.io/tutorials/the-anatomy-of-a-json-web-token\">JWT</a></li>\n<li><a href=\"https://github.com/tymondesigns/jwt-auth\">Laravel JWT-Auth</a></li>\n<li><a href=\"https://laravelcollective.com/\">Laravel Collective</a></li>\n<li><a href=\"https://laracasts.com/series/php7-up-and-running\">Laracasts PHP 7 series</a></li>\n<li><a href=\"https://laravel-news.com/2015/10/homestead-now-with-php-7-support/\">Homestead PHP 7</a></li>\n</ul>\n\n",
+      "summary": "In this episode, the crew discusses the status and features of Laravel 5.2, Lumen 5.2, and Spark.\n",
+      "date_published": "2015-12-11 10:34:00 -0600",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/22314.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 27725253,
+        "duration_in_seconds": 2309
+      }
+    },
+    {
+      "id": "ff519d20-3f65-4892-a3cb-3401227d23de",
+      "title": "Episode 38: RepositoryBeanFactory",
+      "url": "http://www.laravelpodcast.com/episodes/20182-episode-38-repositorybeanfactory",
+      "content_text": "In this episode, the crew talks about architecture, over-architecting, helper functions, facades, crystal ball coding, code preppers, and more!\n",
+      "content_html": "<p>In this episode, the crew talks about architecture, over-architecting, helper functions, facades, crystal ball coding, code preppers, and more!</p>\n\n<ul>\n<li><a href=\"https://www.youtube.com/watch?v=uQUxJObxTUs\">Konstantin at Laracon Eu</a></li>\n<li><a href=\"https://github.com/mattstauffer/confomo/tree/complete-refactor\">Confomo - Refactor branch</a></li>\n<li><a href=\"https://github.com/mattstauffer/pulledover/tree/user-accounts\">PulledOver - TDD Refactor</a></li>\n<li><a href=\"http://www.visitflorida.com/en-us/articles/2011/august/1850-angels-floridas-oldest-diner-parked-in-palatka-since-1932.html\">Angel's Diner in Florida</a></li>\n</ul>\n\n",
+      "summary": "In this episode, the crew talks about architecture, over-architecting, helper functions, facades, crystal ball coding, code preppers, and more!\n",
+      "date_published": "2015-11-16 09:15:00 -0600",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/20182.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 29097600,
+        "duration_in_seconds": 2423
+      }
+    },
+    {
+      "id": "de16bd07-0beb-4e0e-83db-0a00bc55828d",
+      "title": "Episode 37: I Love The Things You Are Saying",
+      "url": "http://www.laravelpodcast.com/episodes/19454-episode-37-i-love-the-things-you-are-saying",
+      "content_text": "In this episode, the crew discusses front-end tools like Vue, React, and Angular. Matt then discusses scheduled introspection to combat over-joyous Florida climate while Taylor yearns to live in a desert.\n",
+      "content_html": "<p>In this episode, the crew discusses front-end tools like Vue, React, and Angular. Matt then discusses scheduled introspection to combat over-joyous Florida climate while Taylor yearns to live in a desert.</p>\n\n<ul>\n<li><a href=\"https://mattstauffer.co/blog/taking-control-of-your-javascript-objects-with-the-revealing-module-pattern?utm_source=laravelpodcast&amp;utm_medium=social&amp;utm_campaign=LaravelPodcastShowNotes\">Matt's blog about the Revealing Module Pattern</a></li>\n<li><a href=\"https://laracasts.com/series/learning-vue-step-by-step\">Laracasts - Learning Vue 1.0 Step by Step</a></li>\n</ul>\n\n",
+      "summary": "In this episode, the crew discusses front-end tools like Vue, React, and Angular. Matt then discusses scheduled introspection to combat over-joyous Florida climate while Taylor yearns to live in a desert.\n",
+      "date_published": "2015-11-02 07:54:00 -0600",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/19454.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 27436527,
+        "duration_in_seconds": 2285
+      }
+    },
+    {
+      "id": "17a93a7b-7ea5-4bef-b4b6-8dc56a6569ae",
+      "title": "Episode 36: Dev School",
+      "url": "http://www.laravelpodcast.com/episodes/18397-episode-36-dev-school",
+      "content_text": "In this episode, the crew talks about the challenges of learning to be a developer, developer bootcamps, advice to their former selves, and even their favorite clothes.\n",
+      "content_html": "<p>In this episode, the crew talks about the challenges of learning to be a developer, developer bootcamps, advice to their former selves, and even their favorite clothes.</p>\n\n<ul>\n<li>Matt mentioned the <a href=\"https://instagram.com/p/ypPthSFY6m/\">\"Be Nice &amp; Do Good\" shirt from Zaengle</a></li>\n</ul>\n\n",
+      "summary": "In this episode, the crew talks about the challenges of learning to be a developer, developer bootcamps, advice to their former selves, and even their favorite clothes.\n",
+      "date_published": "2015-10-12 21:51:00 -0500",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/18397.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 35552258,
+        "duration_in_seconds": 2961
+      }
+    },
+    {
+      "id": "ea6acc72-c767-4bd1-89ad-11dde4289814",
+      "title": "Episode 35: Laravel Love Affairs",
+      "url": "http://www.laravelpodcast.com/episodes/17484-episode-35-laravel-love-affairs",
+      "content_text": "In this episode, the crew discusses Laracon 2016, new framework features, preferred messaging applications, and Jack McDade possibly cheating on Taylor with Jeffrey.\n",
+      "content_html": "<p>In this episode, the crew discusses Laracon 2016, new framework features, preferred messaging applications, and Jack McDade possibly cheating on Taylor with Jeffrey.</p>\n",
+      "summary": "In this episode, the crew discusses Laracon 2016, new framework features, preferred messaging applications, and Jack McDade possibly cheating on Taylor with Jeffrey.\n",
+      "date_published": "2015-09-21 11:25:00 -0500",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/17484.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 27821178,
+        "duration_in_seconds": 2317
+      }
+    },
+    {
+      "id": "1ecd3854-d4f8-4830-b66b-3d3ab922607d",
+      "title": "Episode 34: Jobs & Jawas",
+      "url": "http://www.laravelpodcast.com/episodes/16291-episode-34-jobs-jawas",
+      "content_text": "In this episode, Matt and Taylor are joined by Ian Landsman of UserScape. Ian is the founder of UserScape, the creator of HelpSpot, and the man behind LaraJobs. The crew discusses hiring, being a good job candidate, and most importantly: Star Wars.\n",
+      "content_html": "<p>In this episode, Matt and Taylor are joined by Ian Landsman of UserScape. Ian is the founder of UserScape, the creator of HelpSpot, and the man behind LaraJobs. The crew discusses hiring, being a good job candidate, and most importantly: Star Wars.</p>\n",
+      "summary": "In this episode, Matt and Taylor are joined by Ian Landsman of UserScape. Ian is the founder of UserScape, the creator of HelpSpot, and the man behind LaraJobs. The crew discusses hiring, being a good job candidate, and most importantly: Star Wars.\n",
+      "date_published": "2015-09-02 10:31:00 -0500",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/16291.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 25998769,
+        "duration_in_seconds": 2165
+      }
+    },
+    {
+      "id": "1f514b16-d932-440a-baa5-f03817dcad2f",
+      "title": "Episode 33: Post Laracon & Vices",
+      "url": "http://www.laravelpodcast.com/episodes/15896-episode-33-post-laracon-vices",
+      "content_text": "In this episode, the team recaps Laracon, discusses a few of Matt's side projects, and details their juiciest vices.\n",
+      "content_html": "<p>In this episode, the team recaps Laracon, discusses a few of Matt's side projects, and details their juiciest vices.</p>\n",
+      "summary": "In this episode, the team recaps Laracon, discusses a few of Matt's side projects, and details their juiciest vices.\n",
+      "date_published": "2015-08-19 10:36:00 -0500",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/15896.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 21945600,
+        "duration_in_seconds": 1827
+      }
+    },
+    {
+      "id": "7c62686b-c475-4231-b2a6-213458d66a4e",
+      "title": "Episode 32: Adam Wathan Is Strong",
+      "url": "http://www.laravelpodcast.com/episodes/15117-episode-32-adam-wathan-is-strong",
+      "content_text": "In this episode, the crew discusses simple code, staying focused, Adam vs. The Hulk, and coding music.\n",
+      "content_html": "<p>In this episode, the crew discusses simple code, staying focused, Adam vs. The Hulk, and coding music.</p>\n",
+      "summary": "In this episode, the crew discusses simple code, staying focused, Adam vs. The Hulk, and coding music.\n",
+      "date_published": "2015-08-06 12:52:00 -0500",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/15117.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 22535563,
+        "duration_in_seconds": 1876
+      }
+    },
+    {
+      "id": "18c4707f-e58d-47ab-bc35-6163c1c853c3",
+      "title": "Episode 31: Public Speaking Preppers",
+      "url": "http://www.laravelpodcast.com/episodes/14331-episode-31-public-speaking-preppers",
+      "content_text": "In this episode, the crew discusses preparing for conference talks, vacationing, and dreamy destinations!\n",
+      "content_html": "<p>In this episode, the crew discusses preparing for conference talks, vacationing, and dreamy destinations!</p>\n",
+      "summary": "In this episode, the crew discusses preparing for conference talks, vacationing, and dreamy destinations!\n",
+      "date_published": "2015-07-21 22:42:00 -0500",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/14331.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 20886728,
+        "duration_in_seconds": 1739
+      }
+    },
+    {
+      "id": "19ab6d8c-9f60-42ec-991f-d3ef45e01648",
+      "title": "Episode 30: Trouble, Trouble, Trouble...",
+      "url": "http://www.laravelpodcast.com/episodes/13327-episode-30-trouble-trouble-trouble",
+      "content_text": "In this episode, the crew discusses architecture driven religious wars and the recent drama surrounding Apple Music.\n",
+      "content_html": "<p>In this episode, the crew discusses architecture driven religious wars and the recent drama surrounding Apple Music.</p>\n",
+      "summary": "In this episode, the crew discusses architecture driven religious wars and the recent drama surrounding Apple Music.\n",
+      "date_published": "2015-06-24 11:37:00 -0500",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/13327.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 22710144,
+        "duration_in_seconds": 1891
+      }
+    },
+    {
+      "id": "768d3efd-6496-4579-a55e-95d0101e0943",
+      "title": "Episode 29: PHP, Sublime Text, & Decorative Urns.",
+      "url": "http://www.laravelpodcast.com/episodes/12992-episode-29-php-sublime-text-decorative-urns",
+      "content_text": "In this episode, the crew discusses 20 years of PHP, their favorite PHP features, Sublime Text, PHP Storm, Nintendo, and Jeffrey's first programming job.\n",
+      "content_html": "<p>In this episode, the crew discusses 20 years of PHP, their favorite PHP features, Sublime Text, PHP Storm, Nintendo, and Jeffrey's first programming job.</p>\n",
+      "summary": "In this episode, the crew discusses 20 years of PHP, their favorite PHP features, Sublime Text, PHP Storm, Nintendo, and Jeffrey's first programming job.\n",
+      "date_published": "2015-06-11 15:27:00 -0500",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/12992.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 25890920,
+        "duration_in_seconds": 2156
+      }
+    },
+    {
+      "id": "9078ca6c-141a-4900-b6f7-e38e3dc9459e",
+      "title": "Episode 28: Documentation, JavaScript, & Conspiracy Theories",
+      "url": "http://www.laravelpodcast.com/episodes/12660-episode-28-documentation-javascript-conspiracy-theories",
+      "content_text": "In this episode, the crew discusses recent improvements to the Laravel documentation, Vue.js, ECMAScript 6, and a few conspiracy theories.\n",
+      "content_html": "<p>In this episode, the crew discusses recent improvements to the Laravel documentation, Vue.js, ECMAScript 6, and a few conspiracy theories.</p>\n",
+      "summary": "In this episode, the crew discusses recent improvements to the Laravel documentation, Vue.js, ECMAScript 6, and a few conspiracy theories.\n",
+      "date_published": "2015-05-29 12:07:00 -0500",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/12660.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 22264410,
+        "duration_in_seconds": 1854
+      }
+    },
+    {
+      "id": "13a70449-885b-424e-a560-467f1771cc72",
+      "title": "Episode 27 - Jeffrey Way: Tau Ceti Murderer",
+      "url": "http://www.laravelpodcast.com/episodes/11430-episode-27-jeffrey-way-tau-ceti-murderer",
+      "content_text": "This week the crew discusses new Laravel 5.1 goodies, unit testing, Lifeline for iOS, and which album they would take to a desert island.\n",
+      "content_html": "This week the crew discusses new Laravel 5.1 goodies, unit testing, Lifeline for iOS, and which album they would take to a desert island.",
+      "summary": "This week the crew discusses new Laravel 5.1 goodies, unit testing, Lifeline for iOS, and which album they would take to a desert island.\n",
+      "date_published": "2015-05-11 14:27:00 -0500",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/11430.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 20249724,
+        "duration_in_seconds": 1686
+      }
+    },
+    {
+      "id": "db7594bb-c4fd-4c10-b182-e76a5e8c96f0",
+      "title": "Episode 26 - Illuminated Tesla Micro-Services",
+      "url": "http://www.laravelpodcast.com/episodes/11108-episode-26-illuminated-tesla-micro-services",
+      "content_text": "In this episode, the crew discusses the recent release of Lumen, micro-services, Laravel 5.1 event broadcasting, and their favorite cars.\n",
+      "content_html": "<p>In this episode, the crew discusses the recent release of Lumen, micro-services, Laravel 5.1 event broadcasting, and their favorite cars.</p>\n",
+      "summary": "In this episode, the crew discusses the recent release of Lumen, micro-services, Laravel 5.1 event broadcasting, and their favorite cars.\n",
+      "date_published": "2015-04-30 15:53:00 -0500",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/11108.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 18669837,
+        "duration_in_seconds": 1554
+      }
+    },
+    {
+      "id": "646e72b4-62f3-4d88-a122-b425160c4b9d",
+      "title": "Episode 25 - Taylor Swift Is A Baller",
+      "url": "http://www.laravelpodcast.com/episodes/10458-episode-25-taylor-swift-is-a-baller",
+      "content_text": "In this episode, the crew discusses Jeffrey's \"Integrated\" testing package, Laracon, Laravel \"the right way\", and Justin Bieber.\n",
+      "content_html": "In this episode, the crew discusses Jeffrey's \"Integrated\" testing package, Laracon, Laravel \"the right way\", and Justin Bieber.",
+      "summary": "In this episode, the crew discusses Jeffrey's \"Integrated\" testing package, Laracon, Laravel \"the right way\", and Justin Bieber.\n",
+      "date_published": "2015-04-15 10:11:00 -0500",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/10458.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 17776766,
+        "duration_in_seconds": 1480
+      }
+    },
+    {
+      "id": "ccc27b40-1d72-456b-9009-ad3ed96d826e",
+      "title": "Episode 24 - Dog At The Keyboard",
+      "url": "http://www.laravelpodcast.com/episodes/9718-episode-24-dog-at-the-keyboard",
+      "content_text": "In this episode, the crew discusses PHP 7, Browserify, and their favorite Mac applications.\n",
+      "content_html": "<p>In this episode, the crew discusses PHP 7, Browserify, and their favorite Mac applications.</p>\n",
+      "summary": "In this episode, the crew discusses PHP 7, Browserify, and their favorite Mac applications.\n",
+      "date_published": "2015-03-31 09:37:00 -0500",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/9718.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 17482413,
+        "duration_in_seconds": 1455
+      }
+    },
+    {
+      "id": "b47eb69b-da53-4731-9d74-67d1378a91d8",
+      "title": "Episode 23 - New Beginnings, Envoyer, & Laravel 5.1",
+      "url": "http://www.laravelpodcast.com/episodes/9313-episode-23-new-beginnings-envoyer-laravel-5-1",
+      "content_text": "The crew discusses the recent release of Envoyer and Laravel 5.0. Taylor gives a preview of Laravel 5.1. Jeffrey discusses current Laracasts happenings.\n",
+      "content_html": "<p>The crew discusses the recent release of Envoyer and Laravel 5.0. Taylor gives a preview of Laravel 5.1. Jeffrey discusses current Laracasts happenings.</p>\n",
+      "summary": "The crew discusses the recent release of Envoyer and Laravel 5.0. Taylor gives a preview of Laravel 5.1. Jeffrey discusses current Laracasts happenings.\n",
+      "date_published": "2015-03-17 08:56:00 -0500",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/9313.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 18236313,
+        "duration_in_seconds": 1518
+      }
+    },
+    {
+      "id": "191d48a5-271d-48b5-869d-5de861da5eb9",
+      "title": "Episode 22 - Laravel 5 / Laracon Announcements Live Q&A",
+      "url": "http://www.laravelpodcast.com/episodes/7372-episode-22-laravel-5-laracon-announcements-live-q-a",
+      "content_text": "Laravel 5 was released and Laracon conferences were just announced! The perfect opportunity for another live question and answer podcast!\n",
+      "content_html": "<p>Laravel 5 was released and Laracon conferences were just announced! The perfect opportunity for another live question and answer podcast!</p>\n",
+      "summary": "Laravel 5 was released and Laracon conferences were just announced! The perfect opportunity for another live question and answer podcast!\n",
+      "date_published": "2015-02-09 03:29:00 -0600",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/7372.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 27428213,
+        "duration_in_seconds": 3426
+      }
+    },
+    {
+      "id": "da68c475-bb43-4c0e-84a9-3dea05ef956a",
+      "title": "Episode 21 - Commands, Pipelines and Packages",
+      "url": "http://www.laravelpodcast.com/episodes/6823-episode-21-commands-pipelines-and-packages",
+      "content_text": "Laravel 5 is getting closer to beta and we discuss some upcoming changes as well as get into a discussion about when to use certain features of the framework and when they might be overkill.\n",
+      "content_html": "<p>Laravel 5 is getting closer to beta and we discuss some upcoming changes as well as get into a discussion about when to use certain features of the framework and when they might be overkill.</p>\n",
+      "summary": "Laravel 5 is getting closer to beta and we discuss some upcoming changes as well as get into a discussion about when to use certain features of the framework and when they might be overkill.\n",
+      "date_published": "2015-01-21 05:19:00 -0600",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/6823.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 25151887,
+        "duration_in_seconds": 3142
+      }
+    },
+    {
+      "id": "da4f9c5b-ea1a-4ce7-9213-ac61058f056c",
+      "title": "Episode 20 - The War on CRUD",
+      "url": "http://www.laravelpodcast.com/episodes/6262-episode-20-the-war-on-crud",
+      "content_text": "We talk about configuration and queue updates, architecture and CRUD apps, clients and code quality, business and app development, and a lot more.\n",
+      "content_html": "<p>We talk about configuration and queue updates, architecture and CRUD apps, choosing the right persistence solution,  and a lot more.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=-543jY0cDuM\">Watch the original Live Video Recording</a></p>\n",
+      "summary": "We talk about configuration and queue updates, architecture and CRUD apps, clients and code quality, business and app development, and a lot more.\n",
+      "date_published": "2015-01-07 04:00:00 -0600",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/6262.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 31976351,
+        "duration_in_seconds": 3995
+      }
+    },
+    {
+      "id": "http://www.buzzsprout.com/11908/231961-episode-19-live-q-a.mp3",
+      "title": "Episode 19 - Live Q&A",
+      "url": "http://www.laravelpodcast.com/episodes/6258-episode-19-live-q-a",
+      "content_text": "This is the audio portion of our first live recorded video podcast. We took live question and answer and discussed Laravel 5 release scheduling, ORM origin story, Laravel internals, Angular/Angular 2, and more!\n",
+      "content_html": "<p>This is the audio portion of our first live recorded video podcast. We took live question and answer and discussed Laravel 5 release scheduling, ORM origin story, Laravel internals, Angular/Angular 2, and more!</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=gm5rgBFE4iE\">Watch the original Live Video Recording</a></p>\n",
+      "summary": "This is the audio portion of our first live recorded video podcast. We took live question and answer and discussed Laravel 5 release scheduling, ORM origin story, Laravel internals, Angular/Angular 2, and more!\n",
+      "date_published": "2014-12-30 11:00:00 -0600",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/6258.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 31124683,
+        "duration_in_seconds": 3888
+      }
+    },
+    {
+      "id": "http://www.buzzsprout.com/11908/212256-episode-18-the-war-over-php-annotations.mp3",
+      "title": "Episode 18 - The War over PHP Annotations",
+      "url": "http://www.laravelpodcast.com/episodes/6257-episode-18-the-war-over-php-annotations",
+      "content_text": "In this episode, we discuss new Laravel 5 features including annotated routing and middlewares. We discuss some motivations and guiding forces that make Laravel what it is. Also, hints about Jeffrey and Taylor's secret new project. The referenced article by @everzet can be found here: http://everzet.com/post/99045129766/introducing-modelling-by-example\n",
+      "content_html": "<p>In this episode, we discuss new Laravel 5 features including annotated routing and middlewares. We discuss some motivations and guiding forces that make Laravel what it is. Also, hints about Jeffrey and Taylor's secret new project. The referenced article by @everzet can be found here: <a href=\"http://everzet.com/post/99045129766/introducing-modelling-by-example\">http://everzet.com/post/99045129766/introducing-modelling-by-example</a></p>\n",
+      "summary": "In this episode, we discuss new Laravel 5 features including annotated routing and middlewares. We discuss some motivations and guiding forces that make Laravel what it is. Also, hints about Jeffrey and Taylor's secret new project. The referenced article by @everzet can be found here: http://everzet.com/post/99045129766/introducing-modelling-by-example\n",
+      "date_published": "2014-10-14 11:00:00 -0500",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/6257.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 32897300,
+        "duration_in_seconds": 4110
+      }
+    },
+    {
+      "id": "http://www.buzzsprout.com/11908/203720-episode-17-laravel-4-3-i-mean-laravel-5.mp3",
+      "title": "Episode 17 - Laravel 4.3.. I mean.. Laravel 5!",
+      "url": "http://www.laravelpodcast.com/episodes/6256-episode-17-laravel-4-3-i-mean-laravel-5",
+      "content_text": "In this episode, we discuss Laravel 5, the No Capes initiative, Laravel Liferaft, PHP's position in the industry and its culture, continuous education, a company's ethical responsibility to their employees, and much more.\n",
+      "content_html": "<p>In this episode, we discuss Laravel 5, the No Capes initiative, Laravel Liferaft, PHP's position in the industry and its culture, continuous education, a company's ethical responsibility to their employees, and much more.</p>\n",
+      "summary": "In this episode, we discuss Laravel 5, the No Capes initiative, Laravel Liferaft, PHP's position in the industry and its culture, continuous education, a company's ethical responsibility to their employees, and much more.\n",
+      "date_published": "2014-09-12 11:00:00 -0500",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/6256.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 28973022,
+        "duration_in_seconds": 3619
+      }
+    },
+    {
+      "id": "http://www.buzzsprout.com/11908/196186-episode-16-southern-boys-being-polite.mp3",
+      "title": "Episode 16 - Southern Boys Being Polite",
+      "url": "http://www.laravelpodcast.com/episodes/6255-episode-16-southern-boys-being-polite",
+      "content_text": "Laravel News, Laracon News, Laravel.IO News, PHPSpec, and Southern Boys Being Polite\n",
+      "content_html": "<p>Laravel News, Laracon News, Laravel.IO News, PHPSpec, and Southern Boys Being Polite</p>\n",
+      "summary": "Laravel News, Laracon News, Laravel.IO News, PHPSpec, and Southern Boys Being Polite\n",
+      "date_published": "2014-08-13 11:00:00 -0500",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/6255.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 22482951,
+        "duration_in_seconds": 2808
+      }
+    },
+    {
+      "id": "http://www.buzzsprout.com/11908/177260-episode-15-dhh-and-haterade.mp3",
+      "title": "Episode 15 - DHH and Haterade",
+      "url": "http://www.laravelpodcast.com/episodes/6254-episode-15-dhh-and-haterade",
+      "content_text": "In this episode the cast discusses ActiveRecord (when to use it), discusses some PHP drama relating Laravel to Rails, DHH, Martin Fowler, and Kent Beck's Is TDD dead? series, Laracon stuff and more. http://laracon.eu http://martinfowler.com/articles/is-tdd-dead https://github.com/mitchellvanw/laravel-doctrine\n",
+      "content_html": "<p>In this episode the cast discusses ActiveRecord (when to use it), discusses some PHP drama relating Laravel to Rails, DHH, Martin Fowler, and Kent Beck's Is TDD dead? series, Laracon stuff and more. <a href=\"http://laracon.eu\">http://laracon.eu</a> <a href=\"http://martinfowler.com/articles/is-tdd-dead\">http://martinfowler.com/articles/is-tdd-dead</a> <a href=\"https://github.com/mitchellvanw/laravel-doctrine\">https://github.com/mitchellvanw/laravel-doctrine</a></p>\n",
+      "summary": "In this episode the cast discusses ActiveRecord (when to use it), discusses some PHP drama relating Laravel to Rails, DHH, Martin Fowler, and Kent Beck's Is TDD dead? series, Laracon stuff and more. http://laracon.eu http://martinfowler.com/articles/is-tdd-dead https://github.com/mitchellvanw/laravel-doctrine\n",
+      "date_published": "2014-05-28 11:00:00 -0500",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/6254.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 33424287,
+        "duration_in_seconds": 4176
+      }
+    },
+    {
+      "id": "http://www.buzzsprout.com/11908/172059-episode-14-dhh-and-domain-events.mp3",
+      "title": "Episode 14 - DHH and Domain Events",
+      "url": "http://www.laravelpodcast.com/episodes/6253-episode-14-dhh-and-domain-events",
+      "content_text": "In this episode the cast discusses recent DHH drama, complicated sequences of events, Laracon, Pair-Programming, and ActiveRecord. This time PHPStorm was only mentioned once. Link to the mentioned Laravel Doctrine package https://github.com/mitchellvanw/laravel-doctrine\n",
+      "content_html": "<p>In this episode the cast discusses recent DHH drama, complicated sequences of events, Laracon, Pair-Programming, and ActiveRecord. This time PHPStorm was only mentioned once. Link to the mentioned Laravel Doctrine package <a href=\"https://github.com/mitchellvanw/laravel-doctrine\">https://github.com/mitchellvanw/laravel-doctrine</a></p>\n",
+      "summary": "In this episode the cast discusses recent DHH drama, complicated sequences of events, Laracon, Pair-Programming, and ActiveRecord. This time PHPStorm was only mentioned once. Link to the mentioned Laravel Doctrine package https://github.com/mitchellvanw/laravel-doctrine\n",
+      "date_published": "2014-05-07 11:00:00 -0500",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/6253.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 31858403,
+        "duration_in_seconds": 3980
+      }
+    },
+    {
+      "id": "http://www.buzzsprout.com/11908/170101-episode-13-cute-tools.mp3",
+      "title": "Episode 13 - Cute Tools",
+      "url": "http://www.laravelpodcast.com/episodes/6252-episode-13-cute-tools",
+      "content_text": "Testing, 100% minimum coverage, TDD. The consequences of long-term high-intensity focus. What does PHPSpec have to offer? The battle over Trait / Interface suffixes. Imposter Syndrome. Links to other Podcasts mentioned in this episode. http://www.thisamericanlife.org/ http://freakonomics.com/radio/ http://www.radiolab.org/ and just one extra added for relevance: elephantintheroom.io\n",
+      "content_html": "<p>Testing, 100% minimum coverage, TDD. The consequences of long-term high-intensity focus. What does PHPSpec have to offer? The battle over Trait / Interface suffixes. Imposter Syndrome. Links to other Podcasts mentioned in this episode. <a href=\"http://www.thisamericanlife.org/\">http://www.thisamericanlife.org/</a> <a href=\"http://freakonomics.com/radio/\">http://freakonomics.com/radio/</a> <a href=\"http://www.radiolab.org/\">http://www.radiolab.org/</a> and just one extra added for relevance: elephantintheroom.io</p>\n",
+      "summary": "Testing, 100% minimum coverage, TDD. The consequences of long-term high-intensity focus. What does PHPSpec have to offer? The battle over Trait / Interface suffixes. Imposter Syndrome. Links to other Podcasts mentioned in this episode. http://www.thisamericanlife.org/ http://freakonomics.com/radio/ http://www.radiolab.org/ and just one extra added for relevance: elephantintheroom.io\n",
+      "date_published": "2014-04-29 11:00:00 -0500",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/6252.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 37224999,
+        "duration_in_seconds": 4651
+      }
+    },
+    {
+      "id": "http://www.buzzsprout.com/11908/167861-episode-12-php-isn-t-java.mp3",
+      "title": "Episode 12 - PHP isn't Java?",
+      "url": "http://www.laravelpodcast.com/episodes/6251-episode-12-php-isn-t-java",
+      "content_text": "Everyone on the show is presenting at Laracon NYC. http://www.decksetapp.com/ for beautiful presentations What do people most misunderstand about Laravel? PHP is not Java? PHPStorm. It's good. So is Jetbrains. Here's a theme that makes it better(tm). https://github.com/ShawnMcCool/PHPStorm-SpacePeacock Taylor's Conspiracy Theories Twitter, it's not just for sharing your lunch. Open-Source.. Does it make sense? Database Backup Package https://github.com/heybigname/backup-manager Flysystem http://flysystem.thephpleague.com The Economics of Open-Source. Laracon EU and SURVEY SAYS. Vaprobash. Laravel.io's next version.\n",
+      "content_html": "<p>Everyone on the show is presenting at Laracon NYC. <a href=\"http://www.decksetapp.com/\">http://www.decksetapp.com/</a> for beautiful presentations What do people most misunderstand about Laravel? PHP is not Java? PHPStorm. It's good. So is Jetbrains. Here's a theme that makes it better(tm). <a href=\"https://github.com/ShawnMcCool/PHPStorm-SpacePeacock\">https://github.com/ShawnMcCool/PHPStorm-SpacePeacock</a> Taylor's Conspiracy Theories Twitter, it's not just for sharing your lunch. Open-Source.. Does it make sense? Database Backup Package <a href=\"https://github.com/heybigname/backup-manager\">https://github.com/heybigname/backup-manager</a> Flysystem <a href=\"http://flysystem.thephpleague.com\">http://flysystem.thephpleague.com</a> The Economics of Open-Source. Laracon EU and SURVEY SAYS. Vaprobash. Laravel.io's next version.</p>\n",
+      "summary": "Everyone on the show is presenting at Laracon NYC. http://www.decksetapp.com/ for beautiful presentations What do people most misunderstand about Laravel? PHP is not Java? PHPStorm. It's good. So is Jetbrains. Here's a theme that makes it better(tm). https://github.com/ShawnMcCool/PHPStorm-SpacePeacock Taylor's Conspiracy Theories Twitter, it's not just for sharing your lunch. Open-Source.. Does it make sense? Database Backup Package https://github.com/heybigname/backup-manager Flysystem http://flysystem.thephpleague.com The Economics of Open-Source. Laracon EU and SURVEY SAYS. Vaprobash. Laravel.io's next version.\n",
+      "date_published": "2014-04-21 11:00:00 -0500",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/6251.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 36529515,
+        "duration_in_seconds": 4564
+      }
+    },
+    {
+      "id": "http://www.buzzsprout.com/11908/162456-episode-11-a-b-testing-and-niel-patrick-harris.mp3",
+      "title": "Episode 11 - A/B Testing and Niel Patrick Harris",
+      "url": "http://www.laravelpodcast.com/episodes/6250-episode-11-a-b-testing-and-niel-patrick-harris",
+      "content_text": "Is this episode the cast discusses Laracon NYC, Laracon EU, the Laravel package Dispatcher, Hack, DDD, A/B Testing, the next version of Laravel.IO, Niel Patrick Harris, and PHPStorm for Sublime Text users. Hosted by Shawn McCool. Edited by Mitchell van Wijngaarden.\n",
+      "content_html": "<p>Is this episode the cast discusses Laracon NYC, Laracon EU, the Laravel package Dispatcher, Hack, DDD, A/B Testing, the next version of Laravel.IO, Niel Patrick Harris, and PHPStorm for Sublime Text users. Hosted by Shawn McCool. Edited by Mitchell van Wijngaarden.</p>\n",
+      "summary": "Is this episode the cast discusses Laracon NYC, Laracon EU, the Laravel package Dispatcher, Hack, DDD, A/B Testing, the next version of Laravel.IO, Niel Patrick Harris, and PHPStorm for Sublime Text users. Hosted by Shawn McCool. Edited by Mitchell van Wijngaarden.\n",
+      "date_published": "2014-04-01 11:00:00 -0500",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/6250.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 25571252,
+        "duration_in_seconds": 3194
+      }
+    },
+    {
+      "id": "http://www.buzzsprout.com/11908/150225-episode-10-ddd-and-nyc.mp3",
+      "title": "Episode 10 - DDD and NYC",
+      "url": "http://www.laravelpodcast.com/episodes/6249-episode-10-ddd-and-nyc",
+      "content_text": "DDD, Facades, Laracon 2014 in NYC. Edited by Mitchell van Wijngaarden\n",
+      "content_html": "<p>DDD, Facades, Laracon 2014 in NYC. Edited by Mitchell van Wijngaarden</p>\n",
+      "summary": "DDD, Facades, Laracon 2014 in NYC. Edited by Mitchell van Wijngaarden\n",
+      "date_published": "2014-02-13 11:00:00 -0600",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/6249.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 30623751,
+        "duration_in_seconds": 3826
+      }
+    },
+    {
+      "id": "http://www.buzzsprout.com/11908/141886-episode-9-next-laravel-release-and-listener-questions.mp3",
+      "title": "Episode 9 - Next Laravel Release and Listener Questions",
+      "url": "http://www.laravelpodcast.com/episodes/6248-episode-9-next-laravel-release-and-listener-questions",
+      "content_text": "We discuss Laravel 4.2, some recent PHP events, and answer listener questions.\n",
+      "content_html": "<p>We discuss Laravel 4.2, some recent PHP events, and answer listener questions.</p>\n",
+      "summary": "We discuss Laravel 4.2, some recent PHP events, and answer listener questions.\n",
+      "date_published": "2014-01-10 11:00:00 -0600",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/6248.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 31838968,
+        "duration_in_seconds": 3978
+      }
+    },
+    {
+      "id": "http://www.buzzsprout.com/11908/126717-episode-8-laraeverything.mp3",
+      "title": "Episode 8 - LaraEverything",
+      "url": "http://www.laravelpodcast.com/episodes/6247-episode-8-laraeverything",
+      "content_text": "Taylor Otwell and Jeffrey Way join us and talk about what they've been working on. We discuss Laracasts and Laravel 4.1 including some focus on the Laravel documentation. Taylor also gives some information about LaraconUS.\n",
+      "content_html": "<p>Taylor Otwell and Jeffrey Way join us and talk about what they've been working on. We discuss Laracasts and Laravel 4.1 including some focus on the Laravel documentation. Taylor also gives some information about LaraconUS.</p>\n",
+      "summary": "Taylor Otwell and Jeffrey Way join us and talk about what they've been working on. We discuss Laracasts and Laravel 4.1 including some focus on the Laravel documentation. Taylor also gives some information about LaraconUS.\n",
+      "date_published": "2013-11-01 11:00:00 -0500",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/6247.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 24678282,
+        "duration_in_seconds": 3082
+      }
+    },
+    {
+      "id": "http://www.buzzsprout.com/11908/120372-episode-7-cqrs-what-is-it-even.mp3",
+      "title": "Episode 7 - CQRS, What is it even?",
+      "url": "http://www.laravelpodcast.com/episodes/6246-episode-7-cqrs-what-is-it-even",
+      "content_text": "In this episode we discuss CQRS, how everyone loves Windows 8, building GUI apps with PHP, organizing a conference in 2014 and a bunch of other stuff.\n",
+      "content_html": "<p>In this episode we discuss CQRS, how everyone loves Windows 8, building GUI apps with PHP, organizing a conference in 2014 and a bunch of other stuff.</p>\n",
+      "summary": "In this episode we discuss CQRS, how everyone loves Windows 8, building GUI apps with PHP, organizing a conference in 2014 and a bunch of other stuff.\n",
+      "date_published": "2013-10-15 11:00:00 -0500",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/6246.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 26721057,
+        "duration_in_seconds": 3338
+      }
+    },
+    {
+      "id": "http://www.buzzsprout.com/11908/119544-episode-6-talking-business.mp3",
+      "title": "Episode 6 - Talking Business",
+      "url": "http://www.laravelpodcast.com/episodes/6245-episode-6-talking-business",
+      "content_text": "In this episode we talk with Dan Syme, creator of Cartalyst, and Ian Landsman, creator of UserScape about business and the open-source world.\n",
+      "content_html": "<p>In this episode we talk with Dan Syme, creator of Cartalyst, and Ian Landsman, creator of UserScape about business and the open-source world.</p>\n",
+      "summary": "In this episode we talk with Dan Syme, creator of Cartalyst, and Ian Landsman, creator of UserScape about business and the open-source world.\n",
+      "date_published": "2013-10-06 11:00:00 -0500",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/6245.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 33398373,
+        "duration_in_seconds": 4172
+      }
+    },
+    {
+      "id": "http://www.buzzsprout.com/11908/113354-episode-5-laracon-and-actionscript.mp3",
+      "title": "Episode 5 - Laracon and Actionscript",
+      "url": "http://www.laravelpodcast.com/episodes/6244-episode-5-laracon-and-actionscript",
+      "content_text": "In this episode Shawn McCool discusses Laracon, OOP, ActionScript and Chris' new Laravel 4 practical implementations book.\n",
+      "content_html": "<p>In this episode Shawn McCool discusses Laracon, OOP, ActionScript and Chris' new Laravel 4 practical implementations book.</p>\n",
+      "summary": "In this episode Shawn McCool discusses Laracon, OOP, ActionScript and Chris' new Laravel 4 practical implementations book.\n",
+      "date_published": "2013-09-07 11:00:00 -0500",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/6244.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 24720858,
+        "duration_in_seconds": 3088
+      }
+    },
+    {
+      "id": "http://www.buzzsprout.com/11908/110249-episode-4-war-stories.mp3",
+      "title": "Episode 4 - War Stories",
+      "url": "http://www.laravelpodcast.com/episodes/6243-episode-4-war-stories",
+      "content_text": "In this episode Shawn McCool, Taylor Otwell, and Matthew Machuga discuss the upcoming Laravel conference in Amsterdam, code-base complexity and they share war stories.\n",
+      "content_html": "<p>In this episode Shawn McCool, Taylor Otwell, and Matthew Machuga discuss the upcoming Laravel conference in Amsterdam, code-base complexity and they share war stories.</p>\n",
+      "summary": "In this episode Shawn McCool, Taylor Otwell, and Matthew Machuga discuss the upcoming Laravel conference in Amsterdam, code-base complexity and they share war stories.\n",
+      "date_published": "2013-08-24 11:00:00 -0500",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/6243.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 28755223,
+        "duration_in_seconds": 3592
+      }
+    },
+    {
+      "id": "http://www.buzzsprout.com/11908/108555-episode-3-packages.mp3",
+      "title": "Episode 3 - Packages",
+      "url": "http://www.laravelpodcast.com/episodes/6242-episode-3-packages",
+      "content_text": "In this episode, Laravel author Taylor Otwell discusses packages with his teammate / backbone-ninja Eric Barnes and Laravel community contributor, Ryan Tablada.\n",
+      "content_html": "<p>In this episode, Laravel author Taylor Otwell discusses packages with his teammate / backbone-ninja Eric Barnes and Laravel community contributor, Ryan Tablada.</p>\n",
+      "summary": "In this episode, Laravel author Taylor Otwell discusses packages with his teammate / backbone-ninja Eric Barnes and Laravel community contributor, Ryan Tablada.\n",
+      "date_published": "2013-08-14 11:00:00 -0500",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/6242.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 21910080,
+        "duration_in_seconds": 2736
+      }
+    },
+    {
+      "id": "http://www.buzzsprout.com/11908/106616-episode-2-testing-testing-testing.mp3",
+      "title": "Episode 2 - Testing Testing Testing",
+      "url": "http://www.laravelpodcast.com/episodes/6241-episode-2-testing-testing-testing",
+      "content_text": "In this episode Shawn McCool, Taylor Otwell and Jeffrey Way discuss Laracon, architecture, testing and more. Enjoy!\n",
+      "content_html": "<p>In this episode Shawn McCool, Taylor Otwell and Jeffrey Way discuss Laracon, architecture, testing and more. Enjoy!</p>\n",
+      "summary": "In this episode Shawn McCool, Taylor Otwell and Jeffrey Way discuss Laracon, architecture, testing and more. Enjoy!\n",
+      "date_published": "2013-08-04 11:00:00 -0500",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/6241.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 24556474,
+        "duration_in_seconds": 3067
+      }
+    },
+    {
+      "id": "http://www.buzzsprout.com/11908/93944-episode-1-hello-world.mp3",
+      "title": "Episode 1 - Hello World",
+      "url": "http://www.laravelpodcast.com/episodes/6240-episode-1-hello-world",
+      "content_text": "In this first episode we're joined by Taylor Otwell, the creator of Laravel to discuss Laravel 4, and Shawn McCool to discuss Laracon EU taking place in August, 2013. Enjoy!\n",
+      "content_html": "<p>In this first episode we're joined by Taylor Otwell, the creator of Laravel to discuss Laravel 4, and Shawn McCool to discuss Laracon EU taking place in August, 2013. Enjoy!</p>\n",
+      "summary": "In this first episode we're joined by Taylor Otwell, the creator of Laravel to discuss Laravel 4, and Shawn McCool to discuss Laracon EU taking place in August, 2013. Enjoy!\n",
+      "date_published": "2013-05-23 11:00:00 -0500",
+      "author": {
+        "name": "Taylor Otwell"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/6240.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 25671492,
+        "duration_in_seconds": 3207
+      }
+    }
+  ]
+}

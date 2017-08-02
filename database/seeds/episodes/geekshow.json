@@ -1,0 +1,1831 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "The Five-Minute Geek Show",
+  "home_page_url": "http://fiveminutegeekshow.com/",
+  "feed_url": "https://rss.simplecast.com/podcasts/335/rss",
+  "description": "Matt Stauffer, unabashedly geeky, 5 minutes, twice a week. Frontend dev, backend dev, audio, design, podcasts--all fair game.",
+  "author": {
+    "url": "http://fiveminutegeekshow.com/",
+    "name": "Matt Stauffer"
+  },
+  "items": [
+    {
+      "id": "0d2e273e-b50e-4e0f-ac4f-fbd50b550766",
+      "title": "101 | Your Top Idea, and Letting It Fester",
+      "url": "http://www.fiveminutegeekshow.com/101",
+      "content_text": "What's at the top of your brain? And what's the benefit you get from having to wait on something, letting you brain roll over it?\n",
+      "content_html": "<p>What's at the top of your brain? And what's the benefit you get from having to wait on something, letting you brain roll over it?</p>\n\n<ul>\n<li><a href=\"http://www.paulgraham.com/top.html\">Paul Graham - The Top Idea in Your Mind</a></li>\n</ul>\n\n\n<p>Transcript:</p>\n\n<p>Hi, I'm your host Matt Stauffer, and this episode 101 of The Five Minute Geek Show, a weekly show about development and everything around it. It's one topic per episode about front-end, back-end, mobile, project management, design, entrepreneurship, whatever. If it's geeky, it fits.</p>\n\n<p>Today, we're going to be talking about your top idea. I've talked about it a little bit in the past, but essentially, at any given moment, there's usually one primary thing that your brain returns to you when it gives a moment to rest. I often have about seven of these, which drives my wife nuts. We've talked often about the fact that I need to have less commitments. Not just because I need to be spending less time doing things, but because I need spaces for my brain to not only rest and have moments where I think about things family life related, not just all these kind of entrepreneurial and work ideas that I'm doing.</p>\n\n<p>So, essentially, when you have nothing else to do. When you're stuck in traffic, or when you are using the restroom, or showering, or taking a walk or something like that, your brain kind of rolls on to things. The things that your brain roll onto, often those are kind of like ... People frequently know this, are the things that ... We get some really great thinking done then, right? You've got stuck on something at work, and you go home and you sleep on it, and you come back and you have an answer. Or you go, you take a 15 minute walk.</p>\n\n<p>Sometimes you take a 15 minute walk, your brain just needs to re-orient itself. But sometimes ... For example, I'll often have an idea for an application or for a software of service, or for a project or a book or a blog post or a video. I'll have the idea long before I create the thing. I had an idea for a new product ... Not a product but that open-source thing that I want to do, like 11 months ago or something. Every once a while, it pops into my brain. It hasn't been the top of my mind, but it pops into my brain for a little bit. I think about it, and I think about one aspect of it, one nuance. Well, how would I get these people to carry the content here? Or, what would motivate somebody to want to carry the content here versus somewhere else? Or, how would I handle the fact that there's this type of data coming in there, but that type of data coming in there?</p>\n\n<p>So, it pops up every once in a while, and I kind of think about it for a little bit, and the thinking that I do there kind of moves into the storehouse of answers that I've come up with for those things. So, every single time I've ever created something of significance size, there's been years or at least many months of thinking about the thing prior to the point where I actually get started.</p>\n\n<p>So this thing, I bought a domain name for it three weeks ago, and I told everybody at Titan about it three weeks ago, but I've been thinking about the thing for months. I've been thinking about it even more frequently since then. It's nearly at the top idea of my mind kind of thing where most of my free time, I think, \"Well, okay, here's another thing I need to think about it.\" Then I think through it for a while, while I'm putting my daughter to sleep, or something like that.</p>\n\n<p>So it's interesting that there's not just this idea of the top idea in your mind. I've talked often with people about this top idea in your mind thing, Paul Graham's somebody who wrote something about it recently. It's not just the fact that you have one, which of course is an important conversation, because if you've never thought through these things, some of these important things about that are ... Like, if you're trying to split your job responsibility between multiple roles, there may be certain roles that never get to be the top idea in your brain, which means they never get that kind of free time thinking or that free moment thinking or that extra brain power that allows you to power through some things that might not happen during your normal, actual application of the job.</p>\n\n<p>Often I've told people who've wanted to do three things, I'm like, none of those three things are going to be done ... Or at least probably two of those three things are actually going to be done to a one-third attention level, because two of them are not going to be the forefront idea. So it's not even the time to spend on the thing, it's the time to spend thinking on the thing. So there's definitely things worth thinking about, just with regard to what is at the forefront of your mind.</p>\n\n<p>But what I want to talk about is giving space for yourself to process through the thing over time. It's almost as if ... So, okay, we did a developer battle. I think I'm going to get to my point eventually here. We did developer battle just recently between two of our senior developers. It's their first time doing this thing, where for a very short period of time, you don't know what the task is going to be ahead of you until you actually start, and everybody's watching you. There's all sorts of pressures. There's the pressure of typing while people are watching you, trying to come up with answers in a short amount of time. But one of the things that Keith, who's one of our developers, mentioned was that when he normally codes, he stops and he thinks things through, and he plans them out before he codes. He finds that he really struggled during the battle because he didn't do that. So he didn't have the thinking done prior to doing the coding, so he was trying to think and code at the same time.</p>\n\n<p>I think that's part of what it is here. For example, when I created Karani years ago, I'd had the idea in my head, and I actually even started writing some code for it several times. But what it really took was endless running. I hate running, but I do it because I try to stay healthy ... and endless running sessions where I'm seeing the same scenery pass by, and my brain just started wandering. I wandered to various use cases and features for Karani. I'd come back from my run and write some notes down. Or things where you wake up in the morning and you come up with a new idea. I think one of the benefits of Karani is that if I had taken Venture Capital, I didn't even know what it was at the time, and just had to build the whole thing, I really wouldn't have known what to build at first. It was the incremental building process of putting a little out there and then thinking on it.</p>\n\n<p>Honestly, not having enough time to work on a thing gives you more brain power. I wonder if there's actually a value to a constraint where you don't get to do the thing yet, and you need to do a little bit of thinking, a little bit of time sitting on it, and allowing yourself those little kind of thinking moments before you do the thing.</p>\n\n<p>It reminds me of a trip I took to Mexico City with a guy named Saul [inaudible 00:05:57] and you take two weeks there, and you're spending a whole bunch of time, American, middle-class, college educated kids, working with people in extreme poverty. What you want to do is you want to go in and fix things. That's what those types of trips are usually about. You go in and fix things, you feel better. He won't let you touch a thing for a least a week. First week, all you're allowed to do is learn and listen and get to know people. Only after you've had some time just kind of learning and listening and really hearing people and understanding a greater depth and nuance of their situation than I think would be normal for us to assume when you walk in with a broken roof. One, let me fix that roof.</p>\n\n<p>Only after at least a week, at least half your time of really developing relationships with people and hearing them say what they want and seeing their situations, and knowing what other circumstances there are that may influence it, does it even allow you to have any part in actually making a change. It's the same kind of thing.</p>\n\n<p>It can be headstrong. I had a thing recently where I felt very, very emotionally and passionately about a thing and wrote a big, long, kind of hairy email. I showed it to my partner Dan, and Dan said, \"Okay, cool, why don't you just kind of sit on it a little bit.\" It's always a good reminder. You know, sit on a bit and see how you feel about in a little bit. With emotional things, it's because you want to get out of the emotion and make sure you're still happy with how you represented yourself.</p>\n\n<p>But it's the same kind of thing, this, \"Okay, great, that's what you've got, but give your brain space to stretch in different directions. To be in a different mood and look at it, to be at a different frame of thinking and look at it, to allow something to bubble up in response to something else you see. You see a Tweet, and you say, \"Oh, you know what? That's one of the people I wanted to moderate the thing, and I just realized, why would they be motivated to use this thing?\" I had not actually considered the motivation of the moderators, and so now I need to figure out what changes can I make to my overall structure that makes these moderators want to actually be participating in? Obviously, this is the thing that I've been thinking about over the last year. It's just these various things that pop up in response to other stimuli.</p>\n\n<p>But if I had started building it the moment I had the idea, I wouldn't have had that kind of thinking process about the moderators. I just would've built it and would've said, \"Okay, moderators, come in\", and I never would've had that trigger to say, \"Wait a minute, you gotta make sure this is actually valuable for them to be a part of it.\" So, I know that the thing about the actual tool I'm talking about is super abstract here, but I think the goal ... There's not even a lesson, there's not even a message. It's just think about the value that comes from having to wait.</p>\n\n<p>There's value that comes from just letting your brain rest in the thing and stretch around the thing, and approach the thing from different angles, in different perspectives, before you actually get started on the thing. There may be formal ways to implement that, I'm not sure. But I don't know maybe I think that there's just some value for us to seeing value in that waiting in our work and in our processes.</p>\n\n<p>So, I don't know. I hope that's good. I hope so. Thanks for listening to The Five Minute Geek Show. We're back at Five Minute Geek Show and Twitter number five.</p>\n\n<p>FiveMinuteGeekShow.com, five. Subscribe to us at iTunes or RSS, if you like the show, share it with your friends, rate it in iTunes. Thanks! Till next time, Matt Stauffer, Five Minute Geek Show.</p>\n",
+      "summary": "What's at the top of your brain? And what's the benefit you get from having to wait on something, letting you brain roll over it?\n",
+      "date_published": "2017-07-07 17:03:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/75898.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 8954927,
+        "duration_in_seconds": 558
+      }
+    },
+    {
+      "id": "f845a6aa-77e6-4d6d-8a8c-c5fd574cd7f1",
+      "title": "100 | Overlapping Communities",
+      "url": "http://www.fiveminutegeekshow.com/100",
+      "content_text": "Overlapping communities\n",
+      "content_html": "<p>TRANSCRIPT:</p>\n\n<p>Hi, I'm your host Matt Stauffer and this is Episode 100. One, zero, zero. We've made it! I have not, I was going to say tweeted. I've not podcasted, I've hardly blogged, I thought I was back a couple months ago and then it turns out that babies don't like sleeping. Turns out, who knew? So finally back-ish, it's going to be a slow roll back--I'm not going to promise that I'm 100 percent, but I'm back enough to record Episode 100. Hurray, huzzah, there was much rejoicing. If I wasn't so lazy I'd put sound effects in here. People clapping and cheering.</p>\n\n<p>The Five Minute Geek Show! it's a purportedly weekly show about development and everything around it. It's purportedly five minutes long. It's really whenever the heck I can get to it and turns out it's sometimes between five and ten minutes. It's one topic per episode, that's true. About front end, back end, mobile, project management, design, entrepreneurship, whatever. If it's geeky, it fits.</p>\n\n<p>I'm glad to be semi back. My son is out of school, and all of a sudden my schedule is rearranged and I'm able to find pockets of time for podcasts and blogs now, so my goal is to get a podcast and a blog out this week. That's what I'm going to try and do.</p>\n\n<p>So this week we're going to be talking about community. Capital C community. If you are not a PHP developer this will be a little bit less relevant. If you're not a developer, it will be even less relevant, but it'll touch on some things.</p>\n\n<p>There is often a line that is repeated by various people within the PHP community that Laravel, the people in Laravel, the Laravel community, are elitist and that they encourage silos and that what they really needed to do (if they weren't pigeon holing themselves into just being Laravel developers) is be involved in the greater PHP community.</p>\n\n<p>People, hoity toity, are proud of the fact that they are <em>just</em> a PHP developer, and they would not be so <em>base</em> as to identify with a particular framework. They say, well, I hope you don't put \"Laravel developer\" on your whatever. \"Why wouldn't you just say PHP developer?\" They'll point to the wonderful efforts of people like Cal Evans, and other wonderful human beings <em>whom I love</em>, who do great things to encourage the PHP community to have an identity. Every single time they say these things, I respond in the same ways, and they stop responding when they realize their argument is awful and then somebody else spouts the same crap a month later.</p>\n\n<p>So! I'm going to say it out loud here. If you have the temptation to go ham on somebody because they consider themselves a WordPress developer, or a Symfony developer, or a Laravel developer, or whatever else developer because they should be just thinking of themselves as PHP developers... Next time you identify yourself as a PHP developer, I'm going to walk up and I'm going to say, \"why are you identifying yourself as a PHP developer? Why aren't you just a web developer?\" Then when you go to a web development thing, \"why are you are identifying as a web developer, why aren't you just a technologist?\" When you go to technologist thing I say, \"why are you a technologist, why aren't you just a person?\" Why aren't you just a human? Where is the line? You have made up an arbitrary line that you think is the acceptable place for someone to identify, below which is not possible. And we haven't even started talking about geographical location or anything like that.</p>\n\n<p>Is it acceptable for someone to identify that they're in the London PHP group? Is that unacceptable because that's a delineation? No, none of this stuff matters. All these groupings are helpful.</p>\n\n<p>Now remember, if you've listened to this podcast for any time you understand that a lot of the things I'm talking about come out of faith and religious background. So let me tell you about denominations. In denominations, you have the differences between people of the same faith, similar to sects and stuff like that. Where you have multiple people who ascribe to the same general thing, but are different in certain ways. There's all sorts of horrible things where people have mistreated each other, they've killed each other and all that kind of stuff, with the difference between religions. So, in general, we tend to think of unity as good and division as bad, right? So we often have this naïve concept that if we could just rid ourselves of denominations, and everyone would just be the same faith, the same religion, then all of our problems would be gone.</p>\n\n<p>The problem is there are perfectly acceptable, and perfectly normal and often very healthy, differences in opinion, and denominations give you space to find the other people who follow along that line in a different way, and celebrate together with them without having to separate yourselves entirely from the community that you're a part of. Or without fighting all the time.</p>\n\n<p>Let's say you have a particular interpretation of how something says whether its Saturday or Sunday. What's the seventh day in the bible--is it Saturday or Sunday? Well, that's going to make a pretty big difference about when your church meets and all this kind of stuff. You could fight about it all day all the time, or you could both do the same stuff on different days of the week, and just split along that line. Split has this negative connotation, but maybe you can just both do great things on different days of the week.</p>\n\n<p>Laravel does different things, provides different things, has different priorities and perspectives than Zend. If Zend and Laravel were to mush together into one, you would have a lot of battles because Zend has a very specific set of goals and priorities that are not the same as Laravel's. If they're allowed to co-exist separately, then it's perfectly acceptable for both of these sub groups to be a part of a larger sub group, which is a part of a larger sub group. Why PHP? Why are you in PHP and not Ruby? Well it would be very awkward to have every meet up ever be about PHP and Ruby. Let alone the differences of opinion, how are you ever going to talk about something when everything is completely different?</p>\n\n<p>There are healthy things about us finding natural differences in a healthy way accepting and sometimes even celebrating those differences, and also being willing to be a part of the greater community. Now, does me being in one denomination mean I'm now no longer part of the larger faith? No. Does that mean I'm incapable of participating in concepts or meetings, or whatever that relate to the larger faith? No. Similarly, does being a WordPress developer mean you now say I'm not a PHP developer? No. So chill out, take a chill pill, get off your high horse and allow yourself to be in multiples; and guess what, you could be a Laravel developer and a Symfony developer, and a PHP developer, and a Ruby developer, and a JavaScript developer, and an Ember developer, and a React developer all at the same time. It is possible! You can do it. It's like this magical thing where you can be a part of multiple communities and no community police is going to come stop you. It's fine, it doesn't matter.</p>\n\n<p>So just enjoy it! Allow yourself to celebrate being a part of whatever communities to get the benefits out of them. Being a part of the WordPress community means you connect with other people who are learning how to make money as a WordPress developer, and that is very different than how to make money as a Laravel developer, right? That's fine. There's nothing wrong with that. Trying to learn how to really up your skills in Symfony and Laravel often looks very similar, but not always. So having differentiation in the community allows space for us to share some resources, and not share the other resources, and that's perfectly fine.</p>\n\n<p>Really, this is just me going on a rant. Surprise! That's what this podcast is. Here's the fact that every community has various levels that overlap, and various levels of not overlap, and that is perfectly fine. You can be a part of many communities that are a part of many other communities that are sub groups, of sub groups, of sub groups, and there's no magical line. PHP as a community is not the magical line beneath which everything is an atrocity.</p>\n\n<p>Within Laravel, you may find yourself a part of the DDD community, and you may find yourself a part of the Hyper Ruby inspired minimalist Smalltalk community. Those are two communities within the Laravel community and that's okay, because you don't have to do one or the other. It's fine, I'm not actually adding anything new to this conversation at this point, I'm just throwing out random things and saying its fine. Just chill out. Allow people to enjoy being a part of the communities they are.</p>\n\n<p>If you want to have a positive impact I think the thing that I hear from these people the most is, well, why don't you participate more in the larger PHP community? They don't say those words, but I think that's what is the inherent. Then say that in a positive, not critical way. Hey WordPress developers, did you know that there's this much larger PHP community that we want to invite you into? Here's ways that we can welcome you.</p>\n\n<p>It turns out the best way to welcome people is not by calling them silo'ed whatever heritics. The best way is to be kind, and to enter into their spaces and to learn from them, and to offer what you have to them, and to be nice people. It turns out that's the trick. Be nice. Take care of people. I feel like I'm making voices where I'm mimicking people more than normal, so I hope I don't get too many complaints about how snarky I was in this one.</p>\n\n<p>I really do love you all. This is Episode 100, I'm making the heart symbol in front of my chest right now. I also got not a lot of sleep last night, and I'm super caffeinated so that might be part of it now. All right we're almost out of time, I will not go over 10 minutes, thank you.</p>\n\n<p>Thank you friends for listening to 100 episodes, those of you who've been here for all 100, and if not, that's okay--thank you for being here for Episode 100 anyway. This is the Five Minute Geek Show, we're at @5minutegeekshow on twitter, fiveminutegeekshow.com. You can subscribe to us on iTunes or RSS if you like the show, and it'd be amazing if you would share it with your friends, rate it in iTunes.</p>\n\n<p>Until next time--Matt Stauffer, Five Minute Geek Show.</p>\n\n<p>Ready to do it? All right go.</p>\n\n<p>\"If one more label try to stop me there's gon be some dread head boys in the lobby, UH UH\"</p>\n",
+      "summary": "Overlapping communities\n",
+      "date_published": "2017-05-30 16:06:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/70871.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 9733167,
+        "duration_in_seconds": 607
+      }
+    },
+    {
+      "id": "a9cd8d13-951c-41e7-820c-2a5847e813b1",
+      "title": "99 | Take Care of Your People",
+      "url": "http://www.fiveminutegeekshow.com/99",
+      "content_text": "Take care of your people\n",
+      "content_html": "<p>Take care of your people</p>\n",
+      "summary": "Take care of your people\n",
+      "date_published": "2017-04-06 17:24:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/65479.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 8022876,
+        "duration_in_seconds": 500
+      }
+    },
+    {
+      "id": "5cf0c797-72ef-4480-a6cd-6cb6bad30d62",
+      "title": "98 | Take care of yourself",
+      "url": "http://www.fiveminutegeekshow.com/98",
+      "content_text": "Take care of yourself\n",
+      "content_html": "<p>Take care of yourself</p>\n",
+      "summary": "Take care of yourself\n",
+      "date_published": "2017-03-02 15:59:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/61600.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 7131787,
+        "duration_in_seconds": 444
+      }
+    },
+    {
+      "id": "50da172a-8812-4fff-8a92-73e7075ff7c2",
+      "title": "97 | Conducting reasonable, grown-up, discourse online",
+      "url": "http://www.fiveminutegeekshow.com/97",
+      "content_text": "There's a big difference between conversation and snarky quips.\n",
+      "content_html": "<p>There's a big difference between conversation and snarky quips.</p>\n\n<ul>\n<li><a href=\"http://www.hiremorewomenintech.com\">Hire More Women In Tech</a></li>\n</ul>\n\n",
+      "summary": "There's a big difference between conversation and snarky quips.\n",
+      "date_published": "2017-02-22 16:34:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/61001.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 13738885,
+        "duration_in_seconds": 857
+      }
+    },
+    {
+      "id": "db932a01-5f72-4b88-9d4b-d86176ac0791",
+      "title": "96 | Direct communication and why passive aggression isn't what you might think but sucks anyway",
+      "url": "http://www.fiveminutegeekshow.com/96",
+      "content_text": "A chat about indirect vs. direct conflict, what passive aggression is and isn't, and some tips for responding to folks who manipulate others indirectly.\n",
+      "content_html": "<p>A chat about indirect vs. direct conflict, what passive aggression is and isn't, and some tips for responding to folks who manipulate others indirectly.</p>\n",
+      "summary": "A chat about indirect vs. direct conflict, what passive aggression is and isn't, and some tips for responding to folks who manipulate others indirectly.\n",
+      "date_published": "2017-02-14 16:08:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/60465.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 10257623,
+        "duration_in_seconds": 640
+      }
+    },
+    {
+      "id": "df6b9fa7-9f3d-49d3-b3e3-db59943656a4",
+      "title": "95 | Credit where credit's due",
+      "url": "http://www.fiveminutegeekshow.com/95",
+      "content_text": "Give credit where credit is due\n",
+      "content_html": "<p>Give credit where credit is due</p>\n",
+      "summary": "Give credit where credit is due\n",
+      "date_published": "2017-01-04 17:29:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/56585.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 10462993,
+        "duration_in_seconds": 652
+      }
+    },
+    {
+      "id": "f479daff-5711-4fd4-a08a-3298563e05b3",
+      "title": "94 | One easy tip to being in the top 2% of freelancers",
+      "url": "http://www.fiveminutegeekshow.com/94",
+      "content_text": "The tip: Be a grownup.\n",
+      "content_html": "<p>The tip: Be a grownup.</p>\n\n<p>-- Transcript --</p>\n\n<p>Matt Stauffer: Hi. I'm your host Matt Stauffer, and this is episode 94 of the Five-Minute Geek Show, a weekly show about development and everything around it. It's one topic per episode—about frontend, backend, mobile, project management, design, entrepreneurship, whatever. If it's geeky, it fits. Today we're going to be talking about being a freelance web developer, freelance contractor, and what it is that I expect from you as a business owner when you're doing that. I'm also going to turn off the fan so you don't hear the noise in the background.</p>\n\n<p>  At Tighten we often hit spots where we have too much work, too much stuff on our plate. Sometimes we'll just say no to clients, but sometimes we'll say yes to a project or we'll just need a little bit more, and we'll turn to freelance contractors to help round it out a little bit, because what we don't want to do is, at that point, hire someone then realize that it was just a temporary kind of boost in the amount of work we're getting. Instead, we bring on freelance contractors to help us do work. These are varying from random freelance contractors we found on the internet somewhere to completely famous freelance contractors who are big names in the PHP or frontend space or whatever else it ends up being.</p>\n\n<p>  The weird thing is, we have had far more negative experiences than we have had positive. Far more people where I say, \"What is going on? How do you not know how to manage your business? How do you not know how to be a grown-up? How do you not know how to communicate to me?\" Well, what I've discovered is that the number one problem that we have had working with contractors is that they expect to come into our organization as an employee. In some ways that's my fault, because I often say, \"Hey, we kind of think of you as an employee while you're here.\" Because we usually only have them contract basically full time, so I want to know when you're in the office, I want to know when you're out of the office. I want you to do check-ins with me. I want you to feel like you can communicate to me. I want you on our Slack channels, all that kind of stuff.</p>\n\n<p>  The problem is, they often think that they're employees, in that I'm the one responsible for checking in with them, or I'm the one responsible for setting the list of tasks, or I'm the one responsible for something else. The thing is, the vast majority of contractors we work with are charging anywhere between $100 and $150 bucks an hour (edit: this is not true. A more correct number would be $75 and $125). If I'm paying you far more per hour than I make, then I'm expecting you to do a whole bunch of work for me, right? I'm not expecting to pay you a whole bunch of money for you then to just sit there and wait for me to tell you what to do, or wait for me to check in on you, or babysit what you're doing. That's not acceptable. I think that ... This is not acceptable for me. Maybe that's how it works with other companies.</p>\n\n<p>  I think that there's a misconception for a lot of folks who are freelance contractors that the process of choosing to be a freelance contractor and charging much higher rates than you would, whatever else, is really just you ... Like we're paying for the value of having somebody to flesh out our team when we didn't have the resources to do it, and that's why the cost is extra or whatever. That's definitely true. You know, if I didn't have somebody to do that, then I would have to do the work, or I'd have to turn down work, or whatever it ends up being, so there's definitely value there. I also think that it is the value of paying someone who's supposed to be a self-sufficient work-doing resource. Self-sufficient in that they handle their own finances, and they handle their own accounting, and they handle their own timeline.</p>\n\n<p>  The whole concept of ... At least in the US, the difference between a W-2 employee, which is like a full time employee, and a 1099 employee is that you can't really tell the 1099 employee, like legally, ethically, or technically or whatever, you can't tell them exactly when to do it or where to work from or what stuff to do. You really could just tell them, \"Here are the things I need done, and here's the timeline in which I need them done. Here are some conditions around it.\" Some of the conditions are, you can be like, \"Well, you need to check in with me every week to show me what you're doing.\" Or, \"I need to know that you're going to use this particular programming technique versus that, because it will affect the final outcome.\"</p>\n\n<p>  That's cool, but you can't tell them, \"You know, you need to work these hours at this place using this laptop,\" or something like that. You can't do that. For me, I embrace that. I say, \"Look, I'm not telling you that you need to do it a certain way, but I am telling you that I need a certain level of communication. I need a certain output. I need it done in a certain amount of time,\" and then I want you to handle it from there. Like, you're a contractor. You're 1099, which to me means I'm going to tell you what to do, and you're going to handle it.</p>\n\n<p>  We just worked with a contractor that is someone we've turned to on a regular basis, and he's just this extremely mature, incredibly effective communicator. I basically kind of pitched to him the original idea of the project, told him what our budget looked like and our timeline, and he said, \"Yep, I can do it. That time line. That budget.\" Asked me a couple of questions along the way, checked in with me probably once or twice a week on Slack, just kind of let me know what was going on, invited me into his project management tool that he uses for everything, and at the end of the project said, \"I'm ready to do a delivery. Here's what I have. Here's the documentation I wrote up for your client, and then I have a couple hours left. I'll do the deploys. Everything's good to go.\" I hardly had to think about this project the entire time he was on it. I'm not making a lot of money off of the project, because he's a contractor. He costs a lot of money, and the amount I'm paying him is close to the amount we're charging the client, but I had to do almost nothing. That's what I'm paying him for, to do fantastic work, to manage himself, to communicate with me, and just kind of to get stuff done. To handle it, right?</p>\n\n<p>  I've also brought in other contractors where I'm paying them a whole bunch of money, and then I'm spending all my time on it, and it's just like, \"If I'm going to do that, then I'll just do the work myself,\" right? If you're a freelance contractor, if you are ... Especially as a web developer, there's a whole world out there of people who are freelance contractors who are burning bridges left and right. I've talked to a lot, lot, lot of business owners who try to bring in freelance contractors and say, \"Nope. Not going to do it. Never going to do this again. It was a total awful experience.\" Being this one guy that I'm talking about right now, being like him, he will get work from us forever. Like, forever. If somebody else is just in desperate need, I'll give them his name, but I don't want to give too many people his name because then he won't be available when I need him.</p>\n\n<p>  Yeah, you've got to be a good coder, but like, just being a grown-up and like managing your stuff goes so far. It's crazy that that is the case. It is crazy that that's the case. Just so you know, I'm not just picking on freelancers. I could go on a whole nother rant about employees, people who apply to our jobs, and the weeding out process of people who actually submit applications to be full time. But for right now, I just want to talk about freelancers. It's just like, what I want to know is that bringing you on the project is going to make my life easier. I'm going to do less work. I'm going to think about this less. When you need something, you're going to come to me about it. This is true for my employees as well. You're going to come to me about it, and you're going to ask me questions, and I understand.</p>\n\n<p>  Like there are other companies that probably do all of that for you, and for freelancers it's probably a lot easier to kind of jump into some massive corporation where you're just a cog, and they just need to add more cogs, and everything is set up for you. I get that being a freelancer for me is probably a lot harder than being a freelancer for somebody else, but I'm not alone. If you really want to set yourself apart as a freelancer, there's certain things you can do, but one would just be communicate, self-manage, basically be like ... Be a company. Like, I don't get to expect my clients to manage my time for me, or to initiate communication for me. I'm on top of that. So as a freelancer, be a company. Manage your time. Communicate well. Manage expectations accordingly. If you do that, you're going to set yourself above 98% of everybody else that's out there. The things aren't that difficult, but they really show, like, your level of attention and care, and that can go a long way.</p>\n\n<p>  I hope that I'm not making ... Like, if you freelanced with us before, I'm not trying to throw shade on you, whoever you are. I'm sure you were fine. Really, but I just want to pitch to potential freelancers or current freelancers that there's a different way, and if you do that different way, it sets you apart so much that it really will be to your benefit. I hope this helps.</p>\n\n<p>If you have any questions about that, reach out to me on Twitter @5MinuteGeekShow. Check out other episodes at FiveMinuteGeekShow.com. Subscribe, iTunes, RSS, all that kind of stuff. If you like the show, and you're a freelance contactor, go be that 2% of amazing freelance contractors. If you like the show and you're not a freelance contractor, I don't know. Rate it, iTunes and all that kind of stuff. Thanks. Until next time, Matt Stauffer, Five-Minute Geek Show.</p>\n\n<p>Son:    Five-Minute Geek Show?</p>\n\n<p>Matt:   Yeah. When you're singing it. Can you do that?</p>\n\n<p>Son:    Say \"Five-Minute Geek Show?\"</p>\n\n<p>Matt:   Yeah, but sing it with that song.</p>\n\n<p>Son:    (Singing) “I am iron man….” Five-Minute Geek Show.</p>\n\n<p>Matt Stauffer:  Perfect. My man.</p>\n",
+      "summary": "The tip: Be a grownup.\n",
+      "date_published": "2016-12-16 17:00:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/55330.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 8313429,
+        "duration_in_seconds": 518
+      }
+    },
+    {
+      "id": "e4ee2084-ac7f-49b0-b6fe-379f5b1f702b",
+      "title": "93 | If you don't know \"why\", you're not going to do the right \"what\"",
+      "url": "http://www.fiveminutegeekshow.com/93",
+      "content_text": "Understanding the end goals--the motivation--of your clients, or yourself, allow you to make the small decisions in ways that serve the goal, rather than potentially fighting it.\n",
+      "content_html": "<p>Understanding the end goals--the motivation--of your clients, or yourself, allow you to make the small decisions in ways that serve the goal, rather than potentially fighting it.</p>\n",
+      "summary": "Understanding the end goals--the motivation--of your clients, or yourself, allow you to make the small decisions in ways that serve the goal, rather than potentially fighting it.\n",
+      "date_published": "2016-12-08 09:36:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/54738.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 9718607,
+        "duration_in_seconds": 606
+      }
+    },
+    {
+      "id": "7c71ed62-5c5c-4107-b9a6-066e11ce7546",
+      "title": "92 | Spoiling yourself to avoid burnout",
+      "url": "http://www.fiveminutegeekshow.com/92",
+      "content_text": "Spoiling yourself to avoid burnout\n",
+      "content_html": "<p>Spoiling yourself to avoid burnout</p>\n",
+      "summary": "Spoiling yourself to avoid burnout\n",
+      "date_published": "2016-11-17 18:18:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/53210.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 7449089,
+        "duration_in_seconds": 464
+      }
+    },
+    {
+      "id": "c9a8db85-30bf-4801-8de3-adbbfbf6eb0d",
+      "title": "91 | Commitments, not (or and) goals",
+      "url": "http://www.fiveminutegeekshow.com/91",
+      "content_text": "Commitments, not (or and) goals\n",
+      "content_html": "<p>Small, measurable, manageable commitments help people like me move toward their goals.</p>\n\n<p>Transcript:</p>\n\n<p>Hi, I'm your host, Matt Stauffer, and this is Episode 91 of The Five Minute Geek Show, a weekly show about development and everything around it. It's one topic per episode about front end, back end, mobile project management, design, entrepreneurship, whatever. If it's geeky it fits.</p>\n\n<p>Today we're going to be talking about goals and commitments. I know a lot of people who really value the idea of setting goals and measuring your, long goals. I have a lot of friends who really care about analyzing others. The word that they use for it I forget but basically having metrics about everything you do, how often I eat that, how often I do that.</p>\n\n<p>I do some of those things. I've been tracking my food and calories through either ... I think the old one was called Calorie Counter and the new one's called My Fitness Pal for years. It really helps me have a good understanding of what my health is like and everything so I'm very thankful for those things. One of the things that I've noticed is a lot of those folks who think deeply about journaling and planning, executing, all that kind of stuff, they all talk about setting goals. If you haven't had some teacher or parent or someone at some point in your life tell you you need to set goals I'd be extremely surprised.</p>\n\n<p>Why is it that people like me have so much ... Okay. I have a lot of trouble setting and focusing on goals. I set them and they're really great and a nice idea but some of the things I run into are first, it's really hard to predict what my goals should be. It's like how much should I increase sales by? Well, I guess 10%. Is that realistic? Is that good? Is that bad? How do I really know, I've just kind of made up things. It's good to focus on those made up things but often it's just hard for me to really use them as motivation.</p>\n\n<p>Additionally, the hardest part for me is that they're not present. Unless you do a really good job of keeping them at the forefront of your mind or checking in on them regularly or whatever else which I don't do you set the goal and then you feel guilty when you had forgot about it for three months. That's not to say that goals are bad but if you're like me you might find that there's something a little bit better which is small, measurable commitments. Instead of saying, \"I'm going to set a goal to lose a certain amount of weight.\" Instead make a commitment, \"I'm going to make a commitment that I'm going to cap my food at 1800 calories a day.\" \"The source of my calories is going to be 40% protein.\" \"I'm going to make a commitment that I'm going to make 10,000 steps everyday.\"</p>\n\n<p>What that ends up meaning is when I have that doughnut in the morning that means in the end of the day I'm scrambling a little bit to figure out how am I going to get my protein in or the next day when I feel really bad about that it's going to motivate me to be less likely to have that doughnut. When it's the end of the day and I've only hit 7,000 steps and I want to go to sleep I say, \"Hey, I made a commitment.\" My wife knows that I made that commitment and so she's okay when I, like a crazy person, go walk around in circles in my neighborhood for 45 minutes to get my steps.</p>\n\n<p>Those commitments are easy to make because I say, \"I committed to do this thing, therefore I'm going to do it.\" It's easy to justify the decisions in response to it because it's very hard both to myself and to other people to say, \"Well, I need to lose weight. Therefore, I'm going to go walk.\" That's definitely, it's a true thing but it's vague, it's very distant, and it's very easy to justify away. \"Well, I can just skip walking this time, I can just whatever. How much is it really going to matter? I'm already making progress, blah, blah, blah\"... but... \"I committed to walking 10,000 steps everyday.\"</p>\n\n<p>You don't justify that away. If you don't make 10,000 steps that day it's because you're breaking your commitment. That's not like you should feel guilty or whatever but it's much closer to the wire thing to fulfill. \"I committed to 10,000 steps today, I'm going to do 10,000 steps today, that's it.\"  My hope is that I make commitments that are in line with my values. My value isn't actually losing weight, it's just being healthy. I just want to give examples of things that are maybe small, measurable, and very clear when you broke them in the moment, in the immediate space.</p>\n\n<p>Commitments might be a good way to reach goals. By doing that I now have to worry less about being able to predict what my goals should be in the future. I have to more just say what are healthy decisions to make that are in the same direction as that goal. With my physical health it's very easy because I know what things are healthy. With things that are a little more abstract sometimes it's a little bit tougher. What are the things ... What are the immediate commitments that you can make right now to get you to the place that you want to be in your career or in your business' growth? Well, let's say you want to become a better developer. Well, it might mean saying, \"I commit that every single day I will work through my lunch break and I will watch one Laracasts video and I will read at least 10 pages of this book. Regardless of anything else I will do that or every night I'm going to work through this thing or I will spend one hour on this site app every single day so I have a portfolio piece,\" or whatever else it ends up being.</p>\n\n<p>Maybe if you're a business owner it will be, \"Every single day I will put at least 30 minutes into one of 10 business development tasks. I will either blog or make phone calls or follow-up with these people or whatever. I will spend at least 30 minutes doing that every single day regardless.\" You didn't say, \"I'm going to increase my sales,\" or, \"I'm going to be the best developer ever.\" You said, \"Every single day I'm going to do X amount of things to get myself ... Or every week or whatever to get myself moving in the direction I want to go.\" I think the primary goal of this one is just saying that if you're like me you may find that goals are nice but often just induce guilt when you forget about them.</p>\n\n<p>Small, measurable commitments that will move you in the right direction are a lot easier to keep fresh because you just get in the pattern of them. It's a lot harder to break them and it's a lot easier to justify doing things that might seem a little weird for the sake of them. It's a lot harder to justify not doing them when they're small. It's not as if you're like, \"Well, I'm going to lose 50 lbs.\" Well, it's very easy to feel vaguely non-committal to that when time comes and it's family doughnut time. It's a lot easier to say, \"I'm going to walk 10,000 steps today,\" and you're a little tired and say, \"You know, it's only 2,000 more steps and I committed, I'm going to do it.\"</p>\n\n<p>I hope this helps someone. Thanks for listening to The Five Minute Geek Show. We're at Five Minute Geek Show on Twitter number five. Fiveminutegeekshow.com. You can subscribe to us on iTunes via RSS. If you like the show share it with your friends right on iTunes. Thanks. Until next time, Matt Stauffer, Five Minute Geek Show.</p>\n",
+      "summary": "Commitments, not (or and) goals\n",
+      "date_published": "2016-10-27 10:44:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/51063.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 6170552,
+        "duration_in_seconds": 384
+      }
+    },
+    {
+      "id": "5c0668ec-d37e-4c6b-b10a-4fcd8592ec41",
+      "title": "90 | It's OK to specialize. We're a Laravel Shop. That's OK.",
+      "url": "http://www.fiveminutegeekshow.com/90",
+      "content_text": "It turns out, it's perfectly OK to specialize in a certain tech. Who knew!\n",
+      "content_html": "<p>It turns out, it's perfectly OK to specialize in a certain tech. Who knew!</p>\n\n<ul>\n<li><a href=\"https://tighten.co/\">Tighten</a></li>\n</ul>\n\n",
+      "summary": "It turns out, it's perfectly OK to specialize in a certain tech. Who knew!\n",
+      "date_published": "2016-10-10 11:07:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/49546.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 7195828,
+        "duration_in_seconds": 448
+      }
+    },
+    {
+      "id": "e8d13332-7bbd-49e4-8a01-e1790452e44f",
+      "title": "89 | Start preparing now for what you need then",
+      "url": "http://www.fiveminutegeekshow.com/89",
+      "content_text": "Whether it's getting a new job, launching a product, or finding new business, the things you'll need in the future require you to plan now.\n",
+      "content_html": "<p>Whether it's getting a new job, launching a product, or finding new business, the things you'll need in the future require you to plan <em>now</em>.</p>\n",
+      "summary": "Whether it's getting a new job, launching a product, or finding new business, the things you'll need in the future require you to plan now.\n",
+      "date_published": "2016-09-08 14:47:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/46577.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 4738206,
+        "duration_in_seconds": 295
+      }
+    },
+    {
+      "id": "8a5b0925-4875-4e52-845b-30b8c9da13e5",
+      "title": "88 | Somebody is going to have to do the hard work to bring equality",
+      "url": "http://www.fiveminutegeekshow.com/88",
+      "content_text": "Somebody is going to have to do the hard work to bring equality\n",
+      "content_html": "<p><strong>Notes:</strong></p>\n\n<ul>\n<li><a href=\"http://interactioninstitute.org/wp-content/uploads/2016/01/IISC_EqualityEquity.png\">Equality vs Equity Graphic</a></li>\n<li><a href=\"http://amzn.to/2bHBUbR\">The New Jim Crow</a></li>\n<li><a href=\"http://revisionisthistory.com/episodes/04-carlos-doesnt-remember\">Carlos Doesn't Remember - The Revisionist History Podcast</a></li>\n</ul>\n\n\n<p><strong>Transcription:</strong></p>\n\n<p>Hi. I'm your host Matt Stauffer, and this is episode 88 of The Five Minute Geek Show, a weekly show about development and everything around it. It's one topic per episode about front end, back end, mobile, project management, design, entrepreneurship, whatever. If it's geeky, it fits. Today, we're going to be talking about diversity in hiring.</p>\n\n<p>So what I mean by that is: I own a business, I co-own a web development business, and I also care deeply about equality, equity, diversity, and opportunities being given to people who don't have so many opportunities. I'm highly aware of the fact that as a white American male--Christian, straight--I have basically the best gig there is. It's very difficult for someone to have it better than me. By this I don't mean, like, \"My life is great, and your life is bad.\" I mean: I have privilege, and I have power, and I have all sorts of things going for me.</p>\n\n<p>I've talked a lot about this before a lot. I was on a call with some friends the other day who are also business owners, and in our conversation I found words for something for the first time, and wanted to share it. It's really helpful for me to think it through. We were talking about diversity in hiring, talking about this question: \"How do you hire either employees or contractors in a way that works towards bringing about a more equitable world?\" I think the first step we tend to take is saying, \"How do we do more diverse hiring? How do I make my company not just a whole bunch of white dudes?\" This is okay. This is a good start. Diversity for the sake of diversity is a good thing, but I think it's a too-basic understanding of it; \"I have all white dudes. That's not the way it's supposed to be, therefore I will change it.\"</p>\n\n<p>Let's talk about moving past just that. One of the more important things to do next is to ask yourselves questions along the lines of, \"What is the reason that I want diversity, and what is the reason I don't have diversity right now the people I work with?\" You'll start getting into interesting questions--talking about how common it is to hire people we already know, seeing what people's pre-existing friend networks do for them. One thing you'll often notice is that people who have a lot of power, and privilege, and networks, tend to get internships or first jobs based on relationships with friends. Maybe your dad's college buddy has an agency, so you intern with him, and that's an opportunity that other people don't have. You get to go to college, and your parents pay for your college, and so you can go to college for 4 years without having to work, and so you get opportunities while you're there. Whatever it ends up being. Heck, just the entire concept of the unpaid internship is very limited to people with a lot of money or ability in the first place. There's all these things that come into that kind of conversation.</p>\n\n<p>Let's also notice that we have primarily white male business owners. People in general, not just White people, have networks that generally reflect their ethnicity. White people in the US are more guilty of having networks that only reflect their ethnicity than anybody else, but everybody's guilty of it. And maybe it's not even \"guilty.\" It's just life. And with that being the case, if you're hiring the people you know, or you're hiring the people you run into more often, or a little more subconsciously, nefariously, if you're hiring the people who are more like you and make you more comfortable, then that's going to have a lot of influence on who you have working with you.</p>\n\n<p>We've got to have the conversation about this. I hope we will choose to say, first, \"I want my company to be more diverse\"...  but hopefully also, second, \"That is the case not just because I feel some external pressure, but because I recognize that having people that are different than me on my company is good for my company, and I recognize that there's people in my country who have less opportunities, and I want to be a part of bringing about equity. I want to bring about justice.\" This is good.</p>\n\n<p>If you've never heard of the term \"equity\", and you wonder why I'm using it instead of \"equality\", I'll link a graphic in the show notes that explains it really well. Basically, the difference between equity and equality is, equality means treating everybody the same. A lot of people come out of, let's say, 500 years of racist United States history, and say, \"Okay, that was bad. Now everybody should be treated the same.\" That's equality. The problem with equality is it's assuming that everybody has an equal playing field. All you have to do to be equal, to treat people well, is to give everybody the same thing. Equity says, \"Whoa. 500 years of difference makes 500 years of difference. We don't get to just now, all of a sudden, make everything exactly the same.\"</p>\n\n<p>Equity means, for example, recognizing that white families have had that many years to build up wealth. We keep wealth in a lot of different ways. We keep wealth in houses that we own, or in savings, or in tables that get passed down when you get married or whatever. There are so many things that we keep wealth in. The wealth that we have gathered, we have had the ability to gather in a way that other people have not had the ability to gather. If everybody has an \"equal\" starting point, just wealth alone would put us in this much different place, not even talking about all of the differences that have to do with education, and opportunity, and jail rates. If you want to think about that, go read the book The New Jim Crow.</p>\n\n<p>All those things are striated along racial lines in the US. There's just so many pieces where things are different and have been different for so long that you can't just come today and just say, \"Okay, treat everybody the same. Now you're done.\" It doesn't work. Equity says, \"You treat each person uniquely based on who they are, and the experiences they have, and the opportunities they have, such that the goal is for everyone to be able to end up in the same place.\" I'm not talking about socialism, you know, some crazy thing that will turn you all of. I'm socialist-ish, maybe, but I'm not talking about something crazy in terms of, like, \"Well, nobody should be able to work harder or work less, or lazy people should get the same as everyone else ...\" No, no, no. You should put extra work in to give people the opportunity to have the same chance for their hard work to get them a good thing.</p>\n\n<p>It's going to take more work to help someone who has a historic lack of opportunities, and lack of wealth, and lack of education, and lack of whatever else. It's going to take more work to help that person have an equal amount of opportunity than it is to give someone who has privilege and power and all that kind of stuff historically to get the same amount of opportunity. In the end, they should have to do the work, and they will do the work. It's not about giving something a freebie, but it's about recognizing that <em>someone</em> has to do the work to overcome those disparities, so that everyone has an equal opportunity.</p>\n\n<p>You could say, \"Oh, well, pull yourself up by your bootstraps. Take a look at this one guy who escaped poverty; why aren't you all like him?\" If you want to think about that, Malcolm Gladwell has a podcast, and he has a couple of episodes recently that I'll link to talking about this exact same thing. Talking about what happens when big schools like Stanford and Yale have programs to basically give free rides to really bright students from really difficult neighborhoods, and the episodes talk all about that. I'll link that in the show notes. In general, it's just not that easy. Yes, a few exceptional people escaped, but the difference is, with white folks, white males especially, we don't have to be exceptional to graduate college. We don't have to be exceptional to get a good job. We just have to do okay. We have to be in the top 50% of our class or something like that. With people of color, with women, with people of historically oppressed groups, they have to be in the top, like, 1%, and overcome like 10 million other things. Again, we want the final amount of opportunity and freedom to be equal, and therefore we must be equitable.</p>\n\n<p>All of that set up, when we're talking in the hiring context, ends up with me having said a thing that I wanted to share here, which is: <strong>\"Somebody, somewhere, somehow is going to have to do the work to make that difference.\"</strong> One of the great examples of it I love, often, that we use in helping students understand this, it's basically this game where everybody starts in a line, and you say, \"Your goal is to get to the other wall.\" Then, we start asking questions about your privilege. \"Have you ever had this? Have you ever had that?\" Everybody who answers yes to any question has to take a step forward--before the race even begins. Basically, people with privilege and power, where your parents had this kind of money, or your parents had this kind of education, or your schooling had this kind of thing, whatever, it ends up being you take a step forward, and another, and another, and by the end, before the race even starts, you recognize that the primarily white males end up basically a foot away from the wall. The people of color, and the women, and everyone else, end up basically against the back wall.</p>\n\n<p>What we're recognizing here is, if we all have a starting point that is different, what we want is not to carry somebody over the finish line. We want to do the work to get everybody at the same starting line. Somebody's going to have to do that work. A lot of programs, and a lot of democratic type stuff says, \"Well, the government should be responsible for that.\" I think that the government should help! Then a lot of, especially religious right, conservative people say, \"The government shouldn't do it. The church should do it. Individuals should do it.\" Okay, cool, great. Church should do it. Individuals should do it. Great. Awesome. What I'm just saying is <em>everyone</em> should do it. I want the government to do it. I want the individuals to do it. I want religious organizations to do it. But for me, as a business owner, hiring is a place in which I don't want to carry somebody over the finish line of working for me. I don't want to give someone a job just because they're a woman or a person of color or whatever else. However, there's an opportunity in hiring for me to make things fair and for me to act with equity. What that ends up looking like is, sometimes, I need to put more work into bridging those gaps.</p>\n\n<p>I can talk at another time about what that more work looks like in my specific context. I'm way out of time. This is going to be the longest Five Minute Geek Show ever, but that foundational concept is really weird to say out loud, but if we are saying we want to make a difference, we want to see diversity reflected, we want to see people all have equal opportunities, it's not just as simple as saying, \"Okay, now where are the qualified women and people of color who want to come work for me?\" You know what I mean? I'm not saying anybody in particular I know says that, but that's kind of maybe my first response. When I say, \"Okay, I want to hire diversely.\" \"Okay, well where are they?\" That's, like, common refrain kind of thing, right?</p>\n\n<p>The thing is, it's not just as simple as, \"Where are they?\" It is, \"Am I willing to put in the work?\" Somebody's got to put in the work to change the starting line so everybody has the same starting line, in your hiring process, right? Are you willing to put in that work? Are you willing to make a commitment to putting forth effort and money to changing the starting line of getting a job with you, or getting a job in your industry, or whatever else?</p>\n\n<p>Yeah, I'd love to talk more about this. Maybe I'll do another Geek Show about this later, but I hope this helped someone think through these things. I'd love for you to contact me if you have any questions. I'm @StaufferMatt on Twitter. You can also hit me up at @5MinuteGeekShow on Twitter, or we're at FiveMinuteGeekShow.com.</p>\n\n<p>That's it. Thanks for listening!</p>\n",
+      "summary": "Somebody is going to have to do the hard work to bring equality\n",
+      "date_published": "2016-08-19 11:02:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/44929.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 11405073,
+        "duration_in_seconds": 711
+      }
+    },
+    {
+      "id": "97af9a4b-6837-44b6-b4fc-f75695d1f465",
+      "title": "87 | I don't think we mean the same thing when we say \"remote\"",
+      "url": "http://www.fiveminutegeekshow.com/87",
+      "content_text": "I don't think we mean the same thing when we say \"remote\"\n",
+      "content_html": "I don't think we mean the same thing when we say \"remote\"",
+      "summary": "I don't think we mean the same thing when we say \"remote\"\n",
+      "date_published": "2016-07-30 08:54:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/43530.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 8679561,
+        "duration_in_seconds": 541
+      }
+    },
+    {
+      "id": "6e59cd2b-1c81-4509-8bdd-0478e03136e3",
+      "title": "86 | Why source diving is an undersung skill",
+      "url": "http://www.fiveminutegeekshow.com/86",
+      "content_text": " Why source diving is an undersung skill\n",
+      "content_html": "<p> Why source diving is an undersung skill</p>\n",
+      "summary": " Why source diving is an undersung skill\n",
+      "date_published": "2016-06-29 10:14:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/41064.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 5398163,
+        "duration_in_seconds": 336
+      }
+    },
+    {
+      "id": "9c7237f4-1941-4d8e-8699-9fda5fd7b9aa",
+      "title": "85 | Planning makes better (meetings, podcasts, bizdev, interviews)",
+      "url": "http://www.fiveminutegeekshow.com/85",
+      "content_text": "Planning makes better (meetings, podcasts, bizdev, interviews)\n",
+      "content_html": "<p> Planning makes better (meetings, podcasts, bizdev, interviews)</p>\n",
+      "summary": "Planning makes better (meetings, podcasts, bizdev, interviews)\n",
+      "date_published": "2016-06-22 15:48:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/40583.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 7255156,
+        "duration_in_seconds": 452
+      }
+    },
+    {
+      "id": "4fa56158-362a-44e3-98e1-5dddf7dc90c3",
+      "title": "84 | I don't think you have $10,000 to waste on that AWS token",
+      "url": "http://www.fiveminutegeekshow.com/84",
+      "content_text": "I don't think you have $10,000 to waste on that AWS token -- don't commit your credentials to GitHub!\n",
+      "content_html": "<p>I don't think you have $10,000 to waste on that AWS token -- don't commit your credentials to GitHub!</p>\n\n<ul>\n<li><a href=\"https://github.com/vlucas/phpdotenv\">phpdotenv</a></li>\n<li><a href=\"https://github.com/bkeepers/dotenv\">dotenv</a></li>\n<li><a href=\"http://www.techspot.com/news/56127-10000-aws-secret-access-keys-carelessly-left-in-code-uploaded-to-github.html\">10,000 AWS secret access keys carelessly left in code uploaded to GitHub</a></li>\n</ul>\n\n",
+      "summary": "I don't think you have $10,000 to waste on that AWS token -- don't commit your credentials to GitHub!\n",
+      "date_published": "2016-06-15 16:42:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/39932.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 5238085,
+        "duration_in_seconds": 326
+      }
+    },
+    {
+      "id": "0c83ffc9-177b-4d8d-a754-22646f94ba62",
+      "title": "83 | Find your power",
+      "url": "http://www.fiveminutegeekshow.com/83",
+      "content_text": "You have more power than you realize. Really.\n",
+      "content_html": "<p>You have more power than you realize. Really.</p>\n\n<ul>\n<li><a href=\"https://www.youtube.com/watch?v=b23wrRfy7SM\">With Great Power Comes Great Responsibility</a></li>\n<li><a href=\"http://brandonsanderson.com/books/steelheart/steelheart/\">Brandon Sanderson's Steelheart series</a></li>\n<li><a href=\"https://blog.tighten.co/the-great-tighten-experiment\">The Great Tighten Experiment</a></li>\n<li>Andy Crouch: <a href=\"http://amzn.to/1tiiRd1\">Culture Making</a>, <a href=\"http://amzn.to/1Ug5eVt\">Playing God</a></li>\n</ul>\n\n",
+      "summary": "You have more power than you realize. Really.\n",
+      "date_published": "2016-06-08 16:52:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/39215.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 8632749,
+        "duration_in_seconds": 538
+      }
+    },
+    {
+      "id": "28a6f1c8-260b-418e-8c30-6a018e9ef5ca",
+      "title": "82 | How Are You Getting Paid For Your Free Work?",
+      "url": "http://www.fiveminutegeekshow.com/82",
+      "content_text": "In what ways, other than money, are we paid for our free (open source, teaching, etc.) work?\n",
+      "content_html": "<p>In what ways, other than money, are we paid for our free (open source, teaching, etc.) work?</p>\n\n<ul>\n<li><a href=\"https://mattstauffer.co/blog/why-i-wrote-my-book-with-oreilly\">My latest blog post: Why I Published My Book With O'Reilly</a></li>\n<li><a href=\"http://bootstrapped.fm/bootstrapped-episode-71jane-portman-from-ui-breakfast/\">Bootstrapped.fm with Jane Portman</a></li>\n<li><a href=\"https://www.creatorlove.com\">CreatorLove</a></li>\n</ul>\n\n",
+      "summary": "In what ways, other than money, are we paid for our free (open source, teaching, etc.) work?\n",
+      "date_published": "2016-06-01 15:47:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/38744.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 8244883,
+        "duration_in_seconds": 514
+      }
+    },
+    {
+      "id": "4834ae28-0164-4f0d-8155-ff1b8ead16e0",
+      "title": "81 | What to Do When You Get Sick",
+      "url": "http://www.fiveminutegeekshow.com/81",
+      "content_text": "What to do when you get sick\n",
+      "content_html": "<ul>\n<li><a href=\"https://www.42lines.net/2011/10/13/some-principles-of-web-development/index.html\">42 Lines article \"Some principles of web development\" including good talk about when you're sick</a></li>\n</ul>\n\n",
+      "summary": "What to do when you get sick\n",
+      "date_published": "2016-05-27 17:47:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/38494.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 4440201,
+        "duration_in_seconds": 276
+      }
+    },
+    {
+      "id": "d8056d4f-0982-4d03-8a9e-39c4165e0da3",
+      "title": "80 | Know why you're doing what you're doing",
+      "url": "http://www.fiveminutegeekshow.com/80",
+      "content_text": "Vision and goals for every thing you do allow you to make good decisions in the face of conflict\n",
+      "content_html": "<p>Vision and goals for every thing you do allow you to make good decisions in the face of conflict</p>\n\n<ul>\n<li><a href=\"http://adamwathan.me/refactoring-to-collections/\">Refactoring To Collections</a></li>\n</ul>\n\n",
+      "summary": "Vision and goals for every thing you do allow you to make good decisions in the face of conflict\n",
+      "date_published": "2016-05-18 14:04:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/37874.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 7835701,
+        "duration_in_seconds": 488
+      }
+    },
+    {
+      "id": "4c990aec-2057-41d4-be27-f6a5d05369ba",
+      "title": "79 | Quick thoughts on my new iPad Pro and Apple Pencil",
+      "url": "http://www.fiveminutegeekshow.com/79",
+      "content_text": "Quick thoughts on my new iPad Pro and Apple Pencil\n",
+      "content_html": "<p>Quick thoughts on my new iPad Pro and Apple Pencil</p>\n",
+      "summary": "Quick thoughts on my new iPad Pro and Apple Pencil\n",
+      "date_published": "2016-04-07 16:49:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/34858.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 7462464,
+        "duration_in_seconds": 465
+      }
+    },
+    {
+      "id": "0df4da97-234c-4792-afc6-5ebccdf32e5e",
+      "title": "78 | Inbox Zero, Getting Things Done, and freeing your brain",
+      "url": "http://www.fiveminutegeekshow.com/78",
+      "content_text": "Inbox Zero, Getting Things Done, and freeing your brain\n",
+      "content_html": "<p>Inbox Zero, Getting Things Done, and freeing your brain</p>\n\n<ul>\n<li><a href=\"http://www.43folders.com/izero\">Inbox Zero</a></li>\n<li><a href=\"http://lifehacker.com/182318/empty-your-inbox-with-the-trusted-trio\">Trusted Trio</a></li>\n<li><a href=\"http://amzn.to/1S9v889\">Getting Things Done</a></li>\n<li><a href=\"http://www.staffhacker.com/56/the-basics-of-getting-things-done\">My six-year-old write up of GTD</a></li>\n</ul>\n\n",
+      "summary": "Inbox Zero, Getting Things Done, and freeing your brain\n",
+      "date_published": "2016-03-24 17:13:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/33692.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 7577820,
+        "duration_in_seconds": 472
+      }
+    },
+    {
+      "id": "cf357c20-55bb-42d9-a8bb-7a34308250c6",
+      "title": "77 | Split Online Personality: race, ethnicity, justice, and \"just stick to tech\"",
+      "url": "http://www.fiveminutegeekshow.com/77",
+      "content_text": "Non-tech interests: race, ethnicity, justice, and \"just stick to tech\"\n",
+      "content_html": "<p>I don't just care about tech: I'm also deeply passionate around issues of race, ethnicity, and justice.</p>\n\n<ul>\n<li><a href=\"http://threeminutegeekshow.com/\">Three-Minute Geek Show</a></li>\n<li><a href=\"http://blog.mattstauffer.org/\">My old race/ethnicity/justice blog</a></li>\n<li><a href=\"http://pulledover.us/\">Pulled Over</a></li>\n</ul>\n\n",
+      "summary": "Non-tech interests: race, ethnicity, justice, and \"just stick to tech\"\n",
+      "date_published": "2016-03-08 15:40:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/28543.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 7854927,
+        "duration_in_seconds": 489
+      }
+    },
+    {
+      "id": "435ff12f-1467-4745-b29f-ed42ca916f79",
+      "title": "76 | Write Code For Humans",
+      "url": "http://www.fiveminutegeekshow.com/76",
+      "content_text": "Write code that you will love to write and return to, not for speed or computer optimization or whatever else.\n",
+      "content_html": "<p>Write code that you will love to write and return to, not for speed or computer optimization or whatever else.</p>\n\n<ul>\n<li><a href=\"http://www.fiveminutegeekshow.com/65\">Pay money to stop wasting time</a></li>\n<li>\"Any fool can write code that a computer can understand. Good programmers write code that humans can understand.\" - Martin Fowler</li>\n<li><a href=\"http://threeminutegeekshow.com/45\">Writing Tests You Can't Automate - Three-Minute Geek Show Episode 45</a></li>\n<li><a href=\"http://www.laravelpodcast.com/episodes/27610-episode-42-activerecord-the-school-of-zonda\">ActiveRecord and the School of Zonda - Laravel Podcast</a></li>\n<li><a href=\"https://www.bible.com/bible/111/mrk.2.27.niv\">\"The sabbath was made for man\" quote in Mark 2</a></li>\n</ul>\n\n",
+      "summary": "Write code that you will love to write and return to, not for speed or computer optimization or whatever else.\n",
+      "date_published": "2016-03-02 17:16:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/28099.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 8017095,
+        "duration_in_seconds": 500
+      }
+    },
+    {
+      "id": "325ed5a4-93c2-4942-bd7d-e4c8ba96b087",
+      "title": "75 | Tips On Starting a User Group - Interview with Steven Wade",
+      "url": "http://www.fiveminutegeekshow.com/75",
+      "content_text": "An interview with Steven Wade, the creator of Upstate PHP\n",
+      "content_html": "<p>An interview with Steven Wade, the creator of Upstate PHP</p>\n\n<ul>\n<li><a href=\"http://upstatephp.com/\">Upstate PHP</a></li>\n<li><a href=\"https://twitter.com/stevenwadejr\">@stevenwadejr</a></li>\n<li><a href=\"https://wiki.php.net/usergroups\">PHP.Net page on User Groups</a></li>\n<li><a href=\"http://gainesvillephp.org/\">Gainesville PHP</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Greenville,_South_Carolina\">Greenville, SC Wikipedia</a></li>\n</ul>\n\n",
+      "summary": "An interview with Steven Wade, the creator of Upstate PHP\n",
+      "date_published": "2016-02-17 17:49:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/27259.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 6651204,
+        "duration_in_seconds": 552
+      }
+    },
+    {
+      "id": "f2f1620e-f204-41a2-8888-fb631ca26a6c",
+      "title": "74 | I can't feel my hands (when I'm overwhelmed with stress/anxiety)",
+      "url": "http://www.fiveminutegeekshow.com/74",
+      "content_text": "I can't feel my hands (when I'm overwhelmed with stress/anxiety)\n",
+      "content_html": "<p>I can't feel my hands (when I'm overwhelmed with stress/anxiety)</p>\n\n<ul>\n<li><a href=\"https://www.youtube.com/watch?v=Z6x9wmlFz_c\">Greg Baugues - Devs &amp; Depression</a></li>\n<li><a href=\"http://funkatron.com/osmi/\">Ed Finkler - Open Sourcing Mental Illness</a></li>\n<li><a href=\"http://www.geekyboy.com/archives/880\">Adam Culp - Developer Anxiety, We're Not Alone</a></li>\n<li><a href=\"http://www.geekyboy.com/archives/1055\">Adam Culp - Delayed Anxiety, Never Forgotten</a></li>\n</ul>\n\n\n<p>(not mentioned in the podcast, discovered later)<br/>\n- <a href=\"https://vimeo.com/147213533\">Fred LeBlanc - Surviving Digital Overwhelm &amp; Burnout</a></p>\n",
+      "summary": "I can't feel my hands (when I'm overwhelmed with stress/anxiety)\n",
+      "date_published": "2016-02-10 16:24:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/26149.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 7031443,
+        "duration_in_seconds": 584
+      }
+    },
+    {
+      "id": "a7f3efaf-66cd-4d8d-95f4-70d161afbb62",
+      "title": "73 | Introducing Briefs.fm and the Three-Minute Geek Show",
+      "url": "http://www.fiveminutegeekshow.com/73",
+      "content_text": "Talking about the new service, briefs.fm, and my new diary/micropodcast, the Three-Minute Geekshow\n",
+      "content_html": "<p>Talking about the new service, briefs.fm, and my new diary/micropodcast, the Three-Minute Geekshow</p>\n\n<ul>\n<li><a href=\"http://briefs.fm/\">Briefs.fm</a></li>\n<li><a href=\"http://twitter.com/r00k\">Ben Orenstein</a></li>\n<li><a href=\"http://twitter.com/chrishunt\">Chris Hunt</a></li>\n<li><a href=\"http://threeminutegeekshow.com/\">Three-Minute Geek Show</a></li>\n<li><a href=\"https://twitter.com/3minutegeekshow\">Three-Minute Geek Show on Twitter</a></li>\n<li><a href=\"https://www.briefs.fm/vim-tips-with-ben\">Vim tips with Ben podcast</a></li>\n<li><a href=\"https://www.briefs.fm/codecation-updates\">Codecation updates podcast</a></li>\n</ul>\n\n",
+      "summary": "Talking about the new service, briefs.fm, and my new diary/micropodcast, the Three-Minute Geekshow\n",
+      "date_published": "2016-02-03 16:59:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/25792.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 5185735,
+        "duration_in_seconds": 430
+      }
+    },
+    {
+      "id": "141e1342-04cc-4d73-be5a-5100fe3cf652",
+      "title": "72 | Statamic v2 beta (on Laravel), Craft, and the problem of syncing CMS schema",
+      "url": "http://www.fiveminutegeekshow.com/72",
+      "content_text": "Trying out the v2 beta of Statamic, reflecting on why Craft is great, and talking about why syncing data and schema is hard for a CMS.\n",
+      "content_html": "<ul>\n<li><a href=\"http://statamic.com/\">Statamic</a> - note that everything I say on this episode is about the Statamic v2 beta</li>\n<li><a href=\"https://craftcms.com/\">Craft</a></li>\n<li><a href=\"http://blog.tighten.co/\">Soon-coming Tighten blog</a></li>\n</ul>\n\n",
+      "summary": "Trying out the v2 beta of Statamic, reflecting on why Craft is great, and talking about why syncing data and schema is hard for a CMS.\n",
+      "date_published": "2016-01-28 18:29:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/24948.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 7132693,
+        "duration_in_seconds": 592
+      }
+    },
+    {
+      "id": "3af91b1e-b4a3-408d-a81e-b2bd13b58a96",
+      "title": "71 | Tighten's Pull Request Culture",
+      "url": "http://www.fiveminutegeekshow.com/71",
+      "content_text": "How we use Pull Requests at Tighten\n",
+      "content_html": "<p>How we use Pull Requests at Tighten</p>\n\n<ul>\n<li><a href=\"http://tighten.co/\">Tighten</a></li>\n<li><a href=\"http://www.fiveminutegeekshow.com/23\">Five Minute Geek Show Episode 23: 3 Ways to Give Back to Open Source &amp; How to Write Good Pull Requests</a></li>\n<li><a href=\"http://www.cockos.com/licecap/\">LICECap</a></li>\n</ul>\n\n",
+      "summary": "How we use Pull Requests at Tighten\n",
+      "date_published": "2016-01-20 15:38:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/24561.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 6294506,
+        "duration_in_seconds": 523
+      }
+    },
+    {
+      "id": "55557fc1-5a17-4274-9bde-7056978a8569",
+      "title": "70 | To Conclude, Startups Are Basically the Same as My Toddler",
+      "url": "http://www.fiveminutegeekshow.com/70",
+      "content_text": "Age may be more than a number\n",
+      "content_html": "<ul>\n<li><a href=\"http://giantrobots.fm/15\">Giant Robots Smashing Into Other Giant Robots</a></li>\n<li><a href=\"http://fortune.com/2011/05/02/the-ayn-rand-loving-feet-baring-efficiency-obsessed-savant-behind-scvngr/\">Fortune writeup on Seth Priebatsch</a></li>\n</ul>\n\n",
+      "summary": "Age may be more than a number\n",
+      "date_published": "2016-01-14 17:51:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/24381.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 7043668,
+        "duration_in_seconds": 585
+      }
+    },
+    {
+      "id": "513649d7-b31e-4a75-a3f2-af42d7e429dc",
+      "title": "69 | Convention over Configuration, Convenience over Complication",
+      "url": "http://www.fiveminutegeekshow.com/69",
+      "content_text": "Convention over Configuration, Convenience over Complication\n",
+      "content_html": "<p>Convention over Configuration, Convenience over Complication</p>\n",
+      "summary": "Convention over Configuration, Convenience over Complication\n",
+      "date_published": "2016-01-05 17:57:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/24051.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 4885745,
+        "duration_in_seconds": 405
+      }
+    },
+    {
+      "id": "7ccc0bcb-83dc-4564-b3cd-f1a09877d916",
+      "title": "68 | Programming on Twitch",
+      "url": "http://www.fiveminutegeekshow.com/68",
+      "content_text": "A live-streamed episode about live-streaming. How meta.\n",
+      "content_html": "<p>A live-streamed episode about live-streaming. How meta.</p>\n\n<ul>\n<li><a href=\"http://www.twitch.tv/mattstauffer\">My Twitch channel</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=4NoDO_oIiSM&amp;list=PLJu5TjHcHkIp4cdaOR0VpgB02lXZ1Pm18\">AssertChris' tutorial on how to stream on Twitch</a></li>\n<li><a href=\"https://obsproject.com/\">OBS</a></li>\n</ul>\n\n",
+      "summary": "A live-streamed episode about live-streaming. How meta.\n",
+      "date_published": "2015-12-22 17:00:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/23551.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 6775965,
+        "duration_in_seconds": 563
+      }
+    },
+    {
+      "id": "75df959c-283d-41b4-a1ba-2b8785ef60f6",
+      "title": "67 | Estimates are Bull****",
+      "url": "http://www.fiveminutegeekshow.com/67",
+      "content_text": "Are you really getting the value from your estimates that you think you are?",
+      "content_html": "<ul>\n<li><a href=\"http://www.fullstackradio.com/31\">Full Stack Radio - Woody Zuill #NoEstimates</a></li>\n<li><a href=\"http://agilemanifesto.org/\">Agile Manifesto</a></li>\n</ul>\n\n",
+      "summary": "",
+      "date_published": "2015-12-15 15:49:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/23068.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 6669699,
+        "duration_in_seconds": 554
+      }
+    },
+    {
+      "id": "0e493cb3-c388-46cf-9716-0c6587d763eb",
+      "title": "66 | Don't be a jerk",
+      "url": "http://www.fiveminutegeekshow.com/66",
+      "content_text": "Don't be a jerk\n",
+      "content_html": "<p>Don't be a jerk</p>\n\n<ul>\n<li><a href=\"http://www.gatorlug.org/meetings/2015/11\">Gator Linux User Group event</a></li>\n</ul>\n\n",
+      "summary": "Don't be a jerk\n",
+      "date_published": "2015-11-23 12:51:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/21159.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 4404256,
+        "duration_in_seconds": 365
+      }
+    },
+    {
+      "id": "5adb3dd2-6688-451e-9e64-6f7e5eb1692f",
+      "title": "65 | Pay money to stop wasting time",
+      "url": "http://www.fiveminutegeekshow.com/65",
+      "content_text": "Pay money to stop wasting time\n",
+      "content_html": "<ul>\n<li><a href=\"https://ottomatik.io/?refcode=kjQb2QlB\">Ottomatik</a></li>\n<li><a href=\"https://nitpick-ci.com/\">Nitpick</a></li>\n<li><a href=\"https://forge.laravel.com/\">Forge</a></li>\n<li><a href=\"https://deadmanssnitch.com/\">Dead Man's Snitch</a></li>\n</ul>\n\n",
+      "summary": "Pay money to stop wasting time\n",
+      "date_published": "2015-11-17 17:56:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/20334.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 6151847,
+        "duration_in_seconds": 511
+      }
+    },
+    {
+      "id": "22dfdec2-da0b-453c-bae9-f6315b753dda",
+      "title": "64 | Or, How I Learned to Stop Worrying And Love the DHH",
+      "url": "http://www.fiveminutegeekshow.com/64",
+      "content_text": "Tech leads and visionaries don't have to be Buddha.\n",
+      "content_html": "<p>Tech leads and visionaries don't have to be Buddha.</p>\n\n<ul>\n<li><a href=\"https://medium.com/@dhh/reconsider-41adf356857f\">RECONSIDER</a> recent blog post by DHH</li>\n<li><a href=\"https://www.flickr.com/photos/planetargon/127984254/\">DHH Fuck You</a> - showing some of his brashness</li>\n<li><a href=\"http://www.laravelpodcast.com/\">Laravel Podcast</a> - the episode I referenced in this article isn't actually out yet, check back soon.</li>\n</ul>\n\n",
+      "summary": "Tech leads and visionaries don't have to be Buddha.\n",
+      "date_published": "2015-11-10 15:45:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/19935.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 6185702,
+        "duration_in_seconds": 514
+      }
+    },
+    {
+      "id": "a769f883-2de6-45a7-a232-bd060adca38b",
+      "title": "63 | Rapid Application Development and Testing Together Forever",
+      "url": "http://www.fiveminutegeekshow.com/63",
+      "content_text": "Rapid Application Development and Testing can be best friends forever.\n",
+      "content_html": "<p>Rapid Application Development and Testing can be best friends forever.</p>\n\n<ul>\n<li><a href=\"https://speakerdeck.com/mattstauffer/leveraging-laravel-launching-side-projects-quickly-with-laravel\">My slides from Zendcon</a></li>\n<li><a href=\"http://laravel.com/docs/testing\">Laravel's Testing documentation</a></li>\n<li><a href=\"https://github.com/mattstauffer/confomo/tree/complete-refactor\">Confomo refactor branch</a></li>\n</ul>\n\n",
+      "summary": "Rapid Application Development and Testing can be best friends forever.\n",
+      "date_published": "2015-11-04 15:00:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/19553.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 5403283,
+        "duration_in_seconds": 448
+      }
+    },
+    {
+      "id": "9292cdf5-2945-49cd-81d1-cb71810ac925",
+      "title": "62 | Only Do What Only You Can Do",
+      "url": "http://www.fiveminutegeekshow.com/62",
+      "content_text": "How do you prioritize your work when you have too much on your plate?\n",
+      "content_html": "<p>How do you prioritize your work when you have too much on your plate?</p>\n",
+      "summary": "How do you prioritize your work when you have too much on your plate?\n",
+      "date_published": "2015-10-30 15:51:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/19388.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 5028687,
+        "duration_in_seconds": 417
+      }
+    },
+    {
+      "id": "be51f95f-cf33-4b8c-8e28-ded7307ef077",
+      "title": "61 | Everyone's A Little Bit (Different)",
+      "url": "http://www.fiveminutegeekshow.com/61",
+      "content_text": "Every developer's experiences, needs, and clients are just a bit different.\n",
+      "content_html": "<p>Every developer's experiences, needs, and clients are just a bit different.</p>\n",
+      "summary": "Every developer's experiences, needs, and clients are just a bit different.\n",
+      "date_published": "2015-10-23 14:13:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/19106.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 5028687,
+        "duration_in_seconds": 417
+      }
+    },
+    {
+      "id": "fe7c8726-1659-4cf5-8926-d3f411e4b52e",
+      "title": "60 | Learning How to Answer the Question, \"What Code Should I Test?\"",
+      "url": "http://www.fiveminutegeekshow.com/60",
+      "content_text": "Learning how to answer the question, \"What code should I test?\"\n",
+      "content_html": "<p>Learning how to answer the question, \"What code should I test?\"</p>\n",
+      "summary": "Learning how to answer the question, \"What code should I test?\"\n",
+      "date_published": "2015-10-09 21:22:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/18300.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 4422437,
+        "duration_in_seconds": 367
+      }
+    },
+    {
+      "id": "9206fcfd-2f0c-4df5-92e1-581e67f0096f",
+      "title": "59 | Being a Remote Employee Ain't Easy",
+      "url": "http://www.fiveminutegeekshow.com/59",
+      "content_text": "Being a Remote Employee Ain't Easy\n",
+      "content_html": "<p>Being a Remote Employee Ain't Easy</p>\n\n<ul>\n<li><a href=\"http://amzn.to/1JCCCvo\">37Signals Remote</a></li>\n</ul>\n\n",
+      "summary": "Being a Remote Employee Ain't Easy\n",
+      "date_published": "2015-09-30 11:25:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/17868.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 5714602,
+        "duration_in_seconds": 471
+      }
+    },
+    {
+      "id": "e3f065b4-b2f7-4a2d-b22f-e315cfdfbd55",
+      "title": "58 | Notifications, Procrastination, and Distraction",
+      "url": "http://www.fiveminutegeekshow.com/58",
+      "content_text": "Notifications, Procrastination, and Distraction\n",
+      "content_html": "<ul>\n<li><a href=\"http://getconcentrating.com/\">Concentrate.app</a></li>\n<li><a href=\"http://www.mildlyalarming.com/episodes/17308-28-third-time-s-the-charm\">The Mildly Alarming Podcast - Third Time's the Charm</a></li>\n<li><a href=\"http://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html\">Why Procrastinators Procrastinate</a></li>\n</ul>\n\n",
+      "summary": "Notifications, Procrastination, and Distraction\n",
+      "date_published": "2015-09-18 17:05:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/17401.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 5964124,
+        "duration_in_seconds": 491
+      }
+    },
+    {
+      "id": "5d7682ab-91b8-44c2-82d2-e122c781d3d0",
+      "title": "57 | Open Source Imposter Syndrome",
+      "url": "http://www.fiveminutegeekshow.com/57",
+      "content_text": "Releasing open source code can be terrifying.\n",
+      "content_html": "<p>Releasing open source code can be terrifying.</p>\n",
+      "summary": "Releasing open source code can be terrifying.\n",
+      "date_published": "2015-09-16 10:06:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/17322.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 6231826,
+        "duration_in_seconds": 514
+      }
+    },
+    {
+      "id": "8a910eb7-31e9-4933-af60-bd4c12be73c7",
+      "title": "56 | Dressing Up When You Don't Need To",
+      "url": "http://www.fiveminutegeekshow.com/56",
+      "content_text": "Why it might be worth dressing a bit nicer even when you don't have to.\n",
+      "content_html": "<p>Why it might be worth dressing a bit nicer even when you don't have to.</p>\n\n<ul>\n<li><a href=\"http://www.businessinsider.com/barack-obama-mark-zuckerberg-wear-the-same-outfit-2015-4\">Zuckerberg's uniform</a></li>\n<li><a href=\"http://www.fiveminutegeekshow.com/32\">FMGS episode on Integrity</a></li>\n</ul>\n\n",
+      "summary": "Why it might be worth dressing a bit nicer even when you don't have to.\n",
+      "date_published": "2015-09-08 15:24:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/16625.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 6839644,
+        "duration_in_seconds": 564
+      }
+    },
+    {
+      "id": "d03e8cc8-6edc-4c01-adf8-adac0d61993b",
+      "title": "55 | Sometimes More Features & Toys Makes It Worse",
+      "url": "http://www.fiveminutegeekshow.com/55",
+      "content_text": "Sometimes More Features &amp; Toys Makes It Worse\n",
+      "content_html": "<p>Sometimes More Features &amp; Toys Makes It Worse</p>\n",
+      "summary": "Sometimes More Features & Toys Makes It Worse\n",
+      "date_published": "2015-08-18 17:12:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/15596.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 6534662,
+        "duration_in_seconds": 539
+      }
+    },
+    {
+      "id": "ab5a5b0a-c619-46eb-9b7d-f084784c4ea8",
+      "title": "54 | Do You Need To \"Protect\" Clients & Developers From Each Other?",
+      "url": "http://www.fiveminutegeekshow.com/54",
+      "content_text": "Do you need to \"protect\" clients &amp; developers from each other?\n",
+      "content_html": "<p>Do you need to \"protect\" clients &amp; developers from each other? Why is it that, in most agencies, there's never any direct communication between developers and clients?</p>\n\n<ul>\n<li><a href=\"https://thoughtbot.com/\">Thoughtbot</a></li>\n<li><a href=\"http://tighten.co/\">Tighten</a></li>\n</ul>\n\n",
+      "summary": "Do you need to \"protect\" clients & developers from each other?\n",
+      "date_published": "2015-07-21 17:19:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/14326.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 5393296,
+        "duration_in_seconds": 444
+      }
+    },
+    {
+      "id": "2612fa32-207a-490d-a213-5700af35d616",
+      "title": "53 | The Ultimate Recipe For Success and #Winning",
+      "url": "http://www.fiveminutegeekshow.com/53",
+      "content_text": "The Ultimate Recipe For Success and Winning is not what you might think.\n",
+      "content_html": "<p>The Ultimate Recipe For Success and Winning is not what you might think. What really matters: doing good.</p>\n\n<ul>\n<li><a href=\"http://buildandlaunch.net/27/\">Build and Launch Episode 27</a></li>\n<li><a href=\"http://www.thisamericanlife.org/radio-archives/episode/543/wake-up-now\">This American Life about Economic Cults</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Multi-level_marketing\">Multi-Level Marketing</a></li>\n</ul>\n\n",
+      "summary": "The Ultimate Recipe For Success and Winning is not what you might think.\n",
+      "date_published": "2015-07-16 16:00:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/14196.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 5443764,
+        "duration_in_seconds": 448
+      }
+    },
+    {
+      "id": "4e4f0b43-2bba-4850-815a-3a967fe1d780",
+      "title": "52 | You Don't Have the Luxury to Stagnate",
+      "url": "http://www.fiveminutegeekshow.com/52",
+      "content_text": "You don't have the luxury to stagnate\n",
+      "content_html": "<p>You don't have the luxury to stagnate</p>\n",
+      "summary": "You don't have the luxury to stagnate\n",
+      "date_published": "2015-07-14 15:24:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/14119.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 3306959,
+        "duration_in_seconds": 405
+      }
+    },
+    {
+      "id": "0083c70f-f34b-4c43-94de-0768455e5545",
+      "title": "51 | The Ideal Project Management Tool, and What I Use Now",
+      "url": "http://www.fiveminutegeekshow.com/51",
+      "content_text": "The ideal project management tool, and what we use today at Tighten\n",
+      "content_html": "<p>The ideal project management tool, and what we use today at Tighten</p>\n",
+      "summary": "The ideal project management tool, and what we use today at Tighten\n",
+      "date_published": "2015-07-07 17:35:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/13900.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 3668483,
+        "duration_in_seconds": 450
+      }
+    },
+    {
+      "id": "3a1c55a3-fd4c-4697-946c-a0777a5bfa98",
+      "title": "50 | Why Communication is the Most Important Thing",
+      "url": "http://www.fiveminutegeekshow.com/50",
+      "content_text": "Why Communication is the Most Important Thing\n",
+      "content_html": "<p>Why Communication is the Most Important Thing</p>\n",
+      "summary": "Why Communication is the Most Important Thing\n",
+      "date_published": "2015-07-02 17:41:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/13744.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 3447592,
+        "duration_in_seconds": 423
+      }
+    },
+    {
+      "id": "ad113592-2831-40ae-b047-d211a6e0d764",
+      "title": "49 | When should an employer \"force\" employees to use a tool?",
+      "url": "http://www.fiveminutegeekshow.com/49",
+      "content_text": "When should an employer \"force\" employees to use a tool?\n",
+      "content_html": "<p>When should an employer \"force\" employees to use a tool?</p>\n\n<p>I mentioned \"forcing\" my employees to use PHPStorm in a podcast recently. What was I talking about?</p>\n",
+      "summary": "When should an employer \"force\" employees to use a tool?\n",
+      "date_published": "2015-06-30 17:56:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/13590.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 4424363,
+        "duration_in_seconds": 545
+      }
+    },
+    {
+      "id": "96ad38e5-642a-43b0-9404-d967982fedd8",
+      "title": "48 | Soylent (Green is People)",
+      "url": "http://www.fiveminutegeekshow.com/48",
+      "content_text": "Matt tries Soylent for the first time.\n",
+      "content_html": "<p>Matt tries Soylent for the first time.</p>\n\n<ul>\n<li><a href=\"https://www.soylent.com\">Soylent</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Soylent_Green\">Soylent Green</a></li>\n<li><a href=\"https://medium.com/@meekthegeek/my-year-with-soylent-c5af97bcf76d\">My Year With Soylent</a></li>\n<li><a href=\"http://www.amazon.com/gp/product/B000P0ZSHA/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B000P0ZSHA&amp;linkCode=as2&amp;tag=staffhacker-20&amp;linkId=FMTGELNKWV3D7FWR\">EAS Whey Protein Powder</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=oiBqBSiOzZo\">Video version</a></li>\n</ul>\n\n",
+      "summary": "Matt tries Soylent for the first time.\n",
+      "date_published": "2015-06-25 14:45:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/13407.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 3508823,
+        "duration_in_seconds": 430
+      }
+    },
+    {
+      "id": "70688fb4-7511-45cd-af1a-1734466fe56f",
+      "title": "47 | All About Family (featuring special guest my 2-year-old son)",
+      "url": "http://www.fiveminutegeekshow.com/47",
+      "content_text": "My son joins me for the best episode of all time.\n",
+      "content_html": "<p>My son joins me for the best episode of all time.</p>\n",
+      "summary": "My son joins me for the best episode of all time.\n",
+      "date_published": "2015-06-18 20:06:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/13162.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 3152304,
+        "duration_in_seconds": 386
+      }
+    },
+    {
+      "id": "2a1ab47e-718b-43d8-bd14-aea24ae347b1",
+      "title": "46 | Decoupling all the Things with Queues - with Derick Bailey",
+      "url": "http://www.fiveminutegeekshow.com/46",
+      "content_text": "WatchMeCode Javascript expert Derick Bailey joins us to talk about why queues are the answer to every web application problem, ever.\n",
+      "content_html": "<p>WatchMeCode Javascript expert Derick Bailey joins us to talk about why queues are the answer to every web application problem, ever.</p>\n\n<ul>\n<li><a href=\"https://twitter.com/derickbailey\">@derickbailey</a></li>\n<li><a href=\"http://derickbailey.com\">DerickBailey.com</a></li>\n<li><a href=\"https://sub.watchmecode.net/\">WatchMeCode</a></li>\n<li><a href=\"http://watchmecode.net/rmq4devs\">RabbitMQ For Developers Bundle</a> - use the discount code <code>5minutegeek</code> for 20% off!</li>\n</ul>\n\n",
+      "summary": "WatchMeCode Javascript expert Derick Bailey joins us to talk about why queues are the answer to every web application problem, ever.\n",
+      "date_published": "2015-06-16 16:44:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/13104.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 4115282,
+        "duration_in_seconds": 506
+      }
+    },
+    {
+      "id": "08700656-2808-43cc-a9d6-7bda15b99d0f",
+      "title": "45 | When Generalizations and Stereotypes are Helpful vs. Hurtful",
+      "url": "http://www.fiveminutegeekshow.com/45",
+      "content_text": "Sometimes our generalized understandings of groups of people are helpful, but more often then they're hurtful. How do we know which is which?\n",
+      "content_html": "<p>Sometimes our generalized understandings of groups of people are helpful, but more often then they're hurtful. How do we know which is which?</p>\n",
+      "summary": "Sometimes our generalized understandings of groups of people are helpful, but more often then they're hurtful. How do we know which is which?\n",
+      "date_published": "2015-06-12 11:50:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/13001.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 5708333,
+        "duration_in_seconds": 705
+      }
+    },
+    {
+      "id": "a2fcfcf4-1ea2-4562-969f-e8a93ba3ff50",
+      "title": "44 | How you should pick your tools",
+      "url": "http://www.fiveminutegeekshow.com/44",
+      "content_text": "Many people's metrics on how to pick the tools they use is wrong. Don't be wrong.\n",
+      "content_html": "<p>Many people's metrics on how to pick the tools they use is wrong. Don't be wrong.</p>\n",
+      "summary": "Many people's metrics on how to pick the tools they use is wrong. Don't be wrong.\n",
+      "date_published": "2015-06-09 15:36:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/12944.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 3841727,
+        "duration_in_seconds": 472
+      }
+    },
+    {
+      "id": "02d2c536-e18f-4d62-a301-e46f96127637",
+      "title": "43 | Stop Lying About Your Motivations",
+      "url": "http://www.fiveminutegeekshow.com/43",
+      "content_text": "We often use some external situation or justification to cover up what we don't really want to talk about it, and it's damaging our mental health and our relationships. We have to stop.\n",
+      "content_html": "<p>We often use some external situation or justification to cover up what we don't really want to talk about it, and it's damaging our mental health and our relationships. We have to stop.</p>\n",
+      "summary": "We often use some external situation or justification to cover up what we don't really want to talk about it, and it's damaging our mental health and our relationships. We have to stop.\n",
+      "date_published": "2015-06-04 16:02:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/12808.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 3675380,
+        "duration_in_seconds": 451
+      }
+    },
+    {
+      "id": "85e75bff-62cd-4fc5-9480-e836c35d0142",
+      "title": "42 | When Microservices and SPAs Aren't the Right Answer",
+      "url": "http://www.fiveminutegeekshow.com/42",
+      "content_text": "Microservices are great. But not always.\nSingle-Page apps are great. But not always.\n",
+      "content_html": "<p>Microservices are great. But not always.\nSingle-Page apps are great. But not always.</p>\n\n<ul>\n<li><a href=\"https://www.youtube.com/watch?v=KJVTM7mE1Cc\">RailsConf Keynote from DHH</a></li>\n<li><a href=\"http://bikeshed.fm/9\">Bikeshed episode that I haven't listened to but was recommended to me about this topic</a></li>\n</ul>\n\n",
+      "summary": "Microservices are great. But not always.\nSingle-Page apps are great. But not always.\n",
+      "date_published": "2015-05-29 09:42:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/12651.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 3758762,
+        "duration_in_seconds": 462
+      }
+    },
+    {
+      "id": "87f887d4-19ac-48e4-9818-7729b4bd6d4d",
+      "title": "41 | Asking Good Questions About Your Product/Project",
+      "url": "http://www.fiveminutegeekshow.com/41",
+      "content_text": "How I'm learning to ask good questions (which usually start with \"Why\")\n",
+      "content_html": "<p>How I'm learning to ask good questions (which usually start with \"Why\").</p>\n\n<ul>\n<li><a href=\"https://karaniapp.com/\">Karani</a></li>\n<li><a href=\"http://jobstobedone.org\">Jobs To Be Done</a></li>\n<li><a href=\"https://github.com/tightenco/symposium\">Symposium Github Repo</a></li>\n</ul>\n\n",
+      "summary": "How I'm learning to ask good questions (which usually start with \"Why\")\n",
+      "date_published": "2015-05-26 16:12:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/12587.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 4362923,
+        "duration_in_seconds": 537
+      }
+    },
+    {
+      "id": "f17df5e3-5a70-4383-90e6-625dfad4cdfe",
+      "title": "40 | Finding Inspiration In Predictability (and in Being Unpredictable)",
+      "url": "http://www.fiveminutegeekshow.com/40",
+      "content_text": "It can be hard to find inspiration in your work. Sometimes it helps to be predictable--and some times it helps to switch everything up.\n",
+      "content_html": "<p>It can be hard to find inspiration in your work. Sometimes it helps to be predictable--and some times it helps to switch everything up.</p>\n",
+      "summary": "It can be hard to find inspiration in your work. Sometimes it helps to be predictable--and some times it helps to switch everything up.\n",
+      "date_published": "2015-05-20 10:58:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/12050.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 4103370,
+        "duration_in_seconds": 505
+      }
+    },
+    {
+      "id": "b850e2f3-b14c-4196-96af-a6a7704529d8",
+      "title": "39 | Planners vs. Cowboys in Product Design (An Ode to #AnnoyingQuestions)",
+      "url": "http://www.fiveminutegeekshow.com/39",
+      "content_text": "In product design, the \"planners\" need to figure out the plan before you start, and the \"cowboys\" just want to get coding. Wee need them both, and we need them to work together.\n",
+      "content_html": "<p>In product design, the \"planners\" need to figure out the plan before you start, and the \"cowboys\" just want to get coding. Wee need them both, and we need them to work together.</p>\n\n<ul>\n<li><a href=\"https://karaniapp.com/\">Karani</a></li>\n<li><a href=\"http://www.confomoapp.com/\">Confomo</a></li>\n<li><a href=\"http://www.gistlog.co/\">Gistlog</a></li>\n<li><a href=\"http://symposiumapp.com/\">Symposium</a></li>\n<li><a href=\"http://markedstyle.com/\">Markedstyle</a></li>\n<li><a href=\"http://fullstackradio.com/episodes/5/\">Ryan Singer on Full-Stack Radio</a></li>\n</ul>\n\n",
+      "summary": "In product design, the \"planners\" need to figure out the plan before you start, and the \"cowboys\" just want to get coding. Wee need them both, and we need them to work together.\n",
+      "date_published": "2015-05-12 14:33:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/11468.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 4621430,
+        "duration_in_seconds": 570
+      }
+    },
+    {
+      "id": "2cdb9817-3af1-486b-b9f8-055ca29c7cc8",
+      "title": "38 | How to Make Remote Work Suck Less",
+      "url": "http://www.fiveminutegeekshow.com/38",
+      "content_text": "Everyone's in love with remote work. So are we! But there are some big pains that come along with it.\n",
+      "content_html": "<p>Everyone's in love with remote work. So are we! But there are some big pains that come along with it.</p>\n\n<ul>\n<li><a href=\"http://www.amazon.com/Remote-Office-Required-Jason-Fried/dp/0804137501\">REMOTE</a></li>\n<li><a href=\"https://campfirenow.com/\">Campfire</a></li>\n<li><a href=\"https://slack.com/\">Slack</a></li>\n<li><a href=\"https://www.sqwiggle.com/\">Sqwiggle</a></li>\n<li><a href=\"https://screenhero.com/\">Screenhero</a></li>\n</ul>\n\n",
+      "summary": "Everyone's in love with remote work. So are we! But there are some big pains that come along with it.\n",
+      "date_published": "2015-05-07 14:55:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/11265.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 3699203,
+        "duration_in_seconds": 454
+      }
+    },
+    {
+      "id": "7ac0dff7-9023-42e0-bf91-709201ee84f6",
+      "title": "37 | Start your own podcast in under 5 minutes, take two",
+      "url": "http://www.fiveminutegeekshow.com/37",
+      "content_text": "Start your own podcast in under 5 minutes, take two\n",
+      "content_html": "<p>Start your own podcast in under 5 minutes, take two</p>\n\n<ul>\n<li><a href=\"http://www.mildlyalarming.com/episodes/10711-bonus-the-real-five-minute-geek-show\">The Real Five Minute Geek Show</a></li>\n<li><a href=\"http://www.bluemic.com/snowball/\">Blue Snowball</a></li>\n<li><a href=\"http://www.bluemic.com/yeti/\">Blue Yeti</a></li>\n<li><a href=\"http://simplecast.fm\">Simplecast</a></li>\n</ul>\n\n",
+      "summary": "Start your own podcast in under 5 minutes, take two\n",
+      "date_published": "2015-05-05 10:00:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/11136.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 2783873,
+        "duration_in_seconds": 340
+      }
+    },
+    {
+      "id": "406e4c7a-d2b8-46ca-9988-bef5810d7dbc",
+      "title": "36 | Getting Started with Passive Income -- Interview with Wes Bos",
+      "url": "http://www.fiveminutegeekshow.com/36",
+      "content_text": "Wes Bos of \"Sublime Text Power User\" and \"Command Line Power User\" gives a quick introduction to supplementing your income in a non-skeezy way using passive income.\n",
+      "content_html": "<p>Wes Bos of \"Sublime Text Power User\" and \"Command Line Power User\" gives a quick introduction to supplementing your income in a non-skeezy way using passive income.</p>\n\n<ul>\n<li><a href=\"http://wesbos.com/\">WesBos.com</a></li>\n<li><a href=\"http://twitter.com/wesbos\">@wesbos</a></li>\n<li><a href=\"https://sublimetextbook.com/\">Sublime Text Power User</a></li>\n<li><a href=\"http://commandlinepoweruser.com/\">Command Line Power User</a></li>\n</ul>\n\n",
+      "summary": "Wes Bos of \"Sublime Text Power User\" and \"Command Line Power User\" gives a quick introduction to supplementing your income in a non-skeezy way using passive income.\n",
+      "date_published": "2015-04-30 15:26:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/11107.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 3818111,
+        "duration_in_seconds": 469
+      }
+    },
+    {
+      "id": "d1744c4d-9cc4-4012-9463-c4153e0ae47a",
+      "title": "35 | Just Use Your Dang Name",
+      "url": "http://www.fiveminutegeekshow.com/35",
+      "content_text": "Just Use Your Dang Name\n",
+      "content_html": "<p>Just Use Your Dang Name</p>\n",
+      "summary": "Just Use Your Dang Name\n",
+      "date_published": "2015-04-28 20:15:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/11070.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 3599520,
+        "duration_in_seconds": 442
+      }
+    },
+    {
+      "id": "2f148406-f9b3-4aa5-8fed-91da28a6b1cb",
+      "title": "34 | How to responsive-ize your web site AND Introducing Podcast Wars",
+      "url": "http://www.fiveminutegeekshow.com/34",
+      "content_text": "How to make an old web site responsive (in 5 minutes) and introducing our Podcast War with the Mildly Alarming Podcast\n",
+      "content_html": "<ul>\n<li><a href=\"http://www.mildlyalarming.com\">The Mildly Alarming Podcast</a></li>\n<li><a href=\"http://www.mildlyalarming.com/episodes/10037-7-serious-business-for-a-serious-world\">The Mildly Alarming Podcast - Episode 7</a> In which they introduce the podcast war</li>\n<li><a href=\"http://www.mildlyalarming.com/episodes/10530-8-trolls-vs-dragons\">The Mildly Alarming Podcast - Episode 8</a> In which they give the outro I played in the app</li>\n<li><a href=\"http://thatpodcast.io/episodes/episode-16-the-one-with-http-2/\">That Podcast Episode 16</a> In which they talk about responsive redesigns</li>\n<li><a href=\"https://www.youtube.com/watch?v=dVtKNyNZRe8\">Converting a Flattened PDF comp to HTML/CSS</a> My screencast</li>\n<li><em>Converting the old Laravel.com to be responsive</em> -- apparently disappeared forever?</li>\n<li><a href=\"https://css-tricks.com/why-ems/\">Why EMs?</a></li>\n<li><a href=\"https://css-tricks.com/confused-rem-em/\">Confused about REM and EM?</a></li>\n</ul>\n\n",
+      "summary": "How to make an old web site responsive (in 5 minutes) and introducing our Podcast War with the Mildly Alarming Podcast\n",
+      "date_published": "2015-04-21 18:46:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/10680.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 4459889,
+        "duration_in_seconds": 549
+      }
+    },
+    {
+      "id": "210aafdc-71dc-4020-8b84-ee277711305a",
+      "title": "33 | Why the Slack haters are wrong and Slack > IRC",
+      "url": "http://www.fiveminutegeekshow.com/33",
+      "content_text": "Disagreeing with the Slack-naysayers in a controversial manner so more people will listen to my podcast\n",
+      "content_html": "<p>Disagreeing with the Slack-naysayers in a controversial manner so more people will listen to my podcast</p>\n",
+      "summary": "Disagreeing with the Slack-naysayers in a controversial manner so more people will listen to my podcast\n",
+      "date_published": "2015-04-16 19:01:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/10494.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 3867850,
+        "duration_in_seconds": 475
+      }
+    },
+    {
+      "id": "ab7c3b67-d66a-4032-a973-7a6c5ee51ff4",
+      "title": "32 | Integrity (and why it doesn't mean what most people think it does)",
+      "url": "http://www.fiveminutegeekshow.com/32",
+      "content_text": "Talking about integrity--why it matters in tech, and why it doesn't mean what most people think it does.\n",
+      "content_html": "<p>Talking about integrity--why it matters in tech, and why it doesn't mean what most people think it does.</p>\n",
+      "summary": "Talking about integrity--why it matters in tech, and why it doesn't mean what most people think it does.\n",
+      "date_published": "2015-04-09 15:32:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/10025.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 3901287,
+        "duration_in_seconds": 480
+      }
+    },
+    {
+      "id": "83c63b87-3b46-4b80-9dea-acf827127cf6",
+      "title": "31 | Keep It Simple (and short and not super indented and well named and lots of other stuff), Stupid",
+      "url": "http://www.fiveminutegeekshow.com/31",
+      "content_text": "How to keep your code neat, clean, easy to follow, and to draw nearer to the mythical \"Self-documented\" code\n",
+      "content_html": "<p>How to keep your code neat, clean, easy to follow, and to draw nearer to the mythical \"Self-documented\" code</p>\n",
+      "summary": "How to keep your code neat, clean, easy to follow, and to draw nearer to the mythical \"Self-documented\" code\n",
+      "date_published": "2015-04-02 10:00:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/9849.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 4162720,
+        "duration_in_seconds": 512
+      }
+    },
+    {
+      "id": "0a87508f-74d9-42d3-b3bb-f4ee74da0832",
+      "title": "30 | Why I Don't Work From Home",
+      "url": "http://www.fiveminutegeekshow.com/30",
+      "content_text": "Why I work from a remote office\n",
+      "content_html": "<p>Why I work from a remote office instead of from home</p>\n",
+      "summary": "Why I work from a remote office\n",
+      "date_published": "2015-03-31 13:57:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/9825.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 3758554,
+        "duration_in_seconds": 462
+      }
+    },
+    {
+      "id": "ab42f22d-6640-42a0-9c3d-4cd54afe1649",
+      "title": "29 | Introducing VitalSigns Because Otherwise It Won't Happen",
+      "url": "http://www.fiveminutegeekshow.com/29",
+      "content_text": "Given my advice in the last episode, I'm introducing my open source project here\n",
+      "content_html": "<p>Given my advice in the last episode, I'm introducing my open source project here</p>\n\n<ul>\n<li><a href=\"http://github.com/VitalSigns\">VitalSigns</a></li>\n<li><a href=\"http://symposiumapp.com/\">Symposium</a></li>\n<li><a href=\"http://gistlog.co/\">Gistlog</a></li>\n<li><a href=\"http://confomo.com/\">Confomo</a></li>\n</ul>\n\n",
+      "summary": "Given my advice in the last episode, I'm introducing my open source project here\n",
+      "date_published": "2015-03-26 17:39:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/9502.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 3461385,
+        "duration_in_seconds": 425
+      }
+    },
+    {
+      "id": "9b9b14f7-4424-46be-adbd-e08a669532be",
+      "title": "28 | Should You Tell Everyone About Your Next Best Idea?",
+      "url": "http://www.fiveminutegeekshow.com/28",
+      "content_text": "When you have a really exciting idea at the top of your head, is it better to keep it secret or share it with everyone you know?\n",
+      "content_html": "<p>When you have a really exciting idea at the top of your head, is it better to keep it secret or share it with everyone you know?</p>\n",
+      "summary": "When you have a really exciting idea at the top of your head, is it better to keep it secret or share it with everyone you know?\n",
+      "date_published": "2015-03-19 10:00:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/9346.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 3675380,
+        "duration_in_seconds": 451
+      }
+    },
+    {
+      "id": "caa9ed43-20ca-4105-a1db-9776d8db1d8a",
+      "title": "27 | Your Justification for Having a Non-Responsive Web Site Is Wrong",
+      "url": "http://www.fiveminutegeekshow.com/27",
+      "content_text": "You may have some reasons in your head for why your web site isn't wrong. They're all wrong.\n",
+      "content_html": "<p>You may have some reasons in your head for why your web site isn't wrong. They're all wrong.</p>\n\n<ul>\n<li><a href=\"https://lessaccounting.com/autopilot/\">LessAccounting AutoPilot</a></li>\n</ul>\n\n",
+      "summary": "You may have some reasons in your head for why your web site isn't wrong. They're all wrong.\n",
+      "date_published": "2015-03-17 14:35:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/9321.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 3342475,
+        "duration_in_seconds": 410
+      }
+    },
+    {
+      "id": "daeef7f8-94b6-424c-b912-0d62fd1a7e5f",
+      "title": "26 | It's all about that schema",
+      "url": "http://www.fiveminutegeekshow.com/26",
+      "content_text": "Talking about the MEAN stack and why Mongo &amp; NoSQL make you work too hard\n",
+      "content_html": "<p>Talking about the MEAN stack and why Mongo &amp; NoSQL make you work too hard</p>\n\n<ul>\n<li><a href=\"http://mean.io/\">MEAN</a></li>\n<li><a href=\"http://www.mongodb.org/\">Mongo</a></li>\n<li><a href=\"http://expressjs.com/\">Express</a></li>\n<li><a href=\"https://angularjs.org/\">Angular</a></li>\n<li><a href=\"https://nodejs.org/\">Node</a></li>\n</ul>\n\n",
+      "summary": "Talking about the MEAN stack and why Mongo & NoSQL make you work too hard\n",
+      "date_published": "2015-03-12 21:55:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/9026.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 3592206,
+        "duration_in_seconds": 441
+      }
+    },
+    {
+      "id": "b2e7897d-f8fe-4dcb-8ca1-ee1e194cd37b",
+      "title": "25 | Which IDE/Code Editor is the Best?",
+      "url": "http://www.fiveminutegeekshow.com/25",
+      "content_text": "How do you figure out which IDE/Editor is the best for you?\n",
+      "content_html": "<p>How do you figure out which IDE/Editor is the best for you?</p>\n\n<ul>\n<li><a href=\"http://www.sublimetext.com/\">Sublime Text</a></li>\n<li><a href=\"https://www.jetbrains.com/phpstorm/\">PHPStorm</a></li>\n<li><a href=\"http://www.vim.org\">Vim</a></li>\n<li><a href=\"http://www.gnu.org/software/emacs/\">EMacs</a></li>\n<li><a href=\"https://atom.io/\">Atom</a></li>\n<li><a href=\"http://macromates.com/\">Textmate</a></li>\n<li><a href=\"https://www.jetbrains.com/idea/\">IntelliJ</a></li>\n</ul>\n\n",
+      "summary": "How do you figure out which IDE/Editor is the best for you?\n",
+      "date_published": "2015-03-10 19:00:00 -0400",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/8999.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 3948932,
+        "duration_in_seconds": 486
+      }
+    },
+    {
+      "id": "c522e092-cfc5-4f2d-9558-f6644ec807f9",
+      "title": "24 | How to Write Technical Blog Posts Quickly and Easily",
+      "url": "http://www.fiveminutegeekshow.com/24",
+      "content_text": "I write often at mattstauffer.co, and I've been trying to learn how to do it quickly and easily. I share some of my process in this episode.\n",
+      "content_html": "<p>I write often at mattstauffer.co, and I've been trying to learn how to do it quickly and easily. I share some of my process in this episode.</p>\n\n<ul>\n<li><a href=\"http://thatpodcast.io/\">That Podcast</a></li>\n<li><a href=\"http://750words.com/\">750words.com</a></li>\n<li><a href=\"http://mattstauffer.co/\">Mattstauffer.co</a></li>\n</ul>\n\n",
+      "summary": "I write often at mattstauffer.co, and I've been trying to learn how to do it quickly and easily. I share some of my process in this episode.\n",
+      "date_published": "2015-03-04 11:30:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/8876.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 4091667,
+        "duration_in_seconds": 503
+      }
+    },
+    {
+      "id": "e359fade-2652-4cae-9789-f162854ae8f2",
+      "title": "23 | 3 Ways to Give Back to Open Source & How to Write Good Pull Requests",
+      "url": "http://www.fiveminutegeekshow.com/23",
+      "content_text": " 3 Ways to Give Back to Open Source, including contributing code--and, in the midst, how to write a good pull request.\n",
+      "content_html": "<p> Three ways to give back to opens ource, including contributing code--and, in the midst, how to write a good pull request.</p>\n\n<ul>\n<li><a href=\"https://github.com/laravel/laravel.com/pull/18\">My Laravel.com pull request</a></li>\n<li><a href=\"http://www.healthyhacker.com/2014/11/10/perfect-pull-request/\">A podcast episode about The Perfect Pull Request that I embarrassingly have not listened to yet</a></li>\n</ul>\n\n",
+      "summary": " 3 Ways to Give Back to Open Source, including contributing code--and, in the midst, how to write a good pull request.\n",
+      "date_published": "2015-02-24 10:00:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/7977.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 3449670,
+        "duration_in_seconds": 423
+      }
+    },
+    {
+      "id": "fe5a02fb-b83a-4666-8de1-3dd041725cea",
+      "title": "22 | \"If You Don't Like It, Just Leave\"",
+      "url": "http://www.fiveminutegeekshow.com/22",
+      "content_text": "Often people will respond to someone saying they want more or different in a language/framework by saying, \"If you don't like it, just leave!\" Is that the right response?\n",
+      "content_html": "<p>Often people will respond to someone saying they want more or different in a language/framework by saying, \"If you don't like it, just leave!\" Is that the right response?</p>\n",
+      "summary": "Often people will respond to someone saying they want more or different in a language/framework by saying, \"If you don't like it, just leave!\" Is that the right response?\n",
+      "date_published": "2015-02-19 22:00:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/7863.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 4246089,
+        "duration_in_seconds": 523
+      }
+    },
+    {
+      "id": "c0cbd688-00b6-46a9-8d18-6fa067dbce82",
+      "title": "21 | Why Tech Conferences Are Worth the Cost",
+      "url": "http://www.fiveminutegeekshow.com/21",
+      "content_text": "Often folks look at tech conferences purely for what they can provide in terms of learning in sessions. But, there's a lot more to look at.\n",
+      "content_html": "<p>Often folks look at tech conferences purely for what they can provide in terms of learning in sessions. But, there's a lot more to look at.</p>\n\n<ul>\n<li><a href=\"http://peersconf.com\">PeersConf</a></li>\n<li><a href=\"http://laracon.us\">Laracon US</a></li>\n<li><a href=\"http://laracon.eu\">Laracon Eu</a></li>\n<li><a href=\"http://lessconf.lesseverything.com\">LessConf</a></li>\n</ul>\n\n",
+      "summary": "Often folks look at tech conferences purely for what they can provide in terms of learning in sessions. But, there's a lot more to look at.\n",
+      "date_published": "2015-02-17 22:00:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/7830.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 4353100,
+        "duration_in_seconds": 536
+      }
+    },
+    {
+      "id": "84c26171-ca32-4081-91b1-a68f67979026",
+      "title": "20 | How To Handle Your Code Breaking",
+      "url": "http://www.fiveminutegeekshow.com/20",
+      "content_text": "When your code--or, more specifically, your code executing through a plugin or a framework--stops working, how do you debug it?\n\nThere's a big difference between how junior and experience developers answer this question.\n",
+      "content_html": "<p>When your code--or, more specifically, your code executing through a plugin or a framework--stops working, how do you debug it?</p>\n\n<p>There's a big difference between how junior and experience developers answer this question.</p>\n\n<ul>\n<li><a href=\"https://en.wikipedia.org/wiki/Stack_trace\">Stack trace</a></li>\n<li><a href=\"http://www.xdebug.org\">xDebug</a></li>\n<li><a href=\"http://www.jetbrains.com/phpstorm/\">PHPStorm</a></li>\n<li><a href=\"http://mattstauffer.co/blog/extending-laravels-application\">Mattstauffer.co - Extending Laravel's Application</a></li>\n</ul>\n\n\n<p><a href=\"https://www.youtube.com/watch?v=68mspQDy6Og\">Youtube Link</a></p>\n",
+      "summary": "When your code--or, more specifically, your code executing through a plugin or a framework--stops working, how do you debug it?\n\nThere's a big difference between how junior and experience developers answer this question.\n",
+      "date_published": "2015-02-10 10:00:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/7382.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 3734935,
+        "duration_in_seconds": 459
+      }
+    },
+    {
+      "id": "23d8c97e-5124-44c4-9201-abc4a562739e",
+      "title": "19 | What if _____ Gets Hit By a Bus?",
+      "url": "http://www.fiveminutegeekshow.com/19",
+      "content_text": "What happens if the leader or leaders of my favorite framework/tool/etc. get hit by a bus?\n",
+      "content_html": "<p>What happens if the leader or leaders of my favorite framework/tool/etc. get hit by a bus?</p>\n\n<ul>\n<li><a href=\"http://angularjs.blogspot.com/2014/03/angular-20.html\">Angular 2.0 roadmap announcement</a></li>\n<li><a href=\"http://fullstackradio.com/episodes/8/\">Full-Stack Radio Episode 8</a></li>\n<li><a href=\"https://twitter.com/barelyknown\">The Man With the Golden Voice, Sean Devine</a></li>\n<li><a href=\"http://batmanjs.org/\">Batman.JS</a></li>\n</ul>\n\n\n<p><a href=\"https://www.youtube.com/watch?v=QBSgynIGspU\">Youtube Link</a></p>\n",
+      "summary": "What happens if the leader or leaders of my favorite framework/tool/etc. get hit by a bus?\n",
+      "date_published": "2015-02-05 10:00:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/7305.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 3199951,
+        "duration_in_seconds": 392
+      }
+    },
+    {
+      "id": "3da20c77-9194-44d8-a5ad-5de3b2873ca9",
+      "title": "18 | Growth Hacking Without the Gross; Interviewing Mubashar Iqbal",
+      "url": "http://www.fiveminutegeekshow.com/18",
+      "content_text": "Interviewing Mubash Iqbal, \"Mubs\", about his early success with Interviewed.io\n\nNote: I said \"willing to interview him.\" This was a total misspeak--it was such an honor to interview Mubs! Apologies!\n",
+      "content_html": "<p>Interviewing Mubash Iqbal, \"Mubs\", about his early success with Interviewed.io</p>\n\n<ul>\n<li><a href=\"http://mubs.me/\">Mubs' Personal Web Site</a></li>\n<li><a href=\"http://twitter.com/mubashariqbal\">Mubs on Twitter</a></li>\n<li><a href=\"http://www.interviewed.io/\">Interviewed.io</a></li>\n<li><a href=\"http://www.producthunt.com/posts/interviewed\">Interviewed.io at Product Hunt</a></li>\n<li><a href=\"https://news.ycombinator.com/item?id=8934858\">Interviewed.io at Hacker News</a></li>\n<li><a href=\"https://news.layervault.com/stories/42674-show-dn-interviewedio--a-growing-database-of-podcast-interviews\">Interviewed.io at Designer News</a></li>\n<li><a href=\"https://twitter.com/stevepyoung\">Steve P. Young</a></li>\n<li><a href=\"http://thenextweb.com/insider/2015/01/23/keep-track-of-the-best-startup-and-entrepeneur-podcasts-with-interviewed-io/\">Interviewed.io on The Next Web</a></li>\n</ul>\n\n\n<p><a href=\"https://www.youtube.com/watch?v=WnemjiMbTXE\">Youtube Link</a></p>\n",
+      "summary": "Interviewing Mubash Iqbal, \"Mubs\", about his early success with Interviewed.io\n\nNote: I said \"willing to interview him.\" This was a total misspeak--it was such an honor to interview Mubs! Apologies!\n",
+      "date_published": "2015-02-03 10:00:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/7269.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 4816617,
+        "duration_in_seconds": 594
+      }
+    },
+    {
+      "id": "5e423e1f-9a86-4276-92be-eed400f4848b",
+      "title": "17 | Entrepreneurship Advice From a 30-year Business Veteran ",
+      "url": "http://www.fiveminutegeekshow.com/17",
+      "content_text": "Asking an experienced entrepreneur, developer, and business owner for 5 minutes of his best advice for entrepreneurs.\n",
+      "content_html": "<p>Asking an experienced entrepreneur, developer, and business owner for 5 minutes of his best advice for entrepreneurs.</p>\n\n<ul>\n<li><a href=\"http://shjackson.com/\">Steve Jackson</a></li>\n<li>One of Steve's most recent businesses, <a href=\"http://www.telemachuspress.com/\">Telemachus Press</a></li>\n<li><a href=\"http://www.investopedia.com/terms/p/plstatement.asp\">Definition of P&amp;L, Profit &amp; Loss Statement</a></li>\n</ul>\n\n\n<p><a href=\"https://www.youtube.com/watch?v=uyBbL6yf54o\">Youtube Link</a></p>\n",
+      "summary": "Asking an experienced entrepreneur, developer, and business owner for 5 minutes of his best advice for entrepreneurs.\n",
+      "date_published": "2015-01-29 10:00:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/7210.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 3390122,
+        "duration_in_seconds": 416
+      }
+    },
+    {
+      "id": "c9bb141f-9017-44f5-9db4-d44643f772bf",
+      "title": "16 | The Twitter Experiment Part 2: Remaining Uncomfortable",
+      "url": "http://www.fiveminutegeekshow.com/16",
+      "content_text": "In part 2 of a 2-part series, we're reviewing the results of the great Twitter experiment.\n",
+      "content_html": "<p>In part 2 of a 2-part series, we're reviewing the results of the great Twitter experiment.</p>\n\n<ul>\n<li><a href=\"http://twitter.com/5minutegeekshow\">Five-Minute Geek Show on Twitter</a></li>\n<li><a href=\"https://support.twitter.com/articles/68916-following-rules-and-best-practices\">Twitter rules and best practices - Aggressive Following</a></li>\n</ul>\n\n\n<p><a href=\"https://www.youtube.com/watch?v=opf3ejXnhwM\">Youtube Link</a></p>\n",
+      "summary": "In part 2 of a 2-part series, we're reviewing the results of the great Twitter experiment.\n",
+      "date_published": "2015-01-27 10:00:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/6905.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 3836726,
+        "duration_in_seconds": 471
+      }
+    },
+    {
+      "id": "98d98881-2196-4a1d-8688-8e58b4abc25a",
+      "title": "15 | The Twitter Experiment Part 1: Getting Uncomfortable",
+      "url": "http://www.fiveminutegeekshow.com/15",
+      "content_text": "In part 1 of a 2-part series, we're going to talk about what helps you make decisions on Twitter behaviors and follow-backs. Plus, we'll just be uncomfortable spending an entire episode talking about Twitter drama.\n",
+      "content_html": "<p>In part 1 of a 2-part series, we're going to talk about what helps you make decisions on Twitter behaviors and follow-backs. Plus, we'll just be uncomfortable spending an <em>entire</em> episode talking about Twitter drama.</p>\n\n<ul>\n<li><a href=\"http://twitter.com/5minutegeekshow\">Five-Minute Geek Show on Twitter</a></li>\n<li><a href=\"http://twitter.com/karaniapp\">Karani on Twitter</a></li>\n<li><a href=\"http://twitter.com/tightenco\">Tighten Co. on Twitter</a></li>\n<li><a href=\"http://twitter.com/stauffermatt\">Me on Twitter</a></li>\n<li><a href=\"http://twitteraudit.com/\">TwitterAudit</a></li>\n</ul>\n\n\n<p><a href=\"https://www.youtube.com/watch?v=kIWYD0ahP1s\">Youtube Link</a></p>\n",
+      "summary": "In part 1 of a 2-part series, we're going to talk about what helps you make decisions on Twitter behaviors and follow-backs. Plus, we'll just be uncomfortable spending an entire episode talking about Twitter drama.\n",
+      "date_published": "2015-01-20 10:00:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/6713.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 3057474,
+        "duration_in_seconds": 374
+      }
+    },
+    {
+      "id": "7ec9093b-a78c-405b-9acd-0755243c7892",
+      "title": "14 | Where the Best Startup Ideas Come From",
+      "url": "http://www.fiveminutegeekshow.com/14",
+      "content_text": "The best way to come up with an idea for a new startup, SaaS, or app.\n",
+      "content_html": "<p>The best way to come up with an idea for a new startup, SaaS, or app.</p>\n\n<ul>\n<li><a href=\"https://karaniapp.com/\">Karani</a></li>\n<li><a href=\"http://www.startupsfortherestofus.com/\">Startups for the Rest of Us</a></li>\n<li><a href=\"https://itunes.apple.com/us/podcast/the-five-minute-geek-show/id952727637\">Rate us on iTunes</a></li>\n</ul>\n\n\n<p><a href=\"https://www.youtube.com/watch?v=CRF634gChXE\">Youtube Link</a></p>\n",
+      "summary": "The best way to come up with an idea for a new startup, SaaS, or app.\n",
+      "date_published": "2015-01-15 15:30:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/6699.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 2866914,
+        "duration_in_seconds": 350
+      }
+    },
+    {
+      "id": "b2add433-a252-4daa-a411-6aae3e61e9ef",
+      "title": "13 | Http Status Codes And You",
+      "url": "http://www.fiveminutegeekshow.com/13",
+      "content_text": "A brief explanation of HTTP Status Codes\n",
+      "content_html": "<p>A brief explanation of HTTP Status Codes</p>\n\n<ul>\n<li><a href=\"https://en.wikipedia.org/wiki/List_of_HTTP_status_codes\">Wikipedia List of HTTP status codes</a></li>\n<li><a href=\"http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html\">W3.org Status Codes</a></li>\n<li><a href=\"http://httpstatus.io\">http://httpstatus.io</a></li>\n<li><a href=\"http://httpstat.us\">http://httpstat.us</a></li>\n<li><a href=\"http://httpstatus.es\">http://httpstatus.es</a></li>\n</ul>\n\n\n<p><a href=\"https://www.youtube.com/watch?v=OdnBfBsNLWY\">Youtube Link</a></p>\n",
+      "summary": "A brief explanation of HTTP Status Codes\n",
+      "date_published": "2015-01-13 20:25:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/6666.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 3366360,
+        "duration_in_seconds": 413
+      }
+    },
+    {
+      "id": "bff2a75f-91d3-476e-98f0-9791df4dc13e",
+      "title": "12 | Create-a-Theme-Song",
+      "url": "http://www.fiveminutegeekshow.com/12",
+      "content_text": "Make your own theme song in Garage Band\n",
+      "content_html": "<p>Make your own theme song in Garage Band</p>\n\n<p>Note: All links are affiliate links and support hosting costs.</p>\n\n<ul>\n<li><a href=\"http://www.amazon.com/gp/product/B0002H0GF0/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B0002H0GF0&amp;linkCode=as2&amp;tag=staffhacker-20&amp;linkId=6MADTZODECIFOOR7\">M-Audio Keystation 61es</a> - Which has gone up significantly in price since I bought it :/</li>\n<li><a href=\"http://www.amazon.com/gp/product/B00IWWZAM6/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00IWWZAM6&amp;linkCode=as2&amp;tag=staffhacker-20&amp;linkId=M4ESH33JR6LENC7P\">M-Audio Keystation 49</a></li>\n<li><a href=\"http://www.amazon.com/gp/product/B00IWRJSE2/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00IWRJSE2&amp;linkCode=as2&amp;tag=staffhacker-20&amp;linkId=SVVMVY4OPYW2YR2N\">M-Audio Keystation Mini 32</a></li>\n</ul>\n\n\n<p><a href=\"https://www.youtube.com/watch?v=YCJaFRnynWg\">Youtube Link</a></p>\n",
+      "summary": "Make your own theme song in Garage Band\n",
+      "date_published": "2015-01-08 10:00:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/6485.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 3865807,
+        "duration_in_seconds": 475
+      }
+    },
+    {
+      "id": "64ef5e1e-3615-429f-a3b8-c56a95983715",
+      "title": "11 | Make Great Coffee for Cheap",
+      "url": "http://www.fiveminutegeekshow.com/11",
+      "content_text": "Geeking doesn't have to be about computers.\n",
+      "content_html": "<p>Geek doesn't have to be about computers.</p>\n\n<p>Note: All links are affiliate links and support hosting costs.</p>\n\n<p>Cheap setup:</p>\n\n<ul>\n<li>Maker 1: French Press (<a href=\"http://www.amazon.com/gp/product/B004NBYADU/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B004NBYADU&amp;linkCode=as2&amp;tag=staffhacker-20&amp;linkId=6VWJ3AV2RGPNHUTR\">cheap option by Bodum</a>)</li>\n<li>Maker 2: <a href=\"http://www.amazon.com/gp/product/B002S01CKW/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B002S01CKW&amp;linkCode=as2&amp;tag=staffhacker-20&amp;linkId=BH4ONPKERGRIA5AB\">Hario v60</a> and <a href=\"http://www.amazon.com/gp/product/B001O0R46I/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B001O0R46I&amp;linkCode=as2&amp;tag=staffhacker-20&amp;linkId=JVSYI7RAOS4SVDHR\">v60 filters</a></li>\n<li>Maker 3: <a href=\"http://www.amazon.com/gp/product/B0047BIWSK/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B0047BIWSK&amp;linkCode=as2&amp;tag=staffhacker-20&amp;linkId=KU4D6LINVIIIWDHU\">Aeropress</a></li>\n<li>Grinder 1: <a href=\"http://www.amazon.com/gp/product/B001802PIQ/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B001802PIQ&amp;linkCode=as2&amp;tag=staffhacker-20&amp;linkId=WNKGJZWMV5CIFOWH\">Hario ceramic grinder</a></li>\n<li>Grinder 2: <a href=\"http://www.amazon.com/gp/product/B0002JZCF2/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B0002JZCF2&amp;linkCode=as2&amp;tag=staffhacker-20&amp;linkId=NPQQUEQ4XVRM3STY\">Porlex JP-30</a></li>\n<li>Grinder 3: <a href=\"http://www.amazon.com/gp/product/B0000AR7SY/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B0000AR7SY&amp;linkCode=as2&amp;tag=staffhacker-20&amp;linkId=2PPUQDEBL7U2P6UH\">Capresso Infinity</a></li>\n<li>Coffee: <a href=\"https://bluebottlecoffee.com/store/ethiopia-yirgacheffe-bedhatu-jibicho\">Blue Bottle Yirgacheffe</a></li>\n</ul>\n\n\n<p>Recipes:</p>\n\n<ul>\n<li><a href=\"https://gist.github.com/mattstauffer/ab8ecc9ea11e41170158\">My favorite French Press recipe</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=MPDfn--vxK8\">My favorite v60 recipe</a></li>\n<li><a href=\"https://gist.github.com/mattstauffer/529821b01f314b71871d\">My favorite Aeropress recipe</a></li>\n</ul>\n\n\n<p>Others:</p>\n\n<ul>\n<li><a href=\"http://www.amazon.com/gp/product/B005YR0F40/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B005YR0F40&amp;linkCode=as2&amp;tag=staffhacker-20&amp;linkId=LPAOY6SOPI5SF6XW\">Bonavita Electric Gooseneck Kettle</a></li>\n<li><a href=\"http://www.amazon.com/gp/product/B00KMSLHDY/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00KMSLHDY&amp;linkCode=as2&amp;tag=staffhacker-20&amp;linkId=TRBLBBKE5KW5PELY\">Nespresso</a></li>\n<li><a href=\"http://www.amazon.com/gp/product/B0001KOA4Q/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B0001KOA4Q&amp;linkCode=as2&amp;tag=staffhacker-20&amp;linkId=VLXZ6FLJRFUO5KCM\">Gaggia Classic</a></li>\n<li><a href=\"http://www.amazon.com/gp/product/B001N07KUE/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B001N07KUE&amp;linkCode=as2&amp;tag=staffhacker-20&amp;linkId=NXOH7WIQNLZZTUHU\">EatSmart Precision Pro Digital Kitchen Scale</a></li>\n</ul>\n\n\n<p><a href=\"https://www.youtube.com/watch?v=2AmQiU_tTVw\">Youtube Link</a></p>\n",
+      "summary": "Geeking doesn't have to be about computers.\n",
+      "date_published": "2015-01-06 10:00:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/6459.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 4448233,
+        "duration_in_seconds": 548
+      }
+    },
+    {
+      "id": "a93a8ac9-a1bc-44e3-9385-12b121db2011",
+      "title": "10 | Where Do I Breakpoint?",
+      "url": "http://www.fiveminutegeekshow.com/10",
+      "content_text": "Where do you place your media query breakpoints?\n",
+      "content_html": "<p>Where do you place your media query breakpoints?</p>\n\n<ul>\n<li><a href=\"http://baymard.com/blog/line-length-readability\">Readability: the Optimal Line Length</a></li>\n</ul>\n\n\n<p><a href=\"https://www.youtube.com/watch?v=uxfMGipx5Xs\">Youtube Link</a></p>\n",
+      "summary": "Where do you place your media query breakpoints?\n",
+      "date_published": "2015-01-01 10:00:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/6269.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 3021738,
+        "duration_in_seconds": 370
+      }
+    },
+    {
+      "id": "df576947-8fe5-4f2b-a3eb-8100efa8e994",
+      "title": "9 | To _blank or not to _blank",
+      "url": "http://www.fiveminutegeekshow.com/9",
+      "content_text": "Should you always use target=\"_blank\"? Never? It turns out... (tune in to see)\n",
+      "content_html": "<p>Should you always use target=\"_blank\"? Never? It turns out... (tune in to see)</p>\n\n<ul>\n<li><a href=\"https://itunes.apple.com/us/podcast/the-five-minute-geek-show/id952727637\">iTunes podcast for rating</a></li>\n<li><a href=\"https://gist.github.com/mattstauffer/1f95ae867aa9ef6f77fe\">Gist Conversation about microphones</a></li>\n<li><a href=\"https://twitter.com/stauffermatt/status/548155857004138496\">Picture of my Notebook</a></li>\n<li><a href=\"http://css-tricks.com/use-target_blank/\">When to use target=“_blank”</a></li>\n</ul>\n\n\n<p><a href=\"https://www.youtube.com/watch?v=e0A3pvgRF8k\">Youtube Link</a></p>\n",
+      "summary": "Should you always use target=\"_blank\"? Never? It turns out... (tune in to see)\n",
+      "date_published": "2014-12-30 10:00:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/6227.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 3645343,
+        "duration_in_seconds": 448
+      }
+    },
+    {
+      "id": "ede9fda2-5eae-4b3c-8aab-f523958969f1",
+      "title": "8 | Start Your Own Show",
+      "url": "http://www.fiveminutegeekshow.com/8",
+      "content_text": "Podcasting, Video Casting, and more\n",
+      "content_html": "<p>Podcasting, Video Casting, and more</p>\n\n<ul>\n<li><a href=\"http://podcastmethod.co/\">Podcast Method</a></li>\n<li><a href=\"http://simplecast.fm/\">Simplecast.fm</a></li>\n<li><a href=\"http://sculpin.io/\">Sculpin</a></li>\n<li><a href=\"http://www.amazon.com/gp/product/B006DIA77E/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B006DIA77E&amp;linkCode=as2&amp;tag=staffhacker-20&amp;linkId=3J5WKPR3TA4E7ZY3\">Blue Snowball microphone</a> (affiliate link)</li>\n<li><a href=\"http://www.amazon.com/gp/product/B002VA464S/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B002VA464S&amp;linkCode=as2&amp;tag=staffhacker-20&amp;linkId=DUQW5OSL2GMWIIFO\">Blue Yeti microphone</a> (affiliate link)</li>\n<li><a href=\"http://www.amazon.com/gp/product/B00HL5WWHQ/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00HL5WWHQ&amp;linkCode=as2&amp;tag=staffhacker-20&amp;linkId=MZMDLRFPRPCQH2WP\">Blue Yeti shock mount</a> (affiliate link)</li>\n<li><a href=\"http://www.amazon.com/gp/product/B000978D58/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B000978D58&amp;linkCode=as2&amp;tag=staffhacker-20&amp;linkId=VCUNRWB733XEKXKZ\">Mic stand</a> (affiliate link)</li>\n<li><a href=\"http://www.amazon.com/gp/product/B008AOH1O6/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B008AOH1O6&amp;linkCode=as2&amp;tag=staffhacker-20&amp;linkId=VYJVQUVZTHXXRX3L\">Pop filter</a> (affiliate link)</li>\n<li><a href=\"http://www.amazon.com/gp/product/B000065BPB/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B000065BPB&amp;linkCode=as2&amp;tag=staffhacker-20&amp;linkId=Y3M5C75B55FN6NNG\">Sennheiser HD-280PRO</a>, mistakenly referenced as the \"SD80\" in the podcast (affiliate link)</li>\n<li><a href=\"http://www.telestream.net/screenflow/overview.htm\">Screenflow</a></li>\n</ul>\n\n\n<p><a href=\"https://www.youtube.com/watch?v=FCUOQZhnXVE\">Youtube Link</a></p>\n",
+      "summary": "Podcasting, Video Casting, and more\n",
+      "date_published": "2014-12-26 00:00:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/6170.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 4106350,
+        "duration_in_seconds": 506
+      }
+    },
+    {
+      "id": "ad91f139-80f3-4c6d-9125-b7a145444190",
+      "title": "7 | Continuous Integration Etcetera",
+      "url": "http://www.fiveminutegeekshow.com/7",
+      "content_text": "Continuous Integration, Continuous Delivery, and Continous Deployment.\n",
+      "content_html": "<p>Continuous Integration, Continuous Delivery, and Continous Deployment.</p>\n\n<ul>\n<li><a href=\"http://sculpin.io/\">Sculpin</a></li>\n<li><a href=\"http://www.thoughtworks.com/continuous-integration\">Thoughtworks Continuous Integration</a></li>\n<li><a href=\"http://martinfowler.com/bliki/ContinuousDelivery.html\">Martin Fowler on Continuous Delivery</a></li>\n<li><a href=\"https://circleci.com/\">CircleCI</a></li>\n<li><a href=\"https://scrutinizer-ci.com/\">Scrutinizer</a></li>\n<li><a href=\"https://codeship.com/\">CodeShip</a></li>\n</ul>\n\n\n<p><a href=\"https://www.youtube.com/watch?v=WaE18RueEBg\">Youtube Link</a></p>\n",
+      "summary": "Continuous Integration, Continuous Delivery, and Continous Deployment.\n",
+      "date_published": "2014-12-23 10:00:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/6141.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 3291935,
+        "duration_in_seconds": 404
+      }
+    },
+    {
+      "id": "a3b5c53b-1b40-40b7-a3bf-047ff87cc778",
+      "title": "6 | The Holy Grail of Content Management",
+      "url": "http://www.fiveminutegeekshow.com/6",
+      "content_text": "The Holy Grail of Content Management\n",
+      "content_html": "<p>The Holy Grail of Content Management</p>\n\n<ul>\n<li><a href=\"http://simplecast.fm/\">Simplecast.fm</a></li>\n<li><a href=\"http://sculpin.io/\">Sculpin</a></li>\n<li><a href=\"https://github.com/jekyll/jekyll\">Jekyll</a></li>\n<li><a href=\"http://octopress.org\">Octopress</a></li>\n<li><a href=\"http://buildwithcraft.com\">Craft</a></li>\n<li><a href=\"http://expressionengine.com/\">ExpressionEngine</a></li>\n<li><a href=\"https://www.drupal.org\">Drupal</a></li>\n<li><a href=\"https://wordpress.org\">Wordpress</a></li>\n<li><a href=\"http://statamic.com/\">Statamic</a></li>\n</ul>\n\n\n<p><a href=\"https://www.youtube.com/watch?v=QIa_6gnCKmA\">Youtube Link</a></p>\n",
+      "summary": "The Holy Grail of Content Management\n",
+      "date_published": "2014-12-18 10:00:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/6120.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 3422965,
+        "duration_in_seconds": 420
+      }
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/181677408",
+      "title": "5 | CSS for Backend Devs (OOCSS)",
+      "url": "http://www.fiveminutegeekshow.com/5",
+      "content_text": "CSS for Backend Devs (OOCSS)\n",
+      "content_html": "<p>CSS for Backend Devs (OOCSS)</p>\n\n<ul>\n<li><a href=\"http://www.urbandictionary.com/define.php?term=synergy\">Synergy</a></li>\n<li><a href=\"http://www.urbandictionary.com/define.php?term=webinar\">Webinar</a></li>\n<li><a href=\"http://feeds.feedburner.com/FiveMinuteGeekShow\">The RSS feed</a></li>\n<li><a href=\"http://fiveminutegeekshow.com/\">The web site</a></li>\n<li><a href=\"http://twitter.com/5minutegeekshow\">The Twitter</a></li>\n<li><a href=\"https://github.com/FiveMinuteGeekShow/FiveMinuteGeekShow\">The Github repo</a></li>\n<li><a href=\"http://mattstauffer.co/blog/organizing-css-oocss-smacss-and-bem\">My blog post on CSS organization</a></li>\n<li><a href=\"http://oocss.org\">OOCSS</a></li>\n<li><a href=\"http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/\">BEM</a></li>\n<li><a href=\"http://smacss.com\">SMACSS</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Single_responsibility_principle\">The Single Responsibility Principle</a></li>\n<li><a href=\"http://fullstackradio.com/episodes/1/\">Full-Stack Radio Episode 1</a></li>\n<li><a href=\"https://coderwall.com/p/wixovg/bootstrap-without-all-the-debt\">Bootstrap Without All The Debt</a></li>\n</ul>\n\n\n<p><a href=\"https://www.youtube.com/watch?v=sbul6MdxZKo\">Youtube Link</a></p>\n",
+      "summary": "CSS for Backend Devs (OOCSS)\n",
+      "date_published": "2014-12-15 17:16:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/6111.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 3260588,
+        "duration_in_seconds": 400
+      }
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/181079590",
+      "title": "4 | To Docblock or Not to Docblock",
+      "url": "http://www.fiveminutegeekshow.com/4",
+      "content_text": "Episode 4 by Matt Stauffer\n",
+      "content_html": "<p>To Docblock or Not to Docblock</p>\n\n<ul>\n<li><a href=\"http://lmgtfy.com/?q=schmiffling\">Schmiffling</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/PHPDoc\">“PHPDoc”, docblocks in PHP</a></li>\n<li><a href=\"http://php.net/manual/en/language.oop5.typehinting.php\">TypeHinting in PHP</a></li>\n<li><a href=\"https://wiki.php.net/rfc/returntypehinting\">Return Type Hinting RFC</a></li>\n<li><a href=\"http://twitter.com/jesseobrien_\">Jesse O’Brien</a></li>\n<li><a href=\"https://github.com/mathiasverraes/php-value-objects\">Introduction to PHP Value Objects</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=0Lw6W3lvAiM&amp;google_comment_id=z13nsltgbxibuxop304cfnfrcuemyzmiohc\">YouTube Comment from Shawn McCool that describes exactly how I feel about DocBlocks</a></li>\n<li><a href=\"http://www.urbandictionary.com/define.php?term=y%27all&amp;defid=12634\">Y’all</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=94zVg7vMdmg\">Oh Davey Commercial</a></li>\n</ul>\n\n\n<p><a href=\"https://www.youtube.com/watch?v=0Lw6W3lvAiM\">Youtube Link</a></p>\n",
+      "summary": "Episode 4 by Matt Stauffer\n",
+      "date_published": "2014-12-11 16:06:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/6110.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 3208552,
+        "duration_in_seconds": 393
+      }
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/180726776",
+      "title": "3 | Making Your SDK Play Nice",
+      "url": "http://www.fiveminutegeekshow.com/3",
+      "content_text": "Making Your SDK Play Nice\n",
+      "content_html": "<p>Making Your SDK Play Nice</p>\n\n<ul>\n<li><a href=\"https://bluebottlecoffee.com\">Moar Cawfee please</a></li>\n<li><a href=\"http://simplecast.fm/\">Simplecast.fm</a></li>\n<li><a href=\"http://help.soundcloud.com/customer/portal/articles/1209292-can-i-podcast-with-soundcloud-\">Soundcloud for Podcasting</a></li>\n<li><a href=\"http://twitter.com/dhicking\">Dave Hicking, podcast producer extraordinaire</a></li>\n<li><a href=\"http://twitter.com/adamwathan\">Adam Wathan, podcast producer extraordinaire</a></li>\n<li><a href=\"https://packagist.org/packages/madcoda/php-youtube-api\">PHP YouTube SDK</a></li>\n<li><a href=\"https://packagist.org/packages/paxx/withings\">PHP Withings SDK</a></li>\n<li><a href=\"https://twitter.com/machuga/status/541402003809632258\">Machuga’s tweet</a></li>\n</ul>\n\n\n<p><a href=\"https://www.youtube.com/watch?v=P6EuggWFVi8\">Youtube Link</a></p>\n",
+      "summary": "Making Your SDK Play Nice\n",
+      "date_published": "2014-12-09 12:21:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/6109.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 4587858,
+        "duration_in_seconds": 566
+      }
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/180153219",
+      "title": "2 | Rapid Application Development",
+      "url": "http://www.fiveminutegeekshow.com/2",
+      "content_text": "Rapid Application Development\n",
+      "content_html": "<p>Rapid Application Development</p>\n\n<ul>\n<li><a href=\"http://dnsimple.com/\">DNSimple</a></li>\n<li><a href=\"http://forge.laravel.com/\">Forge</a></li>\n<li><a href=\"http://www.linode.com/\">Linode</a></li>\n<li><a href=\"http://github.com/FiveMinuteGeekShow/FiveMinuteGeekShow\">Github repo</a></li>\n<li><a href=\"http://laravel.com/docs/4.2/installation\">Laravel installer</a></li>\n<li>Gitflow - Link went dead</li>\n<li><a href=\"http://www.telestream.net/screenflow/overview.htm\">Screenflow</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Rapid_application_development\">Rapid application development</a></li>\n<li>The tweets timing RAD: <a href=\"https://twitter.com/stauffermatt/status/540590301682098176\">Start</a> - <a href=\"https://twitter.com/stauffermatt/status/540592839852580865\">Finish</a></li>\n</ul>\n\n\n<p><a href=\"https://www.youtube.com/watch?v=pAcX-oneFyI\">Youtube Link</a></p>\n",
+      "summary": "Rapid Application Development\n",
+      "date_published": "2014-12-05 16:09:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/6108.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 2465043,
+        "duration_in_seconds": 300
+      }
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/180153142",
+      "title": "1 | Tabs vs. Spaces",
+      "url": "http://www.fiveminutegeekshow.com/1",
+      "content_text": "Tabs vs. Spaces\n",
+      "content_html": "<p>Tabs vs. Spaces</p>\n\n<ul>\n<li><a href=\"http://steep.it/\">Steep.it</a></li>\n<li><a href=\"https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md\">PSR-2</a></li>\n</ul>\n\n\n<p><a href=\"https://www.youtube.com/watch?v=GQ2CqDo3Ug8\">Youtube Link</a></p>\n",
+      "summary": "Tabs vs. Spaces\n",
+      "date_published": "2014-12-04 16:08:00 -0500",
+      "author": {
+        "name": "Matt Stauffer"
+      },
+      "attachments": {
+        "url": "http://audio.simplecast.com/6107.mp3",
+        "mime_type": "audio/mpeg",
+        "size_in_bytes": 2488497,
+        "duration_in_seconds": 303
+      }
+    }
+  ]
+}
