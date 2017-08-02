@@ -89,21 +89,6 @@ class PodcastsController extends Controller
         return redirect("/podcasts");
     }
 
-    public function updateCoverImage($id)
-    {
-        $podcast = Auth::user()->podcasts()->findOrFail($id);
-
-        request()->validate([
-            'cover_image' => ['required', 'image', Rule::dimensions()->minHeight(500), Rule::dimensions()->minWidth(500)],
-        ]);
-
-        $podcast->update([
-            'cover_path' => request()->file('cover_image')->store('images', 'public'),
-        ]);
-
-        return redirect("/podcasts/{$podcast->id}");
-    }
-
     public function subscribe($id)
     {
         $podcast = Podcast::published()->findOrFail($id);
