@@ -22,8 +22,6 @@ Route::get('/podcasts/{id}',                        'PodcastsController@show');
 Route::get('/podcasts/{id}/edit',                   'PodcastsController@edit');
 Route::patch('/podcasts/{id}',                      'PodcastsController@update');
 Route::delete('/podcasts/{id}',                     'PodcastsController@destroy');
-Route::post('/podcasts/{id}/subscribe',             'PodcastsController@subscribe');
-Route::post('/podcasts/{id}/unsubscribe',           'PodcastsController@unsubscribe');
 Route::post('/podcasts/{id}/publish',               'PodcastsController@publish');
 Route::post('/podcasts/{id}/unpublish',             'PodcastsController@unpublish');
 
@@ -37,3 +35,6 @@ Route::post('/podcasts/{id}/episodes',              'PodcastEpisodesController@s
 Route::get('/podcasts/{id}/episodes/new',           'PodcastEpisodesController@create');
 
 Route::put('/podcasts/{id}/cover-image',            'PodcastCoverImageController@update');
+
+Route::post('/subscriptions',                       'SubscriptionsController@store');
+Route::delete('/subscriptions/{id}',                'SubscriptionsController@destroy');

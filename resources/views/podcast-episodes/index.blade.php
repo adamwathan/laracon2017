@@ -34,9 +34,8 @@
                     </div>
                     <div class="mb-4">
                         <subscribe-button
-                            subscribe-url="{{ action('PodcastsController@subscribe', $podcast) }}"
-                            unsubscribe-url="{{ action('PodcastsController@unsubscribe', $podcast) }}"
-                            :data-subscribed="{{ json_encode(Auth::user()->subscribesTo($podcast)) }}"
+                            :data-subscription="{{ json_encode(Auth::user()->subscriptionTo($podcast)) }}"
+                            :podcast="{{ $podcast }}"
                         ></subscribe-button>
                     </div>
                     <p class="text-dark-soft">{{ $podcast->description }}</p>

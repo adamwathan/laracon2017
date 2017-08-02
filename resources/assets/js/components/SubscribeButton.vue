@@ -11,15 +11,18 @@
 
 <script>
     export default {
-        props: ['subscribeUrl', 'unsubscribeUrl', 'dataSubscribed'],
+        props: ['dataSubscription', 'podcast'],
         data() {
             return {
                 hovering: false,
-                subscribed: this.dataSubscribed,
+                subscription: this.dataSubscription,
                 working: false,
             }
         },
         computed: {
+            subscribed() {
+                return this.subscription !== null
+            },
             subscribedText() {
                 return this.hovering ? 'Unsubscribe' : 'Subscribed'
             }
@@ -28,10 +31,12 @@
             subscribe() {
                 this.working = true
 
-                axios.post(this.subscribeUrl)
+                axios.post('/subscriptions', {
+                        podcast_id: this.podcast.id
+                    })
                     .takeAtLeast(300)
                     .then(response => {
-                        this.subscribed = true
+                        this.subscription = response.data
                         this.working = false
                         this.hovering = false
                     })
@@ -39,10 +44,10 @@
             unsubscribe() {
                 this.working = true
 
-                axios.post(this.unsubscribeUrl)
+                axios.delete(`/subscriptions/${this.subscription.id}`)
                     .takeAtLeast(300)
                     .then(response => {
-                        this.subscribed = false
+                        this.subscription = null
                         this.working = false
                         this.hovering = false
                     })
