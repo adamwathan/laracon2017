@@ -17,12 +17,5 @@
     "laravel-mix": "^1.0",
     "lodash": "^4.17.4",
     "vue": "^2.1.10"
-  },
-  "dependencies": {
-    "less": "^2.7.2",
-    "less-loader": "^4.0.5",
-    "normalize.css": "^7.0.0",
-    "suitcss-base": "^3.0.0",
-    "tailwindcss": "file:../tailwindcss"
   }
 }

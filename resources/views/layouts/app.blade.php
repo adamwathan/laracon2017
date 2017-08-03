@@ -8,7 +8,7 @@
 
         <title>&lt;casthacker/&gt;</title>
 
-        <link href="{{ mix('/css/app.css') }}" rel="stylesheet">
+        <link href="/css/app.css" rel="stylesheet">
     </head>
     <body>
         <div id="app" class="flex-col full-height">
