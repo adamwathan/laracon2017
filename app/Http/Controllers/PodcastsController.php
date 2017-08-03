@@ -88,4 +88,28 @@ class PodcastsController extends Controller
 
         return redirect("/podcasts");
     }
+
+    public function published($id)
+    {
+        $podcast = Auth::user()->podcasts()->findOrFail($id)->publish();
+    }
+
+    public function unpublished($id)
+    {
+        $podcast = Auth::user()->podcasts()->findOrFail($id)->unpublish();
+    }
+
+    public function subscribed($id)
+    {
+        $podcast = Podcast::findOrFail($id);
+        $podcast->users()->attach(Auth::user());
+    }
+
+    public function unsubscribed($id)
+    {
+        $podcast = Podcast::findOrFail($id);
+        // dd(Auth::user()->subscribesTo($podcast)); true
+
+        $podcast->users()->detach(Auth::user());
+    }
 }
