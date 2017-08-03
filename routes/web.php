@@ -23,6 +23,11 @@ Route::get('/podcasts/{id}/edit',                   'PodcastsController@edit');
 Route::patch('/podcasts/{id}',                      'PodcastsController@update');
 Route::delete('/podcasts/{id}',                     'PodcastsController@destroy');
 
+Route::post('/podcasts/{id}/publish',          'PodcastsController@published');
+Route::post('/podcasts/{id}/unpublish',          'PodcastsController@unpublished');
+Route::post('/podcasts/{id}/subscribe',          'PodcastsController@subscribed');
+Route::post('/podcasts/{id}/unsubscribe',          'PodcastsController@unsubscribed');
+
 Route::get('/episodes',                             'EpisodesController@index');
 Route::get('/episodes/{id}',                        'EpisodesController@show');
 Route::get('/episodes/{id}/edit',                   'EpisodesController@edit');
