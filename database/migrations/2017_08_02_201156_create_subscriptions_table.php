@@ -15,8 +15,8 @@ class CreateSubscriptionsTable extends Migration
     {
         Schema::create('subscriptions', function (Blueprint $table) {
             $table->increments('id');
-            $table->increments('user_id');
-            $table->increments('podcast_id');
+            $table->unsignedInteger('user_id');
+            $table->unsignedInteger('podcast_id');
             $table->timestamps();
         });
     }
