@@ -20,7 +20,9 @@ For the presentation, I put together a demo app called "CastHacker" that showcas
 
 I've written up each refactoring I shared in the presentation as a detailed pull request:
 
-[Tip 1: Give nested resources a dedicated controller](https://github.com/adamwathan/laracon2017/pull/1)
-[Tip 2: Treat properties edited independently as separate resources](https://github.com/adamwathan/laracon2017/pull/2)
-[Tip 3: Treat pivot models as their own resource](https://github.com/adamwathan/laracon2017/pull/3)
-[Tip 4: Think of different states as different resources](https://github.com/adamwathan/laracon2017/pull/4)
+1. [Give nested resources a dedicated controller](https://github.com/adamwathan/laracon2017/pull/1)
+
+2. [Treat properties edited independently as separate resources](https://github.com/adamwathan/laracon2017/pull/2)
+
+3. [Treat pivot models as their own resource](https://github.com/adamwathan/laracon2017/pull/3)
+4. [Think of different states as different resources](https://github.com/adamwathan/laracon2017/pull/4)
